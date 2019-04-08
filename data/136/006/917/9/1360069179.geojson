@@ -1,0 +1,67 @@
+{
+  "id": 1360069179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,14.7,-89.98333,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Llano de la Puerta",
+    "gn:country_code":"GT",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593366,
+    "gn:latitude":14.7,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Llano de la Puerta",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421183137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593366
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0b7684474979cf35c92689e9f8529ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421183137,
+            "locality_id":1360069179,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1360069179,
+    "wof:lastmodified":1536968374,
+    "wof:name":"Llano de la Puerta",
+    "wof:parent_id":421183137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    14.7,
+    -89.98333000000002,
+    14.7
+],
+  "geometry": {"coordinates":[-89.98333000000002,14.7],"type":"Point"}
+}

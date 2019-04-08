@@ -1,0 +1,70 @@
+{
+  "id": 1293023031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.93246,15.47869,-91.93246,15.47869",
+    "geom:latitude":15.47869,
+    "geom:longitude":-91.93246,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Retiro",
+    "gn:country_code":"GT",
+    "gn:dem":2915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512631,
+    "gn:latitude":15.47869,
+    "gn:longitude":-91.93246,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"El Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Retiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512631
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1d84b099af6a4480d7e215616945d13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1293023031,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293023031,
+    "wof:lastmodified":1537625388,
+    "wof:name":"El Retiro",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.93246,
+    15.47869,
+    -91.93246,
+    15.47869
+],
+  "geometry": {"coordinates":[-91.93246000000001,15.47869],"type":"Point"}
+}

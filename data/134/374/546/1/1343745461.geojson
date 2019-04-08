@@ -1,0 +1,73 @@
+{
+  "id": 1343745461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2299,15.03398,-91.2299,15.03398",
+    "geom:latitude":15.03398,
+    "geom:longitude":-91.2299,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tzancaguip",
+    "gn:country_code":"GT",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733911,
+    "gn:latitude":15.03398,
+    "gn:longitude":-91.2299,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tzancag\u00fcip",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tzancag\u00fcip"
+    ],
+    "name:und_x_variant":[
+        "Tzancquib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733911
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6c86e7891909c4f36f44ca9ea2f79cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1343745461,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343745461,
+    "wof:lastmodified":1537625236,
+    "wof:name":"Tzancaguip",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2299,
+    15.03398,
+    -91.2299,
+    15.03398
+],
+  "geometry": {"coordinates":[-91.2299,15.03398],"type":"Point"}
+}

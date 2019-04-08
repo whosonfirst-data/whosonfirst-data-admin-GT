@@ -1,0 +1,98 @@
+{
+  "id": 421188825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73333,15.51667,-91.73333,15.51667",
+    "geom:latitude":15.51667,
+    "geom:longitude":-91.73333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Gloria"
+    ],
+    "name:deu_x_preferred":[
+        "La Gloria"
+    ],
+    "name:ita_x_preferred":[
+        "La Gloria"
+    ],
+    "name:nld_x_preferred":[
+        "La Gloria"
+    ],
+    "name:spa_x_preferred":[
+        "La Gloria"
+    ],
+    "name:spa_x_variant":[
+        "La Florida"
+    ],
+    "name:vie_x_preferred":[
+        "La Gloria"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3594619,
+    "qs:gn_pop":0,
+    "qs:name":"La Gloria",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Chiapas",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":18,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104291,
+    "qs:woe_adm0":23424900,
+    "qs:woe_id":55889718,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        1108695581,
+        85671641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594619,
+        "gp:id":55889718,
+        "qs:id":1104291
+    },
+    "wof:country":"GT",
+    "wof:created":1459009581,
+    "wof:geomhash":"89c5f566505242b2f24b6a62c84673fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695581,
+            "locality_id":-1,
+            "neighbourhood_id":421188825,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421188825,
+    "wof:lastmodified":1531858635,
+    "wof:name":"La Gloria",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73333,
+    15.51667,
+    -91.73333,
+    15.51667
+],
+  "geometry": {"coordinates":[-91.73333,15.51667],"type":"Point"}
+}

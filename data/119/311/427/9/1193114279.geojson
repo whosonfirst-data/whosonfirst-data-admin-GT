@@ -1,0 +1,70 @@
+{
+  "id": 1193114279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.54541,16.93069,-90.54541,16.93069",
+    "geom:latitude":16.93069,
+    "geom:longitude":-90.54541,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Ruinas",
+    "gn:country_code":"GT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534034,
+    "gn:latitude":16.93069,
+    "gn:longitude":-90.54541,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Las Ruinas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Ruinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534034
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"69905958aa2fd6b7d97d370b9e3ca497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695377,
+            "locality_id":1193114279,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1193114279,
+    "wof:lastmodified":1537625251,
+    "wof:name":"Las Ruinas",
+    "wof:parent_id":1108695377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.54541,
+    16.93069,
+    -90.54541,
+    16.93069
+],
+  "geometry": {"coordinates":[-90.54541,16.93069],"type":"Point"}
+}

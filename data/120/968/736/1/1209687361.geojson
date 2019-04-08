@@ -1,0 +1,64 @@
+{
+  "id": 1209687361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.77839,15.29704,-91.77839,15.29704",
+    "geom:latitude":15.29704,
+    "geom:longitude":-91.77839,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sacmuj",
+    "gn:country_code":"GT",
+    "gn:dem":2575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510951,
+    "gn:latitude":15.29704,
+    "gn:longitude":-91.77839,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sacmuj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sacmuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510951
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"64989a4d8a94c3c5d747d4f28b485ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209687361
+        }
+    ],
+    "wof:id":1209687361,
+    "wof:lastmodified":1537625383,
+    "wof:name":"Sacmuj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.77839,
+    15.29704,
+    -91.77839,
+    15.29704
+],
+  "geometry": {"coordinates":[-91.77839,15.29704],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242949425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03656,14.99726,-92.03656,14.99726",
+    "geom:latitude":14.99726,
+    "geom:longitude":-92.03656,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tajumulquito",
+    "gn:country_code":"GT",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638875,
+    "gn:latitude":14.99726,
+    "gn:longitude":-92.03656,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Tajumulquito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tajumulquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638875
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7b1c6b8415b50c71a0788a29c6dccce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1242949425,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1242949425,
+    "wof:lastmodified":1537625272,
+    "wof:name":"Tajumulquito",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03656,
+    14.99726,
+    -92.03656,
+    14.99726
+],
+  "geometry": {"coordinates":[-92.03655999999999,14.99726],"type":"Point"}
+}

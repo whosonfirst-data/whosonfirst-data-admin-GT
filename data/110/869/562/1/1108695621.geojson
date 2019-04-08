@@ -1,0 +1,117 @@
+{
+  "id": 1108695621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005758,
+    "geom:area_square_m":68912803.562318,
+    "geom:bbox":"-90.5295040455,14.5193367535,-90.4098445837,14.6180878992",
+    "geom:latitude":14.565438,
+    "geom:longitude":-90.464468,
+    "iso:country":"GT",
+    "lbl:latitude":14.559179,
+    "lbl:longitude":-90.463584,
+    "meso:admin_1":"Guatemala",
+    "meso:diss_me":"SANTA CATARINA PINULAGUATEMALA",
+    "meso:gadm_admin":"Santa Catarina Pinula",
+    "meso:gaul_admin":"Santa Catarina Pinula",
+    "meso:mps_x":-90.463584,
+    "meso:mps_y":14.559179,
+    "meso:name_en":"Santa Catarina Pinula",
+    "meso:source":"AOTM",
+    "mps:latitude":14.559179,
+    "mps:longitude":-90.463584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u041f\u0438\u043d\u0443\u043b\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u76ae\u52aa\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.GU",
+    "statoids:name":"Santa Catarina Pinula",
+    "statoids:population":"63767",
+    "statoids:statoid":"GT.GU.CP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1671882"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493943,
+    "wof:geomhash":"079d3e565a7acc9ad898df6f79919905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695621,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1108695621,
+    "wof:lastmodified":1514444564,
+    "wof:name":"Santa Catarina Pinula",
+    "wof:parent_id":85671681,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":63767,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.52950404553549,
+    14.51933675346357,
+    -90.40984458374221,
+    14.61808789919405
+],
+  "geometry": {"coordinates":[[[-90.40984458374221,14.61251645751095],[-90.41147272776601,14.60481634354398],[-90.42216097308889,14.5951287850376],[-90.43035822242369,14.59659184200143],[-90.43236738110743,14.5958259284279],[-90.43440868434524,14.58477845467439],[-90.42982193823934,14.5756621493192],[-90.42510906675389,14.57571696514236],[-90.42465141792624,14.57543690664149],[-90.42432838304674,14.57528122632509],[-90.41614147860065,14.56606599977843],[-90.41732466503474,14.55837017784255],[-90.42690262291683,14.55671292339121],[-90.42917734023136,14.55600542358652],[-90.42877316959881,14.54636497157975],[-90.43633065787286,14.54180605049566],[-90.44249144769992,14.54400945961165],[-90.44850344046647,14.53527668291432],[-90.44444515839375,14.52761907463462],[-90.44613055963175,14.52507670115731],[-90.45611508455431,14.52061828206005],[-90.4574447399429,14.52036354777287],[-90.45837377708548,14.52061013564489],[-90.46462866610763,14.52951557416013],[-90.46542840308794,14.52980512863201],[-90.47533742167744,14.51933675346357],[-90.48270109102513,14.52232302613943],[-90.48310670236181,14.52959286657812],[-90.49808408677252,14.5385469877907],[-90.50000700960742,14.54072575006999],[-90.50605812990666,14.53729836289941],[-90.51380768465727,14.54217423699818],[-90.52017446712374,14.5463771468422],[-90.51969512913301,14.5575372080892],[-90.52949346462839,14.56562535811295],[-90.52950404553549,14.5682617985892],[-90.50332281570056,14.57622836901179],[-90.50122041342232,14.57839016710974],[-90.49415217699237,14.57402814316979],[-90.47475462254572,14.58263007094009],[-90.47612861570171,14.58907155774923],[-90.46053242518707,14.60396517418452],[-90.45881217538385,14.60272885976649],[-90.44280986896898,14.61125309360076],[-90.44033264609013,14.61129160452568],[-90.43801845881454,14.61289555258019],[-90.43775528751273,14.61299510668825],[-90.4286666117184,14.61191477023447],[-90.41959888713383,14.61808789919405],[-90.40984458374221,14.61251645751095]]],"type":"Polygon"}
+}

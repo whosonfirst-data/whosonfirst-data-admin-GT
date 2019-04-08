@@ -1,0 +1,120 @@
+{
+  "id": 421202721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73333,14.6,-91.73333,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-91.73333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u963f\u8f9b\u5854\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "El Asintal"
+    ],
+    "name:eng_x_preferred":[
+        "El Asintal"
+    ],
+    "name:fra_x_preferred":[
+        "El Asintal"
+    ],
+    "name:fre_x_preferred":[
+        "El Asintal"
+    ],
+    "name:ita_x_preferred":[
+        "El Asintal"
+    ],
+    "name:nah_x_preferred":[
+        "El Asintal"
+    ],
+    "name:pol_x_preferred":[
+        "El Asintal"
+    ],
+    "name:por_x_preferred":[
+        "El Asintal"
+    ],
+    "name:spa_x_preferred":[
+        "El Asintal"
+    ],
+    "name:swe_x_preferred":[
+        "El Asintal"
+    ],
+    "name:unk_x_variant":[
+        "Acintal"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u8f9b\u5854\u723e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597587,
+    "qs:gn_pop":6156,
+    "qs:name":"El Asintal",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Retalhuleu",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":34789,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":82154,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421171689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597587,
+        "gp:id":82154,
+        "qs:id":34789,
+        "wd:id":"Q2402509",
+        "wk:page":"El Asintal"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010127,
+    "wof:geomhash":"5e84abb59002e420a39cb64992e7adf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171689,
+            "locality_id":421202721,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":421202721,
+    "wof:lastmodified":1514444437,
+    "wof:name":"El Asintal",
+    "wof:parent_id":421171689,
+    "wof:placetype":"locality",
+    "wof:population":6156,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73333,
+    14.6,
+    -91.73333,
+    14.6
+],
+  "geometry": {"coordinates":[-91.73333,14.6],"type":"Point"}
+}

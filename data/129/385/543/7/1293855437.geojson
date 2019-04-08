@@ -1,0 +1,70 @@
+{
+  "id": 1293855437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.92426,15.12918,-91.92426,15.12918",
+    "geom:latitude":15.12918,
+    "geom:longitude":-91.92426,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuiquinamble",
+    "gn:country_code":"GT",
+    "gn:dem":2936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475698,
+    "gn:latitude":15.12918,
+    "gn:longitude":-91.92426,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuiquinamble",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuiquinamble"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475698
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"df6064a5c6d7fabe1bdd655ec6f36573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695365,
+            "locality_id":1293855437,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293855437,
+    "wof:lastmodified":1537625315,
+    "wof:name":"Tuiquinamble",
+    "wof:parent_id":1108695365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.92426,
+    15.12918,
+    -91.92426,
+    15.12918
+],
+  "geometry": {"coordinates":[-91.92426,15.12918],"type":"Point"}
+}

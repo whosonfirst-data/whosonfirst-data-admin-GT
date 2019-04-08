@@ -1,0 +1,70 @@
+{
+  "id": 1343532785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.10168,14.79823,-92.10168,14.79823",
+    "geom:latitude":14.79823,
+    "geom:longitude":-92.10168,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Trinitaria",
+    "gn:country_code":"GT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10016184,
+    "gn:latitude":14.79823,
+    "gn:longitude":-92.10168,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"La Trinitaria",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Trinitaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10016184
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f3a12f84fa9831344a60b799e2bd6ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695269,
+            "locality_id":1343532785,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343532785,
+    "wof:lastmodified":1537625276,
+    "wof:name":"La Trinitaria",
+    "wof:parent_id":1108695269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.10168,
+    14.79823,
+    -92.10168,
+    14.79823
+],
+  "geometry": {"coordinates":[-92.10168,14.79823],"type":"Point"}
+}

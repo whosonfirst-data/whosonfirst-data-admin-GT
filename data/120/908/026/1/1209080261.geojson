@@ -1,0 +1,64 @@
+{
+  "id": 1209080261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2801,15.04421,-91.2801,15.04421",
+    "geom:latitude":15.04421,
+    "geom:longitude":-91.2801,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pansac",
+    "gn:country_code":"GT",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478150,
+    "gn:latitude":15.04421,
+    "gn:longitude":-91.2801,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pansac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pansac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478150
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d84ee87c8cbc32026f556cdb2698590f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209080261
+        }
+    ],
+    "wof:id":1209080261,
+    "wof:lastmodified":1537625335,
+    "wof:name":"Pansac",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2801,
+    15.04421,
+    -91.2801,
+    15.04421
+],
+  "geometry": {"coordinates":[-91.2801,15.04421],"type":"Point"}
+}

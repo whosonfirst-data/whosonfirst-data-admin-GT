@@ -1,0 +1,70 @@
+{
+  "id": 1259547877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.34152,15.00704,-91.34152,15.00704",
+    "geom:latitude":15.00704,
+    "geom:longitude":-91.34152,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pugertinamit",
+    "gn:country_code":"GT",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478229,
+    "gn:latitude":15.00704,
+    "gn:longitude":-91.34152,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pugertinamit",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pugertinamit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478229
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"95e622627ae23a2fe562821b69bb6f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1259547877,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1259547877,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Pugertinamit",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.34152,
+    15.00704,
+    -91.34152,
+    15.00704
+],
+  "geometry": {"coordinates":[-91.34152,15.00704],"type":"Point"}
+}

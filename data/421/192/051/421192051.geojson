@@ -1,0 +1,79 @@
+{
+  "id": 421192051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.23333,14.85,-89.23333,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-89.23333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Florido"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597059,
+    "qs:gn_pop":0,
+    "qs:name":"El Florido",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chiquimula",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165082,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":82409,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        1108695279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597059,
+        "gp:id":82409,
+        "qs:id":1165082
+    },
+    "wof:country":"GT",
+    "wof:created":1459009724,
+    "wof:geomhash":"29c5f1fc0ef9d229ff08fd5b1adf9fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695279,
+            "locality_id":421192051,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":421192051,
+    "wof:lastmodified":1501267983,
+    "wof:name":"El Florido",
+    "wof:parent_id":1108695279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.23333,
+    14.85,
+    -89.23333,
+    14.85
+],
+  "geometry": {"coordinates":[-89.23333,14.85],"type":"Point"}
+}

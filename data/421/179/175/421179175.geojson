@@ -1,0 +1,123 @@
+{
+  "id": 421179175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43333,14.91667,-91.43333,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":-91.43333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u6258\u6258\u5c3c\u5361\u6f58"
+    ],
+    "name:deu_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal Totonicap\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "San Crist\u00f3bal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u6258\u6258\u5c3c\u5361\u6f58"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590318,
+    "qs:gn_pop":4191,
+    "qs:name":"San Crist\u00f3bal Totonicap\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149152,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85575,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421184975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590318,
+        "gp:id":85575,
+        "qs:id":149152,
+        "wd:id":"Q2402432",
+        "wk:page":"San Crist\u00f3bal Totonicap\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"8fd4437b5548a5cc269904d34b0cf7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184975,
+            "locality_id":421179175,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421179175,
+    "wof:lastmodified":1514444535,
+    "wof:name":"San Crist\u00f3bal Totonicap\u00e1n",
+    "wof:parent_id":421184975,
+    "wof:placetype":"locality",
+    "wof:population":4191,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43333,
+    14.91667,
+    -91.43333,
+    14.91667
+],
+  "geometry": {"coordinates":[-91.43333,14.91667],"type":"Point"}
+}

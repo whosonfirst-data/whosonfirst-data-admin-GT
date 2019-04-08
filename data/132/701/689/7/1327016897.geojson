@@ -1,0 +1,67 @@
+{
+  "id": 1327016897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.38222,16.12528,-89.38222,16.12528",
+    "geom:latitude":16.12528,
+    "geom:longitude":-89.38222,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cansis",
+    "gn:country_code":"GT",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599076,
+    "gn:latitude":16.12528,
+    "gn:longitude":-89.38222,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Cans\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599076
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"db87e998e9887b53cd337c0b33add116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1327016897,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1327016897,
+    "wof:lastmodified":1536783358,
+    "wof:name":"Cansis",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.38221999999998,
+    16.12528,
+    -89.38221999999998,
+    16.12528
+],
+  "geometry": {"coordinates":[-89.38221999999998,16.12528],"type":"Point"}
+}

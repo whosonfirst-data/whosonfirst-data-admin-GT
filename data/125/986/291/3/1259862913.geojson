@@ -1,0 +1,70 @@
+{
+  "id": 1259862913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12478,15.55631,-91.12478,15.55631",
+    "geom:latitude":15.55631,
+    "geom:longitude":-91.12478,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Trapiche",
+    "gn:country_code":"GT",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491518,
+    "gn:latitude":15.55631,
+    "gn:longitude":-91.12478,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Trapiche",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Trapiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491518
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e7265b1580e03a6f40fd74c090228b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1259862913,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259862913,
+    "wof:lastmodified":1537625366,
+    "wof:name":"El Trapiche",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12478,
+    15.55631,
+    -91.12478,
+    15.55631
+],
+  "geometry": {"coordinates":[-91.12478,15.55631],"type":"Point"}
+}

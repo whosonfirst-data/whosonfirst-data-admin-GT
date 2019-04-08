@@ -1,0 +1,70 @@
+{
+  "id": 1242656803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63764,15.12308,-91.63764,15.12308",
+    "geom:latitude":15.12308,
+    "geom:longitude":-91.63764,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Rincon",
+    "gn:country_code":"GT",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458466,
+    "gn:latitude":15.12308,
+    "gn:longitude":-91.63764,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"El Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Rinc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458466
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3eb07d08feeb06b2fc31afeb7b0d6c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695275,
+            "locality_id":1242656803,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1242656803,
+    "wof:lastmodified":1537625301,
+    "wof:name":"El Rincon",
+    "wof:parent_id":1108695275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63764,
+    15.12308,
+    -91.63764,
+    15.12308
+],
+  "geometry": {"coordinates":[-91.63764,15.12308],"type":"Point"}
+}

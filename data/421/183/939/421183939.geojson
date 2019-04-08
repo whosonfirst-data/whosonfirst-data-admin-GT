@@ -1,0 +1,138 @@
+{
+  "id": 421183939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001483,
+    "geom:area_square_m":17732120.186888,
+    "geom:bbox":"-91.247736012,14.7484163252,-91.2003411863,14.8043473948",
+    "geom:latitude":14.77242,
+    "geom:longitude":-91.226107,
+    "iso:country":"GT",
+    "lbl:latitude":14.770868,
+    "lbl:longitude":-91.226466,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SAN JOSE CHACAYASOLOLA",
+    "meso:gadm_admin":"San Jos\u00e9 Chacay\u00e1",
+    "meso:gaul_admin":"San Jos\u00e9 Chacay\u00e1",
+    "meso:mps_x":-91.226466,
+    "meso:mps_y":14.770868,
+    "meso:name_en":"San Jose Chacaya",
+    "meso:source":"AOTM",
+    "mps:latitude":14.770868,
+    "mps:longitude":-91.226466,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u67e5\u5361\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:nah_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 Chacaya",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":986271,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807192,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"San Jos\u00e9 Chacay\u00e1",
+    "statoids:population":"2445",
+    "statoids:statoid":"GT.SO.JC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807192,
+        "hasc:id":"GT.SO.JC",
+        "qs:id":986271,
+        "wd:id":"Q2401917"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009395,
+    "wof:geomhash":"5a0135b7c758a2a21f1309cbc626c185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421183939,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421183939,
+    "wof:lastmodified":1536616015,
+    "wof:name":"San Jose Chacaya",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":2445,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"JC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.24773601204873,
+    14.74841632523019,
+    -91.20034118631186,
+    14.80434739482775
+],
+  "geometry": {"coordinates":[[[-91.22991533134579,14.80434739482775],[-91.21381647900128,14.79757388768749],[-91.213653051747,14.79693373511715],[-91.21435812515173,14.78746490837047],[-91.21566764692214,14.78451452257964],[-91.21445519258019,14.78000574284097],[-91.21288772987891,14.77636206890958],[-91.20891048868971,14.77341933291461],[-91.20034118631186,14.76549193572],[-91.20987692741532,14.75783165908637],[-91.21353196997084,14.75700771257551],[-91.21953090976908,14.75192884862126],[-91.21959768868156,14.75180025077228],[-91.22172038341999,14.75000968566343],[-91.2320030243807,14.74914752574249],[-91.23259880433199,14.74841632523019],[-91.24608136622152,14.7496732692437],[-91.24773601204873,14.75210452080534],[-91.24505449755632,14.76145060815839],[-91.24055871751305,14.76631442120672],[-91.24153436365896,14.7711372958598],[-91.24323093762429,14.77449603436178],[-91.24274907204492,14.77732388262286],[-91.23396088206022,14.78561698101332],[-91.23618015136347,14.79455768722329],[-91.22991533134579,14.80434739482775]]],"type":"Polygon"}
+}

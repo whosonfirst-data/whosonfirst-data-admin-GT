@@ -1,0 +1,70 @@
+{
+  "id": 1226769931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.38804,15.44184,-91.38804,15.44184",
+    "geom:latitude":15.44184,
+    "geom:longitude":-91.38804,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arendes",
+    "gn:country_code":"GT",
+    "gn:dem":3142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11490012,
+    "gn:latitude":15.44184,
+    "gn:longitude":-91.38804,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Arendes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Arendes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11490012
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ddb4519e8c4e208cd9c0eecc93c0d90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1226769931,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226769931,
+    "wof:lastmodified":1537625364,
+    "wof:name":"Arendes",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.38804,
+    15.44184,
+    -91.38804,
+    15.44184
+],
+  "geometry": {"coordinates":[-91.38804,15.44184],"type":"Point"}
+}

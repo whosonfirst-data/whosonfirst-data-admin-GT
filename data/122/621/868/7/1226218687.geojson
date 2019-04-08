@@ -1,0 +1,70 @@
+{
+  "id": 1226218687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.87489,15.27197,-91.87489,15.27197",
+    "geom:latitude":15.27197,
+    "geom:longitude":-91.87489,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuijoj",
+    "gn:country_code":"GT",
+    "gn:dem":3039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508265,
+    "gn:latitude":15.27197,
+    "gn:longitude":-91.87489,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tuijoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuijoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508265
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"03d7f88e386438f4e75f7578a98a84ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695309,
+            "locality_id":1226218687,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226218687,
+    "wof:lastmodified":1537625379,
+    "wof:name":"Tuijoj",
+    "wof:parent_id":1108695309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.87489,
+    15.27197,
+    -91.87489,
+    15.27197
+],
+  "geometry": {"coordinates":[-91.87488999999999,15.27197],"type":"Point"}
+}

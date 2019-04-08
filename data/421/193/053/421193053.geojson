@@ -1,0 +1,129 @@
+{
+  "id": 421193053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.55,14.98333,-91.55,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-91.55,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af\u932b\u54c8"
+    ],
+    "name:dut_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:fra_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:fre_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:ita_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:lit_x_preferred":[
+        "San Karlos Sicha"
+    ],
+    "name:pol_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:por_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:swe_x_preferred":[
+        "San Carlos Sija"
+    ],
+    "name:unk_x_variant":[
+        "San Carlos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af\u932b\u54c8"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3590347,
+    "qs:gn_pop":6831,
+    "qs:name":"San Carlos Sija",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1116100,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85565,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695493,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590347,
+        "gp:id":85565,
+        "qs:id":1116100,
+        "wd:id":"Q2609256",
+        "wk:page":"San Carlos Sija"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009758,
+    "wof:geomhash":"cd9ad58624ace5742876e45b8fbfb263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":421193053,
+            "region_id":85671697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":421193053,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421193053,
+    "wof:lastmodified":1527716143,
+    "wof:name":"San Carlos Sija",
+    "wof:parent_id":1108695493,
+    "wof:placetype":"locality",
+    "wof:population":6831,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.55,
+    14.98333,
+    -91.55,
+    14.98333
+],
+  "geometry": {"coordinates":[-91.55,14.98333],"type":"Point"}
+}

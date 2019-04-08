@@ -1,0 +1,70 @@
+{
+  "id": 1260051501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00314,15.15733,-92.00314,15.15733",
+    "geom:latitude":15.15733,
+    "geom:longitude":-92.00314,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nueva Maravilla",
+    "gn:country_code":"GT",
+    "gn:dem":2564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634684,
+    "gn:latitude":15.15733,
+    "gn:longitude":-92.00314,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Nueva Maravilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Maravilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634684
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fd27568369977c0fdfa1131a9d63999b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1260051501,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260051501,
+    "wof:lastmodified":1537625252,
+    "wof:name":"Nueva Maravilla",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00314,
+    15.15733,
+    -92.00314,
+    15.15733
+],
+  "geometry": {"coordinates":[-92.00314,15.15733],"type":"Point"}
+}

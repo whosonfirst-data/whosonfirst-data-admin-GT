@@ -1,0 +1,115 @@
+{
+  "id": 421167759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46135,14.58084,-91.46135,14.58084",
+    "geom:latitude":14.58084,
+    "geom:longitude":-91.46135,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u85a9\u99ac\u4e9e\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Samayac"
+    ],
+    "name:eng_x_preferred":[
+        "Samayac"
+    ],
+    "name:fra_x_preferred":[
+        "Samayac"
+    ],
+    "name:fre_x_preferred":[
+        "Samayac"
+    ],
+    "name:ita_x_preferred":[
+        "Samayac"
+    ],
+    "name:pol_x_preferred":[
+        "Samayac"
+    ],
+    "name:por_x_preferred":[
+        "Samayac"
+    ],
+    "name:spa_x_preferred":[
+        "Samayac"
+    ],
+    "name:swe_x_preferred":[
+        "Samayac"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u99ac\u4e9e\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590567,
+    "qs:gn_pop":8994,
+    "qs:name":"Samayac",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Suchitepequez",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149167,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85480,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590567,
+        "gp:id":85480,
+        "qs:id":149167,
+        "wd:id":"Q371216",
+        "wk:page":"Samayac"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008742,
+    "wof:geomhash":"7e782648cd168e11d809cdaaba2c38d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695461,
+            "locality_id":421167759,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":421167759,
+    "wof:lastmodified":1527716159,
+    "wof:name":"Samayac",
+    "wof:parent_id":1108695461,
+    "wof:placetype":"locality",
+    "wof:population":8994,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46135,
+    14.58084,
+    -91.46135,
+    14.58084
+],
+  "geometry": {"coordinates":[-91.46135,14.58084],"type":"Point"}
+}

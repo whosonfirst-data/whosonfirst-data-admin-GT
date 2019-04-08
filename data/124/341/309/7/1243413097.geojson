@@ -1,0 +1,70 @@
+{
+  "id": 1243413097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.42736,15.02134,-91.42736,15.02134",
+    "geom:latitude":15.02134,
+    "geom:longitude":-91.42736,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xebucup",
+    "gn:country_code":"GT",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478290,
+    "gn:latitude":15.02134,
+    "gn:longitude":-91.42736,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xebucup",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xebucup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478290
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"10a1f1ecbea79445a00ee94a58d7743f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1243413097,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1243413097,
+    "wof:lastmodified":1537625337,
+    "wof:name":"Xebucup",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.42736,
+    15.02134,
+    -91.42736,
+    15.02134
+],
+  "geometry": {"coordinates":[-91.42735999999999,15.02134],"type":"Point"}
+}

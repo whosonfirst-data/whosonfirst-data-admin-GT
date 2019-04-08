@@ -1,0 +1,70 @@
+{
+  "id": 1310269229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.35218,15.09818,-91.35218,15.09818",
+    "geom:latitude":15.09818,
+    "geom:longitude":-91.35218,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Choguacaxabaj",
+    "gn:country_code":"GT",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11478453,
+    "gn:latitude":15.09818,
+    "gn:longitude":-91.35218,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Choguacaxabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Choguacaxabaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478453
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ad0c0d316407a0bdffa5d2394395b3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1310269229,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1310269229,
+    "wof:lastmodified":1537625340,
+    "wof:name":"Choguacaxabaj",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.35218,
+    15.09818,
+    -91.35218,
+    15.09818
+],
+  "geometry": {"coordinates":[-91.35218,15.09818],"type":"Point"}
+}

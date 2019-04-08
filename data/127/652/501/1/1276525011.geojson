@@ -1,0 +1,67 @@
+{
+  "id": 1276525011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.47222,16.23028,-89.47222,16.23028",
+    "geom:latitude":16.23028,
+    "geom:longitude":-89.47222,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cangrejal",
+    "gn:country_code":"GT",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759534,
+    "gn:latitude":16.23028,
+    "gn:longitude":-89.47222,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Cangrejal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759534
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"384d3a7df6a96c1c13daf5cfca338eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1276525011,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1276525011,
+    "wof:lastmodified":1537018432,
+    "wof:name":"Cangrejal",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.47222,
+    16.23028,
+    -89.47222,
+    16.23028
+],
+  "geometry": {"coordinates":[-89.47221999999999,16.23028],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326707573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.85023,16.9727,-89.85023,16.9727",
+    "geom:latitude":16.9727,
+    "geom:longitude":-89.85023,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nima",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592204,
+    "gn:latitude":16.9727,
+    "gn:longitude":-89.85023,
+    "gn:modification_date":"2015-03-27",
+    "gn:name":"Nim\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca Nim\u00e1",
+        "Nim\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592204
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"88d281a69e6f8c5b1a9e24165b860172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695347,
+            "locality_id":1326707573,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1326707573,
+    "wof:lastmodified":1537625164,
+    "wof:name":"Nima",
+    "wof:parent_id":1108695347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.85023000000002,
+    16.9727,
+    -89.85023000000002,
+    16.9727
+],
+  "geometry": {"coordinates":[-89.85023000000002,16.9727],"type":"Point"}
+}

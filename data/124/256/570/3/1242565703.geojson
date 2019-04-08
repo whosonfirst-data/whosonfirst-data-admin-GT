@@ -1,0 +1,73 @@
+{
+  "id": 1242565703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.8,14.23333,-89.8,14.23333",
+    "geom:latitude":14.23333,
+    "geom:longitude":-89.8,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Cohetero",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597233,
+    "gn:latitude":14.23333,
+    "gn:longitude":-89.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Cohetero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuetero",
+        "Cohetero",
+        "El Cohetero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597233
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7d979e408dbe8b694d3666ffcdb666d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695685,
+            "locality_id":1242565703,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1242565703,
+    "wof:lastmodified":1537625210,
+    "wof:name":"El Cohetero",
+    "wof:parent_id":1108695685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.8,
+    14.23333,
+    -89.8,
+    14.23333
+],
+  "geometry": {"coordinates":[-89.8,14.23333],"type":"Point"}
+}

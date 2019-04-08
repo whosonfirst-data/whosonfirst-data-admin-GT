@@ -1,0 +1,64 @@
+{
+  "id": 1209579965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.3939,15.06608,-91.3939,15.06608",
+    "geom:latitude":15.06608,
+    "geom:longitude":-91.3939,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pachaguacan",
+    "gn:country_code":"GT",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11478365,
+    "gn:latitude":15.06608,
+    "gn:longitude":-91.3939,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pachaguac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pachaguac\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478365
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d90b493666e533166da3e05da4ef9e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209579965
+        }
+    ],
+    "wof:id":1209579965,
+    "wof:lastmodified":1537625339,
+    "wof:name":"Pachaguacan",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.3939,
+    15.06608,
+    -91.3939,
+    15.06608
+],
+  "geometry": {"coordinates":[-91.3939,15.06608],"type":"Point"}
+}

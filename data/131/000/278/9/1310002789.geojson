@@ -1,0 +1,70 @@
+{
+  "id": 1310002789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46909,15.28316,-91.46909,15.28316",
+    "geom:latitude":15.28316,
+    "geom:longitude":-91.46909,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ojechejel",
+    "gn:country_code":"GT",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592075,
+    "gn:latitude":15.28316,
+    "gn:longitude":-91.46909,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ojechejel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojechel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421191463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592075
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c17ba04169a5b526f3e60d6504e4a72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191463,
+            "locality_id":1310002789,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310002789,
+    "wof:lastmodified":1537625163,
+    "wof:name":"Ojechejel",
+    "wof:parent_id":421191463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46909,
+    15.28316,
+    -91.46909,
+    15.28316
+],
+  "geometry": {"coordinates":[-91.46908999999999,15.28316],"type":"Point"}
+}

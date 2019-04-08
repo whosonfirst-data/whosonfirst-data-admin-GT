@@ -1,0 +1,70 @@
+{
+  "id": 1309697783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30501,15.71156,-91.30501,15.71156",
+    "geom:latitude":15.71156,
+    "geom:longitude":-91.30501,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alta Miranda",
+    "gn:country_code":"GT",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492468,
+    "gn:latitude":15.71156,
+    "gn:longitude":-91.30501,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Alta Miranda",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Alta Miranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492468
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"636e9157338c0dc7497584925f9074a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1309697783,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309697783,
+    "wof:lastmodified":1537625372,
+    "wof:name":"Alta Miranda",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30501,
+    15.71156,
+    -91.30501,
+    15.71156
+],
+  "geometry": {"coordinates":[-91.30501,15.71156],"type":"Point"}
+}

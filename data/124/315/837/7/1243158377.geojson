@@ -1,0 +1,70 @@
+{
+  "id": 1243158377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63354,15.05233,-91.63354,15.05233",
+    "geom:latitude":15.05233,
+    "geom:longitude":-91.63354,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Paxoj Chiquito",
+    "gn:country_code":"GT",
+    "gn:dem":2569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456915,
+    "gn:latitude":15.05233,
+    "gn:longitude":-91.63354,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Paxoj Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paxoj Chiquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456915
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ac9a29f593c480462f1702f7d6f116fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695361,
+            "locality_id":1243158377,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1243158377,
+    "wof:lastmodified":1537625297,
+    "wof:name":"Paxoj Chiquito",
+    "wof:parent_id":1108695361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63354,
+    15.05233,
+    -91.63354,
+    15.05233
+],
+  "geometry": {"coordinates":[-91.63354,15.05233],"type":"Point"}
+}

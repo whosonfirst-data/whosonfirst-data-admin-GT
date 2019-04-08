@@ -1,0 +1,61 @@
+{
+  "id": 1209192433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.09833,13.9825,-90.09833,13.9825",
+    "geom:latitude":13.9825,
+    "geom:longitude":-90.09833,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Conacaste",
+    "gn:country_code":"GT",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765098,
+    "gn:latitude":13.9825,
+    "gn:longitude":-90.09833,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"El Conacaste",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765098
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a3dc8c110c5c473814b7fd8d031a79bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209192433
+        }
+    ],
+    "wof:id":1209192433,
+    "wof:lastmodified":1536294887,
+    "wof:name":"El Conacaste",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.09833,
+    13.9825,
+    -90.09833,
+    13.9825
+],
+  "geometry": {"coordinates":[-90.09833,13.9825],"type":"Point"}
+}

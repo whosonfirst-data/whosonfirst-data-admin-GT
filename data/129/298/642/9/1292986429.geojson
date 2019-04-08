@@ -1,0 +1,70 @@
+{
+  "id": 1292986429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.50411,15.40993,-91.50411,15.40993",
+    "geom:latitude":15.40993,
+    "geom:longitude":-91.50411,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Quebradilla",
+    "gn:country_code":"GT",
+    "gn:dem":2773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454452,
+    "gn:latitude":15.40993,
+    "gn:longitude":-91.50411,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"La Quebradilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Quebradilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454452
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f48e0852c1f9d6cc6e0836015e1d65f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1292986429,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1292986429,
+    "wof:lastmodified":1537625293,
+    "wof:name":"La Quebradilla",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.50411,
+    15.40993,
+    -91.50411,
+    15.40993
+],
+  "geometry": {"coordinates":[-91.50411,15.40993],"type":"Point"}
+}

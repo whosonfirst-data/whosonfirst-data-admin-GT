@@ -1,0 +1,67 @@
+{
+  "id": 1309886891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76667,14.03333,-89.76667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-89.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"San Jose Hueviapa",
+    "gn:country_code":"GT",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590019,
+    "gn:latitude":14.03333,
+    "gn:longitude":-89.76667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Jos\u00e9 Hueviapa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677139,
+        1108694975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590019
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bfc6abb75b22cd2674b5e4f730a2fc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694975,
+            "locality_id":1309886891,
+            "region_id":85677139
+        }
+    ],
+    "wof:id":1309886891,
+    "wof:lastmodified":1536813612,
+    "wof:name":"San Jose Hueviapa",
+    "wof:parent_id":1108694975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76666999999998,
+    14.03333,
+    -89.76666999999998,
+    14.03333
+],
+  "geometry": {"coordinates":[-89.76666999999998,14.03333],"type":"Point"}
+}

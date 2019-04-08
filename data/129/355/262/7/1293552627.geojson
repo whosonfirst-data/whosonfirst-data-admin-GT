@@ -1,0 +1,67 @@
+{
+  "id": 1293552627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28861,13.94556,-90.28861,13.94556",
+    "geom:latitude":13.94556,
+    "geom:longitude":-90.28861,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Paradero",
+    "gn:country_code":"GT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764785,
+    "gn:latitude":13.94556,
+    "gn:longitude":-90.28861,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"El Paradero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421203587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764785
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3e1ff71375230d628b5e5dc701d1c8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203587,
+            "locality_id":1293552627,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1293552627,
+    "wof:lastmodified":1536693576,
+    "wof:name":"El Paradero",
+    "wof:parent_id":421203587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28861,
+    13.94556,
+    -90.28861,
+    13.94556
+],
+  "geometry": {"coordinates":[-90.28861000000001,13.94556],"type":"Point"}
+}

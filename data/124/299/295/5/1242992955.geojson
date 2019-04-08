@@ -1,0 +1,70 @@
+{
+  "id": 1242992955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39497,16.0632,-91.39497,16.0632",
+    "geom:latitude":16.0632,
+    "geom:longitude":-91.39497,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Finca El Platanar",
+    "gn:country_code":"GT",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596480,
+    "gn:latitude":16.0632,
+    "gn:longitude":-91.39497,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Finca El Platanar",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca El Platanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596480
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5a26c50cd49d8c6785e7322594e3eb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695557,
+            "locality_id":1242992955,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1242992955,
+    "wof:lastmodified":1537625202,
+    "wof:name":"Finca El Platanar",
+    "wof:parent_id":1108695557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39497,
+    16.0632,
+    -91.39497,
+    16.0632
+],
+  "geometry": {"coordinates":[-91.39497,16.0632],"type":"Point"}
+}

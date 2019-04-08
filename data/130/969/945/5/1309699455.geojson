@@ -1,0 +1,67 @@
+{
+  "id": 1309699455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36306,16.21111,-89.36306,16.21111",
+    "geom:latitude":16.21111,
+    "geom:longitude":-89.36306,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nacimiento Cansis",
+    "gn:country_code":"GT",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759543,
+    "gn:latitude":16.21111,
+    "gn:longitude":-89.36306,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Nacimiento Cans\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759543
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb83a4141c618ce58f2bc67af41f10f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1309699455,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1309699455,
+    "wof:lastmodified":1537081330,
+    "wof:name":"Nacimiento Cansis",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36306,
+    16.21111,
+    -89.36306,
+    16.21111
+],
+  "geometry": {"coordinates":[-89.36306,16.21111],"type":"Point"}
+}

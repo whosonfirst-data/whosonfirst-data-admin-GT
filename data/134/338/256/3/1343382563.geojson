@@ -1,0 +1,67 @@
+{
+  "id": 1343382563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.63333,14.83333,-90.63333,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":-90.63333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Quelex",
+    "gn:country_code":"GT",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592908,
+    "gn:latitude":14.83333,
+    "gn:longitude":-90.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Quelex",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        421169433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592908
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"81b98b0343f69b418deef594722af826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169433,
+            "locality_id":1343382563,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1343382563,
+    "wof:lastmodified":1536857394,
+    "wof:name":"Los Quelex",
+    "wof:parent_id":421169433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.63333,
+    14.83333,
+    -90.63333,
+    14.83333
+],
+  "geometry": {"coordinates":[-90.63333,14.83333],"type":"Point"}
+}

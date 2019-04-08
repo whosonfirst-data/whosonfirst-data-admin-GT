@@ -1,0 +1,73 @@
+{
+  "id": 1243237433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.10132,15.07765,-91.10132,15.07765",
+    "geom:latitude":15.07765,
+    "geom:longitude":-91.10132,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tabil",
+    "gn:country_code":"GT",
+    "gn:dem":2291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733923,
+    "gn:latitude":15.07765,
+    "gn:longitude":-91.10132,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tabil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tabil"
+    ],
+    "name:und_x_variant":[
+        "Xabil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733923
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ef64cfd8a99c21a211e416219b25f15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1243237433,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243237433,
+    "wof:lastmodified":1537625236,
+    "wof:name":"Tabil",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.10132,
+    15.07765,
+    -91.10132,
+    15.07765
+],
+  "geometry": {"coordinates":[-91.10132,15.07765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225929515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.72819,15.48853,-91.72819,15.48853",
+    "geom:latitude":15.48853,
+    "geom:longitude":-91.72819,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Niya",
+    "gn:country_code":"GT",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454450,
+    "gn:latitude":15.48853,
+    "gn:longitude":-91.72819,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Niy\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Niy\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421197631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454450
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6d2a12a620cc4ba0275ca67a99b7cb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421197631,
+            "locality_id":1225929515,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1225929515,
+    "wof:lastmodified":1537625293,
+    "wof:name":"Niya",
+    "wof:parent_id":421197631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.72819,
+    15.48853,
+    -91.72819,
+    15.48853
+],
+  "geometry": {"coordinates":[-91.72819,15.48853],"type":"Point"}
+}

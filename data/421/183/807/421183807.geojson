@@ -1,0 +1,121 @@
+{
+  "id": 421183807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.22972,15.05472,-91.22972,15.05472",
+    "geom:latitude":15.05472,
+    "geom:longitude":-91.22972,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u4f0a\u6d1b\u7279\u5357\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:fra_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30cb\u30aa\u30fb\u30a4\u30ed\u30c6\u30ca\u30f3\u30b4"
+    ],
+    "name:pol_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u4f0a\u6d1b\u7279\u5357\u6208"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590456,
+    "qs:gn_pop":2021,
+    "qs:name":"San Antonio Ilotenango",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045559,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85526,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590456,
+        "gp:id":85526,
+        "qs:id":1045559,
+        "wd:id":"Q2401893",
+        "wk:page":"San Antonio Ilotenango"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009383,
+    "wof:geomhash":"e03cadac675f3cd1d4b4dce79fddf9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":421183807,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":421183807,
+    "wof:lastmodified":1527717697,
+    "wof:name":"San Antonio Ilotenango",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:population":2021,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.22972,
+    15.05472,
+    -91.22972,
+    15.05472
+],
+  "geometry": {"coordinates":[-91.22972,15.05472],"type":"Point"}
+}

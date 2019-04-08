@@ -1,0 +1,153 @@
+{
+  "id": 421171693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002968,
+    "geom:area_square_m":35528375.390781,
+    "geom:bbox":"-90.8189894916,14.4641788595,-90.7434786332,14.5474176411",
+    "geom:latitude":14.507917,
+    "geom:longitude":-90.771626,
+    "iso:country":"GT",
+    "lbl:latitude":14.507123,
+    "lbl:longitude":-90.76848,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"CIUDAD VIEJASACATEPEQUEZ",
+    "meso:gadm_admin":"Ciudad Vieja",
+    "meso:gaul_admin":"Ciudad Vieja",
+    "meso:mps_x":-90.76848,
+    "meso:mps_y":14.507123,
+    "meso:name_en":"Ciudad Vieja",
+    "meso:source":"AOTM",
+    "mps:latitude":14.507123,
+    "mps:longitude":-90.76848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5225\u54c8\u57ce"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:ger_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30c0\u30fc\u30fb\u30d3\u30a8\u30cf"
+    ],
+    "name:lit_x_preferred":[
+        "Siudad Vjecha"
+    ],
+    "name:pol_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:por_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:sco_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Vieja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0412'\u0454\u0445\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u0648\u06cc\u0626\u062e\u0627"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ciudad Vieja",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":59,
+    "qs:photos_1k":12,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":717,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264014,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807139,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"Ciudad Vieja",
+    "statoids:population":"25696",
+    "statoids:statoid":"GT.SA.CV",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":1174,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807139,
+        "hasc:id":"GT.SA.CV",
+        "qs:id":1264014,
+        "wd:id":"Q2445843"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008903,
+    "wof:geomhash":"ac20826ce565e9ab8ef41e843e16629a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171693,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421171693,
+    "wof:lastmodified":1553816362,
+    "wof:name":"Ciudad Vieja",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":25696,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"CV",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.81898949163075,
+    14.46417885945036,
+    -90.74347863317008,
+    14.54741764106662
+],
+  "geometry": {"coordinates":[[[-90.78417150504953,14.53965367246557],[-90.77878996232073,14.54195615017478],[-90.77571930414236,14.54741764106662],[-90.76061311399499,14.54622419574954],[-90.75910765560003,14.5467224299122],[-90.75688342173119,14.54530284071912],[-90.75069963055945,14.53484713458488],[-90.75234773024172,14.52774470254229],[-90.75000000000065,14.52447260145362],[-90.75000000000065,14.51833020363481],[-90.74541111270445,14.51003194216985],[-90.74743390341133,14.50491464551151],[-90.74625159711745,14.49699902661375],[-90.75096501295683,14.491855000043],[-90.75377316379281,14.48446695778718],[-90.74347863317008,14.47582388990379],[-90.74806457821883,14.46461889769951],[-90.74949434679185,14.46417885945036],[-90.76710416634759,14.47298178312005],[-90.76542134429957,14.47966044310866],[-90.78182217837347,14.48753410762288],[-90.7834863123105,14.49073550783378],[-90.79511611348251,14.49654031771598],[-90.79654913051444,14.49490058964875],[-90.80310786849783,14.49253026910995],[-90.81898949163075,14.49448619649679],[-90.81540048432288,14.50657943241315],[-90.8043602100223,14.51012050464688],[-90.7967925106266,14.50615853318583],[-90.79427377109157,14.51147115075393],[-90.78359086818492,14.52136349015141],[-90.78587450628558,14.52535053045869],[-90.78417150504953,14.53965367246557]]],"type":"Polygon"}
+}

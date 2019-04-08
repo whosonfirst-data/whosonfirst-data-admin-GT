@@ -1,0 +1,111 @@
+{
+  "id": 1108695535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002763,
+    "geom:area_square_m":33087495.845787,
+    "geom:bbox":"-91.2440996813,14.3888448242,-91.1638782269,14.4664305639",
+    "geom:latitude":14.424232,
+    "geom:longitude":-91.201686,
+    "iso:country":"GT",
+    "lbl:latitude":14.420143,
+    "lbl:longitude":-91.202294,
+    "meso:admin_1":"Suchitepequez",
+    "meso:diss_me":"SAN JUAN BAUTISTASUCHITEPEQUEZ",
+    "meso:gadm_admin":"San Juan Bautista",
+    "meso:gaul_admin":"San Juan Bautista",
+    "meso:mps_x":-91.202294,
+    "meso:mps_y":14.420143,
+    "meso:name_en":"San Juan Bautista",
+    "meso:source":"AOTM",
+    "mps:latitude":14.420143,
+    "mps:longitude":-91.202294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5305\u8482\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:por_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:sco_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan Bautista"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SU",
+    "statoids:name":"San Juan Bautista",
+    "statoids:population":"6124",
+    "statoids:statoid":"GT.SU.JB",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1748787"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493859,
+    "wof:geomhash":"1bb156e8dbba05959b26d2111e771b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695535,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1108695535,
+    "wof:lastmodified":1553816465,
+    "wof:name":"San Juan Bautista",
+    "wof:parent_id":85671683,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6124,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.24409968132048,
+    14.38884482418458,
+    -91.163878226854,
+    14.46643056386963
+],
+  "geometry": {"coordinates":[[[-91.20916726813222,14.46452841081433],[-91.19246514216037,14.46643056386963],[-91.18993620290526,14.45877205781161],[-91.17672025966471,14.45699987480697],[-91.17945352376907,14.44760042309063],[-91.176565211095,14.43939148575741],[-91.16920740271671,14.43961712289632],[-91.16393330795293,14.43251074012722],[-91.163878226854,14.42797211479438],[-91.16726221027734,14.42417720271154],[-91.17795242155786,14.42239030648393],[-91.17875380120729,14.4215950331477],[-91.18203510374261,14.4197477210084],[-91.18658709024514,14.41869490551898],[-91.18853287776156,14.40637994188553],[-91.19486903566261,14.40245297458969],[-91.19618327272299,14.39566566852158],[-91.213013725352,14.38884482418458],[-91.21644759071742,14.39266234952896],[-91.22059175894027,14.39295996467582],[-91.22849070737588,14.3932284264343],[-91.2317450989889,14.39942800877372],[-91.24409968132048,14.40421986183492],[-91.24141796301377,14.41285573279713],[-91.23091682102253,14.41603485003083],[-91.22821219354525,14.41551266455788],[-91.22652943535093,14.41621244092629],[-91.22576165505657,14.41656986489742],[-91.22519097348842,14.41731010693731],[-91.22049097710692,14.42758098950762],[-91.21781833713098,14.42830135430624],[-91.21303015240318,14.43152385956424],[-91.21302857927331,14.4315242901587],[-91.21084890322913,14.43338953683671],[-91.20725597019504,14.43836296637367],[-91.20621895325236,14.44396267298819],[-91.19934061878715,14.44945428573781],[-91.19920045093465,14.44958483070057],[-91.20927537631586,14.46175744399896],[-91.20916726813222,14.46452841081433]]],"type":"Polygon"}
+}

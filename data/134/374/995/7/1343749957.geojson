@@ -1,0 +1,73 @@
+{
+  "id": 1343749957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.12167,13.75111,-90.12167,13.75111",
+    "geom:latitude":13.75111,
+    "geom:longitude":-90.12167,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Garita Chapina",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595677,
+    "gn:latitude":13.75111,
+    "gn:longitude":-90.12167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Garita Chapina",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Garita",
+        "La Garita Chapina",
+        "Garita Chapina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595677
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b859e23abc7b8ae282db4a871344f646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695405,
+            "locality_id":1343749957,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1343749957,
+    "wof:lastmodified":1537625193,
+    "wof:name":"Garita Chapina",
+    "wof:parent_id":1108695405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.12167,
+    13.75111,
+    -90.12167,
+    13.75111
+],
+  "geometry": {"coordinates":[-90.12166999999999,13.75111],"type":"Point"}
+}

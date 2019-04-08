@@ -1,0 +1,70 @@
+{
+  "id": 1293191431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.27216,15.7263,-91.27216,15.7263",
+    "geom:latitude":15.7263,
+    "geom:longitude":-91.27216,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pena Flor",
+    "gn:country_code":"GT",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492477,
+    "gn:latitude":15.7263,
+    "gn:longitude":-91.27216,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pe\u00f1a Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pe\u00f1a Flor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492477
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b21e080f5f183217b2325da3449dda25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1293191431,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293191431,
+    "wof:lastmodified":1537625372,
+    "wof:name":"Pena Flor",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.27216,
+    15.7263,
+    -91.27216,
+    15.7263
+],
+  "geometry": {"coordinates":[-91.27216,15.7263],"type":"Point"}
+}

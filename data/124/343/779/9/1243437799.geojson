@@ -1,0 +1,70 @@
+{
+  "id": 1243437799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09443,15.41591,-91.09443,15.41591",
+    "geom:latitude":15.41591,
+    "geom:longitude":-91.09443,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xetalpexla",
+    "gn:country_code":"GT",
+    "gn:dem":2390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483170,
+    "gn:latitude":15.41591,
+    "gn:longitude":-91.09443,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xetalpexl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xetalpexl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483170
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9f30ea00dfee7aec07337a990db404cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1243437799,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243437799,
+    "wof:lastmodified":1537625350,
+    "wof:name":"Xetalpexla",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09443,
+    15.41591,
+    -91.09443,
+    15.41591
+],
+  "geometry": {"coordinates":[-91.09443,15.41591],"type":"Point"}
+}

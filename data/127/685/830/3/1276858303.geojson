@@ -1,0 +1,70 @@
+{
+  "id": 1276858303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.80213,17.01374,-89.80213,17.01374",
+    "geom:latitude":17.01374,
+    "geom:longitude":-89.80213,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Uspeten",
+    "gn:country_code":"GT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588041,
+    "gn:latitude":17.01374,
+    "gn:longitude":-89.80213,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Uspet\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Uspet\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588041
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d513acce1980a456e283c10276d8b7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695533,
+            "locality_id":1276858303,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1276858303,
+    "wof:lastmodified":1537625128,
+    "wof:name":"Uspeten",
+    "wof:parent_id":1108695533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.80213,
+    17.01374,
+    -89.80213,
+    17.01374
+],
+  "geometry": {"coordinates":[-89.80213000000001,17.01374],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260256619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.48333,14.96667,-91.48333,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-91.48333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tacajalbe",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588613,
+    "gn:latitude":14.96667,
+    "gn:longitude":-91.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tacajalb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tacajalv\u00e9",
+        "Tacajalb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421172645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588613
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8792222b3cbc28c03488818c841871ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421172645,
+            "locality_id":1260256619,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1260256619,
+    "wof:lastmodified":1537625134,
+    "wof:name":"Tacajalbe",
+    "wof:parent_id":421172645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.48333,
+    14.96667,
+    -91.48333,
+    14.96667
+],
+  "geometry": {"coordinates":[-91.48333,14.96667],"type":"Point"}
+}

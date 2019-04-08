@@ -1,0 +1,130 @@
+{
+  "id": 1108695383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00088,
+    "geom:area_square_m":10531664.823833,
+    "geom:bbox":"-90.5839171531,14.4205896815,-90.5306682957,14.474802556",
+    "geom:latitude":14.445329,
+    "geom:longitude":-90.554042,
+    "iso:country":"GT",
+    "lbl:latitude":14.435503,
+    "lbl:longitude":-90.542394,
+    "meso:admin_1":"Guatemala",
+    "meso:diss_me":"LAKE AMATITLANGUATEMALA",
+    "meso:gadm_admin":"Amatitl\u00e1n",
+    "meso:gaul_admin":"Lago de Amatitl\u00e1n",
+    "meso:mps_x":-90.542394,
+    "meso:mps_y":14.435503,
+    "meso:name_en":"Lake Amatitlan",
+    "meso:source":"AOTM",
+    "mps:latitude":14.435503,
+    "mps:longitude":-90.542394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0430\u0442\u0438\u0442\u043b\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u99ac\u8482\u7279\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:eng_x_variant":[
+        "Lago de Amatitl\u00e1n",
+        "Amatitl\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:ger_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05b8\u05de\u05d0\u05d8\u05d9\u05d8\u05dc\u05d0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub9c8\ud2f0\ud2c0\ub780"
+    ],
+    "name:lit_x_preferred":[
+        "Amatitlanas"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0627\u062a\u06cc\u062a\u0644\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u0442\u0438\u0442\u043b\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q455760"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493699,
+    "wof:geomhash":"552fa618fa15fb58ef6906eb43ced9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695383,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1108695383,
+    "wof:lastmodified":1553816464,
+    "wof:name":"Lake Amatitlan",
+    "wof:parent_id":85671681,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.58391715314681,
+    14.42058968150058,
+    -90.53066829566974,
+    14.47480255600334
+],
+  "geometry": {"coordinates":[[[[-90.58142445696886,14.47324723322793],[-90.57882272919625,14.47480255600334],[-90.56476078027069,14.46803088872745],[-90.5662795997855,14.45225765577],[-90.58301555631814,14.45794578620314],[-90.58391715314681,14.45857342899922],[-90.58142445696886,14.47324723322793]]],[[[-90.54525045395953,14.42120991841855],[-90.55089819104143,14.42927594350965],[-90.55517824113529,14.42953012485298],[-90.55534277991728,14.4296003435544],[-90.56026932440547,14.44948462194817],[-90.56013991378283,14.44953641557084],[-90.54703223213517,14.44508043488702],[-90.53813213183224,14.44938575395824],[-90.5358815985832,14.44968638737813],[-90.53494894623651,14.44931823126721],[-90.53079986095013,14.44083515727707],[-90.53091235179026,14.43477773301772],[-90.53066829566974,14.43436976593066],[-90.5363241618772,14.42105626856835],[-90.53713215595326,14.42058968150058],[-90.54525045395953,14.42120991841855]]]],"type":"MultiPolygon"}
+}

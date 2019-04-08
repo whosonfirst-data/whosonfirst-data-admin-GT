@@ -1,0 +1,72 @@
+{
+  "id": 1310705219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.41667,15.08333,-90.41667,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":-90.41667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chiticoy",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598391,
+    "gn:latitude":15.08333,
+    "gn:longitude":-90.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiticoy",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chotocoy",
+        "Chiticoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        1108695563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598391
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a5bb9e714cb12f52e80b8f555a2fadc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695563,
+            "locality_id":1310705219,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1310705219,
+    "wof:lastmodified":1537625221,
+    "wof:name":"Chiticoy",
+    "wof:parent_id":1108695563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.41667,
+    15.08333,
+    -90.41667,
+    15.08333
+],
+  "geometry": {"coordinates":[-90.41667,15.08333],"type":"Point"}
+}

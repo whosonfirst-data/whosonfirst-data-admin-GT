@@ -1,0 +1,73 @@
+{
+  "id": 1327347881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01667,15.61667,-90.01667,15.61667",
+    "geom:latitude":15.61667,
+    "geom:longitude":-90.01667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tusam",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588148,
+    "gn:latitude":15.61667,
+    "gn:longitude":-90.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tusam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuz\u00e1n",
+        "Tuzam",
+        "Tusam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421182335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588148
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5b220b1e2f38a0f8a94986de33cd379a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182335,
+            "locality_id":1327347881,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1327347881,
+    "wof:lastmodified":1537625129,
+    "wof:name":"Tusam",
+    "wof:parent_id":421182335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01666999999998,
+    15.61667,
+    -90.01666999999998,
+    15.61667
+],
+  "geometry": {"coordinates":[-90.01666999999998,15.61667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310369763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.31508,15.03782,-91.31508,15.03782",
+    "geom:latitude":15.03782,
+    "geom:longitude":-91.31508,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xesiquel",
+    "gn:country_code":"GT",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478163,
+    "gn:latitude":15.03782,
+    "gn:longitude":-91.31508,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xesiquel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xesiquel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478163
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f81c824a78ba1e9225ebdb767caa287d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1310369763,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1310369763,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Xesiquel",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.31508,
+    15.03782,
+    -91.31508,
+    15.03782
+],
+  "geometry": {"coordinates":[-91.31507999999999,15.03782],"type":"Point"}
+}

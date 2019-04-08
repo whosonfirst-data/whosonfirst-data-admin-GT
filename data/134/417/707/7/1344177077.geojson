@@ -1,0 +1,70 @@
+{
+  "id": 1344177077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88523,15.61954,-91.88523,15.61954",
+    "geom:latitude":15.61954,
+    "geom:longitude":-91.88523,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lotes",
+    "gn:country_code":"GT",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10146574,
+    "gn:latitude":15.61954,
+    "gn:longitude":-91.88523,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Lotes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10146574
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f7e9770d4ccfe14d22ed9ce39999e2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1344177077,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1344177077,
+    "wof:lastmodified":1537625278,
+    "wof:name":"Lotes",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88523,
+    15.61954,
+    -91.88523,
+    15.61954
+],
+  "geometry": {"coordinates":[-91.88523000000001,15.61954],"type":"Point"}
+}

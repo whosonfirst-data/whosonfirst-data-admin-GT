@@ -1,0 +1,61 @@
+{
+  "id": 1209419827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.16667,14.75,-90.16667,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":-90.16667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"GT",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589956,
+    "gn:latitude":14.75,
+    "gn:longitude":-90.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589956
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"18ec425813f465ee6c60020e963cf1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209419827
+        }
+    ],
+    "wof:id":1209419827,
+    "wof:lastmodified":1536287568,
+    "wof:name":"San Juan",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.16667,
+    14.75,
+    -90.16667,
+    14.75
+],
+  "geometry": {"coordinates":[-90.16667,14.75],"type":"Point"}
+}

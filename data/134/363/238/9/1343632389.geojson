@@ -1,0 +1,70 @@
+{
+  "id": 1343632389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.00224,15.51886,-91.00224,15.51886",
+    "geom:latitude":15.51886,
+    "geom:longitude":-91.00224,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xolchichen",
+    "gn:country_code":"GT",
+    "gn:dem":2327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491535,
+    "gn:latitude":15.51886,
+    "gn:longitude":-91.00224,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xolchich\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xolchich\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491535
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c3948eb1eb38a43dced786dace171193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695287,
+            "locality_id":1343632389,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343632389,
+    "wof:lastmodified":1537625366,
+    "wof:name":"Xolchichen",
+    "wof:parent_id":1108695287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.00224,
+    15.51886,
+    -91.00224,
+    15.51886
+],
+  "geometry": {"coordinates":[-91.00224,15.51886],"type":"Point"}
+}

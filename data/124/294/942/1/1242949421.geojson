@@ -1,0 +1,70 @@
+{
+  "id": 1242949421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09649,15.2287,-92.09649,15.2287",
+    "geom:latitude":15.2287,
+    "geom:longitude":-92.09649,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Progreso",
+    "gn:country_code":"GT",
+    "gn:dem":2383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635098,
+    "gn:latitude":15.2287,
+    "gn:longitude":-92.09649,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"El Progreso",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Progreso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635098
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"20e0d7e44e37fd8eee9d4e25635da11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1242949421,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1242949421,
+    "wof:lastmodified":1537625257,
+    "wof:name":"El Progreso",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09649,
+    15.2287,
+    -92.09649,
+    15.2287
+],
+  "geometry": {"coordinates":[-92.09649,15.2287],"type":"Point"}
+}

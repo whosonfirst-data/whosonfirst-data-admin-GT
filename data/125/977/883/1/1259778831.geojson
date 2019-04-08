@@ -1,0 +1,70 @@
+{
+  "id": 1259778831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.743,15.48769,-91.743,15.48769",
+    "geom:latitude":15.48769,
+    "geom:longitude":-91.743,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tzalay",
+    "gn:country_code":"GT",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454448,
+    "gn:latitude":15.48769,
+    "gn:longitude":-91.743,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tzalay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tzalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454448
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9e30eb4c7650b83b0ae86e4705658147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695581,
+            "locality_id":1259778831,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259778831,
+    "wof:lastmodified":1537625293,
+    "wof:name":"Tzalay",
+    "wof:parent_id":1108695581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.743,
+    15.48769,
+    -91.743,
+    15.48769
+],
+  "geometry": {"coordinates":[-91.74299999999999,15.48769],"type":"Point"}
+}

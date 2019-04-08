@@ -1,0 +1,72 @@
+{
+  "id": 1259962013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.65,14.56667,-90.65,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-90.65,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"La Embaulada",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594744,
+    "gn:latitude":14.56667,
+    "gn:longitude":-90.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Embaulada",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Embaulada",
+        "La Embaulada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        421182337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594744
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b8dec262d407307f7a68826a7ae850f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182337,
+            "locality_id":1259962013,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1259962013,
+    "wof:lastmodified":1537625185,
+    "wof:name":"La Embaulada",
+    "wof:parent_id":421182337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.65,
+    14.56667,
+    -90.65,
+    14.56667
+],
+  "geometry": {"coordinates":[-90.65000000000001,14.56667],"type":"Point"}
+}

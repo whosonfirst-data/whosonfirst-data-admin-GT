@@ -1,0 +1,115 @@
+{
+  "id": 421173687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45694,15.73306,-91.45694,15.73306",
+    "geom:latitude":15.73306,
+    "geom:longitude":-91.45694,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u6b50\u62c9\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:por_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6b50\u62c9\u5229\u4e9e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589355,
+    "qs:gn_pop":4921,
+    "qs:name":"Santa Eulalia",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":296479,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85991,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589355,
+        "gp:id":85991,
+        "qs:id":296479,
+        "wd:id":"Q1748868",
+        "wk:page":"Santa Eulalia, Huehuetenango"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008999,
+    "wof:geomhash":"f195542abc99401c4cffb24cd20be926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":421173687,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421173687,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Santa Eulalia",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:population":4921,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45694,
+    15.73306,
+    -91.45694,
+    15.73306
+],
+  "geometry": {"coordinates":[-91.45694,15.73306],"type":"Point"}
+}

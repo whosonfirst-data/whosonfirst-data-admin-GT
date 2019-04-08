@@ -1,0 +1,67 @@
+{
+  "id": 1242800453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,14.85,-89.98333,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Injerto",
+    "gn:country_code":"GT",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595371,
+    "gn:latitude":14.85,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Injerto",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        1108695325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595371
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3cdc05b3e4236a2319dfb74ded453b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695325,
+            "locality_id":1242800453,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1242800453,
+    "wof:lastmodified":1536742445,
+    "wof:name":"Injerto",
+    "wof:parent_id":1108695325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    14.85,
+    -89.98333000000002,
+    14.85
+],
+  "geometry": {"coordinates":[-89.98333000000002,14.85],"type":"Point"}
+}

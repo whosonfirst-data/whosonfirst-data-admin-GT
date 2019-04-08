@@ -1,0 +1,64 @@
+{
+  "id": 1209488597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.10918,14.452,-92.10918,14.452",
+    "geom:latitude":14.452,
+    "geom:longitude":-92.10918,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tres Cruces",
+    "gn:country_code":"GT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764504,
+    "gn:latitude":14.452,
+    "gn:longitude":-92.10918,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tres Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Cruces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764504
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8ec89c49b1948cb6d6feada69545662a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209488597
+        }
+    ],
+    "wof:id":1209488597,
+    "wof:lastmodified":1537625242,
+    "wof:name":"Tres Cruces",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.10918,
+    14.452,
+    -92.10918,
+    14.452
+],
+  "geometry": {"coordinates":[-92.10917999999999,14.452],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327453891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.27573,15.74429,-91.27573,15.74429",
+    "geom:latitude":15.74429,
+    "geom:longitude":-91.27573,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Comunidad Las Victorias",
+    "gn:country_code":"GT",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11492453,
+    "gn:latitude":15.74429,
+    "gn:longitude":-91.27573,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Comunidad Las Victorias",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Las Victorias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492453
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"23006b603f03abe826edc2a91fd6de4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1327453891,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327453891,
+    "wof:lastmodified":1537625372,
+    "wof:name":"Comunidad Las Victorias",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.27573,
+    15.74429,
+    -91.27573,
+    15.74429
+],
+  "geometry": {"coordinates":[-91.27573,15.74429],"type":"Point"}
+}

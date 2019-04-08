@@ -1,0 +1,67 @@
+{
+  "id": 1226112549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7,14.56667,-91.7,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-91.7,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cabanas",
+    "gn:country_code":"GT",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599299,
+    "gn:latitude":14.56667,
+    "gn:longitude":-91.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Caba\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        1108695413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599299
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ec94879c8f01a7c85d0fab4b204f91d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695413,
+            "locality_id":1226112549,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1226112549,
+    "wof:lastmodified":1536626994,
+    "wof:name":"Cabanas",
+    "wof:parent_id":1108695413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7,
+    14.56667,
+    -91.7,
+    14.56667
+],
+  "geometry": {"coordinates":[-91.7,14.56667],"type":"Point"}
+}

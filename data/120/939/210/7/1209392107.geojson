@@ -1,0 +1,61 @@
+{
+  "id": 1209392107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.30917,16.29778,-89.30917,16.29778",
+    "geom:latitude":16.29778,
+    "geom:longitude":-89.30917,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tanjoc",
+    "gn:country_code":"GT",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588528,
+    "gn:latitude":16.29778,
+    "gn:longitude":-89.30917,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Tanjoc",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588528
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb44c51d7139d5422671bd2a36b07e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209392107
+        }
+    ],
+    "wof:id":1209392107,
+    "wof:lastmodified":1536288425,
+    "wof:name":"Tanjoc",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.30917,
+    16.29778,
+    -89.30917,
+    16.29778
+],
+  "geometry": {"coordinates":[-89.30916999999999,16.29778],"type":"Point"}
+}

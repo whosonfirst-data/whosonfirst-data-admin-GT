@@ -1,0 +1,73 @@
+{
+  "id": 1277097955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.51667,14.46667,-90.51667,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-90.51667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Jose El Tablon",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590023,
+    "gn:latitude":14.46667,
+    "gn:longitude":-90.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 El Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapl\u00f3n",
+        "Tabl\u00f3n",
+        "San Jos\u00e9 El Tabl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590023
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e4b95b1e03719044230ecbe2d2a809bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695679,
+            "locality_id":1277097955,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1277097955,
+    "wof:lastmodified":1537625146,
+    "wof:name":"San Jose El Tablon",
+    "wof:parent_id":1108695679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.51667,
+    14.46667,
+    -90.51667,
+    14.46667
+],
+  "geometry": {"coordinates":[-90.51667,14.46667],"type":"Point"}
+}

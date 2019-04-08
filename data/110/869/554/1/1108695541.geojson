@@ -1,0 +1,85 @@
+{
+  "id": 1108695541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002911,
+    "geom:area_square_m":34909142.834762,
+    "geom:bbox":"-90.3030644074,14.0389893641,-90.2312519685,14.1105386204",
+    "geom:latitude":14.071461,
+    "geom:longitude":-90.269206,
+    "iso:country":"GT",
+    "lbl:latitude":14.071408,
+    "lbl:longitude":-90.268666,
+    "meso:admin_1":"Santa Rosa",
+    "meso:diss_me":"SAN JUAN TECUACOSANTA ROSA",
+    "meso:gadm_admin":"San Juan Tecuaco",
+    "meso:gaul_admin":"San Juan Tecuaco",
+    "meso:mps_x":-90.268666,
+    "meso:mps_y":14.071408,
+    "meso:name_en":"San Juan Tecuaco",
+    "meso:source":"AOTM",
+    "mps:latitude":14.071408,
+    "mps:longitude":-90.268666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:eng_x_variant":[
+        "San Juan Tecuaco"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SR",
+    "statoids:name":"San Juan Tecuaco",
+    "statoids:population":"7895",
+    "statoids:statoid":"GT.SR.JT",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GT",
+    "wof:created":1474493868,
+    "wof:geomhash":"a83884e09923553038a2ae6e9e6f31ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695541,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1108695541,
+    "wof:lastmodified":1505431501,
+    "wof:name":"San Juan Tecuaco",
+    "wof:parent_id":85671705,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":7895,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.30306440742152,
+    14.03898936414405,
+    -90.23125196849564,
+    14.11053862042253
+],
+  "geometry": {"coordinates":[[[-90.29546068949024,14.10105166255619],[-90.29114999656001,14.10977709489977],[-90.29000000000073,14.11053862042253],[-90.28222253575527,14.10873262734497],[-90.28109435111882,14.10755334052363],[-90.26623251165236,14.10370891778696],[-90.26570135151412,14.09421181626698],[-90.25674648987545,14.08996009013486],[-90.25231240636143,14.08952348838688],[-90.25207150534236,14.08956514641123],[-90.24507352255939,14.08561872778021],[-90.23979912377244,14.08633820590208],[-90.23125196849564,14.0731181093586],[-90.23329103851903,14.07025119679598],[-90.23462587658886,14.05610731094163],[-90.23854666757201,14.05577831560717],[-90.24687103968192,14.06118323152585],[-90.25340848745614,14.05843753758257],[-90.25667893286958,14.05368815117847],[-90.25354022661621,14.04551140437169],[-90.25642858383578,14.04185375728572],[-90.27026005088379,14.04172730271081],[-90.27173557875928,14.03947534653841],[-90.27347418209305,14.03898936414405],[-90.28643568572471,14.04184548150981],[-90.2898055229161,14.04481284627392],[-90.29156585192351,14.04536347208511],[-90.29504600447842,14.04550312532361],[-90.30306440742152,14.05893137585308],[-90.29858075141402,14.06480245134175],[-90.29492065973304,14.06643817342636],[-90.28875603015729,14.06751773310709],[-90.28713510293859,14.08468937282491],[-90.28497126667179,14.08683099072635],[-90.29546068949024,14.10105166255619]]],"type":"Polygon"}
+}

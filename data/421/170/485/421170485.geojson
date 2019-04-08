@@ -1,0 +1,124 @@
+{
+  "id": 421170485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.52278,14.91361,-90.52278,14.91361",
+    "geom:latitude":14.91361,
+    "geom:longitude":-90.52278,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u683c\u62c9\u7d0d\u591a\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Granados"
+    ],
+    "name:dut_x_preferred":[
+        "Granados"
+    ],
+    "name:eng_x_preferred":[
+        "Granados"
+    ],
+    "name:fra_x_preferred":[
+        "Granados"
+    ],
+    "name:fre_x_preferred":[
+        "Granados"
+    ],
+    "name:ger_x_preferred":[
+        "Granados"
+    ],
+    "name:ita_x_preferred":[
+        "Granados"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30ca\u30c9\u30b9"
+    ],
+    "name:pol_x_preferred":[
+        "Granados"
+    ],
+    "name:por_x_preferred":[
+        "Granados"
+    ],
+    "name:spa_x_preferred":[
+        "Granados"
+    ],
+    "name:swe_x_preferred":[
+        "Granados"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u7d0d\u591a\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3595631,
+    "qs:gn_pop":937,
+    "qs:name":"Granados",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Baja Verapaz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251395,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83089,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":353,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        1108695353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595631,
+        "gp:id":83089,
+        "qs:id":251395,
+        "wd:id":"Q611941",
+        "wk:page":"Granados, Baja Verapaz"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008855,
+    "wof:geomhash":"6227c189144e15114cded1ad19dbb915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695353,
+            "locality_id":421170485,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":421170485,
+    "wof:lastmodified":1527716459,
+    "wof:name":"Granados",
+    "wof:parent_id":1108695353,
+    "wof:placetype":"locality",
+    "wof:population":937,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.52278,
+    14.91361,
+    -90.52278,
+    14.91361
+],
+  "geometry": {"coordinates":[-90.52278,14.91361],"type":"Point"}
+}

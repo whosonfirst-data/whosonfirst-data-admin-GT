@@ -1,0 +1,96 @@
+{
+  "id": 421181677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.73333,15.93333,-90.73333,15.93333",
+    "geom:latitude":15.93333,
+    "geom:longitude":-90.73333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u044f \u0413\u0440\u0430\u043d\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Ixc\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Ixc\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Playa Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Ixc\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u574e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591216,
+    "qs:gn_pop":0,
+    "qs:name":"Playa Grande",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":500549,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85116,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421190247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591216,
+        "gp:id":85116,
+        "qs:id":500549,
+        "wd:id":"Q2609036",
+        "wk:page":"Ixc\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009303,
+    "wof:geomhash":"b3e0d5cf91e074311eca96e96c36dfb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190247,
+            "locality_id":421181677,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421181677,
+    "wof:lastmodified":1499978322,
+    "wof:name":"Playa Grande",
+    "wof:parent_id":421190247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.73333,
+    15.93333,
+    -90.73333,
+    15.93333
+],
+  "geometry": {"coordinates":[-90.73333,15.93333],"type":"Point"}
+}

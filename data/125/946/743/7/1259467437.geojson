@@ -1,0 +1,67 @@
+{
+  "id": 1259467437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.2,15.81667,-89.2,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":-89.2,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Caqui Creek",
+    "gn:country_code":"GT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599041,
+    "gn:latitude":15.81667,
+    "gn:longitude":-89.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Caqui Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599041
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"824b91c369f88272b92bdc0f980f9ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695389,
+            "locality_id":1259467437,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1259467437,
+    "wof:lastmodified":1536881132,
+    "wof:name":"Caqui Creek",
+    "wof:parent_id":1108695389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2,
+    15.81667,
+    -89.2,
+    15.81667
+],
+  "geometry": {"coordinates":[-89.2,15.81667],"type":"Point"}
+}

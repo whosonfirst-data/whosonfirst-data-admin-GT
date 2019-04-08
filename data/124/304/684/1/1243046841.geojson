@@ -1,0 +1,70 @@
+{
+  "id": 1243046841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.22564,15.09837,-91.22564,15.09837",
+    "geom:latitude":15.09837,
+    "geom:longitude":-91.22564,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Patzocon",
+    "gn:country_code":"GT",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11485155,
+    "gn:latitude":15.09837,
+    "gn:longitude":-91.22564,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Patzocon",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patzocon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485155
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a8b95e8fc02a0b3ddb2c6ea3b96e2193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1243046841,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243046841,
+    "wof:lastmodified":1537625356,
+    "wof:name":"Patzocon",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.22564,
+    15.09837,
+    -91.22564,
+    15.09837
+],
+  "geometry": {"coordinates":[-91.22564,15.09837],"type":"Point"}
+}

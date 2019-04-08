@@ -1,0 +1,117 @@
+{
+  "id": 421168069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.02694,15.3375,-91.02694,15.3375",
+    "geom:latitude":15.3375,
+    "geom:longitude":-91.02694,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5eab\u5ae9"
+    ],
+    "name:dut_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:fra_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:nah_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:pol_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:por_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Cun\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5ae9"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597772,
+    "qs:gn_pop":8400,
+    "qs:name":"Cun\u00e9n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":974890,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":82066,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421204285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597772,
+        "gp:id":82066,
+        "qs:id":974890,
+        "wd:id":"Q2402499",
+        "wk:page":"Cun\u00e9n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008753,
+    "wof:geomhash":"2ae9c49f155fd0a4a26b02eaeff33628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204285,
+            "locality_id":421168069,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":421168069,
+    "wof:lastmodified":1514444436,
+    "wof:name":"Cun\u00e9n",
+    "wof:parent_id":421204285,
+    "wof:placetype":"locality",
+    "wof:population":8400,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.02694,
+    15.3375,
+    -91.02694,
+    15.3375
+],
+  "geometry": {"coordinates":[-91.02694,15.3375],"type":"Point"}
+}

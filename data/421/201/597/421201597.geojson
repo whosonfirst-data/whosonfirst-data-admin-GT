@@ -1,0 +1,173 @@
+{
+  "id": 421201597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009365,
+    "geom:area_square_m":111836936.527194,
+    "geom:bbox":"-91.1728021562,14.9363107265,-91.0673308024,15.1114438814",
+    "geom:latitude":15.040649,
+    "geom:longitude":-91.122072,
+    "iso:country":"GT",
+    "lbl:latitude":15.051113,
+    "lbl:longitude":-91.125666,
+    "meso:admin_1":"Quiche",
+    "meso:diss_me":"SANTA CRUZ DEL QUICHEQUICHE",
+    "meso:gadm_admin":"Santa Cruz del Quich\u00e9",
+    "meso:gaul_admin":"Santa Cruz del Quich\u00e9",
+    "meso:mps_x":-91.125666,
+    "meso:mps_y":15.051113,
+    "meso:name_en":"Santa Cruz Del Quiche",
+    "meso:source":"AOTM",
+    "mps:latitude":15.051113,
+    "mps:longitude":-91.125666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632 \u062f\u064a\u0644 \u0643\u0648\u064a\u062a\u0634\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u5207\u7701\u8056\u514b\u9b6f\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9\u30fb\u30c7\u30eb\u30fb\u30ad\u30c1\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4\ub378\ud0a4\uccb4"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Krus del Ki\u010d\u0117"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Cruz Quiche"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:sme_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Cruz del Quich\u00e9",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":101,
+    "qs:photos_1k":20,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":509,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264008,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807108,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QC",
+    "statoids:name":"Santa Cruz del Quich\u00e9",
+    "statoids:population":"62369",
+    "statoids:statoid":"GT.QC.SC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807108,
+        "hasc:id":"GT.QC.SC",
+        "qs:id":1264008,
+        "wd:id":"Q693140"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010077,
+    "wof:geomhash":"da24935fac6411ec19a010d277c4406b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":421201597,
+    "wof:lastmodified":1536616140,
+    "wof:name":"Santa Cruz Del Quiche",
+    "wof:parent_id":85671733,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":62369,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"SC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.17280215616418,
+    14.93631072646384,
+    -91.06733080244119,
+    15.11144388139475
+],
+  "geometry": {"coordinates":[[[-91.14680275719523,15.09168374152209],[-91.14329621521061,15.09880182741408],[-91.14382097349797,15.10263451964465],[-91.14265360455749,15.10523105019508],[-91.13203962758909,15.10944997341749],[-91.12985171116266,15.10773119221762],[-91.1186439047207,15.10539984908085],[-91.11536976236202,15.10899578335543],[-91.10410307130114,15.10911798219814],[-91.10262439814338,15.11067817111274],[-91.10048749492231,15.11144388139475],[-91.09471522668797,15.11122066150021],[-91.08463799442372,15.10832453181732],[-91.08473194044167,15.10105744720998],[-91.07222791004942,15.0981478065527],[-91.07108409181187,15.09331682127198],[-91.07196660928203,15.08750295605773],[-91.07045650753318,15.08290867753169],[-91.06925564755748,15.08132582792294],[-91.06733080244119,15.0805142175914],[-91.06755150502786,15.06513582202517],[-91.0690598412457,15.06381933354684],[-91.08446833237828,15.06585255754432],[-91.08513297468315,15.05606965994099],[-91.08348058642413,15.04816374488004],[-91.08543560608375,15.04476878308388],[-91.08981207401114,15.0439011329714],[-91.09664497136735,15.03479221625388],[-91.09747050967906,15.02519599066826],[-91.0934739118978,15.01984097291821],[-91.09368101587488,15.01391297240721],[-91.09695665536611,15.01198763281919],[-91.10514680823594,14.9998478545647],[-91.10443497874735,14.99767219037616],[-91.11333335781708,14.97938885364923],[-91.11369770495467,14.97947984062407],[-91.11626514919851,14.97930771887024],[-91.12674553167322,14.97583026446933],[-91.12812471179477,14.95949829817321],[-91.12731992597648,14.95744726063118],[-91.12648581251771,14.95651181312339],[-91.1254182582183,14.95246352307693],[-91.13021450058432,14.94423965617159],[-91.13462926015143,14.94112632670858],[-91.13985954697719,14.94286629186752],[-91.15021092844761,14.93998731326947],[-91.15547033425511,14.93631072646384],[-91.16131041945484,14.9373238831874],[-91.15450553281651,14.96200566840443],[-91.15536070385463,14.96421272217116],[-91.15548323371361,14.96828894805293],[-91.15231052020771,14.97272329381192],[-91.15158156389003,14.97492632532751],[-91.14287671235397,14.98440736554935],[-91.14182645737353,14.99177850172519],[-91.1454995274398,14.99769680720131],[-91.14586335822128,15.00122318330308],[-91.14741996702179,15.00334065871803],[-91.1520754865719,15.01094687969761],[-91.14948026366947,15.02317844974494],[-91.15000000000057,15.02645526178323],[-91.15000000000056,15.02655720232863],[-91.15076753416206,15.02805929428884],[-91.15110010677263,15.02836457309315],[-91.15113066922891,15.02838223902062],[-91.16161885708388,15.03966755008396],[-91.16306914927881,15.04001719067534],[-91.16607474609403,15.04004130826021],[-91.17280215616418,15.04846344276179],[-91.1663160195596,15.06247189805687],[-91.15972516707744,15.06428717983196],[-91.15685682427342,15.06897579828014],[-91.15139295704365,15.07195895538807],[-91.14967602575456,15.07705927679484],[-91.14758555364597,15.08008250346891],[-91.1442788840413,15.08347049670371],[-91.14680275719523,15.09168374152209]]],"type":"Polygon"}
+}

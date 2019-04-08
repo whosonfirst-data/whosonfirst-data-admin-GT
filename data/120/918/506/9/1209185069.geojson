@@ -1,0 +1,64 @@
+{
+  "id": 1209185069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13899,15.46676,-91.13899,15.46676",
+    "geom:latitude":15.46676,
+    "geom:longitude":-91.13899,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xesibacvitz",
+    "gn:country_code":"GT",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483614,
+    "gn:latitude":15.46676,
+    "gn:longitude":-91.13899,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xesibacvitz",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xesibacvitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483614
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"759265d7cbb021b6139028c3e5cb9a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209185069
+        }
+    ],
+    "wof:id":1209185069,
+    "wof:lastmodified":1537625350,
+    "wof:name":"Xesibacvitz",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13899,
+    15.46676,
+    -91.13899,
+    15.46676
+],
+  "geometry": {"coordinates":[-91.13899000000001,15.46676],"type":"Point"}
+}

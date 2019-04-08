@@ -1,0 +1,70 @@
+{
+  "id": 1259999699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.01304,15.47098,-92.01304,15.47098",
+    "geom:latitude":15.47098,
+    "geom:longitude":-92.01304,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Casas Viejas",
+    "gn:country_code":"GT",
+    "gn:dem":2868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9636665,
+    "gn:latitude":15.47098,
+    "gn:longitude":-92.01304,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Casas Viejas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casas Viejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9636665
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5626e5f5370c6db8620d988dd74afe30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1259999699,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259999699,
+    "wof:lastmodified":1537625259,
+    "wof:name":"Casas Viejas",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.01304,
+    15.47098,
+    -92.01304,
+    15.47098
+],
+  "geometry": {"coordinates":[-92.01304,15.47098],"type":"Point"}
+}

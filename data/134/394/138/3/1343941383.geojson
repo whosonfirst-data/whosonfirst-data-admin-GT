@@ -1,0 +1,70 @@
+{
+  "id": 1343941383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12827,15.37996,-91.12827,15.37996",
+    "geom:latitude":15.37996,
+    "geom:longitude":-91.12827,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tzaya",
+    "gn:country_code":"GT",
+    "gn:dem":2277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734030,
+    "gn:latitude":15.37996,
+    "gn:longitude":-91.12827,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tzay\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tzay\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734030
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ba959775526167f4e8604a5d489e61ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1343941383,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343941383,
+    "wof:lastmodified":1537625239,
+    "wof:name":"Tzaya",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12827,
+    15.37996,
+    -91.12827,
+    15.37996
+],
+  "geometry": {"coordinates":[-91.12827,15.37996],"type":"Point"}
+}

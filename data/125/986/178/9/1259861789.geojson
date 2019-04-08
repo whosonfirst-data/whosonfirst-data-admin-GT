@@ -1,0 +1,72 @@
+{
+  "id": 1259861789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.78333,14.58333,-90.78333,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":-90.78333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Panancho",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591733,
+    "gn:latitude":14.58333,
+    "gn:longitude":-90.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pananch\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panoche",
+        "Pananch\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        421177237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591733
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1a2661c09a3c487d4e84b21dbc4a5e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421177237,
+            "locality_id":1259861789,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":1259861789,
+    "wof:lastmodified":1537625161,
+    "wof:name":"Panancho",
+    "wof:parent_id":421177237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.78333,
+    14.58333,
+    -90.78333,
+    14.58333
+],
+  "geometry": {"coordinates":[-90.78333000000001,14.58333],"type":"Point"}
+}

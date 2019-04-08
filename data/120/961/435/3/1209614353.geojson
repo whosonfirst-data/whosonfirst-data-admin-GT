@@ -1,0 +1,61 @@
+{
+  "id": 1209614353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.25,14.7,-90.25,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-90.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Los Gracianos",
+    "gn:country_code":"GT",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593061,
+    "gn:latitude":14.7,
+    "gn:longitude":-90.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Gracianos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593061
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8889f74593a3f2bd2db0fc5842caf77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209614353
+        }
+    ],
+    "wof:id":1209614353,
+    "wof:lastmodified":1536281740,
+    "wof:name":"Los Gracianos",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.25,
+    14.7,
+    -90.25,
+    14.7
+],
+  "geometry": {"coordinates":[-90.25,14.7],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327004051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.4,15.0,-91.4,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-91.4,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xesana",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587747,
+    "gn:latitude":15.0,
+    "gn:longitude":-91.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Xesan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xexan\u00e1",
+        "Xesan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587747
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4d1a49c178ea796b3c6b93215b0e6b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1327004051,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1327004051,
+    "wof:lastmodified":1537625125,
+    "wof:name":"Xesana",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.4,
+    15.0,
+    -91.4,
+    15.0
+],
+  "geometry": {"coordinates":[-91.40000000000001,15.0],"type":"Point"}
+}

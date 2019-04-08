@@ -1,0 +1,70 @@
+{
+  "id": 1243383539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.66854,15.57624,-91.66854,15.57624",
+    "geom:latitude":15.57624,
+    "geom:longitude":-91.66854,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"GT",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589790,
+    "gn:latitude":15.57624,
+    "gn:longitude":-91.66854,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589790
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"696d920c304bf58aa4a2a963da084dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1243383539,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1243383539,
+    "wof:lastmodified":1537625144,
+    "wof:name":"San Martin",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66854,
+    15.57624,
+    -91.66854,
+    15.57624
+],
+  "geometry": {"coordinates":[-91.66853999999999,15.57624],"type":"Point"}
+}

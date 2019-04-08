@@ -1,0 +1,70 @@
+{
+  "id": 1259778877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43443,16.04355,-91.43443,16.04355",
+    "geom:latitude":16.04355,
+    "geom:longitude":-91.43443,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chaquenalito",
+    "gn:country_code":"GT",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533271,
+    "gn:latitude":16.04355,
+    "gn:longitude":-91.43443,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Chaquenalito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaquenalito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533271
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f7bb9c13ec9334d6b0759a8627dd7ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695557,
+            "locality_id":1259778877,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259778877,
+    "wof:lastmodified":1537625246,
+    "wof:name":"Chaquenalito",
+    "wof:parent_id":1108695557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43443,
+    16.04355,
+    -91.43443,
+    16.04355
+],
+  "geometry": {"coordinates":[-91.43443000000001,16.04355],"type":"Point"}
+}

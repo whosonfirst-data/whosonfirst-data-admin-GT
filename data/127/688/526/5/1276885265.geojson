@@ -1,0 +1,67 @@
+{
+  "id": 1276885265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08333,14.66667,-91.08333,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-91.08333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Panabaj",
+    "gn:country_code":"GT",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591759,
+    "gn:latitude":14.66667,
+    "gn:longitude":-91.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Panabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421178903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591759
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9b40f11a8846f9acd5bf9c408172c184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178903,
+            "locality_id":1276885265,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1276885265,
+    "wof:lastmodified":1537032485,
+    "wof:name":"Panabaj",
+    "wof:parent_id":421178903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08333,
+    14.66667,
+    -91.08333,
+    14.66667
+],
+  "geometry": {"coordinates":[-91.08333,14.66667],"type":"Point"}
+}

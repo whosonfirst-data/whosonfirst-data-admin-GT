@@ -1,0 +1,109 @@
+{
+  "id": 421194259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.0,14.93333,-92.0,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-92.0,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "San Pablo"
+    ],
+    "name:eng_x_preferred":[
+        "San Pablo"
+    ],
+    "name:ita_x_preferred":[
+        "San Pablo"
+    ],
+    "name:pol_x_preferred":[
+        "San Pablo"
+    ],
+    "name:por_x_preferred":[
+        "San Pablo"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "name:swe_x_preferred":[
+        "San Pablo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589677,
+    "qs:gn_pop":13668,
+    "qs:name":"San Pablo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1045551,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85839,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589677,
+        "gp:id":85839,
+        "qs:id":1045551,
+        "wd:id":"Q3306697",
+        "wk:page":"San Pablo, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009799,
+    "wof:geomhash":"c8b1005b83ad08c4b7e021861c29e42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695575,
+            "locality_id":421194259,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421194259,
+    "wof:lastmodified":1527716131,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1108695575,
+    "wof:placetype":"locality",
+    "wof:population":13668,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0,
+    14.93333,
+    -92.0,
+    14.93333
+],
+  "geometry": {"coordinates":[-92.0,14.93333],"type":"Point"}
+}

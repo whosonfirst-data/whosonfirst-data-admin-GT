@@ -1,0 +1,72 @@
+{
+  "id": 1309895423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.21667,15.41667,-89.21667,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":-89.21667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Las Canas",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594039,
+    "gn:latitude":15.41667,
+    "gn:longitude":-89.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1as",
+        "Las Ca\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594039
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b6eaf91a45ca36e3e38230f517513c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695387,
+            "locality_id":1309895423,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1309895423,
+    "wof:lastmodified":1537625180,
+    "wof:name":"Las Canas",
+    "wof:parent_id":1108695387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.21667,
+    15.41667,
+    -89.21667,
+    15.41667
+],
+  "geometry": {"coordinates":[-89.21666999999999,15.41667],"type":"Point"}
+}

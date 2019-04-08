@@ -1,0 +1,73 @@
+{
+  "id": 1276222577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.87309,15.5725,-91.87309,15.5725",
+    "geom:latitude":15.5725,
+    "geom:longitude":-91.87309,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Campamento",
+    "gn:country_code":"GT",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637646,
+    "gn:latitude":15.5725,
+    "gn:longitude":-91.87309,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"El Campamento",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Malacate"
+    ],
+    "name:spa_x_variant":[
+        "El Campamento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637646
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"00be872f2111daa6c57e214e72944463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1276222577,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276222577,
+    "wof:lastmodified":1537625266,
+    "wof:name":"El Campamento",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.87309,
+    15.5725,
+    -91.87309,
+    15.5725
+],
+  "geometry": {"coordinates":[-91.87309,15.5725],"type":"Point"}
+}

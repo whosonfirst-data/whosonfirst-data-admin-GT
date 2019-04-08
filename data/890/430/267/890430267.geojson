@@ -1,0 +1,101 @@
+{
+  "id": 890430267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.03417,15.43417,-91.03417,15.43417",
+    "geom:latitude":15.43417,
+    "geom:longitude":-91.03417,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":11046,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u79d1\u7279\u85a9\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:ger_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:por_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:sco_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan Cotzal"
+    ],
+    "qs:name":"San Juan Cotzal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":1849,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589913,
+        "qs:id":149144,
+        "wd:id":"Q2121567",
+        "wk:page":"San Juan Cotzal"
+    },
+    "wof:country":"GT",
+    "wof:created":1469051846,
+    "wof:geomhash":"6f1cf9b29efde4b93fa6271dd2443096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":890430267,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":890430267,
+    "wof:lastmodified":1527729736,
+    "wof:name":"San Juan Cotzal",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:population":11046,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.03417,
+    15.43417,
+    -91.03417,
+    15.43417
+],
+  "geometry": {"coordinates":[-91.03417,15.43417],"type":"Point"}
+}

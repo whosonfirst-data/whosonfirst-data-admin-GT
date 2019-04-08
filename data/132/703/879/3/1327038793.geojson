@@ -1,0 +1,72 @@
+{
+  "id": 1327038793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.26667,15.25,-90.26667,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":-90.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mocohan",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592506,
+    "gn:latitude":15.25,
+    "gn:longitude":-90.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mocoh\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nocohan",
+        "Mocoh\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        421203475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592506
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6b76179aecc1d8a95c9c1a25e4c3cde1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203475,
+            "locality_id":1327038793,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1327038793,
+    "wof:lastmodified":1537625166,
+    "wof:name":"Mocohan",
+    "wof:parent_id":421203475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.26667,
+    15.25,
+    -90.26667,
+    15.25
+],
+  "geometry": {"coordinates":[-90.26667,15.25],"type":"Point"}
+}

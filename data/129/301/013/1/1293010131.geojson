@@ -1,0 +1,67 @@
+{
+  "id": 1293010131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,15.63333,-89.98333,15.63333",
+    "geom:latitude":15.63333,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chipam",
+    "gn:country_code":"GT",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598494,
+    "gn:latitude":15.63333,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chipam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421182335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598494
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bbea9256cdef8205b975a499512585f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182335,
+            "locality_id":1293010131,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1293010131,
+    "wof:lastmodified":1536977516,
+    "wof:name":"Chipam",
+    "wof:parent_id":421182335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    15.63333,
+    -89.98333000000002,
+    15.63333
+],
+  "geometry": {"coordinates":[-89.98333000000002,15.63333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276896675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.51973,15.52069,-91.51973,15.52069",
+    "geom:latitude":15.52069,
+    "geom:longitude":-91.51973,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nimjul",
+    "gn:country_code":"GT",
+    "gn:dem":3551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476698,
+    "gn:latitude":15.52069,
+    "gn:longitude":-91.51973,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nimjul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nimjul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476698
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"76f1a125b5423640520fe6b1d9ea298f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1276896675,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276896675,
+    "wof:lastmodified":1537625322,
+    "wof:name":"Nimjul",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.51973,
+    15.52069,
+    -91.51973,
+    15.52069
+],
+  "geometry": {"coordinates":[-91.51973,15.52069],"type":"Point"}
+}

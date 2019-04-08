@@ -1,0 +1,121 @@
+{
+  "id": 421180121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.48333,14.46667,-91.48333,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-91.48333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u591a\u660e\u6208\u8607\u5947\u7279\u4f69\u514b\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:fra_x_preferred":[
+        "Santo Domingo Suchitepequez"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Domingo Suchitepequez"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Domingo Suchitepequez"
+    ],
+    "name:por_x_preferred":[
+        "Santo Domingo Suchitepequez"
+    ],
+    "name:sco_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Domingo Suchitep\u00e9quez"
+    ],
+    "name:unk_x_variant":[
+        "Santo Domingo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u591a\u660e\u6208\u8607\u5947\u7279\u4f69\u514b\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589074,
+    "qs:gn_pop":6270,
+    "qs:name":"Santo Domingo Suchitep\u00e9quez",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Suchitepequez",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1116136,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86094,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589074,
+        "gp:id":86094,
+        "qs:id":1116136,
+        "wd:id":"Q2402403",
+        "wk:page":"Santo Domingo Suchitep\u00e9quez"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009245,
+    "wof:geomhash":"f36196f39a1544f0b4264486616b31c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695639,
+            "locality_id":421180121,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":421180121,
+    "wof:lastmodified":1527716238,
+    "wof:name":"Santo Domingo Suchitep\u00e9quez",
+    "wof:parent_id":1108695639,
+    "wof:placetype":"locality",
+    "wof:population":6270,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.48333,
+    14.46667,
+    -91.48333,
+    14.46667
+],
+  "geometry": {"coordinates":[-91.48333,14.46667],"type":"Point"}
+}

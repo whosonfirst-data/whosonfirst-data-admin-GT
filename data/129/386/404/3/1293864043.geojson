@@ -1,0 +1,70 @@
+{
+  "id": 1293864043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.68523,17.22092,-90.68523,17.22092",
+    "geom:latitude":17.22092,
+    "geom:longitude":-90.68523,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Plan de Las Maravillas",
+    "gn:country_code":"GT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11506617,
+    "gn:latitude":17.22092,
+    "gn:longitude":-90.68523,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Plan de Las Maravillas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Plan de Las Maravillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11506617
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e5225063a32a8aebb4805246750d5e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695377,
+            "locality_id":1293864043,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1293864043,
+    "wof:lastmodified":1537625376,
+    "wof:name":"Plan de Las Maravillas",
+    "wof:parent_id":1108695377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.68523,
+    17.22092,
+    -90.68523,
+    17.22092
+],
+  "geometry": {"coordinates":[-90.68523,17.22092],"type":"Point"}
+}

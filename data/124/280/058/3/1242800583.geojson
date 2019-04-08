@@ -1,0 +1,72 @@
+{
+  "id": 1242800583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.88333,14.98333,-89.88333,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-89.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Luis Buena Vista",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589831,
+    "gn:latitude":14.98333,
+    "gn:longitude":-89.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Luis Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Tigra",
+        "San Luis Buena Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        1108695495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589831
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"292592bb91d3d271935eb3c91e1ef5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695495,
+            "locality_id":1242800583,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1242800583,
+    "wof:lastmodified":1537625145,
+    "wof:name":"San Luis Buena Vista",
+    "wof:parent_id":1108695495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.88333,
+    14.98333,
+    -89.88333,
+    14.98333
+],
+  "geometry": {"coordinates":[-89.88333,14.98333],"type":"Point"}
+}

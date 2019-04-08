@@ -1,0 +1,70 @@
+{
+  "id": 1226127983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.71715,15.40954,-91.71715,15.40954",
+    "geom:latitude":15.40954,
+    "geom:longitude":-91.71715,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"GT",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453800,
+    "gn:latitude":15.40954,
+    "gn:longitude":-91.71715,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421197631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453800
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e072aa73bb1c68c71d49fd6bb4b0087f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421197631,
+            "locality_id":1226127983,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226127983,
+    "wof:lastmodified":1537625289,
+    "wof:name":"La Cruz",
+    "wof:parent_id":421197631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.71715,
+    15.40954,
+    -91.71715,
+    15.40954
+],
+  "geometry": {"coordinates":[-91.71715,15.40954],"type":"Point"}
+}

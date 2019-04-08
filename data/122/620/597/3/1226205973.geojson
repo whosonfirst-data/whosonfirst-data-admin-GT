@@ -1,0 +1,70 @@
+{
+  "id": 1226205973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.80916,15.11568,-91.80916,15.11568",
+    "geom:latitude":15.11568,
+    "geom:longitude":-91.80916,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"GT",
+    "gn:dem":2519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475347,
+    "gn:latitude":15.11568,
+    "gn:longitude":-91.80916,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buenos Aires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475347
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"83330ecce111feb465a4590a5b1fa2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695671,
+            "locality_id":1226205973,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226205973,
+    "wof:lastmodified":1537625310,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108695671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.80916,
+    15.11568,
+    -91.80916,
+    15.11568
+],
+  "geometry": {"coordinates":[-91.80916000000001,15.11568],"type":"Point"}
+}

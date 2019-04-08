@@ -1,0 +1,67 @@
+{
+  "id": 1293939879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.55,14.96667,-89.55,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-89.55,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"La Fragua",
+    "gn:country_code":"GT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594610,
+    "gn:latitude":14.96667,
+    "gn:longitude":-89.55,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"La Fragua",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421170045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594610
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5807e1bcbfcb78f7c0758d79ab479d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170045,
+            "locality_id":1293939879,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1293939879,
+    "wof:lastmodified":1536630617,
+    "wof:name":"La Fragua",
+    "wof:parent_id":421170045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.55,
+    14.96667,
+    -89.55,
+    14.96667
+],
+  "geometry": {"coordinates":[-89.55,14.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293857989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21667,14.81667,-91.21667,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-91.21667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Barreneche",
+    "gn:country_code":"GT",
+    "gn:dem":2330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599546,
+    "gn:latitude":14.81667,
+    "gn:longitude":-91.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Barrenech\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421190503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599546
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb51d160cbfd371a381a169e1a7b60f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190503,
+            "locality_id":1293857989,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1293857989,
+    "wof:lastmodified":1536750021,
+    "wof:name":"Barreneche",
+    "wof:parent_id":421190503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21667,
+    14.81667,
+    -91.21667,
+    14.81667
+],
+  "geometry": {"coordinates":[-91.21666999999999,14.81667],"type":"Point"}
+}

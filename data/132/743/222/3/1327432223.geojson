@@ -1,0 +1,72 @@
+{
+  "id": 1327432223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58333,14.86667,-89.58333,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-89.58333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Pinalito",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596513,
+    "gn:latitude":14.86667,
+    "gn:longitude":-89.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pinalito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinalito",
+        "El Pinalito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421170045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596513
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b9b4f8c03f45679d132953bbb988bf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170045,
+            "locality_id":1327432223,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1327432223,
+    "wof:lastmodified":1537625203,
+    "wof:name":"El Pinalito",
+    "wof:parent_id":421170045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58333,
+    14.86667,
+    -89.58333,
+    14.86667
+],
+  "geometry": {"coordinates":[-89.58333,14.86667],"type":"Point"}
+}

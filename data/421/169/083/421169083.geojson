@@ -1,0 +1,324 @@
+{
+  "id": 421169083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.59444,15.72778,-88.59444,15.72778",
+    "geom:latitude":15.72778,
+    "geom:longitude":-88.59444,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0628\u0627\u0631\u064a\u0648\u0633"
+    ],
+    "name:baq_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09ac\u09cd\u09af\u09be\u09b0\u09bf\u0993\u09b8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u0411\u0430\u0440\u0438\u043e\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u6e2f"
+    ],
+    "name:dan_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:epo_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:eus_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:fin_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:glg_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03c0\u03ac\u03c1\u03b9\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe \u0ab8\u0abf\u0a9f\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d1\u05d0\u05e8\u05d9\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0930\u094d\u091f\u094b \u092c\u093e\u0930\u093f\u092f\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:ind_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d0\u30ea\u30aa\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0cca \u0cac\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0caf\u0cca\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\ubc14\ub9ac\uc624\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Puertobariosa"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Barijosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092c\u0945\u0930\u093f\u0913\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:nah_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u0411\u0430\u0440\u0440\u0438\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd4\u0dc0\u0dbb\u0dca\u0da7\u0ddd \u0db6\u0dbb\u0dd2\u0dba\u0ddd\u0dc3\u0dca"
+    ],
+    "name:sme_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0baf\u0bc6\u0bb0\u0bcd\u0b9f\u0bcb \u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c2f\u0c42\u0c30\u0c4d\u0c1f\u0c4b \u0c2c\u0c3e\u0c30\u0c40\u0c2f\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e27\u0e22\u0e23\u0e4c\u0e42\u0e15 \u0e1a\u0e32\u0e23\u0e34\u0e42\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u0411\u0430\u0440\u0456\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0628\u0627\u0631\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u6e2f"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Guatemala",
+    "ne:ADM0_A3":"GTM",
+    "ne:ADM1NAME":"Izabal",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Location adjusted. Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3591062,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Puerto Barrios",
+    "ne:GN_POP":56605,
+    "ne:GTOPO30":5.0,
+    "ne:ISO_A2":"GT",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.717495,
+    "ne:LONGITUDE":-88.592652,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto Barrios",
+    "ne:MAX_AREAKM":14.0,
+    "ne:MAX_AREAMI":5.0,
+    "ne:MAX_BBXMAX":-88.575,
+    "ne:MAX_BBXMIN":-88.608333,
+    "ne:MAX_BBYMAX":15.741667,
+    "ne:MAX_BBYMIN":15.691667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":18.0,
+    "ne:MAX_PERMI":11.0,
+    "ne:MAX_POP10":53150,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-88.58848,
+    "ne:MEAN_BBYC":15.717402,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":14.0,
+    "ne:MIN_AREAMI":5.0,
+    "ne:MIN_BBXMAX":-88.575,
+    "ne:MIN_BBXMIN":-88.608333,
+    "ne:MIN_BBYMAX":15.741667,
+    "ne:MIN_BBYMIN":15.691667,
+    "ne:MIN_PERKM":18.0,
+    "ne:MIN_PERMI":11.0,
+    "ne:NAME":"Puerto Barrios",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Barrios",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":56605,
+    "ne:POP_MIN":53150,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Guatemala",
+    "ne:SOV_A3":"GTM",
+    "ne:TIMEZONE":"America/Guatemala",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3591062,
+    "qs:gn_pop":56605,
+    "qs:name":"Puerto Barrios",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Izabal",
+    "qs:photos":450,
+    "qs:photos_1k":91,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":450,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":553022,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85209,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":15.73,
+    "wd:longitude":-88.6,
+    "wd:wordcount":1997,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591062,
+        "gp:id":85209,
+        "qs:id":553022,
+        "wd:id":"Q991400",
+        "wk:page":"Puerto Barrios"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008793,
+    "wof:geomhash":"73736c0bc4b360fa1a91e1bd1ff1fb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695449,
+            "locality_id":421169083,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":421169083,
+    "wof:lastmodified":1527716166,
+    "wof:name":"Puerto Barrios",
+    "wof:parent_id":1108695449,
+    "wof:placetype":"locality",
+    "wof:population":56605,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.59444,
+    15.72778,
+    -88.59444,
+    15.72778
+],
+  "geometry": {"coordinates":[-88.59444000000001,15.72778],"type":"Point"}
+}

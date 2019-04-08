@@ -1,0 +1,67 @@
+{
+  "id": 1276629457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.33333,14.55,-91.33333,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":-91.33333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"San Bartolo",
+    "gn:country_code":"GT",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590401,
+    "gn:latitude":14.55,
+    "gn:longitude":-91.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Bartolo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        421196547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590401
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"62c0a262eebd5d4661af5d340a49d136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196547,
+            "locality_id":1276629457,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1276629457,
+    "wof:lastmodified":1536878526,
+    "wof:name":"San Bartolo",
+    "wof:parent_id":421196547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.33333,
+    14.55,
+    -91.33333,
+    14.55
+],
+  "geometry": {"coordinates":[-91.33333,14.55],"type":"Point"}
+}

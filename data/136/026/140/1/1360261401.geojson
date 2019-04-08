@@ -1,0 +1,70 @@
+{
+  "id": 1360261401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.62037,15.03393,-91.62037,15.03393",
+    "geom:latitude":15.03393,
+    "geom:longitude":-91.62037,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Mendez",
+    "gn:country_code":"GT",
+    "gn:dem":2715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457137,
+    "gn:latitude":15.03393,
+    "gn:longitude":-91.62037,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Los Mendez",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Mendez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457137
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f8e133704d81106e2ea3c846972a0e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695361,
+            "locality_id":1360261401,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1360261401,
+    "wof:lastmodified":1537625297,
+    "wof:name":"Los Mendez",
+    "wof:parent_id":1108695361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.62037,
+    15.03393,
+    -91.62037,
+    15.03393
+],
+  "geometry": {"coordinates":[-91.62036999999999,15.03393],"type":"Point"}
+}

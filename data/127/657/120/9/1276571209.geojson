@@ -1,0 +1,70 @@
+{
+  "id": 1276571209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41623,15.64197,-91.41623,15.64197",
+    "geom:latitude":15.64197,
+    "geom:longitude":-91.41623,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gelna",
+    "gn:country_code":"GT",
+    "gn:dem":2480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491891,
+    "gn:latitude":15.64197,
+    "gn:longitude":-91.41623,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Geln\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Geln\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421189489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491891
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"77ad0beff6c271d3735a98edf7405000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189489,
+            "locality_id":1276571209,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276571209,
+    "wof:lastmodified":1537625368,
+    "wof:name":"Gelna",
+    "wof:parent_id":421189489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41623,
+    15.64197,
+    -91.41623,
+    15.64197
+],
+  "geometry": {"coordinates":[-91.41623,15.64197],"type":"Point"}
+}

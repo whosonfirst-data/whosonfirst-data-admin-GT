@@ -1,0 +1,75 @@
+{
+  "id": 1260065941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.86913,15.61337,-91.86913,15.61337",
+    "geom:latitude":15.61337,
+    "geom:longitude":-91.86913,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Camojaito",
+    "gn:country_code":"GT",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599182,
+    "gn:latitude":15.61337,
+    "gn:longitude":-91.86913,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Camoja\u00edto",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camoja\u00edto"
+    ],
+    "name:und_x_variant":[
+        "Camojallito",
+        "Camojalito",
+        "Camojalillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599182
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"77e2b4d6baac7a48bbeb253e64340792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1260065941,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260065941,
+    "wof:lastmodified":1537625229,
+    "wof:name":"Camojaito",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.86913,
+    15.61337,
+    -91.86913,
+    15.61337
+],
+  "geometry": {"coordinates":[-91.86913,15.61337],"type":"Point"}
+}

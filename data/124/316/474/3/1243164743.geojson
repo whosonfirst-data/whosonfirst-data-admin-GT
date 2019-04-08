@@ -1,0 +1,67 @@
+{
+  "id": 1243164743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.82111,13.95111,-90.82111,13.95111",
+    "geom:latitude":13.95111,
+    "geom:longitude":-90.82111,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El Empalme",
+    "gn:country_code":"GT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765026,
+    "gn:latitude":13.95111,
+    "gn:longitude":-90.82111,
+    "gn:modification_date":"1998-09-29",
+    "gn:name":"El Empalme",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671677,
+        421202281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765026
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"83a05a08faaa1a918193c1e0c6fafd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421202281,
+            "locality_id":1243164743,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":1243164743,
+    "wof:lastmodified":1536715056,
+    "wof:name":"El Empalme",
+    "wof:parent_id":421202281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.82111,
+    13.95111,
+    -90.82111,
+    13.95111
+],
+  "geometry": {"coordinates":[-90.82111,13.95111],"type":"Point"}
+}

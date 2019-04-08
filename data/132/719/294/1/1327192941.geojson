@@ -1,0 +1,70 @@
+{
+  "id": 1327192941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39678,15.02243,-91.39678,15.02243",
+    "geom:latitude":15.02243,
+    "geom:longitude":-91.39678,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chocruzabaj",
+    "gn:country_code":"GT",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478274,
+    "gn:latitude":15.02243,
+    "gn:longitude":-91.39678,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chocruzabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chocruzabaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478274
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f2b85efe589da2623075f25f8bc1cc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1327192941,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1327192941,
+    "wof:lastmodified":1537625337,
+    "wof:name":"Chocruzabaj",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39678,
+    15.02243,
+    -91.39678,
+    15.02243
+],
+  "geometry": {"coordinates":[-91.39678000000001,15.02243],"type":"Point"}
+}

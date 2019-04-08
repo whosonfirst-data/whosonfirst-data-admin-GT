@@ -1,0 +1,70 @@
+{
+  "id": 1242697745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.49596,15.68866,-91.49596,15.68866",
+    "geom:latitude":15.68866,
+    "geom:longitude":-91.49596,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Patzlaj",
+    "gn:country_code":"GT",
+    "gn:dem":2775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493232,
+    "gn:latitude":15.68866,
+    "gn:longitude":-91.49596,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Patzlaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patzlaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493232
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"553e00d7cb5ea2bf3395c64330ca699f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695657,
+            "locality_id":1242697745,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1242697745,
+    "wof:lastmodified":1537625374,
+    "wof:name":"Patzlaj",
+    "wof:parent_id":1108695657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.49596,
+    15.68866,
+    -91.49596,
+    15.68866
+],
+  "geometry": {"coordinates":[-91.49596,15.68866],"type":"Point"}
+}

@@ -1,0 +1,556 @@
+{
+  "id": 421169087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017611,
+    "geom:area_square_m":210697508.522871,
+    "geom:bbox":"-90.5797505519,14.537459206,-90.3794126278,14.7163742567",
+    "geom:latitude":14.635034,
+    "geom:longitude":-90.480256,
+    "iso:country":"GT",
+    "lbl:latitude":14.64072,
+    "lbl:longitude":-90.51327,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "Banda Guatemala"
+    ],
+    "name:afr_x_preferred":[
+        "Guatemala-stad"
+    ],
+    "name:alb_x_preferred":[
+        "Guatemala"
+    ],
+    "name:amh_x_preferred":[
+        "\u1313\u1274\u121b\u120b \u12a8\u1270\u121b"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0533\u057e\u0561\u057f\u0565\u0574\u0561\u056c\u0561 \u054d\u056b\u0569\u056b"
+    ],
+    "name:ast_x_preferred":[
+        "Ciud\u00e1 de Guatemala"
+    ],
+    "name:aym_x_preferred":[
+        "Watimala marka"
+    ],
+    "name:aze_x_preferred":[
+        "Qvatemala"
+    ],
+    "name:baq_x_preferred":[
+        "Guatemalako Hiria"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u044d\u043c\u0430\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09af\u09bc\u09be\u09a4\u09c7\u09ae\u09be\u09b2\u09be \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:bos_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:bre_x_preferred":[
+        "Ciudad de Guatemala"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Ciutat de Guatemala"
+    ],
+    "name:cdo_x_preferred":[
+        "Guatemala Ch\u00ea"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u74dc\u5730\u99ac\u62c9\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Ciudad de Guatemala"
+    ],
+    "name:dan_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:deu_x_preferred":[
+        "Guatemala-Stadt"
+    ],
+    "name:dut_x_preferred":[
+        "Guatemala-Stad"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u0393\u03bf\u03c5\u03b1\u03c4\u03b5\u03bc\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "New Guatemala"
+    ],
+    "name:eng_x_variant":[
+        "Guatemala City"
+    ],
+    "name:epo_x_preferred":[
+        "Gvatemalurbo"
+    ],
+    "name:est_x_preferred":[
+        "Guatemala"
+    ],
+    "name:eus_x_preferred":[
+        "Guatemala Hiria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Guatemala"
+    ],
+    "name:fra_x_preferred":[
+        "Guatemala"
+    ],
+    "name:fre_x_preferred":[
+        "Guatemala"
+    ],
+    "name:fry_x_preferred":[
+        "G\u00fbatemala-St\u00ead"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Guatemala-Stadt"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Guatemala"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair Ghuatamala"
+    ],
+    "name:glg_x_preferred":[
+        "Cidade de Guatemala"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u0393\u03bf\u03c5\u03b1\u03c4\u03b5\u03bc\u03ac\u03bb\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe \u0ab8\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "Guatemala S\u1e73"
+    ],
+    "name:hat_x_preferred":[
+        "Siwdad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d4 \u05e1\u05d9\u05d8\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05d5\u05d5\u05d0\u05d8\u05de\u05dc\u05d4 \u05e1\u05d9\u05d8\u05d9"
+    ],
+    "name:hif_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u091f\u0947\u092e\u093e\u0932\u093e \u0928\u0917\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Guatemala"
+    ],
+    "name:hun_x_preferred":[
+        "Guatemalav\u00e1ros"
+    ],
+    "name:ice_x_preferred":[
+        "Gvatemalaborg"
+    ],
+    "name:ido_x_preferred":[
+        "Guatemala-Urbo"
+    ],
+    "name:ile_x_preferred":[
+        "Guatemala Cit\u00e9"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Guatemala"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 del Guatemala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30c6\u30de\u30e9\u30b7\u30c6\u30a3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0cb5\u0cbe\u0c9f\u0cc6\u0cae\u0cbe\u0cb2 \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kik_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:kor_x_preferred":[
+        "\uacfc\ud14c\ub9d0\ub77c \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uacfc\ud14c\ub9d0\ub77c\uc2dc\ud2f0",
+        "\uacfc\ud14c\ub9d0\ub77c"
+    ],
+    "name:kur_x_preferred":[
+        "Guatemala"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad de Guatemala"
+    ],
+    "name:lat_x_preferred":[
+        "Urbs Guatimalensis"
+    ],
+    "name:lav_x_preferred":[
+        "Gvatemala"
+    ],
+    "name:lit_x_preferred":[
+        "Gvatemala"
+    ],
+    "name:lmo_x_preferred":[
+        "Cit\u00e0 del Guatemala"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0924\u0947\u092e\u093e\u0932\u093e \u0938\u093f\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Bandar Guatemala"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b \u0425\u043e\u0442"
+    ],
+    "name:nah_x_preferred":[
+        "\u0100ltep\u0113tl Cuauht\u0113mall\u0101n"
+    ],
+    "name:nan_x_preferred":[
+        "Guatemala Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Guatemala-stad"
+    ],
+    "name:nno_x_preferred":[
+        "Guatemala by"
+    ],
+    "name:nob_x_preferred":[
+        "Guatemala by"
+    ],
+    "name:nor_x_preferred":[
+        "Guatemala by"
+    ],
+    "name:nov_x_preferred":[
+        "Guatemala Urbe"
+    ],
+    "name:oci_x_preferred":[
+        "Ciutat de Guatemala"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u00e6"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a17\u0a41\u0a06\u0a24\u0a47\u0a2e\u0a3e\u0a32\u0a3e \u0a38\u0a3c\u0a39\u0a3f\u0a30"
+    ],
+    "name:pap_x_preferred":[
+        "Siudad di Guatemala"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627\u0633\u06cc\u062a\u06cc"
+    ],
+    "name:pms_x_preferred":[
+        "Sit\u00e0 \u00ebd Guatemala"
+    ],
+    "name:pol_x_preferred":[
+        "Gwatemala"
+    ],
+    "name:por_x_preferred":[
+        "Cidade da Guatemala"
+    ],
+    "name:que_x_preferred":[
+        "Watimala llaqta"
+    ],
+    "name:rum_x_preferred":[
+        "Ciudad de Guatemala"
+    ],
+    "name:rup_x_preferred":[
+        "Guatemala casaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:sah_x_preferred":[
+        "\u0413\u0443\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Guatemala Ceety"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0ddd\u0dad\u0db8\u0dcf\u0dbd\u0dcf \u0db1\u0d9c\u0dbb\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Guatemala"
+    ],
+    "name:slo_x_preferred":[
+        "Guatemala"
+    ],
+    "name:slv_x_preferred":[
+        "Ciudad Guatemala"
+    ],
+    "name:sme_x_preferred":[
+        "Ciudad de Guatemala"
+    ],
+    "name:sna_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago de Guatimala"
+    ],
+    "name:spa_x_variant":[
+        "Nueva Guatemala de la Asunci\u00f3n",
+        "Nueva Guatemala",
+        "Ciudad Guatemala",
+        "Ciudad de Guatemala",
+        "Guate"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u0434 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:swe_x_preferred":[
+        "Guatemala City"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0bb2\u0bbe \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c35\u0c3e\u0c1f\u0c2e\u0c47\u0c32\u0c3e \u0c38\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng Guwatemala"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32\u0e0b\u0e34\u0e15\u0e35"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f42\u0f74\u0f0b\u0f5d\u0f7a\u0f0b\u0f50\u0f72\u0f0b\u0f58\u0f0b\u0f63\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
+    "name:tuk_x_preferred":[
+        "Gwatemala"
+    ],
+    "name:tur_x_preferred":[
+        "Guatemala"
+    ],
+    "name:udm_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u06cb\u0627\u062a\u06d0\u0645\u0627\u0644\u0627 \u0634\u06d5\u06be\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Guatemala la Nueva"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0626\u0679\u06d2 \u0645\u0627\u0644\u0627 \u0634\u06c1\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Gvatemala shahri"
+    ],
+    "name:vep_x_preferred":[
+        "Gvatemal"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0nh ph\u1ed1 Guatemala"
+    ],
+    "name:vol_x_preferred":[
+        "Ciudad de Guatemala"
+    ],
+    "name:war_x_preferred":[
+        "Syudad han Guatemala"
+    ],
+    "name:wel_x_preferred":[
+        "Dinas Guatemala"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d2\u05d5\u05d5\u05d0\u05d8\u05e2\u05de\u05d0\u05dc\u05e2 \u05e9\u05d8\u05d0\u05d8"
+    ],
+    "name:yor_x_preferred":[
+        "\u00ccl\u00fa Guat\u1eb9m\u00e1l\u00e0"
+    ],
+    "name:yue_x_preferred":[
+        "\u5371\u5730\u99ac\u62c9\u5e02"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Guatemala",
+    "ne:ADM0_A3":"GTM",
+    "ne:ADM1NAME":"Guatemala",
+    "ne:ADMIN1_COD":7,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":"Guatemala",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":3598132,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Guatemala City",
+    "ne:GN_POP":994938,
+    "ne:GTOPO30":1533.0,
+    "ne:ISO_A2":"GT",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":14.621135,
+    "ne:LONGITUDE":-90.526966,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Guatemala",
+    "ne:MAX_AREAKM":419.0,
+    "ne:MAX_AREAMI":162.0,
+    "ne:MAX_BBXMAX":-90.425,
+    "ne:MAX_BBXMIN":-90.658333,
+    "ne:MAX_BBYMAX":14.783333,
+    "ne:MAX_BBYMIN":14.441667,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":288.0,
+    "ne:MAX_PERMI":179.0,
+    "ne:MAX_POP10":2420941,
+    "ne:MAX_POP20":2417882,
+    "ne:MAX_POP300":2419489,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":2419489,
+    "ne:MEAN_BBXC":-90.54419,
+    "ne:MEAN_BBYC":14.603015,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Ciudad de Guatemala (Guatemala City)",
+    "ne:MIN_AREAKM":410.0,
+    "ne:MIN_AREAMI":158.0,
+    "ne:MIN_BBXMAX":-90.425,
+    "ne:MIN_BBXMIN":-90.658333,
+    "ne:MIN_BBYMAX":14.783333,
+    "ne:MIN_BBYMIN":14.433333,
+    "ne:MIN_PERKM":274.0,
+    "ne:MIN_PERMI":170.0,
+    "ne:NAME":"Guatemala",
+    "ne:NAMEALT":"Ciudad de Guatemala (Guatemala City)",
+    "ne:NAMEASCII":"Guatemala",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":287,
+    "ne:POP1955":370,
+    "ne:POP1960":476,
+    "ne:POP1965":592,
+    "ne:POP1970":660,
+    "ne:POP1975":715,
+    "ne:POP1980":749,
+    "ne:POP1985":776,
+    "ne:POP1990":803,
+    "ne:POP1995":839,
+    "ne:POP2000":908,
+    "ne:POP2005":984,
+    "ne:POP2010":1024,
+    "ne:POP2015":1104,
+    "ne:POP2020":1281,
+    "ne:POP2025":1481,
+    "ne:POP2050":1690,
+    "ne:POP_MAX":1024000,
+    "ne:POP_MIN":994938,
+    "ne:POP_OTHER":2391150,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":11,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Guatemala",
+    "ne:SOV_A3":"GTM",
+    "ne:TIMEZONE":"America/Guatemala",
+    "ne:UN_ADM0":"Guatemala",
+    "ne:UN_FID":206,
+    "ne:UN_LAT":14.61,
+    "ne:UN_LONG":-90.52,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLC",
+    "qs:gn_id":3598132,
+    "qs:gn_pop":994938,
+    "qs:name":"Ciudad de Guatemala",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":4493,
+    "qs:photos_1k":910,
+    "qs:photos_9k":28,
+    "qs:photos_9r":14,
+    "qs:photos_all":6303,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"12",
+    "qs:qs_id":274439,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83123,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        421191461
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632385,
+    "wof:concordances":{
+        "gn:id":3598132,
+        "gp:id":83123,
+        "loc:id":"n81019995",
+        "qs:id":274439,
+        "wd:id":"Q1555",
+        "wk:page":"Guatemala City"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008794,
+    "wof:geomhash":"0aeb93f4fa40ea3030f55c77a2ea0c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191461,
+            "locality_id":421169087,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421169087,
+    "wof:lastmodified":1552519482,
+    "wof:name":"Ciudad de Guatemala",
+    "wof:parent_id":421191461,
+    "wof:placetype":"locality",
+    "wof:population":994938,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.57975055186662,
+    14.53745920597617,
+    -90.37941262781794,
+    14.7163742566972
+],
+  "geometry": {"coordinates":[[[-90.52373180629172,14.67139369878791],[-90.50039489679543,14.67896047134553],[-90.49781408334462,14.67356786507779],[-90.48972781773584,14.67174838931182],[-90.4784395929981,14.67671604163268],[-90.47820252381686,14.68647985488131],[-90.46494110846065,14.69094133776507],[-90.46306704533581,14.69256520995129],[-90.45851963809113,14.69249966160195],[-90.45249092341811,14.70606238519373],[-90.44418215431398,14.70608621486441],[-90.43861865399973,14.71],[-90.43774057030025,14.71],[-90.43000000000072,14.70620076312565],[-90.42580063518898,14.70883044029006],[-90.41426888393664,14.70643929420897],[-90.40962392483989,14.70917533106545],[-90.40520375139835,14.70820559047276],[-90.39505746021743,14.7163742566972],[-90.3936967425342,14.71550305554628],[-90.38961563126337,14.70978724626407],[-90.38157709513634,14.70821594176082],[-90.37941262781794,14.69259466000189],[-90.39000000000073,14.68930761971908],[-90.39000000000071,14.68270980170981],[-90.38952027128485,14.6762942892854],[-90.3900867399406,14.67543336989144],[-90.39011249454677,14.67270447714087],[-90.39148318952913,14.66136581886357],[-90.39000000000073,14.65797638297113],[-90.39000000000071,14.65211527495299],[-90.38940898455998,14.65076663467415],[-90.38931521340147,14.64945902911909],[-90.39380342061126,14.63943395290763],[-90.38757745366627,14.63330459090603],[-90.38737695867914,14.62571696042017],[-90.38984268362491,14.61972402196374],[-90.40366541203002,14.61937272228679],[-90.40968824122466,14.61257457315603],[-90.40984458374221,14.61251645751095],[-90.41959888713383,14.61808789919405],[-90.4286666117184,14.61191477023447],[-90.43775528751273,14.61299510668825],[-90.43801845881454,14.61289555258019],[-90.44033264609013,14.61129160452568],[-90.44280986896898,14.61125309360076],[-90.45881217538385,14.60272885976649],[-90.46053242518707,14.60396517418452],[-90.47612861570171,14.58907155774923],[-90.47475462254572,14.58263007094009],[-90.49415217699237,14.57402814316979],[-90.50122041342232,14.57839016710974],[-90.50332281570056,14.57622836901179],[-90.52950404553549,14.5682617985892],[-90.52949346462839,14.56562535811295],[-90.53338254048344,14.56023652678523],[-90.53603026975634,14.55697223600931],[-90.53086192198688,14.54251085252147],[-90.53320670556404,14.53745920597617],[-90.54609105067273,14.54289399584922],[-90.54609871967489,14.54290535259661],[-90.5583952777861,14.54552095266029],[-90.56318773376834,14.5512341248702],[-90.56460203871802,14.55617606438324],[-90.55584695172843,14.56088290420718],[-90.54888338711645,14.57734704202718],[-90.54966126147723,14.57795650060315],[-90.56408051517326,14.57954995827146],[-90.57788639886164,14.5675879737574],[-90.57975055186662,14.56965469909534],[-90.57569275193117,14.59141695421617],[-90.56855676708273,14.59520953882442],[-90.56579447562731,14.59919098567655],[-90.56424150755971,14.60066241582618],[-90.57222086686158,14.61354536339126],[-90.57000000000068,14.62251668935647],[-90.57000000000068,14.6240403261889],[-90.56822717573131,14.62788220082484],[-90.56641599488924,14.63],[-90.56994019949678,14.6416888598983],[-90.5692305604165,14.64239686953378],[-90.5638264201487,14.65307454970773],[-90.54797964016552,14.65264452666851],[-90.54778535589666,14.6532867714048],[-90.54389858007228,14.6560182120577],[-90.52196256159337,14.66141140564074],[-90.52392198521504,14.67101256770665],[-90.52373180629172,14.67139369878791]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209794541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08632,15.358,-91.08632,15.358",
+    "geom:latitude":15.358,
+    "geom:longitude":-91.08632,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xichiquel",
+    "gn:country_code":"GT",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733980,
+    "gn:latitude":15.358,
+    "gn:longitude":-91.08632,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Xichiquel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xichiquel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421204285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733980
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b0a1088930f835b673f2fea3ed08cd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204285,
+            "locality_id":1209794541,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1209794541,
+    "wof:lastmodified":1537625238,
+    "wof:name":"Xichiquel",
+    "wof:parent_id":421204285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08632,
+    15.358,
+    -91.08632,
+    15.358
+],
+  "geometry": {"coordinates":[-91.08632,15.358],"type":"Point"}
+}

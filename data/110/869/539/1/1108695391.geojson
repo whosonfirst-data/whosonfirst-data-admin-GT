@@ -1,0 +1,111 @@
+{
+  "id": 1108695391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001121,
+    "geom:area_square_m":13418169.601244,
+    "geom:bbox":"-90.7018566748,14.5217718349,-90.6559053282,14.560468275",
+    "geom:latitude":14.542789,
+    "geom:longitude":-90.677998,
+    "iso:country":"GT",
+    "lbl:latitude":14.541571,
+    "lbl:longitude":-90.676138,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"MAGDALENA MILPAS ALTASSACATEPEQUEZ",
+    "meso:gadm_admin":"Magdalena Milpas Altas",
+    "meso:gaul_admin":"Magdalena Milpas Altas",
+    "meso:mps_x":-90.676138,
+    "meso:mps_y":14.541571,
+    "meso:name_en":"Magdalena Milpas Altas",
+    "meso:source":"AOTM",
+    "mps:latitude":14.541571,
+    "mps:longitude":-90.676138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u683c\u9054\u840a\u7d0d\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:fre_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:ita_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:pol_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:por_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:sco_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"Magdalena Milpas Altas",
+    "statoids:population":"8331",
+    "statoids:statoid":"GT.SA.MM",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2401074"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493709,
+    "wof:geomhash":"724d9ae4f9a599e8c8c7e840967fdeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695391,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":1108695391,
+    "wof:lastmodified":1514444480,
+    "wof:name":"Magdalena Milpas Altas",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8331,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.70185667483547,
+    14.5217718349203,
+    -90.65590532823113,
+    14.56046827495859
+],
+  "geometry": {"coordinates":[[[-90.69569915046557,14.56046827495859],[-90.68122636256962,14.55293061383916],[-90.67769347556042,14.55380877283046],[-90.67594959981156,14.55687541585834],[-90.65590532823113,14.5601907317339],[-90.66078954797089,14.54221368387168],[-90.66304651366157,14.54115760531396],[-90.66347038644278,14.5390897371641],[-90.66185686148503,14.52918353965678],[-90.66715496089122,14.5235628468009],[-90.67451269048884,14.52480248952701],[-90.67657871846971,14.52374625402063],[-90.67854050875265,14.5217718349203],[-90.6892999626166,14.52394752146458],[-90.69126519329002,14.52708422010013],[-90.68732771677675,14.53574634220462],[-90.68920385866069,14.54135870960709],[-90.69231151629701,14.54186905687869],[-90.69923960761059,14.54665808209081],[-90.70168252168578,14.55015122472964],[-90.70185667483547,14.55945857828132],[-90.69569915046557,14.56046827495859]]],"type":"Polygon"}
+}

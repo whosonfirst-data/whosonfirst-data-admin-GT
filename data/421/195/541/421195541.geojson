@@ -1,0 +1,141 @@
+{
+  "id": 421195541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003827,
+    "geom:area_square_m":45682299.015259,
+    "geom:bbox":"-91.3321167753,15.0995631675,-91.2073517867,15.2063530554",
+    "geom:latitude":15.15151,
+    "geom:longitude":-91.278477,
+    "iso:country":"GT",
+    "lbl:latitude":15.147281,
+    "lbl:longitude":-91.272355,
+    "meso:admin_1":"Totonicapan",
+    "meso:diss_me":"SANTA LUCIA LA REFORMATOTONICAPAN",
+    "meso:gadm_admin":"Santa Luc\u00eda La Reforma",
+    "meso:gaul_admin":"Santa Luc\u00eda La Reforma",
+    "meso:mps_x":-91.272355,
+    "meso:mps_y":15.147281,
+    "meso:name_en":"Santa Lucia La Reforma",
+    "meso:source":"AOTM",
+    "mps:latitude":15.147281,
+    "mps:longitude":-91.272355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u62c9\u96f7\u798f\u723e\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda la Reforma"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda La Reforma"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Lucia la Reforma",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115431,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807105,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.TO",
+    "statoids:name":"Santa Luc\u00eda La Reforma",
+    "statoids:population":"13479",
+    "statoids:statoid":"GT.TO.LR",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807105,
+        "hasc:id":"GT.TO.LR",
+        "qs:id":115431,
+        "wd:id":"Q3472669"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009851,
+    "wof:geomhash":"6ecf83f9d0480de666d6e75a7c27fd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195541,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421195541,
+    "wof:lastmodified":1536616120,
+    "wof:name":"Santa Lucia La Reforma",
+    "wof:parent_id":85671697,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":13479,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"LR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.33211677530439,
+    15.09956316749974,
+    -91.20735178667793,
+    15.20635305544861
+],
+  "geometry": {"coordinates":[[[-91.31576837424079,15.20635305544861],[-91.30958762835752,15.20556457106766],[-91.30694848233055,15.19491670490494],[-91.30180272456701,15.19200978566173],[-91.29970648669952,15.18359485902187],[-91.29756329829648,15.18064563101966],[-91.29384694876657,15.17848597717926],[-91.29388087667928,15.17231458659327],[-91.28490575790897,15.16531074175346],[-91.28124916869537,15.16384374835178],[-91.27466586349094,15.16652895876537],[-91.27206550255924,15.16447053080434],[-91.26435854673701,15.16421890953229],[-91.2570699637708,15.16156058719622],[-91.25574195986533,15.15434448841147],[-91.25728692094221,15.15006734082008],[-91.25727547833959,15.14999741249287],[-91.25270539257917,15.14440468088251],[-91.24312810044847,15.1430321803352],[-91.24260503546536,15.14280009806278],[-91.2380925631586,15.1381363150383],[-91.23643727840096,15.13271066752751],[-91.23645772543098,15.13264712492509],[-91.23543582616414,15.13076324184533],[-91.22273965710022,15.11943186138365],[-91.22126497380961,15.11916719659665],[-91.22045371411842,15.11955258918276],[-91.21318604896584,15.12014600926009],[-91.20735178667793,15.11249924235408],[-91.211828841385,15.10158102534718],[-91.2194017274071,15.09956316749974],[-91.22136108846637,15.10215040277983],[-91.23483582691409,15.10707081070941],[-91.23736060357432,15.11],[-91.23820281261352,15.11],[-91.24333708541084,15.10857214309555],[-91.247410623409,15.10936909832019],[-91.25482095127707,15.12350650593586],[-91.25557003561127,15.1236156967052],[-91.26099397396059,15.13029903982408],[-91.26679015214462,15.13269509692593],[-91.26767666406025,15.13262467391325],[-91.27432479833215,15.1288589859309],[-91.2846996958165,15.13774788026016],[-91.28529967682397,15.13805149737006],[-91.28836416560978,15.14704654441038],[-91.29111029081099,15.14762424941457],[-91.30064105879714,15.14732698085452],[-91.30183464552992,15.14704164604873],[-91.31043151871084,15.15200436198739],[-91.3137250698244,15.15706600208408],[-91.32843096391443,15.15607345101482],[-91.32944055216842,15.15839346611458],[-91.33211677530439,15.17254904299014],[-91.32926414852919,15.17562812271758],[-91.32907282262835,15.17987852606109],[-91.33105973997566,15.18401549824385],[-91.33093030865648,15.18721517584922],[-91.3290378258617,15.195382012368],[-91.32441353034372,15.19580957582165],[-91.32328675280665,15.19656360153721],[-91.31576837424079,15.20635305544861]]],"type":"Polygon"}
+}

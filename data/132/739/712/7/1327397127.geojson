@@ -1,0 +1,67 @@
+{
+  "id": 1327397127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.5,14.15,-90.5,14.15",
+    "geom:latitude":14.15,
+    "geom:longitude":-90.5,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Los Lotes",
+    "gn:country_code":"GT",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592993,
+    "gn:latitude":14.15,
+    "gn:longitude":-90.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Lotes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592993
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"beda594719e95917055d2b1aad4ca364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1327397127,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1327397127,
+    "wof:lastmodified":1536732065,
+    "wof:name":"Los Lotes",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.5,
+    14.15,
+    -90.5,
+    14.15
+],
+  "geometry": {"coordinates":[-90.5,14.15],"type":"Point"}
+}

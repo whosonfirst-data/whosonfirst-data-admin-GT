@@ -1,0 +1,70 @@
+{
+  "id": 1276833157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.06905,14.84252,-92.06905,14.84252",
+    "geom:latitude":14.84252,
+    "geom:longitude":-92.06905,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Tejeria",
+    "gn:country_code":"GT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638843,
+    "gn:latitude":14.84252,
+    "gn:longitude":-92.06905,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Tejer\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tejer\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638843
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b984dcaa9fcafb26a1b519da4662c3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":1276833157,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276833157,
+    "wof:lastmodified":1537625272,
+    "wof:name":"La Tejeria",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06905,
+    14.84252,
+    -92.06905,
+    14.84252
+],
+  "geometry": {"coordinates":[-92.06905,14.84252],"type":"Point"}
+}

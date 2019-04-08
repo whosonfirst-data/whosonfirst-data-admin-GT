@@ -1,0 +1,72 @@
+{
+  "id": 1226398795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,14.93333,-89.31667,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-89.31667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"La Jigua",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594486,
+    "gn:latitude":14.93333,
+    "gn:longitude":-89.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Jigua",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jigua",
+        "La Jigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        1108695381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594486
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0c8f43144042961c19f7b0b1aa0cb6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695381,
+            "locality_id":1226398795,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1226398795,
+    "wof:lastmodified":1537625184,
+    "wof:name":"La Jigua",
+    "wof:parent_id":1108695381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    14.93333,
+    -89.31667,
+    14.93333
+],
+  "geometry": {"coordinates":[-89.31667,14.93333],"type":"Point"}
+}

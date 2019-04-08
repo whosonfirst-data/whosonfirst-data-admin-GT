@@ -1,0 +1,67 @@
+{
+  "id": 1310287975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.71667,14.48333,-91.71667,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":-91.71667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Vaquilito",
+    "gn:country_code":"GT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587994,
+    "gn:latitude":14.48333,
+    "gn:longitude":-91.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vaquilito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421204387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587994
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1581e57af6de9b994c7c76a31b18d008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204387,
+            "locality_id":1310287975,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1310287975,
+    "wof:lastmodified":1536733457,
+    "wof:name":"Vaquilito",
+    "wof:parent_id":421204387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.71667,
+    14.48333,
+    -91.71667,
+    14.48333
+],
+  "geometry": {"coordinates":[-91.71666999999999,14.48333],"type":"Point"}
+}

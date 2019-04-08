@@ -1,0 +1,108 @@
+{
+  "id": 1108695635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001748,
+    "geom:area_square_m":20907185.356169,
+    "geom:bbox":"-91.3553568304,14.6609945742,-91.3063362526,14.741829965",
+    "geom:latitude":14.702956,
+    "geom:longitude":-91.331475,
+    "iso:country":"GT",
+    "lbl:latitude":14.720987,
+    "lbl:longitude":-91.323676,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SANTA MARIA VISITACIONSOLOLA",
+    "meso:gadm_admin":"Santa Mar\u00eda Visitaci\u00f3n",
+    "meso:gaul_admin":"Santa Mar\u00eda Visitaci\u00f3n",
+    "meso:mps_x":-91.323676,
+    "meso:mps_y":14.720987,
+    "meso:name_en":"Santa Maria Visitacion",
+    "meso:source":"AOTM",
+    "mps:latitude":14.720987,
+    "mps:longitude":-91.323676,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e\u6bd4\u897f\u5854\u897f\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"Santa Mar\u00eda Visitaci\u00f3n",
+    "statoids:population":"1919",
+    "statoids:statoid":"GT.SO.MV",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1748668"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493962,
+    "wof:geomhash":"89c750fa4bedfb3db9cbb6dfcdb0bc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695635,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1108695635,
+    "wof:lastmodified":1514444569,
+    "wof:name":"Santa Maria Visitacion",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":1919,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.3553568304467,
+    14.6609945741913,
+    -91.30633625260872,
+    14.74182996504649
+],
+  "geometry": {"coordinates":[[[-91.3239193725497,14.74182996504649],[-91.32004835385152,14.73872198355211],[-91.31898445903693,14.73382275106893],[-91.3063466771565,14.72599296885466],[-91.30633625260872,14.7230655286543],[-91.3081689388849,14.715286732627],[-91.31286368151746,14.71375619053023],[-91.31652215408981,14.70865695697604],[-91.31904328676329,14.70721502578655],[-91.32362368213323,14.69855590526274],[-91.32310757440369,14.69709457029175],[-91.32805192660928,14.68654802185169],[-91.32789183891268,14.67971657405069],[-91.32881941967811,14.67737641224037],[-91.32773943007409,14.67510771309149],[-91.32802088414583,14.67199075197804],[-91.32853756730705,14.66979997239686],[-91.32859617961751,14.66971087427407],[-91.33639482907317,14.6609945741913],[-91.33789532622842,14.66101566844847],[-91.34720745145559,14.66958729695473],[-91.34709638579085,14.6761924461362],[-91.3483379605664,14.67700162841427],[-91.34982857737067,14.6788251475086],[-91.35535683044669,14.68925614019711],[-91.35492883428159,14.69101331243278],[-91.34903160467933,14.69828103504444],[-91.34288118769183,14.69943901810616],[-91.33900307073714,14.70327764677394],[-91.33836895739394,14.71602942773651],[-91.33665296022079,14.71789140002286],[-91.33901748465641,14.73064358737144],[-91.32893049915124,14.73961531662633],[-91.3239193725497,14.74182996504649]]],"type":"Polygon"}
+}

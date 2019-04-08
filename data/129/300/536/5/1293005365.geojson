@@ -1,0 +1,72 @@
+{
+  "id": 1293005365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.31667,14.78333,-90.31667,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-90.31667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santo Domingo Los Ocotes",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589075,
+    "gn:latitude":14.78333,
+    "gn:longitude":-90.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santo Domingo Los Ocotes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santo Domingo",
+        "Santo Domingo Los Ocotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        1108695477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589075
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3751bb87557631d4be7183253bd786e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695477,
+            "locality_id":1293005365,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1293005365,
+    "wof:lastmodified":1537625140,
+    "wof:name":"Santo Domingo Los Ocotes",
+    "wof:parent_id":1108695477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.31667,
+    14.78333,
+    -90.31667,
+    14.78333
+],
+  "geometry": {"coordinates":[-90.31667,14.78333],"type":"Point"}
+}

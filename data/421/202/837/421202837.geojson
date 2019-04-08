@@ -1,0 +1,116 @@
+{
+  "id": 421202837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63361,17.39361,-89.63361,17.39361",
+    "geom:latitude":17.39361,
+    "geom:longitude":-89.63361,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0643\u0633\u0627\u0643\u062a\u0648\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:eus_x_preferred":[
+        "Uaxactun"
+    ],
+    "name:fra_x_preferred":[
+        "Uaxactun"
+    ],
+    "name:ita_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:lit_x_preferred":[
+        "Ua\u0161aktunas"
+    ],
+    "name:pol_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:por_x_preferred":[
+        "Uaxactun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0448\u0430\u043a\u0442\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:swe_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0430\u0448\u0430\u043a\u0442\u0443\u043d"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588073,
+    "qs:gn_pop":0,
+    "qs:name":"Uaxact\u00fan",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Peten",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":228576,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86617,
+    "src:geom":"quattroshapes",
+    "wd:latitude":17.393561,
+    "wd:longitude":-89.634533,
+    "wd:wordcount":1087,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588073,
+        "gp:id":86617,
+        "qs:id":228576,
+        "wd:id":"Q977738"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010131,
+    "wof:geomhash":"b2c00d2301eae20727b17f1434b0bd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695347,
+            "locality_id":421202837,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":421202837,
+    "wof:lastmodified":1527716212,
+    "wof:name":"Uaxact\u00fan",
+    "wof:parent_id":1108695347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63361,
+    17.39361,
+    -89.63361,
+    17.39361
+],
+  "geometry": {"coordinates":[-89.63361,17.39361],"type":"Point"}
+}

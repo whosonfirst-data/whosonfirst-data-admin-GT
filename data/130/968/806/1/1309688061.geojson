@@ -1,0 +1,67 @@
+{
+  "id": 1309688061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.46111,13.95083,-90.46111,13.95083",
+    "geom:latitude":13.95083,
+    "geom:longitude":-90.46111,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"GT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764779,
+    "gn:latitude":13.95083,
+    "gn:longitude":-90.46111,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764779
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"65e71ff45acf064f822bc68374647e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1309688061,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1309688061,
+    "wof:lastmodified":1536600736,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.46111,
+    13.95083,
+    -90.46111,
+    13.95083
+],
+  "geometry": {"coordinates":[-90.46111000000001,13.95083],"type":"Point"}
+}

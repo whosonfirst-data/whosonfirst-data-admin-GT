@@ -1,0 +1,70 @@
+{
+  "id": 1327397449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.1685,15.25346,-92.1685,15.25346",
+    "geom:latitude":15.25346,
+    "geom:longitude":-92.1685,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Nubes",
+    "gn:country_code":"GT",
+    "gn:dem":3132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637428,
+    "gn:latitude":15.25346,
+    "gn:longitude":-92.1685,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Las Nubes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Nubes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637428
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bddf6c753ba01711e87cf1a3e9af565b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1327397449,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1327397449,
+    "wof:lastmodified":1537625264,
+    "wof:name":"Las Nubes",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.1685,
+    15.25346,
+    -92.1685,
+    15.25346
+],
+  "geometry": {"coordinates":[-92.16849999999999,15.25346],"type":"Point"}
+}

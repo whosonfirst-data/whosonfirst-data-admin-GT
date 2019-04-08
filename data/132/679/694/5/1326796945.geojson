@@ -1,0 +1,67 @@
+{
+  "id": 1326796945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.5325,13.91083,-90.5325,13.91083",
+    "geom:latitude":13.91083,
+    "geom:longitude":-90.5325,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Banco",
+    "gn:country_code":"GT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597570,
+    "gn:latitude":13.91083,
+    "gn:longitude":-90.5325,
+    "gn:modification_date":"1998-09-22",
+    "gn:name":"El Banco",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597570
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a3c9c6106edb930dfaa9ba967eb54fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1326796945,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1326796945,
+    "wof:lastmodified":1537096468,
+    "wof:name":"El Banco",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.5325,
+    13.91083,
+    -90.5325,
+    13.91083
+],
+  "geometry": {"coordinates":[-90.5325,13.91083],"type":"Point"}
+}

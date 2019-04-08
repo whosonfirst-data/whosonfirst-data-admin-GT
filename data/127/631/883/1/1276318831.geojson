@@ -1,0 +1,70 @@
+{
+  "id": 1276318831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.25933,15.72876,-91.25933,15.72876",
+    "geom:latitude":15.72876,
+    "geom:longitude":-91.25933,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chojzunil",
+    "gn:country_code":"GT",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598333,
+    "gn:latitude":15.72876,
+    "gn:longitude":-91.25933,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chojzunil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chojzunil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598333
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"180aa3d39065b7fe0893daa950c2e297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1276318831,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276318831,
+    "wof:lastmodified":1537625220,
+    "wof:name":"Chojzunil",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.25933,
+    15.72876,
+    -91.25933,
+    15.72876
+],
+  "geometry": {"coordinates":[-91.25933000000001,15.72876],"type":"Point"}
+}

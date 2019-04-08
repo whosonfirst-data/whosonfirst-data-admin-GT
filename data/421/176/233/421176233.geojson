@@ -1,0 +1,109 @@
+{
+  "id": 421176233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.08333,14.85,-92.08333,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-92.08333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5361\u5854\u91cc\u5a1c"
+    ],
+    "name:dut_x_preferred":[
+        "Catarina"
+    ],
+    "name:eng_x_preferred":[
+        "Catarina"
+    ],
+    "name:ita_x_preferred":[
+        "Catarina"
+    ],
+    "name:pol_x_preferred":[
+        "Catarina"
+    ],
+    "name:por_x_preferred":[
+        "Catarina"
+    ],
+    "name:spa_x_preferred":[
+        "Catarina"
+    ],
+    "name:swe_x_preferred":[
+        "Catarina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5854\u91cc\u5a1c"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598958,
+    "qs:gn_pop":3040,
+    "qs:name":"Catarina",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045591,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81412,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598958,
+        "gp:id":81412,
+        "qs:id":1045591,
+        "wd:id":"Q1748875",
+        "wk:page":"Catarina, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009102,
+    "wof:geomhash":"55a896624313364be16a4ca40c72e0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":421176233,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421176233,
+    "wof:lastmodified":1527726471,
+    "wof:name":"Catarina",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:population":3040,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.08333,
+    14.85,
+    -92.08333,
+    14.85
+],
+  "geometry": {"coordinates":[-92.08333,14.85],"type":"Point"}
+}

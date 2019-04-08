@@ -1,0 +1,73 @@
+{
+  "id": 1226646373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.5,-89.36667,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Plan de la Arada",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591262,
+    "gn:latitude":14.5,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Plan de la Arada",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plan de Arada",
+        "Plan Arada",
+        "Plan de la Arada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421188729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591262
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0ed229fc66c4b5605e4e6ba0de3e0c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188729,
+            "locality_id":1226646373,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1226646373,
+    "wof:lastmodified":1537625157,
+    "wof:name":"Plan de la Arada",
+    "wof:parent_id":421188729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.5,
+    -89.36667,
+    14.5
+],
+  "geometry": {"coordinates":[-89.36667,14.5],"type":"Point"}
+}

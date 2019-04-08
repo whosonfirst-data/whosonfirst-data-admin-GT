@@ -1,0 +1,64 @@
+{
+  "id": 1209334575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54547,15.82336,-91.54547,15.82336",
+    "geom:latitude":15.82336,
+    "geom:longitude":-91.54547,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixtenam",
+    "gn:country_code":"GT",
+    "gn:dem":2771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595271,
+    "gn:latitude":15.82336,
+    "gn:longitude":-91.54547,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ixtenam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixtenam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595271
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b968b67da31d11e19ba82a0b099dcd07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209334575
+        }
+    ],
+    "wof:id":1209334575,
+    "wof:lastmodified":1537625190,
+    "wof:name":"Ixtenam",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54547,
+    15.82336,
+    -91.54547,
+    15.82336
+],
+  "geometry": {"coordinates":[-91.54546999999999,15.82336],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326825473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78333,14.56667,-89.78333,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-89.78333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Quequesillo",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596394,
+    "gn:latitude":14.56667,
+    "gn:longitude":-89.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Quequesillo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quequesquillo",
+        "El Quequexquillo",
+        "Quequexquillo",
+        "El Quequesillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        1108695547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596394
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1a995a6c748b6c5cc3e15d90bbb2c0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695547,
+            "locality_id":1326825473,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1326825473,
+    "wof:lastmodified":1537625202,
+    "wof:name":"El Quequesillo",
+    "wof:parent_id":1108695547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78333,
+    14.56667,
+    -89.78333,
+    14.56667
+],
+  "geometry": {"coordinates":[-89.78333000000001,14.56667],"type":"Point"}
+}

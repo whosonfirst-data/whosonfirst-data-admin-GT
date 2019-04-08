@@ -1,0 +1,137 @@
+{
+  "id": 421170801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003605,
+    "geom:area_square_m":43054995.119434,
+    "geom:bbox":"-91.7938524586,14.9902962524,-91.6982850274,15.0564228562",
+    "geom:latitude":15.02505,
+    "geom:longitude":-91.744629,
+    "iso:country":"GT",
+    "lbl:latitude":15.024598,
+    "lbl:longitude":-91.743917,
+    "meso:admin_1":"San Marcos",
+    "meso:diss_me":"SAN LORENZOSAN MARCOS",
+    "meso:gadm_admin":"San Lorenzo",
+    "meso:gaul_admin":"San Lorenzo",
+    "meso:mps_x":-91.743917,
+    "meso:mps_y":15.024598,
+    "meso:name_en":"San Lorenzo",
+    "meso:source":"AOTM",
+    "mps:latitude":15.024598,
+    "mps:longitude":-91.743917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:eng_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:eng_x_variant":[
+        "San Lorenzo"
+    ],
+    "name:ita_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:pol_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:por_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:swe_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3589865,
+    "qs:gn_pop":945,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"2",
+    "qs:qs_id":259837,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807154,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SM",
+    "statoids:name":"San Lorenzo",
+    "statoids:population":"9714",
+    "statoids:statoid":"GT.SM.SL",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589865,
+        "gp:id":26807154,
+        "hasc:id":"GT.SM.SL",
+        "qs:id":259837,
+        "wd:id":"Q845976",
+        "wk:page":"San Lorenzo, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008869,
+    "wof:geomhash":"3abf25eef11022e341bfaadceef05995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170801,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421170801,
+    "wof:lastmodified":1536615922,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":9714,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.79385245864677,
+    14.99029625243025,
+    -91.69828502738842,
+    15.05642285621868
+],
+  "geometry": {"coordinates":[[[-91.7914800344343,15.03915231468499],[-91.77705872243973,15.04061314654623],[-91.77568212246058,15.04265865422442],[-91.77519772270458,15.04288620016783],[-91.77050115059326,15.05139291147127],[-91.76278220098432,15.05339373577691],[-91.75667749900461,15.05109280169831],[-91.75526215714109,15.04933773146236],[-91.74817742513201,15.04748583868992],[-91.74379255807736,15.05],[-91.73735222362357,15.05],[-91.73331537568842,15.05518427225505],[-91.72564193103898,15.05642285621868],[-91.72123253344721,15.05336815075947],[-91.71725877228957,15.04595387349847],[-91.71984463028592,15.03745624640132],[-91.71892573136667,15.03530263785929],[-91.71061405408578,15.03188870623124],[-91.7098276201535,15.03002076165759],[-91.69828502738842,15.01993459424053],[-91.70325751212086,15.00980238222478],[-91.70620436095444,15.00848949295289],[-91.7073673979292,15.00885553089324],[-91.72343426086245,15.00383368714287],[-91.72385229094532,14.99909932186125],[-91.73802750212813,14.99383941159159],[-91.74155078823034,14.99029625243025],[-91.74417486118607,14.99060978392271],[-91.74645789253712,14.99298624498993],[-91.75970499377999,14.99615190850628],[-91.76185955776505,15.00576629089253],[-91.76314238386401,15.00713129305956],[-91.76325888399805,15.00996510784424],[-91.76673580479672,15.01511355955443],[-91.77383417822301,15.017438366368],[-91.78027706907415,15.01496231029843],[-91.78673553336488,15.02335586610685],[-91.78651612193937,15.02497186839411],[-91.79333055364222,15.03317855822649],[-91.79385245864677,15.03621291475513],[-91.7914800344343,15.03915231468499]]],"type":"Polygon"}
+}

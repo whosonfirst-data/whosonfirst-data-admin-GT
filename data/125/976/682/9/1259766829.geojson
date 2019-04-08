@@ -1,0 +1,67 @@
+{
+  "id": 1259766829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.96667,15.85,-90.96667,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":-90.96667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kaibil Balam",
+    "gn:country_code":"GT",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595059,
+    "gn:latitude":15.85,
+    "gn:longitude":-90.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kaibil Balam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595059
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"948ec4457be3331d8c8533a2d7559f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1259766829,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259766829,
+    "wof:lastmodified":1536947521,
+    "wof:name":"Kaibil Balam",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.96667,
+    15.85,
+    -90.96667,
+    15.85
+],
+  "geometry": {"coordinates":[-90.96666999999999,15.85],"type":"Point"}
+}

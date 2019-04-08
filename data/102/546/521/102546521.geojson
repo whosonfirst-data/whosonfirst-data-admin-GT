@@ -1,0 +1,66 @@
+{
+  "id": 102546521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.8358333333,13.9361111111,-90.8358333333,13.9361111111",
+    "geom:latitude":13.936111,
+    "geom:longitude":-90.835833,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "oa:elevation_ft":"29",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":69,
+    "woe:hierarchy":{
+        "country_id":23424834,
+        "county_id":26806979,
+        "planet_id":1,
+        "state_id":2345557
+    },
+    "wof:belongsto":[
+        85632385,
+        85671677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513340,
+        "iata:code":"GSJ",
+        "icao:code":"MGSJ",
+        "oa:id":"4648",
+        "wd:id":"Q3272989"
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2e7661f271154403f80a553d797f429e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546521,
+            "country_id":85632385,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":102546521,
+    "wof:lastmodified":1543846099,
+    "wof:name":"San Jose Airport",
+    "wof:parent_id":85671677,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -90.835833333333,
+    13.936111111111,
+    -90.835833333333,
+    13.936111111111
+],
+  "geometry": {"coordinates":[-90.835833333333,13.936111111111],"type":"Point"}
+}

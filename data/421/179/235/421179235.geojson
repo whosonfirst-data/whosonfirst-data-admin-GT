@@ -1,0 +1,115 @@
+{
+  "id": 421179235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.41667,14.07417,-90.41667,14.07417",
+    "geom:latitude":14.07417,
+    "geom:longitude":-90.41667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u74dc\u85a9\u5361\u6f58"
+    ],
+    "name:dut_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Guazacap\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u85a9\u5361\u6f58"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3595503,
+    "qs:gn_pop":7080,
+    "qs:name":"Guazacap\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Santa Rosa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149202,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83137,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595503,
+        "gp:id":83137,
+        "qs:id":149202,
+        "wd:id":"Q2401701",
+        "wk:page":"Guazacap\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009208,
+    "wof:geomhash":"630f5eb5cc068864a0a4098a61e6e5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695359,
+            "locality_id":421179235,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":421179235,
+    "wof:lastmodified":1527717705,
+    "wof:name":"Guazacap\u00e1n",
+    "wof:parent_id":1108695359,
+    "wof:placetype":"locality",
+    "wof:population":7080,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.41667,
+    14.07417,
+    -90.41667,
+    14.07417
+],
+  "geometry": {"coordinates":[-90.41667,14.07417],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360075813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63541,15.68587,-91.63541,15.68587",
+    "geom:latitude":15.68587,
+    "geom:longitude":-91.63541,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Solomcu",
+    "gn:country_code":"GT",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477086,
+    "gn:latitude":15.68587,
+    "gn:longitude":-91.63541,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Solomcu",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Solomcu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477086
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2674c7d57a9172898074acbbe80dda1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695307,
+            "locality_id":1360075813,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1360075813,
+    "wof:lastmodified":1537625328,
+    "wof:name":"Solomcu",
+    "wof:parent_id":1108695307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63541,
+    15.68587,
+    -91.63541,
+    15.68587
+],
+  "geometry": {"coordinates":[-91.63540999999999,15.68587],"type":"Point"}
+}

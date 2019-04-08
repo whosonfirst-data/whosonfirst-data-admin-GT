@@ -1,0 +1,70 @@
+{
+  "id": 1242850889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.01343,14.70896,-92.01343,14.70896",
+    "geom:latitude":14.70896,
+    "geom:longitude":-92.01343,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sector Villa Linda",
+    "gn:country_code":"GT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10016127,
+    "gn:latitude":14.70896,
+    "gn:longitude":-92.01343,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sector Villa Linda",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sector Villa Linda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10016127
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7b70a5559118e1f5ee6cfeb3975688e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695297,
+            "locality_id":1242850889,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1242850889,
+    "wof:lastmodified":1537625275,
+    "wof:name":"Sector Villa Linda",
+    "wof:parent_id":1108695297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.01343,
+    14.70896,
+    -92.01343,
+    14.70896
+],
+  "geometry": {"coordinates":[-92.01343,14.70896],"type":"Point"}
+}

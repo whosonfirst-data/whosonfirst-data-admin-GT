@@ -1,0 +1,64 @@
+{
+  "id": 1209185601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.6585,15.11693,-91.6585,15.11693",
+    "geom:latitude":15.11693,
+    "geom:longitude":-91.6585,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Estancia",
+    "gn:country_code":"GT",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458479,
+    "gn:latitude":15.11693,
+    "gn:longitude":-91.6585,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"La Estancia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Estancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458479
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb7b0b3dcd3c5f43d4a78be16a336165",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209185601
+        }
+    ],
+    "wof:id":1209185601,
+    "wof:lastmodified":1537625301,
+    "wof:name":"La Estancia",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6585,
+    15.11693,
+    -91.6585,
+    15.11693
+],
+  "geometry": {"coordinates":[-91.6585,15.11693],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259951485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.85516,15.10253,-91.85516,15.10253",
+    "geom:latitude":15.10253,
+    "geom:longitude":-91.85516,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuiladrillo",
+    "gn:country_code":"GT",
+    "gn:dem":2949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475512,
+    "gn:latitude":15.10253,
+    "gn:longitude":-91.85516,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuiladrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuiladrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475512
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7783e610b0e892dd90afa35b5741cccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695365,
+            "locality_id":1259951485,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259951485,
+    "wof:lastmodified":1537625311,
+    "wof:name":"Tuiladrillo",
+    "wof:parent_id":1108695365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.85516,
+    15.10253,
+    -91.85516,
+    15.10253
+],
+  "geometry": {"coordinates":[-91.85516,15.10253],"type":"Point"}
+}

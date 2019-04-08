@@ -1,0 +1,138 @@
+{
+  "id": 421203515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003777,
+    "geom:area_square_m":45209629.559258,
+    "geom:bbox":"-90.8746401387,14.4931930312,-90.7835908682,14.5657504516",
+    "geom:latitude":14.528139,
+    "geom:longitude":-90.83076,
+    "iso:country":"GT",
+    "lbl:latitude":14.527332,
+    "lbl:longitude":-90.835253,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SAN MIGUEL DUENASSACATEPEQUEZ",
+    "meso:gadm_admin":"San Miguel Due\u00f1as",
+    "meso:gaul_admin":"San Miguel Due\u00f1as",
+    "meso:mps_x":-90.835253,
+    "meso:mps_y":14.527332,
+    "meso:name_en":"San Miguel Duenas",
+    "meso:source":"AOTM",
+    "mps:latitude":14.527332,
+    "mps:longitude":-90.835253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u675c\u57c3\u5c3c\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:sco_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Miguel Chicaj",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Baja Verapaz",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":232581,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26806927,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"San Miguel Due\u00f1as",
+    "statoids:population":"8966",
+    "statoids:statoid":"GT.SA.MD",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806927,
+        "hasc:id":"GT.SA.MD",
+        "qs:id":232581,
+        "wd:id":"Q2400763"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010155,
+    "wof:geomhash":"807f640f9ac1115f9e0c6b41b9a45c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203515,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421203515,
+    "wof:lastmodified":1536616158,
+    "wof:name":"San Miguel Duenas",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8966,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"MD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.8746401386894,
+    14.49319303116346,
+    -90.78359086818492,
+    14.56575045158837
+],
+  "geometry": {"coordinates":[[[-90.85909380504947,14.5453604359204],[-90.85330191940702,14.54879876548346],[-90.85912251482834,14.56414688657778],[-90.84555435220243,14.56575045158837],[-90.84113451469267,14.56177368659294],[-90.83562998468486,14.56270539872826],[-90.82873692347164,14.557837699469],[-90.82967659063061,14.55126888612892],[-90.82829400284879,14.5483054615561],[-90.81996809519934,14.543120855537],[-90.81638917439449,14.5449675672524],[-90.81200981909809,14.54362346439292],[-90.80288346802995,14.54771258782333],[-90.79602933892032,14.54515772387994],[-90.79331257731481,14.54105688254996],[-90.78417150504953,14.53965367246557],[-90.78587450628558,14.52535053045869],[-90.78359086818492,14.52136349015141],[-90.79427377109157,14.51147115075393],[-90.7967925106266,14.50615853318583],[-90.8043602100223,14.51012050464688],[-90.81540048432288,14.50657943241315],[-90.81898949163075,14.49448619649679],[-90.82114838305108,14.49319303116346],[-90.82633242675598,14.4950712253433],[-90.83201253414259,14.49706833028886],[-90.83728382437461,14.5026546956143],[-90.83773690298028,14.50291964952677],[-90.83775918070745,14.50294356062926],[-90.83848768025197,14.5044345849578],[-90.84005243875814,14.50646211701063],[-90.84702746468214,14.51053998300876],[-90.85402869262643,14.51064916763229],[-90.85512456162866,14.51020614250695],[-90.86014723906074,14.50412374140707],[-90.86292476964546,14.50318120624549],[-90.87369303318863,14.50705319238034],[-90.87275813894384,14.51612731121357],[-90.8716134108592,14.5180082980761],[-90.8723227884456,14.52272724002762],[-90.8746401386894,14.52665718373537],[-90.87208240026118,14.53091642546445],[-90.87021773961872,14.53331511294836],[-90.86353027587678,14.53474633826322],[-90.86143146933314,14.53617297553876],[-90.86111517829998,14.53631444027744],[-90.85909380504947,14.5453604359204]]],"type":"Polygon"}
+}

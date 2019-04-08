@@ -1,0 +1,70 @@
+{
+  "id": 1260166755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28974,16.03153,-91.28974,16.03153",
+    "geom:latitude":16.03153,
+    "geom:longitude":-91.28974,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Centinela Grande",
+    "gn:country_code":"GT",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533204,
+    "gn:latitude":16.03153,
+    "gn:longitude":-91.28974,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"El Centinela Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Centinela Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533204
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"eb4178da77d72d2f04dabfbc154698c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1260166755,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260166755,
+    "wof:lastmodified":1537625245,
+    "wof:name":"El Centinela Grande",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28974,
+    16.03153,
+    -91.28974,
+    16.03153
+],
+  "geometry": {"coordinates":[-91.28973999999999,16.03153],"type":"Point"}
+}

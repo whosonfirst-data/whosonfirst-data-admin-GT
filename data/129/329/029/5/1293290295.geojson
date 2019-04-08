@@ -1,0 +1,70 @@
+{
+  "id": 1293290295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41397,15.50173,-91.41397,15.50173",
+    "geom:latitude":15.50173,
+    "geom:longitude":-91.41397,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tunima Grande",
+    "gn:country_code":"GT",
+    "gn:dem":3192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492059,
+    "gn:latitude":15.50173,
+    "gn:longitude":-91.41397,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tunim\u00e1 Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tunim\u00e1 Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492059
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e1a197bde127b3cbae16da6685b8d859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1293290295,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293290295,
+    "wof:lastmodified":1537625369,
+    "wof:name":"Tunima Grande",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41397,
+    15.50173,
+    -91.41397,
+    15.50173
+],
+  "geometry": {"coordinates":[-91.41397000000001,15.50173],"type":"Point"}
+}

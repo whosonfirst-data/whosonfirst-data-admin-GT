@@ -1,0 +1,70 @@
+{
+  "id": 1343645087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.18896,15.46418,-91.18896,15.46418",
+    "geom:latitude":15.46418,
+    "geom:longitude":-91.18896,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bipecbalam",
+    "gn:country_code":"GT",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734025,
+    "gn:latitude":15.46418,
+    "gn:longitude":-91.18896,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bipecbalam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bipecbalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734025
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9552ad3c6b946e04e6895f47b3e69671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1343645087,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343645087,
+    "wof:lastmodified":1537625238,
+    "wof:name":"Bipecbalam",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.18896,
+    15.46418,
+    -91.18896,
+    15.46418
+],
+  "geometry": {"coordinates":[-91.18895999999999,15.46418],"type":"Point"}
+}

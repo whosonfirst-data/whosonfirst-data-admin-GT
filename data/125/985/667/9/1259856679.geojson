@@ -1,0 +1,70 @@
+{
+  "id": 1259856679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.06066,16.09752,-90.06066,16.09752",
+    "geom:latitude":16.09752,
+    "geom:longitude":-90.06066,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"GT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11510348,
+    "gn:latitude":16.09752,
+    "gn:longitude":-90.06066,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510348
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a750a149ea0c8e5a4f76e65c5df1fbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1259856679,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1259856679,
+    "wof:lastmodified":1537625381,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.06066,
+    16.09752000000001,
+    -90.06066,
+    16.09752000000001
+],
+  "geometry": {"coordinates":[-90.06066,16.09752000000001],"type":"Point"}
+}

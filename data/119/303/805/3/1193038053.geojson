@@ -1,0 +1,70 @@
+{
+  "id": 1193038053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61852,15.59688,-91.61852,15.59688",
+    "geom:latitude":15.59688,
+    "geom:longitude":-91.61852,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Onlaj",
+    "gn:country_code":"GT",
+    "gn:dem":2729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592024,
+    "gn:latitude":15.59688,
+    "gn:longitude":-91.61852,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Onlaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Onlaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592024
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"819b8fa0674a9b28e5061bc68e22325f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1193038053,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193038053,
+    "wof:lastmodified":1537625163,
+    "wof:name":"Onlaj",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61852,
+    15.59688,
+    -91.61852,
+    15.59688
+],
+  "geometry": {"coordinates":[-91.61852,15.59688],"type":"Point"}
+}

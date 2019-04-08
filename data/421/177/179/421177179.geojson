@@ -1,0 +1,121 @@
+{
+  "id": 421177179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.8,15.11667,-91.8,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":-91.8,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7279\u80e1\u7279\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "Tejutla"
+    ],
+    "name:dut_x_preferred":[
+        "Tejutla"
+    ],
+    "name:eng_x_preferred":[
+        "Tejutla"
+    ],
+    "name:fra_x_preferred":[
+        "Tejutla"
+    ],
+    "name:fre_x_preferred":[
+        "Tejutla"
+    ],
+    "name:ger_x_preferred":[
+        "Tejutla"
+    ],
+    "name:ita_x_preferred":[
+        "Tejutla"
+    ],
+    "name:pol_x_preferred":[
+        "Tejutla"
+    ],
+    "name:por_x_preferred":[
+        "Tejutla"
+    ],
+    "name:spa_x_preferred":[
+        "Tejutla"
+    ],
+    "name:swe_x_preferred":[
+        "Tejutla"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u80e1\u7279\u62c9"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588460,
+    "qs:gn_pop":2653,
+    "qs:name":"Tejutla",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":190,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116145,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86400,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1301,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588460,
+        "gp:id":86400,
+        "qs:id":1116145,
+        "wd:id":"Q1748860",
+        "wk:page":"Tejutla, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009135,
+    "wof:geomhash":"15a97aaa152cb077da523ae521df2cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695671,
+            "locality_id":421177179,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421177179,
+    "wof:lastmodified":1527716486,
+    "wof:name":"Tejutla",
+    "wof:parent_id":1108695671,
+    "wof:placetype":"locality",
+    "wof:population":2653,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.8,
+    15.11667,
+    -91.8,
+    15.11667
+],
+  "geometry": {"coordinates":[-91.8,15.11667],"type":"Point"}
+}

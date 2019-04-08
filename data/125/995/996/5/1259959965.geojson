@@ -1,0 +1,67 @@
+{
+  "id": 1259959965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41806,16.20889,-89.41806,16.20889",
+    "geom:latitude":16.20889,
+    "geom:longitude":-89.41806,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ixtoc",
+    "gn:country_code":"GT",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759538,
+    "gn:latitude":16.20889,
+    "gn:longitude":-89.41806,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Ixtoc",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759538
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c89029cbbeff53cd2353ad6c1327c058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1259959965,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1259959965,
+    "wof:lastmodified":1536669058,
+    "wof:name":"Ixtoc",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41806,
+    16.20889,
+    -89.41806,
+    16.20889
+],
+  "geometry": {"coordinates":[-89.41806,16.20889],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243024711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.66667,14.9,-89.66667,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-89.66667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Encinal",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597094,
+    "gn:latitude":14.9,
+    "gn:longitude":-89.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Encinal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Encinal",
+        "El Encinal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        1108695363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597094
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"eedf2a66555978e8b95e8de4ba1db7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695363,
+            "locality_id":1243024711,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1243024711,
+    "wof:lastmodified":1537625208,
+    "wof:name":"El Encinal",
+    "wof:parent_id":1108695363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.66667,
+    14.9,
+    -89.66667,
+    14.9
+],
+  "geometry": {"coordinates":[-89.66667,14.9],"type":"Point"}
+}

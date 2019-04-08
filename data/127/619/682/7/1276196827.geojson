@@ -1,0 +1,70 @@
+{
+  "id": 1276196827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09587,15.11798,-91.09587,15.11798",
+    "geom:latitude":15.11798,
+    "geom:longitude":-91.09587,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pahaj",
+    "gn:country_code":"GT",
+    "gn:dem":2270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485085,
+    "gn:latitude":15.11798,
+    "gn:longitude":-91.09587,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pahaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pahaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485085
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"713babf0bd130a5b02f7f5520f0ce9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1276196827,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276196827,
+    "wof:lastmodified":1537625355,
+    "wof:name":"Pahaj",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09587,
+    15.11798,
+    -91.09587,
+    15.11798
+],
+  "geometry": {"coordinates":[-91.09587000000001,15.11798],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293860087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.86818,15.06722,-91.86818,15.06722",
+    "geom:latitude":15.06722,
+    "geom:longitude":-91.86818,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Brisas",
+    "gn:country_code":"GT",
+    "gn:dem":3081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475493,
+    "gn:latitude":15.06722,
+    "gn:longitude":-91.86818,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Las Brisas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Brisas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475493
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ce6dfd7d3102bc85a6cc78475bf612c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695365,
+            "locality_id":1293860087,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293860087,
+    "wof:lastmodified":1537625310,
+    "wof:name":"Las Brisas",
+    "wof:parent_id":1108695365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.86818,
+    15.06722,
+    -91.86818,
+    15.06722
+],
+  "geometry": {"coordinates":[-91.86818,15.06722],"type":"Point"}
+}

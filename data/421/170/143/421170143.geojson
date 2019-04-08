@@ -1,0 +1,135 @@
+{
+  "id": 421170143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004671,
+    "geom:area_square_m":55841684.035691,
+    "geom:bbox":"-91.3260088545,14.7387219836,-91.2299153313,14.8219728298",
+    "geom:latitude":14.77954,
+    "geom:longitude":-91.275243,
+    "iso:country":"GT",
+    "lbl:latitude":14.781669,
+    "lbl:longitude":-91.270514,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SANTA LUCIA UTATLANSOLOLA",
+    "meso:gadm_admin":"Santa Luc\u00eda Utatl\u00e1n",
+    "meso:gaul_admin":"Santa Luc\u00eda Utatl\u00e1n",
+    "meso:mps_x":-91.270514,
+    "meso:mps_y":14.781669,
+    "meso:name_en":"Santa Lucia Utatlan",
+    "meso:source":"AOTM",
+    "mps:latitude":14.781669,
+    "mps:longitude":-91.270514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u70cf\u5854\u7279\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Lucia Utatlan",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":305,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":220310,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807189,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"Santa Luc\u00eda Utatl\u00e1n",
+    "statoids:population":"18011",
+    "statoids:statoid":"GT.SO.LU",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807189,
+        "hasc:id":"GT.SO.LU",
+        "qs:id":220310,
+        "wd:id":"Q2401971"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008839,
+    "wof:geomhash":"7643835f7ec8e8c3c90d7b5189da9d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170143,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421170143,
+    "wof:lastmodified":1536615907,
+    "wof:name":"Santa Lucia Utatlan",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":18011,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"LU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.32600885445883,
+    14.73872198355211,
+    -91.2299153313458,
+    14.821972829786
+],
+  "geometry": {"coordinates":[[[-91.30519758137012,14.7687587387469],[-91.30238903225917,14.76942558101725],[-91.29882511434523,14.77098635239305],[-91.29621872522242,14.78876794335866],[-91.30733568883772,14.79178418883107],[-91.30997025860489,14.7976852159838],[-91.30105637423156,14.8084493768598],[-91.29724777805862,14.80826092390361],[-91.29324841752764,14.80902712638643],[-91.28755896383227,14.80755795603297],[-91.28316793488794,14.81040463027024],[-91.27609187915294,14.81001596190857],[-91.2727498894884,14.81774981484007],[-91.26532910657406,14.821972829786],[-91.25829272937159,14.81579048326781],[-91.24951707175309,14.81292719260962],[-91.2425513121573,14.8181505149662],[-91.24092417671218,14.81830847389752],[-91.23572305090374,14.81419411723574],[-91.23132008006763,14.80809263882836],[-91.22991533134579,14.80434739482775],[-91.23618015136347,14.79455768722329],[-91.23396088206022,14.78561698101332],[-91.24274907204492,14.77732388262286],[-91.24323093762429,14.77449603436178],[-91.24153436365896,14.7711372958598],[-91.24055871751305,14.76631442120672],[-91.24505449755632,14.76145060815839],[-91.24773601204873,14.75210452080534],[-91.25486430926412,14.75279146994449],[-91.26214772801391,14.74907194949494],[-91.27017832432799,14.75328149739769],[-91.27452784337372,14.750311243782],[-91.28228118374037,14.75010840041823],[-91.28784115937226,14.74219120805743],[-91.29937751914541,14.74520435745406],[-91.30342206454982,14.74159866834755],[-91.30972878383062,14.74197043928809],[-91.32004835385152,14.73872198355211],[-91.3239193725497,14.74182996504649],[-91.32600885445883,14.75479950070959],[-91.3258522753368,14.75549379707381],[-91.32594828029934,14.75713554118244],[-91.32565851836102,14.76249426228742],[-91.30703679936177,14.76673350162125],[-91.3065697095727,14.76709234657635],[-91.30519758137012,14.7687587387469]]],"type":"Polygon"}
+}

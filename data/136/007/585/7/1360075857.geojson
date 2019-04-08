@@ -1,0 +1,70 @@
+{
+  "id": 1360075857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.64071,15.55159,-91.64071,15.55159",
+    "geom:latitude":15.55159,
+    "geom:longitude":-91.64071,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chicoy",
+    "gn:country_code":"GT",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598623,
+    "gn:latitude":15.55159,
+    "gn:longitude":-91.64071,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chicoy",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598623
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"908eb3c76f9927bd52f93d1580dc6be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1360075857,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1360075857,
+    "wof:lastmodified":1537625223,
+    "wof:name":"Chicoy",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.64071,
+    15.55159,
+    -91.64071,
+    15.55159
+],
+  "geometry": {"coordinates":[-91.64071,15.55159],"type":"Point"}
+}

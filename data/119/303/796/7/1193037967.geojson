@@ -1,0 +1,70 @@
+{
+  "id": 1193037967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.86813,15.63781,-91.86813,15.63781",
+    "geom:latitude":15.63781,
+    "geom:longitude":-91.86813,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Chucles",
+    "gn:country_code":"GT",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10146522,
+    "gn:latitude":15.63781,
+    "gn:longitude":-91.86813,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Los Chucles",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Chucles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10146522
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e743e09d0d9435470ff1f9dac5c8e27f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1193037967,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193037967,
+    "wof:lastmodified":1537625277,
+    "wof:name":"Los Chucles",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.86813,
+    15.63781,
+    -91.86813,
+    15.63781
+],
+  "geometry": {"coordinates":[-91.86812999999999,15.63781],"type":"Point"}
+}

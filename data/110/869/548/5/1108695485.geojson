@@ -1,0 +1,111 @@
+{
+  "id": 1108695485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000729,
+    "geom:area_square_m":8721176.52856,
+    "geom:bbox":"-90.7012829529,14.5830501748,-90.6687382771,14.6164756483",
+    "geom:latitude":14.600961,
+    "geom:longitude":-90.684299,
+    "iso:country":"GT",
+    "lbl:latitude":14.602098,
+    "lbl:longitude":-90.682362,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SAN BARTOLOME MILPAS ALTASSACATEPEQUEZ",
+    "meso:gadm_admin":"San Bartolom\u00e9 Milpas Altas",
+    "meso:gaul_admin":"San Bartolom\u00e9 Milpas Altas",
+    "meso:mps_x":-90.682362,
+    "meso:mps_y":14.602098,
+    "meso:name_en":"San Bartolome Milpas Altas",
+    "meso:source":"AOTM",
+    "mps:latitude":14.602098,
+    "mps:longitude":-90.682362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u6258\u6d1b\u6885\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:eng_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:fre_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:ita_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:pol_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:por_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:sco_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:swe_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"San Bartolom\u00e9 Milpas Altas",
+    "statoids:population":"5291",
+    "statoids:statoid":"GT.SA.BM",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2401093"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493811,
+    "wof:geomhash":"8e342dcc6212ca9804a820a1f2cba7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695485,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":1108695485,
+    "wof:lastmodified":1514444532,
+    "wof:name":"San Bartolome Milpas Altas",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":5291,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.70128295294188,
+    14.5830501747588,
+    -90.6687382770926,
+    14.61647564832657
+],
+  "geometry": {"coordinates":[[[-90.67832513607485,14.61584091087979],[-90.6687382770926,14.60249336599599],[-90.6695100531815,14.59935966756606],[-90.67126623419671,14.59805978883672],[-90.67306644118862,14.59570929298647],[-90.67317737549976,14.58567622693337],[-90.67885765652822,14.58370490240746],[-90.68122139340117,14.58429782112075],[-90.68881406421427,14.5830501747588],[-90.69274718172096,14.58602823747134],[-90.69412252905597,14.58823015690174],[-90.69436415560624,14.58911621433322],[-90.69098757277743,14.59488546249632],[-90.69615594880165,14.60407783299115],[-90.69921279972856,14.60625244852815],[-90.70128295294188,14.61164798775586],[-90.69679445278092,14.61607040295919],[-90.68211117479822,14.61637220944796],[-90.68185359800377,14.61647564832657],[-90.68136006489546,14.61626977625928],[-90.67832513607485,14.61584091087979]]],"type":"Polygon"}
+}

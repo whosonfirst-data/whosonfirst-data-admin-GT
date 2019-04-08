@@ -1,0 +1,73 @@
+{
+  "id": 1243335059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.80499,15.22991,-91.80499,15.22991",
+    "geom:latitude":15.22991,
+    "geom:longitude":-91.80499,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sicabe",
+    "gn:country_code":"GT",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588758,
+    "gn:latitude":15.22991,
+    "gn:longitude":-91.80499,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"S\u00edcabe",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "S\u00edcabe"
+    ],
+    "name:und_x_variant":[
+        "Sicab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588758
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0263b8982896084c899fd8ac02900300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695565,
+            "locality_id":1243335059,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243335059,
+    "wof:lastmodified":1537625136,
+    "wof:name":"Sicabe",
+    "wof:parent_id":1108695565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.80499,
+    15.22991,
+    -91.80499,
+    15.22991
+],
+  "geometry": {"coordinates":[-91.80499,15.22991],"type":"Point"}
+}

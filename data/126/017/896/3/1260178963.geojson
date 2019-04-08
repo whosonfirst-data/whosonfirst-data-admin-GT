@@ -1,0 +1,70 @@
+{
+  "id": 1260178963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.6565,15.80588,-91.6565,15.80588",
+    "geom:latitude":15.80588,
+    "geom:longitude":-91.6565,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santo Domingo Xeen",
+    "gn:country_code":"GT",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481883,
+    "gn:latitude":15.80588,
+    "gn:longitude":-91.6565,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Santo Domingo Xeen",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santo Domingo Xeen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481883
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d0434fd0691cb97148fa1c7fbf4f575e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1260178963,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260178963,
+    "wof:lastmodified":1537625343,
+    "wof:name":"Santo Domingo Xeen",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6565,
+    15.80588,
+    -91.6565,
+    15.80588
+],
+  "geometry": {"coordinates":[-91.65649999999999,15.80588],"type":"Point"}
+}

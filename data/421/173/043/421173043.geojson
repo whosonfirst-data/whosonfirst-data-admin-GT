@@ -1,0 +1,125 @@
+{
+  "id": 421173043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.72667,14.51833,-90.72667,14.51833",
+    "geom:latitude":14.51833,
+    "geom:longitude":-90.72667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u9e97\u4e9e\u5fb7\u8d6b\u8607\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30de\u30ea\u30a2\u30fb\u30c7\u30fb\u30d8\u30b9\u30b9"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:swe_x_preferred":[
+        "Municipio de Santa Mar\u00eda de Jes\u00fas"
+    ],
+    "name:unk_x_variant":[
+        "Santa Mar\u00eda"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589253,
+    "qs:gn_pop":15529,
+    "qs:name":"Santa Mar\u00eda de Jes\u00fas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":662,
+    "qs:photos_1k":134,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":662,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":489179,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86027,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        421201599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589253,
+        "gp:id":86027,
+        "qs:id":489179,
+        "wd:id":"Q119252"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008968,
+    "wof:geomhash":"01380d6acc6ef759d13514dec5e075ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201599,
+            "locality_id":421173043,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421173043,
+    "wof:lastmodified":1514444569,
+    "wof:name":"Santa Mar\u00eda de Jes\u00fas",
+    "wof:parent_id":421201599,
+    "wof:placetype":"locality",
+    "wof:population":15529,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.72667,
+    14.51833,
+    -90.72667,
+    14.51833
+],
+  "geometry": {"coordinates":[-90.72667,14.51833],"type":"Point"}
+}

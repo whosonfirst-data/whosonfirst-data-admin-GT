@@ -1,0 +1,61 @@
+{
+  "id": 1260386909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.23333,13.93333,-91.23333,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-91.23333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"San Jose Rama Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589971,
+    "gn:latitude":13.93333,
+    "gn:longitude":-91.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Jos\u00e9 Rama Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589971
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a9f66446267c98d7a68e8e58e0fb345f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260386909,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260386909,
+    "wof:lastmodified":1537067483,
+    "wof:name":"San Jose Rama Blanca",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.23333,
+    13.93333,
+    -91.23333,
+    13.93333
+],
+  "geometry": {"coordinates":[-91.23333,13.93333],"type":"Point"}
+}

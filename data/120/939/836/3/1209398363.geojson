@@ -1,0 +1,64 @@
+{
+  "id": 1209398363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08002,15.76908,-91.08002,15.76908",
+    "geom:latitude":15.76908,
+    "geom:longitude":-91.08002,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vista Hermosa La Paz",
+    "gn:country_code":"GT",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449733,
+    "gn:latitude":15.76908,
+    "gn:longitude":-91.08002,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Vista Hermosa La Paz",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vista Hermosa La Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449733
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f0015d8118d55da42e9a60cec96571dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209398363
+        }
+    ],
+    "wof:id":1209398363,
+    "wof:lastmodified":1537625282,
+    "wof:name":"Vista Hermosa La Paz",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08002,
+    15.76908,
+    -91.08002,
+    15.76908
+],
+  "geometry": {"coordinates":[-91.08002,15.76908],"type":"Point"}
+}

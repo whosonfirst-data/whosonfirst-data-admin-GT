@@ -1,0 +1,115 @@
+{
+  "id": 1108695497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002365,
+    "geom:area_square_m":28261587.482974,
+    "geom:bbox":"-91.7968722772,14.8457069095,-91.7361980888,14.92449986",
+    "geom:latitude":14.887492,
+    "geom:longitude":-91.769214,
+    "iso:country":"GT",
+    "lbl:latitude":14.888548,
+    "lbl:longitude":-91.768755,
+    "meso:admin_1":"San Marcos",
+    "meso:diss_me":"SAN CRISTOBAL CUCHUSAN MARCOS",
+    "meso:gadm_admin":"San Cristobal Cucho",
+    "meso:gaul_admin":"San Crist\u00f3bal Cucho",
+    "meso:mps_x":-91.768755,
+    "meso:mps_y":14.888548,
+    "meso:name_en":"San Cristobal Cuchu",
+    "meso:source":"AOTM",
+    "mps:latitude":14.888548,
+    "mps:longitude":-91.768755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u5eab\u55ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:eng_x_variant":[
+        "San Crist\u00f3bal Cucho",
+        "San Cristobal Cucho"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:pol_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SM",
+    "statoids:name":"San Crist\u00f3bal Cucho",
+    "statoids:population":"13928",
+    "statoids:statoid":"GT.SM.CC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1748857"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493822,
+    "wof:geomhash":"15e9691077a516bcd0b47d3191622db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695497,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1108695497,
+    "wof:lastmodified":1514444534,
+    "wof:name":"San Cristobal Cuchu",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":13928,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.79687227723343,
+    14.8457069095295,
+    -91.73619808879859,
+    14.92449985995951
+],
+  "geometry": {"coordinates":[[[-91.79660946294581,14.90340974814459],[-91.79555790736887,14.90431264752757],[-91.79227339025273,14.91671077056337],[-91.78058488612025,14.91549479129811],[-91.77995746916129,14.91679791061419],[-91.76854127675489,14.92449985995951],[-91.76264875820873,14.9104902434367],[-91.76246811928797,14.9093781695009],[-91.76250901883594,14.9089440135964],[-91.75234089940369,14.90107520867658],[-91.75135767101951,14.90150986196523],[-91.74034871375582,14.89810377460376],[-91.73619808879859,14.89332794597031],[-91.73960327290679,14.88484155249841],[-91.74507967580081,14.88264980362618],[-91.75000351094329,14.88396756298948],[-91.75503192170078,14.87532828736432],[-91.75755300456365,14.86289163194341],[-91.75509158785059,14.8604225953099],[-91.76081752623197,14.84877947283518],[-91.76614767269989,14.8457069095295],[-91.77930836885302,14.85336294636471],[-91.77712741684863,14.85887636029357],[-91.78169327830574,14.86999931586356],[-91.78203491058157,14.8701320117557],[-91.78647700010897,14.8783944025277],[-91.78721352629698,14.88634986522125],[-91.78773742638583,14.88809455475513],[-91.78762278871322,14.88834449705257],[-91.79687227723343,14.9017651038875],[-91.79660946294581,14.90340974814459]]],"type":"Polygon"}
+}

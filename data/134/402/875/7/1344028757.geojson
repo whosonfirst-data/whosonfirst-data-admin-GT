@@ -1,0 +1,70 @@
+{
+  "id": 1344028757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.19558,15.24439,-91.19558,15.24439",
+    "geom:latitude":15.24439,
+    "geom:longitude":-91.19558,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Saccotzil",
+    "gn:country_code":"GT",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483669,
+    "gn:latitude":15.24439,
+    "gn:longitude":-91.19558,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Saccotzil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Saccotzil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483669
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"95e5ce822a4362e8ba03c8fb0ff443b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169961,
+            "locality_id":1344028757,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1344028757,
+    "wof:lastmodified":1537625351,
+    "wof:name":"Saccotzil",
+    "wof:parent_id":421169961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.19558,
+    15.24439,
+    -91.19558,
+    15.24439
+],
+  "geometry": {"coordinates":[-91.19558000000001,15.24439],"type":"Point"}
+}

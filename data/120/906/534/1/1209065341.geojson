@@ -1,0 +1,64 @@
+{
+  "id": 1209065341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.40574,15.13541,-91.40574,15.13541",
+    "geom:latitude":15.13541,
+    "geom:longitude":-91.40574,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Panintzutuj",
+    "gn:country_code":"GT",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478635,
+    "gn:latitude":15.13541,
+    "gn:longitude":-91.40574,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Panintzutuj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Panintzutuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478635
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b2652a42dc9095b891a52a2dc6fff05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209065341
+        }
+    ],
+    "wof:id":1209065341,
+    "wof:lastmodified":1537625341,
+    "wof:name":"Panintzutuj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.40574,
+    15.13541,
+    -91.40574,
+    15.13541
+],
+  "geometry": {"coordinates":[-91.40573999999999,15.13541],"type":"Point"}
+}

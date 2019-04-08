@@ -1,0 +1,70 @@
+{
+  "id": 1192997247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13528,15.08085,-91.13528,15.08085",
+    "geom:latitude":15.08085,
+    "geom:longitude":-91.13528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xesic Cuatro",
+    "gn:country_code":"GT",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484964,
+    "gn:latitude":15.08085,
+    "gn:longitude":-91.13528,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xesic Cuatro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xesic Cuatro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484964
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"485d409aa61721f63ba719f855ed1c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1192997247,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1192997247,
+    "wof:lastmodified":1537625353,
+    "wof:name":"Xesic Cuatro",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13528,
+    15.08085,
+    -91.13528,
+    15.08085
+],
+  "geometry": {"coordinates":[-91.13527999999999,15.08085],"type":"Point"}
+}

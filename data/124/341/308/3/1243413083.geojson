@@ -1,0 +1,70 @@
+{
+  "id": 1243413083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.49101,15.05826,-91.49101,15.05826",
+    "geom:latitude":15.05826,
+    "geom:longitude":-91.49101,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pitzal",
+    "gn:country_code":"GT",
+    "gn:dem":2664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591273,
+    "gn:latitude":15.05826,
+    "gn:longitude":-91.49101,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pitzal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pitzal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591273
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b85158e6a4936360ea15dff75c4dbf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1243413083,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1243413083,
+    "wof:lastmodified":1537625158,
+    "wof:name":"Pitzal",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.49101,
+    15.05826,
+    -91.49101,
+    15.05826
+],
+  "geometry": {"coordinates":[-91.49101,15.05826],"type":"Point"}
+}

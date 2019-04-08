@@ -1,0 +1,70 @@
+{
+  "id": 1226125983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.15292,15.00315,-91.15292,15.00315",
+    "geom:latitude":15.00315,
+    "geom:longitude":-91.15292,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xatinap",
+    "gn:country_code":"GT",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587834,
+    "gn:latitude":15.00315,
+    "gn:longitude":-91.15292,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Xatinap",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xatinab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587834
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e935b431719090a1cffff675e55ba529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1226125983,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1226125983,
+    "wof:lastmodified":1537625127,
+    "wof:name":"Xatinap",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.15292,
+    15.00315,
+    -91.15292,
+    15.00315
+],
+  "geometry": {"coordinates":[-91.15291999999999,15.00315],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343847139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.91667,14.61667,-89.91667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-89.91667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guajilote",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595561,
+    "gn:latitude":14.61667,
+    "gn:longitude":-89.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guajilote",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Guajilote",
+        "El Cuajilote",
+        "Guajilote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421198237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595561
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"419462c471dc3beb59a139849b7fa7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421198237,
+            "locality_id":1343847139,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1343847139,
+    "wof:lastmodified":1537625192,
+    "wof:name":"Guajilote",
+    "wof:parent_id":421198237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91667,
+    14.61667,
+    -89.91667,
+    14.61667
+],
+  "geometry": {"coordinates":[-89.91667,14.61667],"type":"Point"}
+}

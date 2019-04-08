@@ -1,0 +1,135 @@
+{
+  "id": 421173683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.26667,15.48333,-90.26667,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":-90.26667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:baq_x_preferred":[
+        "San Pedro Carcha"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5f7c\u5fb7\u7f85\u5361\u723e\u67e5"
+    ],
+    "name:deu_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:eus_x_preferred":[
+        "San Pedro Carcha"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:ger_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30ab\u30eb\u30c1\u30e3"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Carch\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Carch\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f7c\u5fb7\u7f85\u5361\u723e\u67e5"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589643,
+    "qs:gn_pop":13332,
+    "qs:name":"San Pedro Carch\u00e1",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Alta Verapaz",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":296444,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85857,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421184389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589643,
+        "gp:id":85857,
+        "qs:id":296444,
+        "wd:id":"Q325586",
+        "wk:page":"San Pedro Carch\u00e1"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008999,
+    "wof:geomhash":"e1c254f6b7ce2b03747e364e489540b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184389,
+            "locality_id":421173683,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421173683,
+    "wof:lastmodified":1514444555,
+    "wof:name":"San Pedro Carch\u00e1",
+    "wof:parent_id":421184389,
+    "wof:placetype":"locality",
+    "wof:population":13332,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.26667,
+    15.48333,
+    -90.26667,
+    15.48333
+],
+  "geometry": {"coordinates":[-90.26667,15.48333],"type":"Point"}
+}

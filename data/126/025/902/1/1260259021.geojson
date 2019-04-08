@@ -1,0 +1,73 @@
+{
+  "id": 1260259021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.2122,14.54597,-92.2122,14.54597",
+    "geom:latitude":14.54597,
+    "geom:longitude":-92.2122,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Mareas del Suchiate",
+    "gn:country_code":"GT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593818,
+    "gn:latitude":14.54597,
+    "gn:longitude":-92.2122,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Las Mareas del Suchiate",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Mareas Del Suchiate"
+    ],
+    "name:spa_x_variant":[
+        "Las Mareas del Suchiate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593818
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a1afd8b535355fb6adf80ccb673c0fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695415,
+            "locality_id":1260259021,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260259021,
+    "wof:lastmodified":1537625177,
+    "wof:name":"Las Mareas del Suchiate",
+    "wof:parent_id":1108695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.2122,
+    14.54597,
+    -92.2122,
+    14.54597
+],
+  "geometry": {"coordinates":[-92.2122,14.54597],"type":"Point"}
+}

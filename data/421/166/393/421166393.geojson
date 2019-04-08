@@ -1,0 +1,120 @@
+{
+  "id": 421166393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.79833,14.52389,-90.79833,14.52389",
+    "geom:latitude":14.52389,
+    "geom:longitude":-90.79833,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u675c\u57c3\u5c3c\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:fra_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:sco_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
+    "name:unk_x_variant":[
+        "Due\u00f1as"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u675c\u57c3\u5c3c\u4e9e\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589727,
+    "qs:gn_pop":8424,
+    "qs:name":"San Miguel Due\u00f1as",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":81,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":81,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":266453,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85816,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        421203515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589727,
+        "gp:id":85816,
+        "qs:id":266453,
+        "wd:id":"Q2400763",
+        "wk:page":"San Miguel Due\u00f1as"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008688,
+    "wof:geomhash":"9493b93301a5902e084e7b1e4a393f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203515,
+            "locality_id":421166393,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421166393,
+    "wof:lastmodified":1514444552,
+    "wof:name":"San Miguel Due\u00f1as",
+    "wof:parent_id":421203515,
+    "wof:placetype":"locality",
+    "wof:population":8424,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.79833,
+    14.52389,
+    -90.79833,
+    14.52389
+],
+  "geometry": {"coordinates":[-90.79833000000001,14.52389],"type":"Point"}
+}

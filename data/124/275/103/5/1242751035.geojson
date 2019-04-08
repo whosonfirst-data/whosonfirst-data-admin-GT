@@ -1,0 +1,67 @@
+{
+  "id": 1242751035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.9,14.33333,-91.9,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-91.9,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Toncontin",
+    "gn:country_code":"GT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588278,
+    "gn:latitude":14.33333,
+    "gn:longitude":-91.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Toncont\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421203203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588278
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"48b3c038240951b54205dc679b09d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203203,
+            "locality_id":1242751035,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1242751035,
+    "wof:lastmodified":1536813338,
+    "wof:name":"Toncontin",
+    "wof:parent_id":421203203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.9,
+    14.33333,
+    -91.9,
+    14.33333
+],
+  "geometry": {"coordinates":[-91.90000000000001,14.33333],"type":"Point"}
+}

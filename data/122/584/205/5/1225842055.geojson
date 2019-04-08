@@ -1,0 +1,70 @@
+{
+  "id": 1225842055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39611,15.56361,-91.39611,15.56361",
+    "geom:latitude":15.56361,
+    "geom:longitude":-91.39611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tajal",
+    "gn:country_code":"GT",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734044,
+    "gn:latitude":15.56361,
+    "gn:longitude":-91.39611,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Taj\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Taj\u00e1l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734044
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5eaf89243688cac4ab51ac80d7945943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1225842055,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1225842055,
+    "wof:lastmodified":1537625239,
+    "wof:name":"Tajal",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39611,
+    15.56361,
+    -91.39611,
+    15.56361
+],
+  "geometry": {"coordinates":[-91.39610999999999,15.56361],"type":"Point"}
+}

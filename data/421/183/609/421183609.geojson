@@ -1,0 +1,80 @@
+{
+  "id": 421183609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1,14.7,-91.1,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-91.1,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "God\u00ednez"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3595662,
+    "qs:gn_pop":0,
+    "qs:name":"God\u00ednez",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982604,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83075,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421170963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595662,
+        "gp:id":83075,
+        "qs:id":982604
+    },
+    "wof:country":"GT",
+    "wof:created":1459009376,
+    "wof:geomhash":"14390f8d6286636ec52981e629e50e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170963,
+            "locality_id":421183609,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421183609,
+    "wof:lastmodified":1527717698,
+    "wof:name":"God\u00ednez",
+    "wof:parent_id":421170963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1,
+    14.7,
+    -91.1,
+    14.7
+],
+  "geometry": {"coordinates":[-91.09999999999999,14.7],"type":"Point"}
+}

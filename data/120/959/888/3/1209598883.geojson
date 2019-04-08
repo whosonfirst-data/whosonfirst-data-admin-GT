@@ -1,0 +1,64 @@
+{
+  "id": 1209598883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.0921,15.34796,-91.0921,15.34796",
+    "geom:latitude":15.34796,
+    "geom:longitude":-91.0921,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Siguacoj",
+    "gn:country_code":"GT",
+    "gn:dem":2479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482883,
+    "gn:latitude":15.34796,
+    "gn:longitude":-91.0921,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Siguacoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Siguacoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482883
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a55fe98df3ef8d40ba58b6474bb72260",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209598883
+        }
+    ],
+    "wof:id":1209598883,
+    "wof:lastmodified":1537625348,
+    "wof:name":"Siguacoj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.0921,
+    15.34796,
+    -91.0921,
+    15.34796
+],
+  "geometry": {"coordinates":[-91.0921,15.34796],"type":"Point"}
+}

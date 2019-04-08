@@ -1,0 +1,118 @@
+{
+  "id": 421169239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.71667,15.38333,-91.71667,15.38333",
+    "geom:latitude":15.38333,
+    "geom:longitude":-91.71667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u52a0\u65af\u5e15\u723e\u4f0a\u65af\u5947\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:eng_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:fra_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:fre_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:ita_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:pol_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:por_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:spa_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:swe_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:unk_x_variant":[
+        "San Gaspar"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u52a0\u65af\u5e15\u723e\u4f0a\u65af\u5947\u723e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3590188,
+    "qs:gn_pop":551,
+    "qs:name":"San Gaspar Ixchil",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1201088,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85626,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590188,
+        "gp:id":85626,
+        "qs:id":1201088,
+        "wd:id":"Q769939",
+        "wk:page":"San Gaspar Ixchil"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008800,
+    "wof:geomhash":"245948ad075f8ac0b9784aac2c402e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695509,
+            "locality_id":421169239,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421169239,
+    "wof:lastmodified":1527716174,
+    "wof:name":"San Gaspar Ixchil",
+    "wof:parent_id":1108695509,
+    "wof:placetype":"locality",
+    "wof:population":551,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.71667,
+    15.38333,
+    -91.71667,
+    15.38333
+],
+  "geometry": {"coordinates":[-91.71666999999999,15.38333],"type":"Point"}
+}

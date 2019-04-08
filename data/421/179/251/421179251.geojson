@@ -1,0 +1,84 @@
+{
+  "id": 421179251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.15,14.66667,-92.15,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-92.15,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ayutla"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598129,
+    "qs:gn_pop":11432,
+    "qs:name":"Ciudad Tec\u00fan Um\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149220,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85633293,
+        85686611,
+        102075677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598129,
+        "gp:id":81905,
+        "qs:id":149220,
+        "wd:id":"Q2305570",
+        "wk:page":"Ayutla, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009209,
+    "wof:geomhash":"50e936c9ffa58c2bd0327f1bd02d1890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075677,
+            "locality_id":421179251,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":421179251,
+    "wof:lastmodified":1505340641,
+    "wof:name":"Ciudad Tec\u00fan Um\u00e1n",
+    "wof:parent_id":102075677,
+    "wof:placetype":"locality",
+    "wof:population":11432,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.15,
+    14.66667,
+    -92.15,
+    14.66667
+],
+  "geometry": {"coordinates":[-92.15000000000001,14.66667],"type":"Point"}
+}

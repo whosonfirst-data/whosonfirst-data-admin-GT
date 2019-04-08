@@ -1,0 +1,64 @@
+{
+  "id": 1209529625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.61271,16.02263,-90.61271,16.02263",
+    "geom:latitude":16.02263,
+    "geom:longitude":-90.61271,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tierra Blanca Sebol",
+    "gn:country_code":"GT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152444,
+    "gn:latitude":16.02263,
+    "gn:longitude":-90.61271,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Tierra Blanca Sebol",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierra Blanca Sebol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152444
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3825e233a2971bca0735e310e2f12efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209529625
+        }
+    ],
+    "wof:id":1209529625,
+    "wof:lastmodified":1537625279,
+    "wof:name":"Tierra Blanca Sebol",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.61271,
+    16.02263,
+    -90.61271,
+    16.02263
+],
+  "geometry": {"coordinates":[-90.61271000000001,16.02263],"type":"Point"}
+}

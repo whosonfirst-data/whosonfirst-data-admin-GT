@@ -1,0 +1,70 @@
+{
+  "id": 1193037833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21399,15.72907,-91.21399,15.72907",
+    "geom:latitude":15.72907,
+    "geom:longitude":-91.21399,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pananxilac",
+    "gn:country_code":"GT",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734114,
+    "gn:latitude":15.72907,
+    "gn:longitude":-91.21399,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Pananxilac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pananxilac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734114
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"435bfec2b6e853469ad9718d86e50732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1193037833,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193037833,
+    "wof:lastmodified":1537625240,
+    "wof:name":"Pananxilac",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21399,
+    15.72907,
+    -91.21399,
+    15.72907
+],
+  "geometry": {"coordinates":[-91.21399,15.72907],"type":"Point"}
+}

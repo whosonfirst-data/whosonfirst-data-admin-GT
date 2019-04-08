@@ -1,0 +1,72 @@
+{
+  "id": 1226113701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.9,14.66667,-91.9,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-91.9,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Refugio",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596339,
+    "gn:latitude":14.66667,
+    "gn:longitude":-91.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Refugio",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca El Refugio",
+        "El Refugio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596339
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"21a69861c51f57e84bb78a30cdd4bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695297,
+            "locality_id":1226113701,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1226113701,
+    "wof:lastmodified":1537625201,
+    "wof:name":"El Refugio",
+    "wof:parent_id":1108695297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.9,
+    14.66667,
+    -91.9,
+    14.66667
+],
+  "geometry": {"coordinates":[-91.90000000000001,14.66667],"type":"Point"}
+}

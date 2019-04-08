@@ -1,0 +1,67 @@
+{
+  "id": 1242860781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5,14.78333,-91.5,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-91.5,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Paxmux",
+    "gn:country_code":"GT",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591486,
+    "gn:latitude":14.78333,
+    "gn:longitude":-91.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paxmux",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        421169963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591486
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f1423598dcc05599710d5dbef1f1e670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169963,
+            "locality_id":1242860781,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1242860781,
+    "wof:lastmodified":1536655841,
+    "wof:name":"Paxmux",
+    "wof:parent_id":421169963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5,
+    14.78333,
+    -91.5,
+    14.78333
+],
+  "geometry": {"coordinates":[-91.5,14.78333],"type":"Point"}
+}

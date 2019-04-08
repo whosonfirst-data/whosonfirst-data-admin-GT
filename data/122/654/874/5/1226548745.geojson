@@ -1,0 +1,72 @@
+{
+  "id": 1226548745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.38333,14.95,-90.38333,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-90.38333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Curenas",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593971,
+    "gn:latitude":14.95,
+    "gn:longitude":-90.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Cure\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cure\u00f1as",
+        "Las Cure\u00f1as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        421175573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593971
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"73e4a3ac164afaef5c359a03a85d167a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421175573,
+            "locality_id":1226548745,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1226548745,
+    "wof:lastmodified":1537625179,
+    "wof:name":"Las Curenas",
+    "wof:parent_id":421175573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.38333,
+    14.95,
+    -90.38333,
+    14.95
+],
+  "geometry": {"coordinates":[-90.38333,14.95],"type":"Point"}
+}

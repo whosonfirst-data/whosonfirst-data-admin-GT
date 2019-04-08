@@ -1,0 +1,70 @@
+{
+  "id": 1309902793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.97823,15.44194,-91.97823,15.44194",
+    "geom:latitude":15.44194,
+    "geom:longitude":-91.97823,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Lagunita",
+    "gn:country_code":"GT",
+    "gn:dem":1970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511629,
+    "gn:latitude":15.44194,
+    "gn:longitude":-91.97823,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"La Lagunita",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Lagunita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511629
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c9be9ef36a3c423ece8beea3edc0c96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1309902793,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309902793,
+    "wof:lastmodified":1537625386,
+    "wof:name":"La Lagunita",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.97823,
+    15.44194,
+    -91.97823,
+    15.44194
+],
+  "geometry": {"coordinates":[-91.97823,15.44194],"type":"Point"}
+}

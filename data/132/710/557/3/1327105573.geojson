@@ -1,0 +1,67 @@
+{
+  "id": 1327105573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08333,14.85,-91.08333,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-91.08333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chucalibal",
+    "gn:country_code":"GT",
+    "gn:dem":2439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598264,
+    "gn:latitude":14.85,
+    "gn:longitude":-91.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chucalibal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421171687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598264
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6447adbcadfb15bc0efed29a777822ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171687,
+            "locality_id":1327105573,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327105573,
+    "wof:lastmodified":1536655002,
+    "wof:name":"Chucalibal",
+    "wof:parent_id":421171687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08333,
+    14.85,
+    -91.08333,
+    14.85
+],
+  "geometry": {"coordinates":[-91.08333,14.85],"type":"Point"}
+}

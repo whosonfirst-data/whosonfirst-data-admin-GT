@@ -1,0 +1,70 @@
+{
+  "id": 1326850519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.85326,15.57386,-91.85326,15.57386",
+    "geom:latitude":15.57386,
+    "geom:longitude":-91.85326,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Vega",
+    "gn:country_code":"GT",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637616,
+    "gn:latitude":15.57386,
+    "gn:longitude":-91.85326,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637616
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"df71c9d9dc22356bccb0766db44c563b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1326850519,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1326850519,
+    "wof:lastmodified":1537625266,
+    "wof:name":"La Vega",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.85326,
+    15.57386,
+    -91.85326,
+    15.57386
+],
+  "geometry": {"coordinates":[-91.85326000000001,15.57386],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209512195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.81621,15.3797,-91.81621,15.3797",
+    "geom:latitude":15.3797,
+    "geom:longitude":-91.81621,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixcantzey",
+    "gn:country_code":"GT",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511600,
+    "gn:latitude":15.3797,
+    "gn:longitude":-91.81621,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ixcantzey",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixcantzey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511600
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cc91b8a01f918dbfe3fabb7d9c013c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209512195
+        }
+    ],
+    "wof:id":1209512195,
+    "wof:lastmodified":1537625385,
+    "wof:name":"Ixcantzey",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.81621,
+    15.3797,
+    -91.81621,
+    15.3797
+],
+  "geometry": {"coordinates":[-91.81621,15.3797],"type":"Point"}
+}

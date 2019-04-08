@@ -1,0 +1,70 @@
+{
+  "id": 1225941945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.87654,15.40474,-91.87654,15.40474",
+    "geom:latitude":15.40474,
+    "geom:longitude":-91.87654,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chejoj",
+    "gn:country_code":"GT",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598708,
+    "gn:latitude":15.40474,
+    "gn:longitude":-91.87654,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chejoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chejoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598708
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"88a0f46b1bd0d91a12a356a308202057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1225941945,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1225941945,
+    "wof:lastmodified":1537625225,
+    "wof:name":"Chejoj",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.87654,
+    15.40474,
+    -91.87654,
+    15.40474
+],
+  "geometry": {"coordinates":[-91.87654000000001,15.40474],"type":"Point"}
+}

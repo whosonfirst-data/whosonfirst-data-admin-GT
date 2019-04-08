@@ -1,0 +1,70 @@
+{
+  "id": 1226306535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09127,14.81678,-92.09127,14.81678",
+    "geom:latitude":14.81678,
+    "geom:longitude":-92.09127,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Sitio",
+    "gn:country_code":"GT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596130,
+    "gn:latitude":14.81678,
+    "gn:longitude":-92.09127,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"El Sitio",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Sitio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596130
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a4ee73b0da4dafd341aa78a2dcb7f0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":1226306535,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226306535,
+    "wof:lastmodified":1537625199,
+    "wof:name":"El Sitio",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09127,
+    14.81678,
+    -92.09127,
+    14.81678
+],
+  "geometry": {"coordinates":[-92.09126999999999,14.81678],"type":"Point"}
+}

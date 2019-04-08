@@ -1,0 +1,67 @@
+{
+  "id": 1327418389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3,15.61667,-89.3,15.61667",
+    "geom:latitude":15.61667,
+    "geom:longitude":-89.3,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nimblabenque",
+    "gn:country_code":"GT",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592184,
+    "gn:latitude":15.61667,
+    "gn:longitude":-89.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nimblabenque",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421194695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592184
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2bf51ca1498828d5795f8b3e91833754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421194695,
+            "locality_id":1327418389,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1327418389,
+    "wof:lastmodified":1536701300,
+    "wof:name":"Nimblabenque",
+    "wof:parent_id":421194695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.3,
+    15.61667,
+    -89.3,
+    15.61667
+],
+  "geometry": {"coordinates":[-89.3,15.61667],"type":"Point"}
+}

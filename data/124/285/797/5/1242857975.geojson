@@ -1,0 +1,70 @@
+{
+  "id": 1242857975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1971,15.0364,-91.1971,15.0364",
+    "geom:latitude":15.0364,
+    "geom:longitude":-91.1971,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Panaxit Primero",
+    "gn:country_code":"GT",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486788,
+    "gn:latitude":15.0364,
+    "gn:longitude":-91.1971,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Panaxit Primero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Panaxit Primero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486788
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"732723b47b77ced410b827a271a15d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1242857975,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1242857975,
+    "wof:lastmodified":1537625359,
+    "wof:name":"Panaxit Primero",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1971,
+    15.0364,
+    -91.1971,
+    15.0364
+],
+  "geometry": {"coordinates":[-91.19710000000001,15.0364],"type":"Point"}
+}

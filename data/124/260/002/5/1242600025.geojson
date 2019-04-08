@@ -1,0 +1,70 @@
+{
+  "id": 1242600025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30574,15.32781,-91.30574,15.32781",
+    "geom:latitude":15.32781,
+    "geom:longitude":-91.30574,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Patzalam",
+    "gn:country_code":"GT",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733966,
+    "gn:latitude":15.32781,
+    "gn:longitude":-91.30574,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Patzalam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patzalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733966
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"841e6bb4d4aee82f8beb0821763311ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "locality_id":1242600025,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1242600025,
+    "wof:lastmodified":1537625237,
+    "wof:name":"Patzalam",
+    "wof:parent_id":421186319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30574,
+    15.32781,
+    -91.30574,
+    15.32781
+],
+  "geometry": {"coordinates":[-91.30574,15.32781],"type":"Point"}
+}

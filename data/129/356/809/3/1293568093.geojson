@@ -1,0 +1,70 @@
+{
+  "id": 1293568093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2893,15.21155,-91.2893,15.21155",
+    "geom:latitude":15.21155,
+    "geom:longitude":-91.2893,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Cebollin",
+    "gn:country_code":"GT",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477831,
+    "gn:latitude":15.21155,
+    "gn:longitude":-91.2893,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Ceboll\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ceboll\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477831
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0cf60fb3a5931a9974418c8c7c9de84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1293568093,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1293568093,
+    "wof:lastmodified":1537625332,
+    "wof:name":"El Cebollin",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2893,
+    15.21155,
+    -91.2893,
+    15.21155
+],
+  "geometry": {"coordinates":[-91.2893,15.21155],"type":"Point"}
+}

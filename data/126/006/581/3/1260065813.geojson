@@ -1,0 +1,70 @@
+{
+  "id": 1260065813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.44736,15.57792,-91.44736,15.57792",
+    "geom:latitude":15.57792,
+    "geom:longitude":-91.44736,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulcu",
+    "gn:country_code":"GT",
+    "gn:dem":2933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11492216,
+    "gn:latitude":15.57792,
+    "gn:longitude":-91.44736,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yulc\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulc\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492216
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3757cad2a0211b5f8eb162631afc7fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1260065813,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260065813,
+    "wof:lastmodified":1537625370,
+    "wof:name":"Yulcu",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.44736,
+    15.57792,
+    -91.44736,
+    15.57792
+],
+  "geometry": {"coordinates":[-91.44736,15.57792],"type":"Point"}
+}

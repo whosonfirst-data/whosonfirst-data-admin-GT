@@ -1,0 +1,68 @@
+{
+  "id": 1209931957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.47344,15.99099,-90.47344,15.99099",
+    "geom:latitude":15.99099,
+    "geom:longitude":-90.47344,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"3598414.0",
+    "gn:asciiname":"Imperial",
+    "gn:country_code":"GT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253817,
+    "gn:latitude":15.99099,
+    "gn:longitude":-90.47344,
+    "gn:modification_date":"2014-07-24",
+    "gn:name":"Imperial",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421204557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253817
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"509f8a23aef22b14ef944188ec7ba50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204557,
+            "locality_id":1209931957,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1209931957,
+    "wof:lastmodified":1536392343,
+    "wof:name":"Imperial",
+    "wof:parent_id":421204557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.47344,
+    15.99099,
+    -90.47344,
+    15.99099
+],
+  "geometry": {"coordinates":[-90.47344,15.99099],"type":"Point"}
+}

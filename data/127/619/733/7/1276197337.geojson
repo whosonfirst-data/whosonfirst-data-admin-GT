@@ -1,0 +1,70 @@
+{
+  "id": 1276197337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09254,14.91558,-92.09254,14.91558",
+    "geom:latitude":14.91558,
+    "geom:longitude":-92.09254,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Orizaba",
+    "gn:country_code":"GT",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638916,
+    "gn:latitude":14.91558,
+    "gn:longitude":-92.09254,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Orizaba",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Orizaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638916
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3300808cb5581cb44189ce27f1fe32a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1276197337,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276197337,
+    "wof:lastmodified":1537625273,
+    "wof:name":"Orizaba",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09254,
+    14.91558,
+    -92.09254,
+    14.91558
+],
+  "geometry": {"coordinates":[-92.09254,14.91558],"type":"Point"}
+}

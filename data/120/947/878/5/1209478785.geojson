@@ -1,0 +1,64 @@
+{
+  "id": 1209478785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09493,14.80929,-92.09493,14.80929",
+    "geom:latitude":14.80929,
+    "geom:longitude":-92.09493,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Piedra Partida",
+    "gn:country_code":"GT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591348,
+    "gn:latitude":14.80929,
+    "gn:longitude":-92.09493,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Piedra Partida",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Partida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591348
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2665b6f2494aa3cf5b0c20756c555591",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209478785
+        }
+    ],
+    "wof:id":1209478785,
+    "wof:lastmodified":1537625158,
+    "wof:name":"Piedra Partida",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09493,
+    14.80929,
+    -92.09493,
+    14.80929
+],
+  "geometry": {"coordinates":[-92.09493000000001,14.80929],"type":"Point"}
+}

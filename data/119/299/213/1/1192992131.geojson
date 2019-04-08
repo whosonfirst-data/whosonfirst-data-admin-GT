@@ -1,0 +1,70 @@
+{
+  "id": 1192992131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09171,15.02271,-91.09171,15.02271",
+    "geom:latitude":15.02271,
+    "geom:longitude":-91.09171,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Antena",
+    "gn:country_code":"GT",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11487704,
+    "gn:latitude":15.02271,
+    "gn:longitude":-91.09171,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"La Antena",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Antena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11487704
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2500fbb68e92cd2defea8a7314715215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695455,
+            "locality_id":1192992131,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1192992131,
+    "wof:lastmodified":1537625360,
+    "wof:name":"La Antena",
+    "wof:parent_id":1108695455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09171,
+    15.02271,
+    -91.09171,
+    15.02271
+],
+  "geometry": {"coordinates":[-91.09171000000001,15.02271],"type":"Point"}
+}

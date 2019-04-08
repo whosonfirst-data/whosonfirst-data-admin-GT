@@ -1,0 +1,141 @@
+{
+  "id": 421171697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003203,
+    "geom:area_square_m":38317748.542967,
+    "geom:bbox":"-91.3559881585,14.6290858727,-91.2786089666,14.7103109535",
+    "geom:latitude":14.666464,
+    "geom:longitude":-91.314279,
+    "iso:country":"GT",
+    "lbl:latitude":14.669547,
+    "lbl:longitude":-91.308425,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SAN JUAN LA LAGUNASOLOLA",
+    "meso:gadm_admin":"San Juan La Laguna",
+    "meso:gaul_admin":"San Juan La Laguna",
+    "meso:mps_x":-91.308425,
+    "meso:mps_y":14.669547,
+    "meso:name_en":"San Juan La Laguna",
+    "meso:source":"AOTM",
+    "mps:latitude":14.669547,
+    "mps:longitude":-91.308425,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u62c9\u62c9\u53e4\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan la Laguna"
+    ],
+    "name:lit_x_preferred":[
+        "San Chuan La Laguna"
+    ],
+    "name:nah_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:por_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan la Laguna",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":798,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264024,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807201,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"San Juan La Laguna",
+    "statoids:population":"8149",
+    "statoids:statoid":"GT.SO.JL",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807201,
+        "hasc:id":"GT.SO.JL",
+        "qs:id":1264024,
+        "wd:id":"Q2403501"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008903,
+    "wof:geomhash":"634c46f7206e430f0eb1f4a2088cada4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171697,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421171697,
+    "wof:lastmodified":1536615932,
+    "wof:name":"San Juan La Laguna",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8149,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"JL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.35598815846635,
+    14.62908587267339,
+    -91.27860896660636,
+    14.71031095349499
+],
+  "geometry": {"coordinates":[[[-91.34720745145559,14.66958729695473],[-91.33789532622842,14.66101566844847],[-91.33639482907317,14.6609945741913],[-91.32859617961751,14.66971087427407],[-91.32853756730705,14.66979997239686],[-91.32802088414583,14.67199075197804],[-91.32773943007409,14.67510771309149],[-91.32881941967811,14.67737641224037],[-91.32789183891268,14.67971657405069],[-91.32805192660928,14.68654802185169],[-91.32310757440369,14.69709457029175],[-91.31289951899822,14.69172836411877],[-91.30526600396684,14.69844770350576],[-91.30189931159902,14.69916351128344],[-91.2987121792269,14.70961678918156],[-91.28758710600295,14.71031095349499],[-91.28700279527152,14.70894931443583],[-91.28707173133776,14.69363749411647],[-91.28606601415818,14.69314981837633],[-91.28012276092167,14.67631437444381],[-91.27860896660636,14.67504104316541],[-91.27864371633096,14.67245533754286],[-91.29000000000053,14.66187653258865],[-91.29000000000053,14.66153394008291],[-91.29677228531681,14.65188078231653],[-91.29497035050267,14.64213987846893],[-91.29605477827256,14.64080982552269],[-91.30358456231059,14.63851871537059],[-91.31066693183512,14.63026283541291],[-91.31814238523413,14.63756595651961],[-91.32085913486442,14.64555121610946],[-91.33011509356253,14.64610175690187],[-91.33340294035648,14.64323048444026],[-91.33355200453029,14.63613632215895],[-91.34416148960578,14.62908587267339],[-91.3468560194642,14.63008408529542],[-91.35050426532469,14.63806844040442],[-91.3506708447799,14.63959338904739],[-91.35598815846635,14.64422634588414],[-91.35503860254084,14.64923498067563],[-91.35154893045286,14.65460027437591],[-91.35307269668087,14.65832349181304],[-91.35302342514554,14.66310823560932],[-91.34720745145559,14.66958729695473]]],"type":"Polygon"}
+}

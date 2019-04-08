@@ -1,0 +1,67 @@
+{
+  "id": 1276777479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.23333,15.66667,-90.23333,15.66667",
+    "geom:latitude":15.66667,
+    "geom:longitude":-90.23333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seguolguol",
+    "gn:country_code":"GT",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588897,
+    "gn:latitude":15.66667,
+    "gn:longitude":-90.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Seguolguol",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421184389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588897
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3ac9009e9e73422d67c3fdb004cf56e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184389,
+            "locality_id":1276777479,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1276777479,
+    "wof:lastmodified":1536680655,
+    "wof:name":"Seguolguol",
+    "wof:parent_id":421184389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.23333,
+    15.66667,
+    -90.23333,
+    15.66667
+],
+  "geometry": {"coordinates":[-90.23333,15.66667],"type":"Point"}
+}

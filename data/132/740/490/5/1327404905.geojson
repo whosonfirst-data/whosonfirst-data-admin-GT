@@ -1,0 +1,67 @@
+{
+  "id": 1327404905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.86075,15.49305,-90.86075,15.49305",
+    "geom:latitude":15.49305,
+    "geom:longitude":-90.86075,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Putul",
+    "gn:country_code":"GT",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591024,
+    "gn:latitude":15.49305,
+    "gn:longitude":-90.86075,
+    "gn:modification_date":"2014-07-22",
+    "gn:name":"Putul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421196545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591024
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"dd17434e201ee236dd2a15ea86bb5a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196545,
+            "locality_id":1327404905,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327404905,
+    "wof:lastmodified":1536720905,
+    "wof:name":"Putul",
+    "wof:parent_id":421196545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.86075,
+    15.49305,
+    -90.86075,
+    15.49305
+],
+  "geometry": {"coordinates":[-90.86075,15.49305],"type":"Point"}
+}

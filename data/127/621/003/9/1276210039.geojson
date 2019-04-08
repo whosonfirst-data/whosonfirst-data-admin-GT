@@ -1,0 +1,70 @@
+{
+  "id": 1276210039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14069,15.40052,-91.14069,15.40052",
+    "geom:latitude":15.40052,
+    "geom:longitude":-91.14069,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Comunidad Xemamatze",
+    "gn:country_code":"GT",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11483108,
+    "gn:latitude":15.40052,
+    "gn:longitude":-91.14069,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Comunidad Xemamatze",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Comunidad Xemamatze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483108
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"63cabd8d1a41195a62ed596ec1eef634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1276210039,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276210039,
+    "wof:lastmodified":1537625349,
+    "wof:name":"Comunidad Xemamatze",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14069,
+    15.40052,
+    -91.14069,
+    15.40052
+],
+  "geometry": {"coordinates":[-91.14069000000001,15.40052],"type":"Point"}
+}

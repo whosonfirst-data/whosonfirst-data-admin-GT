@@ -1,0 +1,70 @@
+{
+  "id": 1225907903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.77019,15.19033,-91.77019,15.19033",
+    "geom:latitude":15.19033,
+    "geom:longitude":-91.77019,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuitaqueque",
+    "gn:country_code":"GT",
+    "gn:dem":2793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476413,
+    "gn:latitude":15.19033,
+    "gn:longitude":-91.77019,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuitaqueque",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuitaqueque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476413
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9fc89b4916ec97079e25818b5b9b3866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695301,
+            "locality_id":1225907903,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1225907903,
+    "wof:lastmodified":1537625321,
+    "wof:name":"Tuitaqueque",
+    "wof:parent_id":1108695301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.77019,
+    15.19033,
+    -91.77019,
+    15.19033
+],
+  "geometry": {"coordinates":[-91.77019,15.19033],"type":"Point"}
+}

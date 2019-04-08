@@ -1,0 +1,70 @@
+{
+  "id": 1226617579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.80523,15.15087,-91.80523,15.15087",
+    "geom:latitude":15.15087,
+    "geom:longitude":-91.80523,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sector Las Manzanas",
+    "gn:country_code":"GT",
+    "gn:dem":2605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475318,
+    "gn:latitude":15.15087,
+    "gn:longitude":-91.80523,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sector Las Manzanas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sector Las Manzanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475318
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a75626e4a15bee70c2b4c74b0842e07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695671,
+            "locality_id":1226617579,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226617579,
+    "wof:lastmodified":1537625309,
+    "wof:name":"Sector Las Manzanas",
+    "wof:parent_id":1108695671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.80523,
+    15.15087,
+    -91.80523,
+    15.15087
+],
+  "geometry": {"coordinates":[-91.80522999999999,15.15087],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310418631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.43333,14.98333,-90.43333,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-90.43333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Magueyes",
+    "gn:country_code":"GT",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592991,
+    "gn:latitude":14.98333,
+    "gn:longitude":-90.43333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Magueyes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        421175573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592991
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"86c73956d859b40b48a9d18009d377fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421175573,
+            "locality_id":1310418631,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1310418631,
+    "wof:lastmodified":1537040562,
+    "wof:name":"Los Magueyes",
+    "wof:parent_id":421175573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.43333,
+    14.98333,
+    -90.43333,
+    14.98333
+],
+  "geometry": {"coordinates":[-90.43333,14.98333],"type":"Point"}
+}

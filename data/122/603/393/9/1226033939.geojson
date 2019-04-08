@@ -1,0 +1,67 @@
+{
+  "id": 1226033939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,14.76667,-89.98333,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Shical",
+    "gn:country_code":"GT",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588777,
+    "gn:latitude":14.76667,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Shical",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421183137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588777
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c357ea7b23bb50eaa849bbeda88200f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421183137,
+            "locality_id":1226033939,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1226033939,
+    "wof:lastmodified":1536741979,
+    "wof:name":"Shical",
+    "wof:parent_id":421183137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    14.76667,
+    -89.98333000000002,
+    14.76667
+],
+  "geometry": {"coordinates":[-89.98333000000002,14.76667],"type":"Point"}
+}

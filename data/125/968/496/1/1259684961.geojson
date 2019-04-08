@@ -1,0 +1,72 @@
+{
+  "id": 1259684961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45,14.71667,-89.45,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-89.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chanco",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598773,
+    "gn:latitude":14.71667,
+    "gn:longitude":-89.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chanc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chauc\u00f3",
+        "Chanc\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421205243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598773
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"239c622facfb26f58cda2022bdbd1fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421205243,
+            "locality_id":1259684961,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1259684961,
+    "wof:lastmodified":1537625226,
+    "wof:name":"Chanco",
+    "wof:parent_id":421205243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45,
+    14.71667,
+    -89.45,
+    14.71667
+],
+  "geometry": {"coordinates":[-89.45,14.71667],"type":"Point"}
+}

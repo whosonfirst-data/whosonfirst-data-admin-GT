@@ -1,0 +1,70 @@
+{
+  "id": 1276736705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.44899,15.06433,-91.44899,15.06433",
+    "geom:latitude":15.06433,
+    "geom:longitude":-91.44899,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chuaquijbeya",
+    "gn:country_code":"GT",
+    "gn:dem":2339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478337,
+    "gn:latitude":15.06433,
+    "gn:longitude":-91.44899,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chuaquijbey\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuaquijbey\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478337
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"79f714bda4ccfcafce0d2842f359785c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1276736705,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1276736705,
+    "wof:lastmodified":1537625339,
+    "wof:name":"Chuaquijbeya",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.44899,
+    15.06433,
+    -91.44899,
+    15.06433
+],
+  "geometry": {"coordinates":[-91.44898999999999,15.06433],"type":"Point"}
+}

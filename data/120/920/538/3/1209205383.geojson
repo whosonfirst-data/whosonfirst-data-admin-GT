@@ -1,0 +1,64 @@
+{
+  "id": 1209205383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88366,15.5409,-91.88366,15.5409",
+    "geom:latitude":15.5409,
+    "geom:longitude":-91.88366,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Huica",
+    "gn:country_code":"GT",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595411,
+    "gn:latitude":15.5409,
+    "gn:longitude":-91.88366,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Huic\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Huic\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595411
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"00b5e775fe1f054bef6e3f78ea76f383",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209205383
+        }
+    ],
+    "wof:id":1209205383,
+    "wof:lastmodified":1537625191,
+    "wof:name":"Huica",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88366,
+    15.5409,
+    -91.88366,
+    15.5409
+],
+  "geometry": {"coordinates":[-91.88366000000001,15.5409],"type":"Point"}
+}

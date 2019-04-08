@@ -1,0 +1,70 @@
+{
+  "id": 1343481253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43466,15.648,-91.43466,15.648",
+    "geom:latitude":15.648,
+    "geom:longitude":-91.43466,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulguayul",
+    "gn:country_code":"GT",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492235,
+    "gn:latitude":15.648,
+    "gn:longitude":-91.43466,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yulguayul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulguayul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421189489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492235
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cd3372a7ec7ab422a674669d01a49575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189489,
+            "locality_id":1343481253,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343481253,
+    "wof:lastmodified":1537625371,
+    "wof:name":"Yulguayul",
+    "wof:parent_id":421189489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43466,
+    15.648,
+    -91.43466,
+    15.648
+],
+  "geometry": {"coordinates":[-91.43465999999999,15.648],"type":"Point"}
+}

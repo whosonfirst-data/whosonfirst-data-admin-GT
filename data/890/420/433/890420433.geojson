@@ -1,0 +1,111 @@
+{
+  "id": 890420433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28333,15.81667,-90.28333,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":-90.28333,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":17018,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Chisec"
+    ],
+    "name:chi_x_preferred":[
+        "\u5947\u585e\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Chisec"
+    ],
+    "name:eng_x_preferred":[
+        "Chisec"
+    ],
+    "name:fre_x_preferred":[
+        "Chisec"
+    ],
+    "name:ger_x_preferred":[
+        "Chisec"
+    ],
+    "name:ita_x_preferred":[
+        "Chisec"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u06cc\u0633\u06a9\u060c \u0627\u0644\u062a\u0627 \u0648\u0631\u0627\u067e\u0627\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Chisec"
+    ],
+    "name:por_x_preferred":[
+        "Chisec"
+    ],
+    "name:sco_x_preferred":[
+        "Chisec"
+    ],
+    "name:spa_x_preferred":[
+        "Chisec"
+    ],
+    "name:swe_x_preferred":[
+        "Chisec"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0633\u06cc\u06a9"
+    ],
+    "qs:name":"Chisec",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":1093,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421204557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598415,
+        "gp:id":81731,
+        "qs:id":279812,
+        "wd:id":"Q275980",
+        "wk:page":"Chisec"
+    },
+    "wof:country":"GT",
+    "wof:created":1469051339,
+    "wof:geomhash":"cf73ad37cdb3c831382dc3475cd42afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204557,
+            "locality_id":890420433,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":890420433,
+    "wof:lastmodified":1527792812,
+    "wof:name":"Chisec",
+    "wof:parent_id":421204557,
+    "wof:placetype":"locality",
+    "wof:population":17018,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28333,
+    15.81667,
+    -90.28333,
+    15.81667
+],
+  "geometry": {"coordinates":[-90.28333000000001,15.81667],"type":"Point"}
+}

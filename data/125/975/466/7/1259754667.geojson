@@ -1,0 +1,70 @@
+{
+  "id": 1259754667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88591,15.25064,-91.88591,15.25064",
+    "geom:latitude":15.25064,
+    "geom:longitude":-91.88591,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Remate",
+    "gn:country_code":"GT",
+    "gn:dem":2920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475631,
+    "gn:latitude":15.25064,
+    "gn:longitude":-91.88591,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Remate",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Remate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475631
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3f3328971e8a5e6255bbba56a98e81fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695309,
+            "locality_id":1259754667,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259754667,
+    "wof:lastmodified":1537625313,
+    "wof:name":"El Remate",
+    "wof:parent_id":1108695309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88591,
+    15.25064,
+    -91.88591,
+    15.25064
+],
+  "geometry": {"coordinates":[-91.88591,15.25064],"type":"Point"}
+}

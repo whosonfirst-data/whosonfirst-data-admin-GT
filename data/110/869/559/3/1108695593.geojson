@@ -1,0 +1,112 @@
+{
+  "id": 1108695593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003195,
+    "geom:area_square_m":38090348.528768,
+    "geom:bbox":"-91.7022683355,15.3593980954,-91.6422502104,15.4653931564",
+    "geom:latitude":15.40762,
+    "geom:longitude":-91.671204,
+    "iso:country":"GT",
+    "lbl:latitude":15.398918,
+    "lbl:longitude":-91.673706,
+    "meso:admin_1":"Huehuetenango",
+    "meso:diss_me":"SAN RAFAEL PETZALHUEHUETENANGO",
+    "meso:gadm_admin":"San Rafael Petzal",
+    "meso:gaul_admin":"San Rafael P\u00e9tzal",
+    "meso:mps_x":-91.673706,
+    "meso:mps_y":15.398918,
+    "meso:name_en":"San Rafael Petzal",
+    "meso:source":"AOTM",
+    "mps:latitude":15.398918,
+    "mps:longitude":-91.673706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u4f69\u7279\u85a9\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:eng_x_variant":[
+        "San Rafael P\u00e9tzal",
+        "San Rafael Petzal"
+    ],
+    "name:fre_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael P\u00e9tzal"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.HU",
+    "statoids:name":"San Rafael Petzal",
+    "statoids:population":"6420",
+    "statoids:statoid":"GT.HU.RP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402524"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493915,
+    "wof:geomhash":"8144f7324f4f22e59b4baa17936b99e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695593,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1108695593,
+    "wof:lastmodified":1514444558,
+    "wof:name":"San Rafael Petzal",
+    "wof:parent_id":85671641,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6420,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.70226833549405,
+    15.35939809538317,
+    -91.64225021037919,
+    15.4653931564169
+],
+  "geometry": {"coordinates":[[[-91.70026529788652,15.39665468905539],[-91.69790716228941,15.40169950606717],[-91.69726481928141,15.41048816629256],[-91.68437009242602,15.41660416858127],[-91.68407694342325,15.4165791518904],[-91.68239547449218,15.4175339371503],[-91.67557754687803,15.42586844346211],[-91.67270850306242,15.427291496938],[-91.67124771882074,15.42875228117969],[-91.67206147324003,15.45],[-91.67164322942055,15.45035895549749],[-91.6713685728441,15.45100582846125],[-91.64743968910528,15.46511535637043],[-91.64549534301692,15.4653931564169],[-91.64483298555979,15.46444205461311],[-91.64225021037919,15.45784853131053],[-91.65165157179192,15.44175479700521],[-91.65179864537905,15.43635188825934],[-91.64572016531052,15.43014179017395],[-91.64682761400496,15.42716619714357],[-91.64764043738806,15.41621246483087],[-91.64745057937456,15.4121961203563],[-91.65445643085489,15.40863914656375],[-91.65117021259491,15.39373778636028],[-91.64982367364561,15.39114278229487],[-91.64962573375431,15.38938119695909],[-91.65398718960019,15.38289168419325],[-91.65501905926564,15.38295664861743],[-91.67561406081819,15.37583484858539],[-91.67662270250057,15.37308015585272],[-91.67455573531683,15.36435715709713],[-91.67752190895041,15.36120477497609],[-91.69060495308564,15.35939809538317],[-91.69420974361506,15.36350591826969],[-91.69980015412517,15.37415533269888],[-91.70226833549405,15.37564788385153],[-91.6982965907623,15.38268919626697],[-91.69902682839805,15.39436903262514],[-91.70026529788652,15.39665468905539]]],"type":"Polygon"}
+}

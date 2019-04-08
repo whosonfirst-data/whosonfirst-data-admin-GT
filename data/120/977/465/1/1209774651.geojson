@@ -1,0 +1,70 @@
+{
+  "id": 1209774651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54194,15.0833,-91.54194,15.0833",
+    "geom:latitude":15.0833,
+    "geom:longitude":-91.54194,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"GT",
+    "gn:dem":2986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457466,
+    "gn:latitude":15.0833,
+    "gn:longitude":-91.54194,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buena Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457466
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"aa0e05c57a87c01a0d5e7d3917f7da3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1209774651,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1209774651,
+    "wof:lastmodified":1537625299,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54194,
+    15.0833,
+    -91.54194,
+    15.0833
+],
+  "geometry": {"coordinates":[-91.54194,15.0833],"type":"Point"}
+}

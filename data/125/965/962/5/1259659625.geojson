@@ -1,0 +1,67 @@
+{
+  "id": 1259659625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.49639,13.98389,-90.49639,13.98389",
+    "geom:latitude":13.98389,
+    "geom:longitude":-90.49639,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Cintular",
+    "gn:country_code":"GT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764743,
+    "gn:latitude":13.98389,
+    "gn:longitude":-90.49639,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"El Cintular",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764743
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"69a8f80928d71ffa220c7ed21ef93455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1259659625,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1259659625,
+    "wof:lastmodified":1536601868,
+    "wof:name":"El Cintular",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.49639,
+    13.98389,
+    -90.49639,
+    13.98389
+],
+  "geometry": {"coordinates":[-90.49639000000001,13.98389],"type":"Point"}
+}

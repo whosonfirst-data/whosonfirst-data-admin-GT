@@ -1,0 +1,71 @@
+{
+  "id": 1309877221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.12446,14.88193,-92.12446,14.88193",
+    "geom:latitude":14.88193,
+    "geom:longitude":-92.12446,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nueva Colonia",
+    "gn:country_code":"GT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592146,
+    "gn:latitude":14.88193,
+    "gn:longitude":-92.12446,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Nueva Colonia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Nueva",
+        "Nueva Colonia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592146
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ccdc15425e7c4b06e8e4e0b8f0442fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1309877221,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309877221,
+    "wof:lastmodified":1537625164,
+    "wof:name":"Nueva Colonia",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.12446,
+    14.88193,
+    -92.12446,
+    14.88193
+],
+  "geometry": {"coordinates":[-92.12446,14.88193],"type":"Point"}
+}

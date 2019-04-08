@@ -1,0 +1,70 @@
+{
+  "id": 1259746823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.12881,15.37887,-92.12881,15.37887",
+    "geom:latitude":15.37887,
+    "geom:longitude":-92.12881,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Calera",
+    "gn:country_code":"GT",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637142,
+    "gn:latitude":15.37887,
+    "gn:longitude":-92.12881,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"La Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Calera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637142
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"29a41f6e4257cf6a717cc0852aa2d29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1259746823,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259746823,
+    "wof:lastmodified":1537625261,
+    "wof:name":"La Calera",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.12881,
+    15.37887,
+    -92.12881,
+    15.37887
+],
+  "geometry": {"coordinates":[-92.12881,15.37887],"type":"Point"}
+}

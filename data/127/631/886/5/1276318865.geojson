@@ -1,0 +1,73 @@
+{
+  "id": 1276318865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43389,15.20333,-91.43389,15.20333",
+    "geom:latitude":15.20333,
+    "geom:longitude":-91.43389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Quiaquizuyal",
+    "gn:country_code":"GT",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590966,
+    "gn:latitude":15.20333,
+    "gn:longitude":-91.43389,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Quiaquizuyal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quiaquizuyal"
+    ],
+    "name:und_x_variant":[
+        "Quiaquiz\u00fayal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421191463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590966
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7164d5665f25807fcb23ae525f13e681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191463,
+            "locality_id":1276318865,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276318865,
+    "wof:lastmodified":1537625154,
+    "wof:name":"Quiaquizuyal",
+    "wof:parent_id":421191463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43389,
+    15.20333,
+    -91.43389,
+    15.20333
+],
+  "geometry": {"coordinates":[-91.43389000000001,15.20333],"type":"Point"}
+}

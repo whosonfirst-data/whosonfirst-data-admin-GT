@@ -1,0 +1,70 @@
+{
+  "id": 1260056315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05926,15.11303,-92.05926,15.11303",
+    "geom:latitude":15.11303,
+    "geom:longitude":-92.05926,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Cabixmay",
+    "gn:country_code":"GT",
+    "gn:dem":2447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634732,
+    "gn:latitude":15.11303,
+    "gn:longitude":-92.05926,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Cabixmay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cabixmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634732
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"afa2d373e198a920d841bac7611acab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1260056315,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260056315,
+    "wof:lastmodified":1537625253,
+    "wof:name":"Cabixmay",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05926,
+    15.11303,
+    -92.05926,
+    15.11303
+],
+  "geometry": {"coordinates":[-92.05925999999999,15.11303],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242943979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14942,15.51934,-91.14942,15.51934",
+    "geom:latitude":15.51934,
+    "geom:longitude":-91.14942,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sumal",
+    "gn:country_code":"GT",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588655,
+    "gn:latitude":15.51934,
+    "gn:longitude":-91.14942,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sumal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sumal Grande",
+        "Sumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588655
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7a74d6b330b181a4cd55ac1247ea5fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1242943979,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1242943979,
+    "wof:lastmodified":1537625135,
+    "wof:name":"Sumal",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14942,
+    15.51934,
+    -91.14942,
+    15.51934
+],
+  "geometry": {"coordinates":[-91.14942000000001,15.51934],"type":"Point"}
+}

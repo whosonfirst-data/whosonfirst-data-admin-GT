@@ -1,0 +1,116 @@
+{
+  "id": 421177173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05,14.9,-92.05,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-92.05,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u99ac\u62c9\u5361\u5766"
+    ],
+    "name:dut_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30ab\u30bf\u30f3"
+    ],
+    "name:nah_x_preferred":[
+        "Malacatl\u0101n"
+    ],
+    "name:pol_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Malacat\u00e1n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u06a9\u0627\u062a\u0627\u0646"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592753,
+    "qs:gn_pop":14923,
+    "qs:name":"Malacat\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1116046,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84417,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592753,
+        "gp:id":84417,
+        "qs:id":1116046,
+        "wd:id":"Q2402136"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009135,
+    "wof:geomhash":"c64115945d2ccef40dc1db6ac66a53ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":421177173,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421177173,
+    "wof:lastmodified":1514444481,
+    "wof:name":"Malacat\u00e1n",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:population":14923,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05,
+    14.9,
+    -92.05,
+    14.9
+],
+  "geometry": {"coordinates":[-92.05,14.9],"type":"Point"}
+}

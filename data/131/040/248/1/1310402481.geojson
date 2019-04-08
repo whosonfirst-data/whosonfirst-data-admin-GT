@@ -1,0 +1,71 @@
+{
+  "id": 1310402481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65011,15.85487,-91.65011,15.85487",
+    "geom:latitude":15.85487,
+    "geom:longitude":-91.65011,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vilil",
+    "gn:country_code":"GT",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587931,
+    "gn:latitude":15.85487,
+    "gn:longitude":-91.65011,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Vilil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilil",
+        "Vilil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587931
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a59c14fb69ee3391b2f52f613586313d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695407,
+            "locality_id":1310402481,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310402481,
+    "wof:lastmodified":1537625128,
+    "wof:name":"Vilil",
+    "wof:parent_id":1108695407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65011,
+    15.85487,
+    -91.65011,
+    15.85487
+],
+  "geometry": {"coordinates":[-91.65011,15.85487],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226216625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.38765,15.01009,-91.38765,15.01009",
+    "geom:latitude":15.01009,
+    "geom:longitude":-91.38765,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sacabala",
+    "gn:country_code":"GT",
+    "gn:dem":2373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478268,
+    "gn:latitude":15.01009,
+    "gn:longitude":-91.38765,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sacabal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sacabal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478268
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"612adced83043dd53776d98ed526e7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1226216625,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1226216625,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Sacabala",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.38765,
+    15.01009,
+    -91.38765,
+    15.01009
+],
+  "geometry": {"coordinates":[-91.38764999999999,15.01009],"type":"Point"}
+}

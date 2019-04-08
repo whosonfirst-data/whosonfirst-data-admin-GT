@@ -1,0 +1,70 @@
+{
+  "id": 1276463815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.91137,15.39706,-91.91137,15.39706",
+    "geom:latitude":15.39706,
+    "geom:longitude":-91.91137,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Herrador",
+    "gn:country_code":"GT",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512538,
+    "gn:latitude":15.39706,
+    "gn:longitude":-91.91137,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"El Herrador",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Herrador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512538
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"55a4a68059941e303e7b42c4e12e8061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1276463815,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276463815,
+    "wof:lastmodified":1537625387,
+    "wof:name":"El Herrador",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.91137,
+    15.39706,
+    -91.91137,
+    15.39706
+],
+  "geometry": {"coordinates":[-91.91137000000001,15.39706],"type":"Point"}
+}

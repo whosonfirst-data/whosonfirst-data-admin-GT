@@ -1,0 +1,73 @@
+{
+  "id": 1226506065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.15853,14.8205,-92.15853,14.8205",
+    "geom:latitude":14.8205,
+    "geom:longitude":-92.15853,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"GT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590242,
+    "gn:latitude":14.8205,
+    "gn:longitude":-92.15853,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Francisco"
+    ],
+    "name:spa_x_variant":[
+        "Finca San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590242
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"02db6891dab3ef32a346fdec4a94ff49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1226506065,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226506065,
+    "wof:lastmodified":1537625148,
+    "wof:name":"San Francisco",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.15853,
+    14.8205,
+    -92.15853,
+    14.8205
+],
+  "geometry": {"coordinates":[-92.15853,14.8205],"type":"Point"}
+}

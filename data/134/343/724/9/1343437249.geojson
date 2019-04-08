@@ -1,0 +1,70 @@
+{
+  "id": 1343437249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.06279,15.24488,-92.06279,15.24488",
+    "geom:latitude":15.24488,
+    "geom:longitude":-92.06279,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Vega de Coatan",
+    "gn:country_code":"GT",
+    "gn:dem":2355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635084,
+    "gn:latitude":15.24488,
+    "gn:longitude":-92.06279,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Vega de Coat\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vega de Coat\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635084
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d0a07ac99a20733d6842a1c5bf5f32b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1343437249,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343437249,
+    "wof:lastmodified":1537625256,
+    "wof:name":"La Vega de Coatan",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06279,
+    15.24488,
+    -92.06279,
+    15.24488
+],
+  "geometry": {"coordinates":[-92.06279000000001,15.24488],"type":"Point"}
+}

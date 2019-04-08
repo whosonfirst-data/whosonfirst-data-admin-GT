@@ -1,0 +1,75 @@
+{
+  "id": 421189315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.15332,14.801438,-92.15332,14.801438",
+    "geom:latitude":14.801438,
+    "geom:longitude":-92.15332,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Frontera Hidalgo",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Chiapas",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":129,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":39611,
+    "qs:woe_adm0":23424900,
+    "qs:woe_id":12599742,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12599742,
+        "qs:id":39611,
+        "wd:id":"Q951899"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009617,
+    "wof:geomhash":"96b49db2f1750d6a9eacc190c16d7604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189315,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421189315,
+    "wof:lastmodified":1527716267,
+    "wof:name":"Frontera Hidalgo",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.15332,
+    14.801438,
+    -92.15332,
+    14.801438
+],
+  "geometry": {"coordinates":[-92.15331999999999,14.801438],"type":"Point"}
+}

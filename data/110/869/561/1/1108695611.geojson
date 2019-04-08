@@ -1,0 +1,111 @@
+{
+  "id": 1108695611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003702,
+    "geom:area_square_m":44247860.598358,
+    "geom:bbox":"-90.9932759706,14.7748919081,-90.9210934848,14.8909515568",
+    "geom:latitude":14.818342,
+    "geom:longitude":-90.957175,
+    "iso:country":"GT",
+    "lbl:latitude":14.807491,
+    "lbl:longitude":-90.959611,
+    "meso:admin_1":"Chimaltenango",
+    "meso:diss_me":"SANTA APOLONIACHIMALTENANGO",
+    "meso:gadm_admin":"Santa Apolonia",
+    "meso:gaul_admin":"Santa Apolonia",
+    "meso:mps_x":-90.959611,
+    "meso:mps_y":14.807491,
+    "meso:name_en":"Santa Apolonia",
+    "meso:source":"AOTM",
+    "mps:latitude":14.807491,
+    "mps:longitude":-90.959611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u963f\u6ce2\u6d1b\u5c3c\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:por_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Apolonia"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.CM",
+    "statoids:name":"Santa Apolonia",
+    "statoids:population":"11859",
+    "statoids:statoid":"GT.CM.SA",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1254653"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493932,
+    "wof:geomhash":"ed2cf0494e4deb974086e68bb0e3ae93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695611,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1108695611,
+    "wof:lastmodified":1553816465,
+    "wof:name":"Santa Apolonia",
+    "wof:parent_id":85671671,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":11859,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.9932759706319,
+    14.77489190806526,
+    -90.92109348481952,
+    14.89095155684753
+],
+  "geometry": {"coordinates":[[[-90.95503135846531,14.89095155684753],[-90.94746923030404,14.88661081249866],[-90.94580846853547,14.87536121151684],[-90.95082599690045,14.86601756827057],[-90.95360036426584,14.86447430914982],[-90.94033318658835,14.84438814825169],[-90.94021064141106,14.8443882319494],[-90.93612406315778,14.83990750412224],[-90.9324005070615,14.83030813742442],[-90.93543822796249,14.82787121381485],[-90.94090555054932,14.82043593568207],[-90.9302282495137,14.8106715790357],[-90.9319129030451,14.8067685036641],[-90.93157897934428,14.80413347329669],[-90.92109348481952,14.7909104960587],[-90.92289932145093,14.7884905446705],[-90.93787052745373,14.78717403198321],[-90.9394610997724,14.783927302086],[-90.94951278361735,14.7795809471199],[-90.96045864754048,14.7832395720519],[-90.96084967802084,14.78307510478303],[-90.96670850082343,14.77489190806526],[-90.96999077912244,14.77543128409664],[-90.98415883051629,14.78448158655499],[-90.98427001403155,14.78878545796048],[-90.99311198759746,14.79423950261822],[-90.9932759706319,14.79461851419087],[-90.99304731399715,14.79679977514937],[-90.98819910395606,14.81023710017667],[-90.98439595322705,14.81152479299723],[-90.98001664089671,14.8189414247428],[-90.97543332018662,14.82388306056795],[-90.97533732190411,14.82434549530235],[-90.9752957990904,14.82477997675445],[-90.9707502677019,14.83042586849657],[-90.96823492762354,14.83878078740809],[-90.96844481512724,14.83955474437616],[-90.95896262380995,14.85967448274853],[-90.95840850244606,14.86395344596343],[-90.96036686488794,14.86499315320788],[-90.96212506119554,14.88879222569617],[-90.95503135846531,14.89095155684753]]],"type":"Polygon"}
+}

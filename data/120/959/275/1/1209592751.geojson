@@ -1,0 +1,61 @@
+{
+  "id": 1209592751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.24056,16.12167,-89.24056,16.12167",
+    "geom:latitude":16.12167,
+    "geom:longitude":-89.24056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mollejon Esquipulas",
+    "gn:country_code":"GT",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763987,
+    "gn:latitude":16.12167,
+    "gn:longitude":-89.24056,
+    "gn:modification_date":"1998-07-20",
+    "gn:name":"Mollej\u00f3n Esquipulas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763987
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"be30ee772a2127e9ea61540be980ac10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209592751
+        }
+    ],
+    "wof:id":1209592751,
+    "wof:lastmodified":1536282425,
+    "wof:name":"Mollejon Esquipulas",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.24056,
+    16.12167,
+    -89.24056,
+    16.12167
+],
+  "geometry": {"coordinates":[-89.24056,16.12167],"type":"Point"}
+}

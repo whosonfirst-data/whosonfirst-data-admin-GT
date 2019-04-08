@@ -1,0 +1,70 @@
+{
+  "id": 1277052213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63033,15.07715,-91.63033,15.07715",
+    "geom:latitude":15.07715,
+    "geom:longitude":-91.63033,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cienaga",
+    "gn:country_code":"GT",
+    "gn:dem":2571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458497,
+    "gn:latitude":15.07715,
+    "gn:longitude":-91.63033,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Cienaga",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cienaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458497
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"995df80d1d8f9fe3be1b5d7b1d13a5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695275,
+            "locality_id":1277052213,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1277052213,
+    "wof:lastmodified":1537625302,
+    "wof:name":"Cienaga",
+    "wof:parent_id":1108695275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63033,
+    15.07715,
+    -91.63033,
+    15.07715
+],
+  "geometry": {"coordinates":[-91.63033,15.07715],"type":"Point"}
+}

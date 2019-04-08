@@ -1,0 +1,70 @@
+{
+  "id": 1344028937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12105,15.433,-91.12105,15.433",
+    "geom:latitude":15.433,
+    "geom:longitude":-91.12105,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bastalchil",
+    "gn:country_code":"GT",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483112,
+    "gn:latitude":15.433,
+    "gn:longitude":-91.12105,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Bastalchil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bastalchil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483112
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a6ecf8fb641f9c039b58c6083c9e698f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1344028937,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1344028937,
+    "wof:lastmodified":1537625349,
+    "wof:name":"Bastalchil",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12105,
+    15.433,
+    -91.12105,
+    15.433
+],
+  "geometry": {"coordinates":[-91.12105,15.433],"type":"Point"}
+}

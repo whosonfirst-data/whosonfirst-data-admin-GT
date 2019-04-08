@@ -1,0 +1,70 @@
+{
+  "id": 1276188531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.90219,15.28511,-91.90219,15.28511",
+    "geom:latitude":15.28511,
+    "geom:longitude":-91.90219,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chiquilabaj",
+    "gn:country_code":"GT",
+    "gn:dem":2875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11510323,
+    "gn:latitude":15.28511,
+    "gn:longitude":-91.90219,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chiquilabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chiquilabaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510323
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b48ec5470c906de57e12f398cf407928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695309,
+            "locality_id":1276188531,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276188531,
+    "wof:lastmodified":1537625381,
+    "wof:name":"Chiquilabaj",
+    "wof:parent_id":1108695309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.90219,
+    15.28511,
+    -91.90219,
+    15.28511
+],
+  "geometry": {"coordinates":[-91.90219,15.28511],"type":"Point"}
+}

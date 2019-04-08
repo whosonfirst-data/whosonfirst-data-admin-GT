@@ -1,0 +1,61 @@
+{
+  "id": 1209304145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.56667,15.56667,-88.56667,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-88.56667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Omagua",
+    "gn:country_code":"GT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592030,
+    "gn:latitude":15.56667,
+    "gn:longitude":-88.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Omagua",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592030
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b843d3470928a0acf16c2f1161793531",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209304145
+        }
+    ],
+    "wof:id":1209304145,
+    "wof:lastmodified":1536291253,
+    "wof:name":"Omagua",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.56667,
+    15.566670000000002,
+    -88.56667,
+    15.566670000000002
+],
+  "geometry": {"coordinates":[-88.56667,15.56667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209591949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.91671,15.07034,-91.91671,15.07034",
+    "geom:latitude":15.07034,
+    "geom:longitude":-91.91671,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Entre Selvas",
+    "gn:country_code":"GT",
+    "gn:dem":2515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475636,
+    "gn:latitude":15.07034,
+    "gn:longitude":-91.91671,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Entre Selvas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Entre Selvas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475636
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7c465bc42d1bf911b73ce1f447305357",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209591949
+        }
+    ],
+    "wof:id":1209591949,
+    "wof:lastmodified":1537625313,
+    "wof:name":"Entre Selvas",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.91671,
+    15.07034,
+    -91.91671,
+    15.07034
+],
+  "geometry": {"coordinates":[-91.91670999999999,15.07034],"type":"Point"}
+}

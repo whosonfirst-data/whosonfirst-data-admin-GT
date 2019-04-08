@@ -1,0 +1,70 @@
+{
+  "id": 1310169039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.81796,15.05942,-91.81796,15.05942",
+    "geom:latitude":15.05942,
+    "geom:longitude":-91.81796,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Los Cerezos",
+    "gn:country_code":"GT",
+    "gn:dem":2907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475339,
+    "gn:latitude":15.05942,
+    "gn:longitude":-91.81796,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Los Cerezos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cerezos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421190499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475339
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"62dcb54efff2c8e61969c5f2d02708de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190499,
+            "locality_id":1310169039,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1310169039,
+    "wof:lastmodified":1537625309,
+    "wof:name":"Los Cerezos",
+    "wof:parent_id":421190499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.81796,
+    15.05942,
+    -91.81796,
+    15.05942
+],
+  "geometry": {"coordinates":[-91.81796,15.05942],"type":"Point"}
+}

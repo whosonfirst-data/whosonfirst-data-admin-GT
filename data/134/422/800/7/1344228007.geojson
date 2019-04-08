@@ -1,0 +1,72 @@
+{
+  "id": 1344228007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1,14.98333,-91.1,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-91.1,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chulumaloxib",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598196,
+    "gn:latitude":14.98333,
+    "gn:longitude":-91.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chulumaloxib",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chulumal Tercero",
+        "Chulumaloxib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598196
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3a96cb0f49ba09f7c139bea50a7a1dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695455,
+            "locality_id":1344228007,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1344228007,
+    "wof:lastmodified":1537625219,
+    "wof:name":"Chulumaloxib",
+    "wof:parent_id":1108695455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1,
+    14.98333,
+    -91.1,
+    14.98333
+],
+  "geometry": {"coordinates":[-91.09999999999999,14.98333],"type":"Point"}
+}

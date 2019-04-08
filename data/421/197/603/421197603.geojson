@@ -1,0 +1,110 @@
+{
+  "id": 421197603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.16667,15.33333,-90.16667,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":-90.16667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:baq_x_preferred":[
+        "Tamahu"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u99ac\u70cf"
+    ],
+    "name:dut_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:ger_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:ita_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:pol_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Tamah\u00fa"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588554,
+    "qs:gn_pop":1012,
+    "qs:name":"Tamah\u00fa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Alta Verapaz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149108,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86358,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421171421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588554,
+        "gp:id":86358,
+        "qs:id":149108,
+        "wd:id":"Q348216"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"f2d2001c164bb00c5654c8b6b8b4902c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171421,
+            "locality_id":421197603,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421197603,
+    "wof:lastmodified":1514444584,
+    "wof:name":"Tamah\u00fa",
+    "wof:parent_id":421171421,
+    "wof:placetype":"locality",
+    "wof:population":1012,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.16667,
+    15.33333,
+    -90.16667,
+    15.33333
+],
+  "geometry": {"coordinates":[-90.16667,15.33333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309683621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65807,15.01785,-91.65807,15.01785",
+    "geom:latitude":15.01785,
+    "geom:longitude":-91.65807,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Barrial",
+    "gn:country_code":"GT",
+    "gn:dem":2718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456909,
+    "gn:latitude":15.01785,
+    "gn:longitude":-91.65807,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"El Barrial",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Barrial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456909
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d92cc1e6c3d16f35a2bf91041c5dc5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695649,
+            "locality_id":1309683621,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1309683621,
+    "wof:lastmodified":1537625297,
+    "wof:name":"El Barrial",
+    "wof:parent_id":1108695649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65807,
+    15.01785,
+    -91.65807,
+    15.01785
+],
+  "geometry": {"coordinates":[-91.65807,15.01785],"type":"Point"}
+}

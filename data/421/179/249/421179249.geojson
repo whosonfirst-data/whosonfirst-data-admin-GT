@@ -1,0 +1,115 @@
+{
+  "id": 421179249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.03111,14.04417,-90.03111,14.04417",
+    "geom:latitude":14.04417,
+    "geom:longitude":-90.03111,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5b54\u74dc\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "Conguaco"
+    ],
+    "name:eng_x_preferred":[
+        "Conguaco"
+    ],
+    "name:fra_x_preferred":[
+        "Conguaco"
+    ],
+    "name:fre_x_preferred":[
+        "Conguaco"
+    ],
+    "name:ita_x_preferred":[
+        "Conguaco"
+    ],
+    "name:pol_x_preferred":[
+        "Conguaco"
+    ],
+    "name:por_x_preferred":[
+        "Conguaco"
+    ],
+    "name:spa_x_preferred":[
+        "Conguaco"
+    ],
+    "name:swe_x_preferred":[
+        "Conguaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u74dc\u79d1"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597966,
+    "qs:gn_pop":3415,
+    "qs:name":"Conguaco",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Jutiapa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149213,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81970,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597966,
+        "gp:id":81970,
+        "qs:id":149213,
+        "wd:id":"Q2403007",
+        "wk:page":"Conguaco"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009209,
+    "wof:geomhash":"df6a7f8b8bef4a402c2ec36e4d4e92a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695311,
+            "locality_id":421179249,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":421179249,
+    "wof:lastmodified":1527717712,
+    "wof:name":"Conguaco",
+    "wof:parent_id":1108695311,
+    "wof:placetype":"locality",
+    "wof:population":3415,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.03111,
+    14.04417,
+    -90.03111,
+    14.04417
+],
+  "geometry": {"coordinates":[-90.03111,14.04417],"type":"Point"}
+}

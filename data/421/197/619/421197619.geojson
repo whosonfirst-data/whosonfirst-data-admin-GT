@@ -1,0 +1,105 @@
+{
+  "id": 421197619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7,14.6,-91.7,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-91.7,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Nuevo San Carlos"
+    ],
+    "name:ita_x_preferred":[
+        "Nuevo San Carlos"
+    ],
+    "name:pol_x_preferred":[
+        "Nuevo San Carlos"
+    ],
+    "name:por_x_preferred":[
+        "Nuevo San Carlos"
+    ],
+    "name:swe_x_preferred":[
+        "Nuevo San Carlos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0648\u0648 \u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8056\u5361\u6d1b\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592105,
+    "qs:gn_pop":19162,
+    "qs:name":"Nuevo San Carlos",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Retalhuleu",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149180,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84624,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.6,
+    "wd:longitude":-91.7,
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        1108695413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592105,
+        "gp:id":84624,
+        "qs:id":149180,
+        "wd:id":"Q2608234",
+        "wk:page":"Nuevo San Carlos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"c3b167c954d563b56616494aab9884ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695413,
+            "locality_id":421197619,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":421197619,
+    "wof:lastmodified":1527716400,
+    "wof:name":"Nuevo San Carlos",
+    "wof:parent_id":1108695413,
+    "wof:placetype":"locality",
+    "wof:population":19162,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7,
+    14.6,
+    -91.7,
+    14.6
+],
+  "geometry": {"coordinates":[-91.7,14.6],"type":"Point"}
+}

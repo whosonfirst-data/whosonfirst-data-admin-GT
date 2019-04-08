@@ -1,0 +1,70 @@
+{
+  "id": 1226216293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28707,15.57641,-91.28707,15.57641",
+    "geom:latitude":15.57641,
+    "geom:longitude":-91.28707,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Cimiento",
+    "gn:country_code":"GT",
+    "gn:dem":2310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491867,
+    "gn:latitude":15.57641,
+    "gn:longitude":-91.28707,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Cimiento",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cimiento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491867
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6e0f5315bedaa8a89cc08e4e57975192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1226216293,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226216293,
+    "wof:lastmodified":1537625367,
+    "wof:name":"El Cimiento",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28707,
+    15.57641,
+    -91.28707,
+    15.57641
+],
+  "geometry": {"coordinates":[-91.28707,15.57641],"type":"Point"}
+}

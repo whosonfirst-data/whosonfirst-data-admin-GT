@@ -1,0 +1,67 @@
+{
+  "id": 1243145419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.98333,14.4,-91.98333,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":-91.98333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Manacales",
+    "gn:country_code":"GT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592721,
+    "gn:latitude":14.4,
+    "gn:longitude":-91.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Manacales",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421203203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592721
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ddacabc4c9d63cc4fd9f7cf1e692fe07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203203,
+            "locality_id":1243145419,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1243145419,
+    "wof:lastmodified":1536742441,
+    "wof:name":"Manacales",
+    "wof:parent_id":421203203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.98333,
+    14.4,
+    -91.98333,
+    14.4
+],
+  "geometry": {"coordinates":[-91.98333,14.4],"type":"Point"}
+}

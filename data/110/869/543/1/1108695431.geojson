@@ -1,0 +1,115 @@
+{
+  "id": 1108695431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003132,
+    "geom:area_square_m":37419713.254003,
+    "geom:bbox":"-91.7260455972,14.9005553565,-91.6398570103,14.9719380081",
+    "geom:latitude":14.931476,
+    "geom:longitude":-91.675687,
+    "iso:country":"GT",
+    "lbl:latitude":14.929175,
+    "lbl:longitude":-91.672749,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"PALESTINA DE LOS ALTOSQUETZALTENANGO",
+    "meso:gadm_admin":"Palestina de Los Altos",
+    "meso:gaul_admin":"Palestina de los Altos",
+    "meso:mps_x":-91.672749,
+    "meso:mps_y":14.929175,
+    "meso:name_en":"Palestina De Los Altos",
+    "meso:source":"AOTM",
+    "mps:latitude":14.929175,
+    "mps:longitude":-91.672749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e15\u840a\u65af\u8482\u7d0d\u5fb7\u6d1b\u65af\u963f\u723e\u6258\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:eng_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:eng_x_variant":[
+        "Palestina de los Altos",
+        "Palestina de Los Altos"
+    ],
+    "name:fre_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:ita_x_preferred":[
+        "Palestina de los Altos"
+    ],
+    "name:pol_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:por_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:spa_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:swe_x_preferred":[
+        "Palestina de los Altos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0644\u0633\u0637\u06cc\u0646 \u062f\u06d2 \u0644\u0627\u0633 \u0622\u0644\u062a\u0648\u0633"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"Palestina de Los Altos",
+    "statoids:population":"11682",
+    "statoids:statoid":"GT.QZ.PA",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402624"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493744,
+    "wof:geomhash":"bb11cef91e07c4f858d6bbaaf4e1990a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695431,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695431,
+    "wof:lastmodified":1514444492,
+    "wof:name":"Palestina De Los Altos",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":11682,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.72604559718312,
+    14.90055535650658,
+    -91.63985701032287,
+    14.97193800813177
+],
+  "geometry": {"coordinates":[[[-91.72467902270918,14.92176198911332],[-91.71578850258533,14.92832537005508],[-91.711440923692,14.92741532723391],[-91.70786656444982,14.9253540965866],[-91.69399588323698,14.93205030576799],[-91.69302710229189,14.93449281697692],[-91.69335242402312,14.93620688695726],[-91.68541821891277,14.94777387267324],[-91.68481272673245,14.94780692179765],[-91.67087808711194,14.95138834779298],[-91.67681611328393,14.96395289213637],[-91.67517591010548,14.96722356152707],[-91.66611342273222,14.96867879928121],[-91.66541708131153,14.96948087480344],[-91.66295896974361,14.97096580771393],[-91.65937943808265,14.97193800813177],[-91.65449664890647,14.96960212290463],[-91.65203047763424,14.96275056411055],[-91.650457517991,14.96079641147947],[-91.64774506910624,14.96100143495433],[-91.63985701032287,14.9549865335555],[-91.64120690843525,14.94467237731077],[-91.64577934742434,14.94156010021735],[-91.64299733865413,14.93094479726996],[-91.64296596978909,14.93089805150974],[-91.64989246053601,14.91315141155665],[-91.65214453819831,14.9123271679893],[-91.65766380360841,14.9140924035003],[-91.6700392774824,14.90802733869504],[-91.67209961028031,14.9080537717911],[-91.67312117392581,14.90706585167695],[-91.69330470173462,14.90055535650658],[-91.69607452701077,14.90523143338998],[-91.71112813330818,14.90302607459445],[-91.71430331738925,14.90935135719335],[-91.71705713694119,14.91196427028477],[-91.72518969860735,14.9134664761253],[-91.72597647297312,14.91498422854592],[-91.72604559718312,14.91541214088559],[-91.72467902270918,14.92176198911332]]],"type":"Polygon"}
+}

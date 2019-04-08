@@ -1,0 +1,70 @@
+{
+  "id": 1344234097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.05927,17.08376,-90.05927,17.08376",
+    "geom:latitude":17.08376,
+    "geom:longitude":-90.05927,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Veronica",
+    "gn:country_code":"GT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8142071,
+    "gn:latitude":17.08376,
+    "gn:longitude":-90.05927,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"La Ver\u00f3nica",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ver\u00f3nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142071
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d7ddd4839ee0f4dd4fd8d8cde5cd2ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695467,
+            "locality_id":1344234097,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1344234097,
+    "wof:lastmodified":1537625243,
+    "wof:name":"La Veronica",
+    "wof:parent_id":1108695467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.05927,
+    17.08376,
+    -90.05927,
+    17.08376
+],
+  "geometry": {"coordinates":[-90.05927,17.08376],"type":"Point"}
+}

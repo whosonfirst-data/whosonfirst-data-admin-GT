@@ -1,0 +1,70 @@
+{
+  "id": 1260056299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.1133,15.1758,-92.1133,15.1758",
+    "geom:latitude":15.1758,
+    "geom:longitude":-92.1133,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tojchim",
+    "gn:country_code":"GT",
+    "gn:dem":2550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635107,
+    "gn:latitude":15.1758,
+    "gn:longitude":-92.1133,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Tojchim",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tojchim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635107
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a58194f593056f266dc6f25bd74f247d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1260056299,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260056299,
+    "wof:lastmodified":1537625257,
+    "wof:name":"Tojchim",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.1133,
+    15.1758,
+    -92.1133,
+    15.1758
+],
+  "geometry": {"coordinates":[-92.1133,15.1758],"type":"Point"}
+}

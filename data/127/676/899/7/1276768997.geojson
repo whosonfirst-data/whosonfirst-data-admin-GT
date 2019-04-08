@@ -1,0 +1,67 @@
+{
+  "id": 1276768997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.55,14.5,-89.55,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":-89.55,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Panuelo",
+    "gn:country_code":"GT",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596624,
+    "gn:latitude":14.5,
+    "gn:longitude":-89.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Pa\u00f1uelo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596624
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ad7e14afce0c0844ab32958c90066fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":1276768997,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276768997,
+    "wof:lastmodified":1536692227,
+    "wof:name":"El Panuelo",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.55,
+    14.5,
+    -89.55,
+    14.5
+],
+  "geometry": {"coordinates":[-89.55,14.5],"type":"Point"}
+}

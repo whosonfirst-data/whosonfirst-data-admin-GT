@@ -1,0 +1,64 @@
+{
+  "id": 1209188283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.3465,15.03377,-91.3465,15.03377",
+    "geom:latitude":15.03377,
+    "geom:longitude":-91.3465,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chuiaj",
+    "gn:country_code":"GT",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598242,
+    "gn:latitude":15.03377,
+    "gn:longitude":-91.3465,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chuiaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuiaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598242
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0d824b5bce6d30949e02c1ae57dbcd52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209188283
+        }
+    ],
+    "wof:id":1209188283,
+    "wof:lastmodified":1537625219,
+    "wof:name":"Chuiaj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.3465,
+    15.03377,
+    -91.3465,
+    15.03377
+],
+  "geometry": {"coordinates":[-91.34650000000001,15.03377],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 421193563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13333,14.75,-91.13333,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":-91.13333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u585e\u6885\u5854\u74e6\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c9\u30ec\u30b9\u30fb\u30bb\u30e1\u30bf\u30d0\u30d5"
+    ],
+    "name:nah_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:unk_x_variant":[
+        "San Andr\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u585e\u6885\u5854\u74e6\u8d6b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590524,
+    "qs:gn_pop":2605,
+    "qs:name":"San Andr\u00e9s Semetabaj",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1340976,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85498,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421170963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590524,
+        "gp:id":85498,
+        "qs:id":1340976,
+        "wd:id":"Q2402766",
+        "wk:page":"San Andr\u00e9s Semetabaj"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009775,
+    "wof:geomhash":"878b16acb99ec182b54d16fcd45db81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170963,
+            "locality_id":421193563,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421193563,
+    "wof:lastmodified":1514444529,
+    "wof:name":"San Andr\u00e9s Semetabaj",
+    "wof:parent_id":421170963,
+    "wof:placetype":"locality",
+    "wof:population":2605,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13333,
+    14.75,
+    -91.13333,
+    14.75
+],
+  "geometry": {"coordinates":[-91.13333,14.75],"type":"Point"}
+}

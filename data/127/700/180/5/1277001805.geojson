@@ -1,0 +1,70 @@
+{
+  "id": 1277001805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.81525,15.70167,-91.81525,15.70167",
+    "geom:latitude":15.70167,
+    "geom:longitude":-91.81525,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chaplaj",
+    "gn:country_code":"GT",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637769,
+    "gn:latitude":15.70167,
+    "gn:longitude":-91.81525,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Chaplaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaplaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637769
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f5f66637a3a72bfa3c3a2b15208045c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695607,
+            "locality_id":1277001805,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1277001805,
+    "wof:lastmodified":1537625268,
+    "wof:name":"Chaplaj",
+    "wof:parent_id":1108695607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.81525,
+    15.70167,
+    -91.81525,
+    15.70167
+],
+  "geometry": {"coordinates":[-91.81525000000001,15.70167],"type":"Point"}
+}

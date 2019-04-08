@@ -1,0 +1,61 @@
+{
+  "id": 1209087411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.74306,14.21861,-89.74306,14.21861",
+    "geom:latitude":14.21861,
+    "geom:longitude":-89.74306,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Horcones",
+    "gn:country_code":"GT",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595436,
+    "gn:latitude":14.21861,
+    "gn:longitude":-89.74306,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Horcones",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595436
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0de612ab14f70ad6ea820b0ce8511ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209087411
+        }
+    ],
+    "wof:id":1209087411,
+    "wof:lastmodified":1536298142,
+    "wof:name":"Horcones",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.74306,
+    14.21861,
+    -89.74306,
+    14.21861
+],
+  "geometry": {"coordinates":[-89.74306,14.21861],"type":"Point"}
+}

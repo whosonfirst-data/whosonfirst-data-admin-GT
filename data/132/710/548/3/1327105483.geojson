@@ -1,0 +1,70 @@
+{
+  "id": 1327105483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1016,15.77649,-91.1016,15.77649",
+    "geom:latitude":15.77649,
+    "geom:longitude":-91.1016,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Santa Cecilia La Pimienta",
+    "gn:country_code":"GT",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449729,
+    "gn:latitude":15.77649,
+    "gn:longitude":-91.1016,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Santa Cecilia La Pimienta",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cecilia La Pimienta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449729
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a97cfd623aaaf1e9a27f74751f22249d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1327105483,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327105483,
+    "wof:lastmodified":1537625282,
+    "wof:name":"Santa Cecilia La Pimienta",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1016,
+    15.77649,
+    -91.1016,
+    15.77649
+],
+  "geometry": {"coordinates":[-91.1016,15.77649],"type":"Point"}
+}

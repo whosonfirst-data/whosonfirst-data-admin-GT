@@ -1,0 +1,67 @@
+{
+  "id": 1310294021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.93333,14.51667,-89.93333,14.51667",
+    "geom:latitude":14.51667,
+    "geom:longitude":-89.93333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Las Tapias",
+    "gn:country_code":"GT",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593619,
+    "gn:latitude":14.51667,
+    "gn:longitude":-89.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Tapias",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        1108695401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593619
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3aa8941ef11b7d01ac68fc2c546c246a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695401,
+            "locality_id":1310294021,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1310294021,
+    "wof:lastmodified":1536724861,
+    "wof:name":"Las Tapias",
+    "wof:parent_id":1108695401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.93333,
+    14.51667,
+    -89.93333,
+    14.51667
+],
+  "geometry": {"coordinates":[-89.93333,14.51667],"type":"Point"}
+}

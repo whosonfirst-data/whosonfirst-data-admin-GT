@@ -1,0 +1,70 @@
+{
+  "id": 1259957071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.47719,16.45779,-90.47719,16.45779",
+    "geom:latitude":16.45779,
+    "geom:longitude":-90.47719,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Yucateco",
+    "gn:country_code":"GT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533802,
+    "gn:latitude":16.45779,
+    "gn:longitude":-90.47719,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"El Yucateco",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Yucateco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533802
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"88f5ae8936cec90769a2fbbf74583b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1259957071,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1259957071,
+    "wof:lastmodified":1537625249,
+    "wof:name":"El Yucateco",
+    "wof:parent_id":421187939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.47719,
+    16.45779,
+    -90.47719,
+    16.45779
+],
+  "geometry": {"coordinates":[-90.47718999999999,16.45779],"type":"Point"}
+}

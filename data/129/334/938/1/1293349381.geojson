@@ -1,0 +1,70 @@
+{
+  "id": 1293349381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30116,15.11765,-91.30116,15.11765",
+    "geom:latitude":15.11765,
+    "geom:longitude":-91.30116,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jumet",
+    "gn:country_code":"GT",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478646,
+    "gn:latitude":15.11765,
+    "gn:longitude":-91.30116,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Jumet",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Jumet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478646
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"186c7d0f2fbeb0734f61fdb2608c9b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293349381,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293349381,
+    "wof:lastmodified":1537625342,
+    "wof:name":"Jumet",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30116,
+    15.11765,
+    -91.30116,
+    15.11765
+],
+  "geometry": {"coordinates":[-91.30116,15.11765],"type":"Point"}
+}

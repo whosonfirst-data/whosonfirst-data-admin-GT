@@ -1,0 +1,67 @@
+{
+  "id": 1276759065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.56667,14.36667,-90.56667,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":-90.56667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Llanos",
+    "gn:country_code":"GT",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593002,
+    "gn:latitude":14.36667,
+    "gn:longitude":-90.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Llanos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593002
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1eaf110f2283922673687e7bf712d152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695679,
+            "locality_id":1276759065,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1276759065,
+    "wof:lastmodified":1536705662,
+    "wof:name":"Los Llanos",
+    "wof:parent_id":1108695679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.56667,
+    14.36667,
+    -90.56667,
+    14.36667
+],
+  "geometry": {"coordinates":[-90.56667,14.36667],"type":"Point"}
+}

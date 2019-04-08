@@ -1,0 +1,103 @@
+{
+  "id": 421198437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45,14.63333,-89.45,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":-89.45,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:pol_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:por_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:swe_x_preferred":[
+        "Quezaltepeque"
+    ],
+    "name:unk_x_variant":[
+        "Quetzaltepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u85a9\u723e\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590973,
+    "qs:gn_pop":4126,
+    "qs:name":"Quezaltepeque",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chiquimula",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201058,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85265,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        1108695453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590973,
+        "gp:id":85265,
+        "qs:id":1201058,
+        "wd:id":"Q1981325",
+        "wk:page":"Quezaltepeque, Chiquimula"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009948,
+    "wof:geomhash":"fc4bcce36ab9737951d13debfb08acb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695453,
+            "locality_id":421198437,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":421198437,
+    "wof:lastmodified":1527716351,
+    "wof:name":"Quezaltepeque",
+    "wof:parent_id":1108695453,
+    "wof:placetype":"locality",
+    "wof:population":4126,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45,
+    14.63333,
+    -89.45,
+    14.63333
+],
+  "geometry": {"coordinates":[-89.45,14.63333],"type":"Point"}
+}

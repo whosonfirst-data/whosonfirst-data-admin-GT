@@ -1,0 +1,67 @@
+{
+  "id": 1259657503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.06667,14.96667,-91.06667,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-91.06667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tzalamabaj",
+    "gn:country_code":"GT",
+    "gn:dem":2018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588134,
+    "gn:latitude":14.96667,
+    "gn:longitude":-91.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tzalamabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421171687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588134
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9c2ec2171e830d069fd5249eb5c269d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171687,
+            "locality_id":1259657503,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259657503,
+    "wof:lastmodified":1536605121,
+    "wof:name":"Tzalamabaj",
+    "wof:parent_id":421171687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.06667,
+    14.96667,
+    -91.06667,
+    14.96667
+],
+  "geometry": {"coordinates":[-91.06667,14.96667],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1108695259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001152,
+    "geom:area_square_m":13767417.741922,
+    "geom:bbox":"-91.5052582794,14.7886462037,-91.4635641201,14.8310242599",
+    "geom:latitude":14.811167,
+    "geom:longitude":-91.484369,
+    "iso:country":"GT",
+    "lbl:latitude":14.811736,
+    "lbl:longitude":-91.48475,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"ALMOLONGAQUETZALTENANGO",
+    "meso:gadm_admin":"Almolonga",
+    "meso:gaul_admin":"Almolonga",
+    "meso:mps_x":-91.48475,
+    "meso:mps_y":14.811736,
+    "meso:name_en":"Almolonga",
+    "meso:source":"AOTM",
+    "mps:latitude":14.811736,
+    "mps:longitude":-91.48475,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u83ab\u9686\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "Almolonga"
+    ],
+    "name:eng_x_preferred":[
+        "Almolonga"
+    ],
+    "name:fre_x_preferred":[
+        "Almolonga"
+    ],
+    "name:ita_x_preferred":[
+        "Almolonga"
+    ],
+    "name:lit_x_preferred":[
+        "Almolonga"
+    ],
+    "name:nah_x_preferred":[
+        "\u0100lmol\u014dnc\u0101n"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0644\u0627\u0646\u06af\u0627\u060c \u06a9\u0648\u0626\u062a\u0632\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Almolonga"
+    ],
+    "name:spa_x_preferred":[
+        "Almolonga"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"Almolonga",
+    "statoids:population":"13880",
+    "statoids:statoid":"GT.QZ.AL",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q284830"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493565,
+    "wof:geomhash":"ae96fefeadd31e659354d2089df35bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695259,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695259,
+    "wof:lastmodified":1514444405,
+    "wof:name":"Almolonga",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":13880,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.50525827943133,
+    14.78864620374691,
+    -91.46356412006747,
+    14.83102425989141
+],
+  "geometry": {"coordinates":[[[-91.46356412006747,14.82111599046399],[-91.46943797789049,14.81326904592272],[-91.46994110588851,14.80474299208538],[-91.47017108161009,14.80454483264371],[-91.47130543248305,14.79254427835675],[-91.48291519403257,14.78864620374691],[-91.48376165847345,14.78955065814797],[-91.48612641745922,14.79159776145223],[-91.4923433400055,14.79272768988086],[-91.49889139930934,14.80088230493133],[-91.49848345258798,14.80357566474268],[-91.50525827943133,14.81143658988428],[-91.50518422576269,14.81432462607969],[-91.49738377160079,14.82125745980577],[-91.49773788339404,14.82835923886774],[-91.49580937730103,14.82925750012281],[-91.48211068967674,14.83102425989141],[-91.47807013223373,14.82892157290731],[-91.47610082675168,14.82962257558425],[-91.46356412006747,14.82111599046399]]],"type":"Polygon"}
+}

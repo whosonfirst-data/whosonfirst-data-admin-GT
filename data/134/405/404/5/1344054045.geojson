@@ -1,0 +1,72 @@
+{
+  "id": 1344054045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4,14.8,-90.4,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-90.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Antonio El Angel",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590466,
+    "gn:latitude":14.8,
+    "gn:longitude":-90.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Antonio El \u00c1ngel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio del Angel",
+        "San Antonio El \u00c1ngel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590466
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"95cd716db676e920d46c4f096a760565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695577,
+            "locality_id":1344054045,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1344054045,
+    "wof:lastmodified":1537625150,
+    "wof:name":"San Antonio El Angel",
+    "wof:parent_id":1108695577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4,
+    14.8,
+    -90.4,
+    14.8
+],
+  "geometry": {"coordinates":[-90.40000000000001,14.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259858391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.24755,15.50664,-91.24755,15.50664",
+    "geom:latitude":15.50664,
+    "geom:longitude":-91.24755,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vijolom III",
+    "gn:country_code":"GT",
+    "gn:dem":2615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491499,
+    "gn:latitude":15.50664,
+    "gn:longitude":-91.24755,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Vijolom III",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vijolom III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491499
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2136d2c054c0f7b2b1be282698cc7158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1259858391,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259858391,
+    "wof:lastmodified":1537625366,
+    "wof:name":"Vijolom III",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.24755,
+    15.50664,
+    -91.24755,
+    15.50664
+],
+  "geometry": {"coordinates":[-91.24755,15.50664],"type":"Point"}
+}

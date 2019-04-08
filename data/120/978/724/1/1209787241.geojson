@@ -1,0 +1,71 @@
+{
+  "id": 1209787241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.1558,14.7821,-92.1558,14.7821",
+    "geom:latitude":14.7821,
+    "geom:longitude":-92.1558,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Margaritas",
+    "gn:country_code":"GT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593816,
+    "gn:latitude":14.7821,
+    "gn:longitude":-92.1558,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Las Margaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Margarita",
+        "Las Margaritas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593816
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"601d55d761700f36d9ae6cf3597e1a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695269,
+            "locality_id":1209787241,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1209787241,
+    "wof:lastmodified":1537625177,
+    "wof:name":"Las Margaritas",
+    "wof:parent_id":1108695269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.1558,
+    14.7821,
+    -92.1558,
+    14.7821
+],
+  "geometry": {"coordinates":[-92.1558,14.7821],"type":"Point"}
+}

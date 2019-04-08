@@ -1,0 +1,64 @@
+{
+  "id": 1209405563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5926,15.69817,-91.5926,15.69817",
+    "geom:latitude":15.69817,
+    "geom:longitude":-91.5926,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixchoch",
+    "gn:country_code":"GT",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477095,
+    "gn:latitude":15.69817,
+    "gn:longitude":-91.5926,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ixchoch",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixchoch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477095
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a946a20d60be4cdbd674ff1a8725524b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209405563
+        }
+    ],
+    "wof:id":1209405563,
+    "wof:lastmodified":1537625328,
+    "wof:name":"Ixchoch",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5926,
+    15.69817,
+    -91.5926,
+    15.69817
+],
+  "geometry": {"coordinates":[-91.5926,15.69817],"type":"Point"}
+}

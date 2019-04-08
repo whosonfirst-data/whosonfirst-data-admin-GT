@@ -1,0 +1,70 @@
+{
+  "id": 1310425559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28822,15.70617,-91.28822,15.70617",
+    "geom:latitude":15.70617,
+    "geom:longitude":-91.28822,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nueva Santa Rosa",
+    "gn:country_code":"GT",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492471,
+    "gn:latitude":15.70617,
+    "gn:longitude":-91.28822,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nueva Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492471
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c2ce239e003c514ff6ca8e27b5a0c1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1310425559,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310425559,
+    "wof:lastmodified":1537625372,
+    "wof:name":"Nueva Santa Rosa",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28822,
+    15.70617,
+    -91.28822,
+    15.70617
+],
+  "geometry": {"coordinates":[-91.28822,15.70617],"type":"Point"}
+}

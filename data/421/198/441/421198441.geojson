@@ -1,0 +1,118 @@
+{
+  "id": 421198441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.23333,14.43333,-91.23333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-91.23333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u5df4\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:eng_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fre_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:ger_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:ita_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:pol_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:por_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:sco_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:spa_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:swe_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u5df4\u62c9"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589475,
+    "qs:gn_pop":12906,
+    "qs:name":"Santa B\u00e1rbara",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Suchitepequez",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1201118,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85942,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589475,
+        "gp:id":85942,
+        "qs:id":1201118,
+        "wd:id":"Q1748767",
+        "wk:page":"Santa B\u00e1rbara, Suchitep\u00e9quez"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009948,
+    "wof:geomhash":"5fb46ccfe0d3bf7d2517b885512673fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695613,
+            "locality_id":421198441,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":421198441,
+    "wof:lastmodified":1527716349,
+    "wof:name":"Santa B\u00e1rbara",
+    "wof:parent_id":1108695613,
+    "wof:placetype":"locality",
+    "wof:population":12906,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.23333,
+    14.43333,
+    -91.23333,
+    14.43333
+],
+  "geometry": {"coordinates":[-91.23333,14.43333],"type":"Point"}
+}

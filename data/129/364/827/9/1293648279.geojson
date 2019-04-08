@@ -1,0 +1,70 @@
+{
+  "id": 1293648279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.37823,15.0504,-91.37823,15.0504",
+    "geom:latitude":15.0504,
+    "geom:longitude":-91.37823,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xetzoquit",
+    "gn:country_code":"GT",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478242,
+    "gn:latitude":15.0504,
+    "gn:longitude":-91.37823,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xetzoquit",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xetzoquit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478242
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cdc9a9ce88ce424950828f56561d77e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293648279,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293648279,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Xetzoquit",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.37823,
+    15.0504,
+    -91.37823,
+    15.0504
+],
+  "geometry": {"coordinates":[-91.37823,15.0504],"type":"Point"}
+}

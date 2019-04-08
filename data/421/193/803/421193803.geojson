@@ -1,0 +1,127 @@
+{
+  "id": 421193803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.37639,14.76278,-90.37639,14.76278",
+    "geom:latitude":14.76278,
+    "geom:longitude":-90.37639,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u723e\u6208\u723e\u798f"
+    ],
+    "name:deu_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:ger_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:sco_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9 del Golfo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u723e\u6208\u723e\u798f"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590030,
+    "qs:gn_pop":4908,
+    "qs:name":"San Jos\u00e9 El Golfo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149148,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85691,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":403,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590030,
+        "gp:id":85691,
+        "qs:id":149148,
+        "wd:id":"Q275791",
+        "wk:page":"San Jos\u00e9 del Golfo"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009783,
+    "wof:geomhash":"1d666a0f6d4407bdb015ffb977f9a2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695521,
+            "locality_id":421193803,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421193803,
+    "wof:lastmodified":1527716143,
+    "wof:name":"San Jos\u00e9 El Golfo",
+    "wof:parent_id":1108695521,
+    "wof:placetype":"locality",
+    "wof:population":4908,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.37639,
+    14.76278,
+    -90.37639,
+    14.76278
+],
+  "geometry": {"coordinates":[-90.37639,14.76278],"type":"Point"}
+}

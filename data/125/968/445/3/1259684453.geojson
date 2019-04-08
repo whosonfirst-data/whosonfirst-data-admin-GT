@@ -1,0 +1,72 @@
+{
+  "id": 1259684453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,14.55,-89.31667,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":-89.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Montesinos",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592383,
+    "gn:latitude":14.55,
+    "gn:longitude":-89.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Montesinos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montecinos",
+        "Montesinos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421188729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592383
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ba70e16b9d0826480fb9a0bc88d76364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188729,
+            "locality_id":1259684453,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1259684453,
+    "wof:lastmodified":1537625165,
+    "wof:name":"Montesinos",
+    "wof:parent_id":421188729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    14.55,
+    -89.31667,
+    14.55
+],
+  "geometry": {"coordinates":[-89.31667,14.55],"type":"Point"}
+}

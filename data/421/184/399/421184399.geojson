@@ -1,0 +1,141 @@
+{
+  "id": 421184399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000982,
+    "geom:area_square_m":11751103.704125,
+    "geom:bbox":"-90.8296765906,14.5396536725,-90.7757193041,14.572880501",
+    "geom:latitude":14.554208,
+    "geom:longitude":-90.803872,
+    "iso:country":"GT",
+    "lbl:latitude":14.557831,
+    "lbl:longitude":-90.807959,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SANTA CATARINA BARAHONASACATEPEQUEZ",
+    "meso:gadm_admin":"Santa Catarina Barahona",
+    "meso:gaul_admin":"Santa Catarina Barahona",
+    "meso:mps_x":-90.807959,
+    "meso:mps_y":14.557831,
+    "meso:name_en":"Santa Catarina Barahona",
+    "meso:source":"AOTM",
+    "mps:latitude":14.557831,
+    "mps:longitude":-90.807959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u5a1c\u5df4\u62c9\u5967\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30d0\u30e9\u30aa\u30ca"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Catarina Ixtahuacan",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":96,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":995772,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807188,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"Santa Catarina Barahona",
+    "statoids:population":"2957",
+    "statoids:statoid":"GT.SA.CB",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807188,
+        "hasc:id":"GT.SA.CB",
+        "qs:id":995772,
+        "wd:id":"Q2400778"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009409,
+    "wof:geomhash":"3899b6f198a658d78f9600bdb2ec5483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184399,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421184399,
+    "wof:lastmodified":1536616020,
+    "wof:name":"Santa Catarina Barahona",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":2957,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"CB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.82967659063061,
+    14.53965367246557,
+    -90.77571930414236,
+    14.57288050099694
+],
+  "geometry": {"coordinates":[[[-90.82873692347164,14.557837699469],[-90.81859881627948,14.5610693728213],[-90.81871021184574,14.56434849672152],[-90.81479244723094,14.57121403555681],[-90.8070018652314,14.57288050099694],[-90.8010370143389,14.56612270996747],[-90.79629106779053,14.56474403965422],[-90.79531608054526,14.56480010805197],[-90.79158586933649,14.55771159909629],[-90.77677950310681,14.55265916304926],[-90.77571930414236,14.54741764106662],[-90.77878996232073,14.54195615017478],[-90.78417150504953,14.53965367246557],[-90.79331257731481,14.54105688254996],[-90.79602933892032,14.54515772387994],[-90.80288346802995,14.54771258782333],[-90.81200981909809,14.54362346439292],[-90.81638917439449,14.5449675672524],[-90.81996809519934,14.543120855537],[-90.82829400284879,14.5483054615561],[-90.82967659063061,14.55126888612892],[-90.82873692347164,14.557837699469]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310202087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.40572,15.32902,-91.40572,15.32902",
+    "geom:latitude":15.32902,
+    "geom:longitude":-91.40572,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Capilla",
+    "gn:country_code":"GT",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488422,
+    "gn:latitude":15.32902,
+    "gn:longitude":-91.40572,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"La Capilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Capilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488422
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0a180a679f81326423c075a14bf79ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "locality_id":1310202087,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310202087,
+    "wof:lastmodified":1537625361,
+    "wof:name":"La Capilla",
+    "wof:parent_id":421186319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.40572,
+    15.32902,
+    -91.40572,
+    15.32902
+],
+  "geometry": {"coordinates":[-91.40572,15.32902],"type":"Point"}
+}

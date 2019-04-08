@@ -1,0 +1,67 @@
+{
+  "id": 1243365495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.9,14.81667,-90.9,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-90.9,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Acualcheya",
+    "gn:country_code":"GT",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599985,
+    "gn:latitude":14.81667,
+    "gn:longitude":-90.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Acualchey\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        1108695531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599985
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5f6ee05c7ad4d180ab8942cc67877482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695531,
+            "locality_id":1243365495,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1243365495,
+    "wof:lastmodified":1536922986,
+    "wof:name":"Acualcheya",
+    "wof:parent_id":1108695531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.9,
+    14.81667,
+    -90.9,
+    14.81667
+],
+  "geometry": {"coordinates":[-90.90000000000001,14.81667],"type":"Point"}
+}

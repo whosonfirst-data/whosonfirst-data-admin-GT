@@ -1,0 +1,71 @@
+{
+  "id": 1293349423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.44576,15.04701,-91.44576,15.04701",
+    "geom:latitude":15.04701,
+    "geom:longitude":-91.44576,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tunayac",
+    "gn:country_code":"GT",
+    "gn:dem":2373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588163,
+    "gn:latitude":15.04701,
+    "gn:longitude":-91.44576,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tunayac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumayac",
+        "Tunayac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588163
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"67b96d5e2d26682714cb8999e22f7723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293349423,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293349423,
+    "wof:lastmodified":1537625130,
+    "wof:name":"Tunayac",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.44576,
+    15.04701,
+    -91.44576,
+    15.04701
+],
+  "geometry": {"coordinates":[-91.44576000000001,15.04701],"type":"Point"}
+}

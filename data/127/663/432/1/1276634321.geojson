@@ -1,0 +1,70 @@
+{
+  "id": 1276634321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.18073,15.18327,-91.18073,15.18327",
+    "geom:latitude":15.18327,
+    "geom:longitude":-91.18073,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Barranca",
+    "gn:country_code":"GT",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483847,
+    "gn:latitude":15.18327,
+    "gn:longitude":-91.18073,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"La Barranca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Barranca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483847
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"35dbfcb361df11f8315ce86853826d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1276634321,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276634321,
+    "wof:lastmodified":1537625352,
+    "wof:name":"La Barranca",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.18073,
+    15.18327,
+    -91.18073,
+    15.18327
+],
+  "geometry": {"coordinates":[-91.18073,15.18327],"type":"Point"}
+}

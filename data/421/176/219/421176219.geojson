@@ -1,0 +1,115 @@
+{
+  "id": 421176219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45583,15.08444,-91.45583,15.08444",
+    "geom:latitude":15.08444,
+    "geom:longitude":-91.45583,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u723e\u6258\u6d1b"
+    ],
+    "name:dut_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:eng_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:fre_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:ita_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:pol_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:por_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:swe_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u723e\u6258\u6d1b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590399,
+    "qs:gn_pop":1290,
+    "qs:name":"San Bartolo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1045557,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85549,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":246,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590399,
+        "gp:id":85549,
+        "qs:id":1045557,
+        "wd:id":"Q2401769",
+        "wk:page":"San Bartolo, Totonicap\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009101,
+    "wof:geomhash":"3a68cc1ec43438e759f2088ddc6855aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695487,
+            "locality_id":421176219,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421176219,
+    "wof:lastmodified":1527726470,
+    "wof:name":"San Bartolo",
+    "wof:parent_id":1108695487,
+    "wof:placetype":"locality",
+    "wof:population":1290,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45583,
+    15.08444,
+    -91.45583,
+    15.08444
+],
+  "geometry": {"coordinates":[-91.45583000000001,15.08444],"type":"Point"}
+}

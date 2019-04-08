@@ -1,0 +1,67 @@
+{
+  "id": 1326608915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.8,15.28333,-90.8,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":-90.8,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Palmar",
+    "gn:country_code":"GT",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596639,
+    "gn:latitude":15.28333,
+    "gn:longitude":-90.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421196545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596639
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8bb5c470351f1fb4a5a3121c90abb570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196545,
+            "locality_id":1326608915,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1326608915,
+    "wof:lastmodified":1536872538,
+    "wof:name":"El Palmar",
+    "wof:parent_id":421196545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.8,
+    15.28333,
+    -90.8,
+    15.28333
+],
+  "geometry": {"coordinates":[-90.8,15.28333],"type":"Point"}
+}

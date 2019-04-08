@@ -1,0 +1,64 @@
+{
+  "id": 1209591881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.07333,14.99759,-92.07333,14.99759",
+    "geom:latitude":14.99759,
+    "geom:longitude":-92.07333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Aura Marina",
+    "gn:country_code":"GT",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638877,
+    "gn:latitude":14.99759,
+    "gn:longitude":-92.07333,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Aura Marina",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aura Marina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638877
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9607021001957779e9bf54c011ec937a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209591881
+        }
+    ],
+    "wof:id":1209591881,
+    "wof:lastmodified":1537625273,
+    "wof:name":"Aura Marina",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.07333,
+    14.99759,
+    -92.07333,
+    14.99759
+],
+  "geometry": {"coordinates":[-92.07333,14.99759],"type":"Point"}
+}

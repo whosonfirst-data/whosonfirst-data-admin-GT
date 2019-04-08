@@ -1,0 +1,73 @@
+{
+  "id": 1242749389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05128,14.97718,-92.05128,14.97718",
+    "geom:latitude":14.97718,
+    "geom:longitude":-92.05128,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Veinte de Agosto",
+    "gn:country_code":"GT",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638871,
+    "gn:latitude":14.97718,
+    "gn:longitude":-92.05128,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Veinte de Agosto",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Viente de Agosto"
+    ],
+    "name:spa_x_variant":[
+        "Veinte de Agosto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638871
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4093efffb5cc9b127ad9779b629d67bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1242749389,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1242749389,
+    "wof:lastmodified":1537625272,
+    "wof:name":"Veinte de Agosto",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05128,
+    14.97718,
+    -92.05128,
+    14.97718
+],
+  "geometry": {"coordinates":[-92.05128000000001,14.97718],"type":"Point"}
+}

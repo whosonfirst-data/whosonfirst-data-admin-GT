@@ -1,0 +1,70 @@
+{
+  "id": 1259975143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.07636,15.91552,-91.07636,15.91552",
+    "geom:latitude":15.91552,
+    "geom:longitude":-91.07636,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Centro Doce",
+    "gn:country_code":"GT",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449928,
+    "gn:latitude":15.91552,
+    "gn:longitude":-91.07636,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Centro Doce",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Centro Doce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449928
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"adaf93fd3276110689c9f53227f4424a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1259975143,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259975143,
+    "wof:lastmodified":1537625282,
+    "wof:name":"Centro Doce",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.07636,
+    15.91552,
+    -91.07636,
+    15.91552
+],
+  "geometry": {"coordinates":[-91.07635999999999,15.91552],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193110919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.23029,15.26386,-91.23029,15.26386",
+    "geom:latitude":15.26386,
+    "geom:longitude":-91.23029,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Los Potreros",
+    "gn:country_code":"GT",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482448,
+    "gn:latitude":15.26386,
+    "gn:longitude":-91.23029,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Los Potreros",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Potreros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482448
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c056c65c54c65a4c93d1a2651c18f7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169961,
+            "locality_id":1193110919,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1193110919,
+    "wof:lastmodified":1537625345,
+    "wof:name":"Los Potreros",
+    "wof:parent_id":421169961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.23029,
+    15.26386,
+    -91.23029,
+    15.26386
+],
+  "geometry": {"coordinates":[-91.23029,15.26386],"type":"Point"}
+}

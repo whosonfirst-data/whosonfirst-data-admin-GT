@@ -1,0 +1,70 @@
+{
+  "id": 1343535091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.31249,15.20487,-91.31249,15.20487",
+    "geom:latitude":15.20487,
+    "geom:longitude":-91.31249,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Paxiolin",
+    "gn:country_code":"GT",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477836,
+    "gn:latitude":15.20487,
+    "gn:longitude":-91.31249,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Paxiol\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paxiol\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421195541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477836
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c99a82d5a20ff8bdeed5f05d7f3aa23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195541,
+            "locality_id":1343535091,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1343535091,
+    "wof:lastmodified":1537625332,
+    "wof:name":"Paxiolin",
+    "wof:parent_id":421195541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.31249,
+    15.20487,
+    -91.31249,
+    15.20487
+],
+  "geometry": {"coordinates":[-91.31249,15.20487],"type":"Point"}
+}

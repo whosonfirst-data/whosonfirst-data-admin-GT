@@ -1,0 +1,72 @@
+{
+  "id": 1327314905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76667,14.11667,-89.76667,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-89.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Saral",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596175,
+    "gn:latitude":14.11667,
+    "gn:longitude":-89.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Saral",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Zaral",
+        "El Saral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596175
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"28f9496f0b7dfb902b593d3c32db0ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695371,
+            "locality_id":1327314905,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1327314905,
+    "wof:lastmodified":1537625199,
+    "wof:name":"El Saral",
+    "wof:parent_id":1108695371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76666999999998,
+    14.11667,
+    -89.76666999999998,
+    14.11667
+],
+  "geometry": {"coordinates":[-89.76666999999998,14.11667],"type":"Point"}
+}

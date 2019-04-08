@@ -1,0 +1,70 @@
+{
+  "id": 1293263697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.01738,15.19003,-92.01738,15.19003",
+    "geom:latitude":15.19003,
+    "geom:longitude":-92.01738,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tojchish Candelaria",
+    "gn:country_code":"GT",
+    "gn:dem":3005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635008,
+    "gn:latitude":15.19003,
+    "gn:longitude":-92.01738,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Tojchish Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tojchish Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635008
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e642068be53fe9efc4a1c000ad63f70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1293263697,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293263697,
+    "wof:lastmodified":1537625254,
+    "wof:name":"Tojchish Candelaria",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.01738,
+    15.19003,
+    -92.01738,
+    15.19003
+],
+  "geometry": {"coordinates":[-92.01738,15.19003],"type":"Point"}
+}

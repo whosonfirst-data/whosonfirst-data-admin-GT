@@ -1,0 +1,72 @@
+{
+  "id": 1243247379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.9,14.8,-89.9,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-89.9,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Tobon",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595986,
+    "gn:latitude":14.8,
+    "gn:longitude":-89.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tob\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tob\u00f3n",
+        "El Tob\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421198237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595986
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"abda2d00e370f5058cc90e2c47507902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421198237,
+            "locality_id":1243247379,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1243247379,
+    "wof:lastmodified":1537625197,
+    "wof:name":"El Tobon",
+    "wof:parent_id":421198237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.9,
+    14.8,
+    -89.9,
+    14.8
+],
+  "geometry": {"coordinates":[-89.90000000000001,14.8],"type":"Point"}
+}

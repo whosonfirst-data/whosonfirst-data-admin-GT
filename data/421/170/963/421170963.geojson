@@ -1,0 +1,141 @@
+{
+  "id": 421170963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004609,
+    "geom:area_square_m":55111955.875596,
+    "geom:bbox":"-91.1396434159,14.6902849727,-91.0724154996,14.8138760148",
+    "geom:latitude":14.746619,
+    "geom:longitude":-91.100459,
+    "iso:country":"GT",
+    "lbl:latitude":14.745212,
+    "lbl:longitude":-91.103261,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SAN ANDRES SEMETABAJSOLOLA",
+    "meso:gadm_admin":"San Andr\u00e9s Semetabaj",
+    "meso:gaul_admin":"San Andr\u00e9s Semetabaj",
+    "meso:mps_x":-91.103261,
+    "meso:mps_y":14.745212,
+    "meso:name_en":"San Andres Semetabaj",
+    "meso:source":"AOTM",
+    "mps:latitude":14.745212,
+    "mps:longitude":-91.103261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u585e\u6885\u5854\u74e6\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c9\u30ec\u30b9\u30fb\u30bb\u30e1\u30bf\u30d0\u30d5"
+    ],
+    "name:nah_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Semetabaj"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Andr\u00e9s Semetabaj",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":137,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1203849,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807190,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"San Andr\u00e9s Semetabaj",
+    "statoids:population":"9411",
+    "statoids:statoid":"GT.SO.AS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":504,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807190,
+        "hasc:id":"GT.SO.AS",
+        "qs:id":1203849,
+        "wd:id":"Q2402766"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008876,
+    "wof:geomhash":"63ee1cb1ba97dc00bbd7c0bf23c3d250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170963,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421170963,
+    "wof:lastmodified":1536615923,
+    "wof:name":"San Andres Semetabaj",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":9411,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"AS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1396434159028,
+    14.69028497269692,
+    -91.07241549964434,
+    14.81387601484865
+],
+  "geometry": {"coordinates":[[[-91.13714227103964,14.7582486939731],[-91.12652754489308,14.76039749633158],[-91.12434861746297,14.76385251225469],[-91.11498688888413,14.7646236778399],[-91.10642062796953,14.7794266257583],[-91.10054284292876,14.7796956135923],[-91.09689324488485,14.79625845649558],[-91.10146967386619,14.80455416778899],[-91.09668875078347,14.80792234609816],[-91.09305379903283,14.81218306562653],[-91.08401806788434,14.81387601484865],[-91.0799378578819,14.81258920594992],[-91.07820268730879,14.80916461849437],[-91.07303870955651,14.80545744605329],[-91.07373294933059,14.80033835606339],[-91.07265945500724,14.78805043551153],[-91.07270523114663,14.78779318423937],[-91.07241549964434,14.78722602327421],[-91.07351754368538,14.78007608125871],[-91.08576504575647,14.77428676258616],[-91.08351730855084,14.75891115211947],[-91.0803053129639,14.75505729031085],[-91.07733059546781,14.75466559385652],[-91.07489862130275,14.74793634086591],[-91.07659525206621,14.73495889311486],[-91.08333666023007,14.73373277296121],[-91.08513346350446,14.73068367084093],[-91.08486318365124,14.72284704653819],[-91.08208323146484,14.71820757183402],[-91.08235730082176,14.71197849620514],[-91.08048565682699,14.71042203416716],[-91.08042600572416,14.71033107742557],[-91.07565221484055,14.70625519698037],[-91.075628257692,14.69264068668644],[-91.08702658746503,14.69488418377511],[-91.09175559522845,14.69387832159234],[-91.09192237447574,14.69364553161536],[-91.10188117824383,14.69028497269692],[-91.1080046243694,14.70048422149421],[-91.11752787685319,14.69995556489688],[-91.12336285106835,14.70411607760198],[-91.12433289529775,14.7068869029646],[-91.12397045942888,14.71084491000855],[-91.12000022827952,14.71684781155884],[-91.12165163295477,14.72779780369162],[-91.12193960081109,14.72823070373611],[-91.12617309230953,14.73076212646973],[-91.13100891865996,14.73210005343431],[-91.1374398587818,14.73156938588584],[-91.1396434159028,14.73864604874813],[-91.13759854640057,14.74546230585145],[-91.13910873728838,14.75098568895698],[-91.13714227103964,14.7582486939731]]],"type":"Polygon"}
+}

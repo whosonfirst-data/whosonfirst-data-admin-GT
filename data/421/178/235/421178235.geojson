@@ -1,0 +1,118 @@
+{
+  "id": 421178235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.12694,14.26528,-90.12694,14.26528",
+    "geom:latitude":14.26528,
+    "geom:longitude":-90.12694,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u963f\u5361\u6ed5\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:unk_x_variant":[
+        "Acatempa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u963f\u5361\u6ed5\u5e15"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590053,
+    "qs:gn_pop":6367,
+    "qs:name":"San Jos\u00e9 Acatempa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Jutiapa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":49566,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85683,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":518,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590053,
+        "gp:id":85683,
+        "qs:id":49566,
+        "wd:id":"Q2403022",
+        "wk:page":"San Jos\u00e9 Acatempa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009175,
+    "wof:geomhash":"c65202526c00ee7a9bceb93c97bf19fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695517,
+            "locality_id":421178235,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":421178235,
+    "wof:lastmodified":1527717720,
+    "wof:name":"San Jos\u00e9 Acatempa",
+    "wof:parent_id":1108695517,
+    "wof:placetype":"locality",
+    "wof:population":6367,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.12694,
+    14.26528,
+    -90.12694,
+    14.26528
+],
+  "geometry": {"coordinates":[-90.12694,14.26528],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209529717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.67405,16.00302,-90.67405,16.00302",
+    "geom:latitude":16.00302,
+    "geom:longitude":-90.67405,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Triunfo Nueve Cerros",
+    "gn:country_code":"GT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10152446,
+    "gn:latitude":16.00302,
+    "gn:longitude":-90.67405,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"El Triunfo Nueve Cerros",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Triunfo Nueve Cerros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10152446
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"05f89d92da7548dce62eb5a8f224d629",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209529717
+        }
+    ],
+    "wof:id":1209529717,
+    "wof:lastmodified":1537625279,
+    "wof:name":"El Triunfo Nueve Cerros",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.67405,
+    16.00302000000001,
+    -90.67405,
+    16.00302000000001
+],
+  "geometry": {"coordinates":[-90.67404999999999,16.00302000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260067399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.18226,16.29883,-90.18226,16.29883",
+    "geom:latitude":16.29883,
+    "geom:longitude":-90.18226,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nueva Esperanza",
+    "gn:country_code":"GT",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508070,
+    "gn:latitude":16.29883,
+    "gn:longitude":-90.18226,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Nueva Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508070
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1ad394ebedb432e9e24262cbc3a4532f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1260067399,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1260067399,
+    "wof:lastmodified":1537625378,
+    "wof:name":"Nueva Esperanza",
+    "wof:parent_id":421187939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.18226,
+    16.29883,
+    -90.18226,
+    16.29883
+],
+  "geometry": {"coordinates":[-90.18226,16.29883],"type":"Point"}
+}

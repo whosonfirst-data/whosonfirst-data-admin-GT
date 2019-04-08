@@ -1,0 +1,146 @@
+{
+  "id": 421182885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001691,
+    "geom:area_square_m":20222132.511528,
+    "geom:bbox":"-90.9622222754,14.6674189715,-90.9046419986,14.7229415119",
+    "geom:latitude":14.695196,
+    "geom:longitude":-90.933556,
+    "iso:country":"GT",
+    "lbl:latitude":14.691664,
+    "lbl:longitude":-90.928329,
+    "meso:admin_1":"Chimaltenango",
+    "meso:diss_me":"SANTA CRUZ BALANYACHIMALTENANGO",
+    "meso:gadm_admin":"Santa Cruz Balany\u00e1",
+    "meso:gaul_admin":"Santa Cruz Balany\u00e1",
+    "meso:mps_x":-90.928329,
+    "meso:mps_y":14.691664,
+    "meso:name_en":"Santa Cruz Balanya",
+    "meso:source":"AOTM",
+    "mps:latitude":14.691664,
+    "mps:longitude":-90.928329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u5df4\u862d\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz Balany\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u5df4\u862d\u4e9e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3589408,
+    "qs:gn_pop":7825,
+    "qs:name":"Santa Cruz Balanya",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chimaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "qs:qs_id":956649,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26806943,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.CM",
+    "statoids:name":"Santa Cruz Balany\u00e1",
+    "statoids:population":"6504",
+    "statoids:statoid":"GT.CM.CB",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589408,
+        "gp:id":26806943,
+        "hasc:id":"GT.CM.CB",
+        "qs:id":956649,
+        "wd:id":"Q1523955",
+        "wk:page":"Santa Cruz Balany\u00e1"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009351,
+    "wof:geomhash":"eae57d9c12cae79591336245b6bbe5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182885,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":421182885,
+    "wof:lastmodified":1536615990,
+    "wof:name":"Santa Cruz Balanya",
+    "wof:parent_id":85671671,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6504,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"CB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.9622222754148,
+    14.66741897148444,
+    -90.90464199858917,
+    14.7229415119272
+],
+  "geometry": {"coordinates":[[[-90.94291648281572,14.71864237361098],[-90.93840731546597,14.70999698851568],[-90.93083137377839,14.70791178837987],[-90.92781745780709,14.71074498997655],[-90.92595834893612,14.71149299987128],[-90.91794611580754,14.70875443601169],[-90.91415688261873,14.69947119937576],[-90.90956277450177,14.69934208916173],[-90.90464199858917,14.69407153860507],[-90.9053557007515,14.68342679746928],[-90.91041941266433,14.67880247859692],[-90.91143261391481,14.67764733265859],[-90.91836649609843,14.67776359589173],[-90.92034961442715,14.67731870036259],[-90.92176875294841,14.67440979766228],[-90.9333411462934,14.66741897148444],[-90.94434586601965,14.6786353861527],[-90.94411309403205,14.67906550154081],[-90.94412130850399,14.69012712780757],[-90.94523030248213,14.69203563847156],[-90.94652585854917,14.69331819884685],[-90.95716717866112,14.69331514955582],[-90.96056506621552,14.69790608323183],[-90.95785709685833,14.706122154479],[-90.9622222754148,14.71135981486898],[-90.95756959972894,14.72247507834985],[-90.9570653156123,14.7229415119272],[-90.94713404740394,14.71808249442379],[-90.94291648281572,14.71864237361098]]],"type":"Polygon"}
+}

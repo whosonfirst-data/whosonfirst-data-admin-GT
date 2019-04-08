@@ -1,0 +1,67 @@
+{
+  "id": 1192989373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.75,15.46667,-90.75,15.46667",
+    "geom:latitude":15.46667,
+    "geom:longitude":-90.75,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chicorral",
+    "gn:country_code":"GT",
+    "gn:dem":2164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598624,
+    "gn:latitude":15.46667,
+    "gn:longitude":-90.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chicorral",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598624
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f8ce61d36362ed14a5a4de56f5952944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695291,
+            "locality_id":1192989373,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1192989373,
+    "wof:lastmodified":1536382558,
+    "wof:name":"Chicorral",
+    "wof:parent_id":1108695291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.75,
+    15.46667,
+    -90.75,
+    15.46667
+],
+  "geometry": {"coordinates":[-90.75,15.46667],"type":"Point"}
+}

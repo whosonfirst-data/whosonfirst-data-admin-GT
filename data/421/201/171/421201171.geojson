@@ -1,0 +1,123 @@
+{
+  "id": 421201171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1,15.26667,-89.1,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":-89.1,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u963f\u99ac\u7279\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Los Amates"
+    ],
+    "name:dut_x_preferred":[
+        "Los Amates"
+    ],
+    "name:eng_x_preferred":[
+        "Los Amates"
+    ],
+    "name:fra_x_preferred":[
+        "Los Amates"
+    ],
+    "name:fre_x_preferred":[
+        "Los Amates"
+    ],
+    "name:ger_x_preferred":[
+        "Los Amates"
+    ],
+    "name:ita_x_preferred":[
+        "Los Amates"
+    ],
+    "name:pol_x_preferred":[
+        "Los Amates"
+    ],
+    "name:por_x_preferred":[
+        "Los Amates"
+    ],
+    "name:sco_x_preferred":[
+        "Los Amates"
+    ],
+    "name:spa_x_preferred":[
+        "Los Amates"
+    ],
+    "name:swe_x_preferred":[
+        "Los Amates"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u99ac\u7279\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3593235,
+    "qs:gn_pop":3417,
+    "qs:name":"Los Amates",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Izabal",
+    "qs:photos":219,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":219,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1340935,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84143,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421196435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593235,
+        "gp:id":84143,
+        "qs:id":1340935,
+        "wd:id":"Q1020130",
+        "wk:page":"Los Amates"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010064,
+    "wof:geomhash":"2a850859d1126bc822d2522022c43450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196435,
+            "locality_id":421201171,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":421201171,
+    "wof:lastmodified":1514444479,
+    "wof:name":"Los Amates",
+    "wof:parent_id":421196435,
+    "wof:placetype":"locality",
+    "wof:population":3417,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1,
+    15.26667,
+    -89.1,
+    15.26667
+],
+  "geometry": {"coordinates":[-89.09999999999999,15.26667],"type":"Point"}
+}

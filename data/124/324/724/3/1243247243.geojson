@@ -1,0 +1,72 @@
+{
+  "id": 1243247243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.76667,14.6,-89.76667,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-89.76667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Flor",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597065,
+    "gn:latitude":14.6,
+    "gn:longitude":-89.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca El Flor",
+        "El Flor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421198237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597065
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e33603546ebe40efffb174bee03bd95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421198237,
+            "locality_id":1243247243,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1243247243,
+    "wof:lastmodified":1537625208,
+    "wof:name":"El Flor",
+    "wof:parent_id":421198237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.76666999999998,
+    14.6,
+    -89.76666999999998,
+    14.6
+],
+  "geometry": {"coordinates":[-89.76666999999998,14.6],"type":"Point"}
+}

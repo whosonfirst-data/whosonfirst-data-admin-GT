@@ -1,0 +1,67 @@
+{
+  "id": 1309701851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.48333,15.51667,-89.48333,15.51667",
+    "geom:latitude":15.51667,
+    "geom:longitude":-89.48333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Dicha",
+    "gn:country_code":"GT",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594748,
+    "gn:latitude":15.51667,
+    "gn:longitude":-89.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Dicha",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421194695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594748
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"26f6169733b6a77cfa1c8f0686bf8185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421194695,
+            "locality_id":1309701851,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1309701851,
+    "wof:lastmodified":1537077900,
+    "wof:name":"La Dicha",
+    "wof:parent_id":421194695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.48333000000002,
+    15.51667,
+    -89.48333000000002,
+    15.51667
+],
+  "geometry": {"coordinates":[-89.48333000000002,15.51667],"type":"Point"}
+}

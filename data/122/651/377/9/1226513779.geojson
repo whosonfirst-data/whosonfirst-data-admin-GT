@@ -1,0 +1,70 @@
+{
+  "id": 1226513779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7906,15.00805,-91.7906,15.00805",
+    "geom:latitude":15.00805,
+    "geom:longitude":-91.7906,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Cumbre del Chil",
+    "gn:country_code":"GT",
+    "gn:dem":2968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475023,
+    "gn:latitude":15.00805,
+    "gn:longitude":-91.7906,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cumbre del Chil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cumbre del Chil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475023
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"642303a70ba84ff42375d62d48662662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695585,
+            "locality_id":1226513779,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226513779,
+    "wof:lastmodified":1537625306,
+    "wof:name":"Cumbre del Chil",
+    "wof:parent_id":1108695585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7906,
+    15.00805,
+    -91.7906,
+    15.00805
+],
+  "geometry": {"coordinates":[-91.7906,15.00805],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343775055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.48333,14.91667,-90.48333,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":-90.48333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"GT",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592060,
+    "gn:latitude":14.91667,
+    "gn:longitude":-90.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        1108695323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592060
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c3d3fab942ec2568f666c9811e866f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695323,
+            "locality_id":1343775055,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1343775055,
+    "wof:lastmodified":1536790241,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":1108695323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.48333,
+    14.91667,
+    -90.48333,
+    14.91667
+],
+  "geometry": {"coordinates":[-90.48333,14.91667],"type":"Point"}
+}

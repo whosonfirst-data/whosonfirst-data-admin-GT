@@ -1,0 +1,67 @@
+{
+  "id": 1242852537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.71139,14.17,-89.71139,14.17",
+    "geom:latitude":14.17,
+    "geom:longitude":-89.71139,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Rebalse",
+    "gn:country_code":"GT",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764644,
+    "gn:latitude":14.17,
+    "gn:longitude":-89.71139,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"El Rebalse",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764644
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a24717663ba8d4f359f118645d75f636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695265,
+            "locality_id":1242852537,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1242852537,
+    "wof:lastmodified":1536667705,
+    "wof:name":"El Rebalse",
+    "wof:parent_id":1108695265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.71139000000002,
+    14.17,
+    -89.71139000000002,
+    14.17
+],
+  "geometry": {"coordinates":[-89.71139000000002,14.17],"type":"Point"}
+}

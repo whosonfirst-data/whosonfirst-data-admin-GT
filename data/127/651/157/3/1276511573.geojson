@@ -1,0 +1,70 @@
+{
+  "id": 1276511573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41853,15.00351,-91.41853,15.00351",
+    "geom:latitude":15.00351,
+    "geom:longitude":-91.41853,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chorrancho",
+    "gn:country_code":"GT",
+    "gn:dem":2525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477976,
+    "gn:latitude":15.00351,
+    "gn:longitude":-91.41853,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chorrancho",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chorrancho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477976
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7c6bbca046c5fbcaf9b144cf03494323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1276511573,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1276511573,
+    "wof:lastmodified":1537625334,
+    "wof:name":"Chorrancho",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41853,
+    15.00351,
+    -91.41853,
+    15.00351
+],
+  "geometry": {"coordinates":[-91.41853,15.00351],"type":"Point"}
+}

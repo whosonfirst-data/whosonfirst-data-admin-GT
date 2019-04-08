@@ -1,0 +1,70 @@
+{
+  "id": 1260245489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.02756,14.72575,-92.02756,14.72575",
+    "geom:latitude":14.72575,
+    "geom:longitude":-92.02756,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"GT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639006,
+    "gn:latitude":14.72575,
+    "gn:longitude":-92.02756,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639006
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"060755a5dfaaac16923316ee31d17712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1260245489,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260245489,
+    "wof:lastmodified":1537625274,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.02756,
+    14.72575,
+    -92.02756,
+    14.72575
+],
+  "geometry": {"coordinates":[-92.02755999999999,14.72575],"type":"Point"}
+}

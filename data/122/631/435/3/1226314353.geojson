@@ -1,0 +1,70 @@
+{
+  "id": 1226314353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.72597,15.26724,-91.72597,15.26724",
+    "geom:latitude":15.26724,
+    "geom:longitude":-91.72597,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chaquibilsaj",
+    "gn:country_code":"GT",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452604,
+    "gn:latitude":15.26724,
+    "gn:longitude":-91.72597,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chaquibilsaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chaquibilsaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452604
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b9d818a465333a26d2945d0fbe833a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695565,
+            "locality_id":1226314353,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226314353,
+    "wof:lastmodified":1537625285,
+    "wof:name":"Chaquibilsaj",
+    "wof:parent_id":1108695565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.72597,
+    15.26724,
+    -91.72597,
+    15.26724
+],
+  "geometry": {"coordinates":[-91.72597,15.26724],"type":"Point"}
+}

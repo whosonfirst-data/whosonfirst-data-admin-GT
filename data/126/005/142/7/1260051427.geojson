@@ -1,0 +1,70 @@
+{
+  "id": 1260051427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.04342,14.78489,-92.04342,14.78489",
+    "geom:latitude":14.78489,
+    "geom:longitude":-92.04342,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"San Jose Belice",
+    "gn:country_code":"GT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590050,
+    "gn:latitude":14.78489,
+    "gn:longitude":-92.04342,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"San Jos\u00e9 Belice",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Belice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590050
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5038fd644aeef9974d1a749a0996c239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1260051427,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260051427,
+    "wof:lastmodified":1537625147,
+    "wof:name":"San Jose Belice",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.04342,
+    14.78489,
+    -92.04342,
+    14.78489
+],
+  "geometry": {"coordinates":[-92.04342,14.78489],"type":"Point"}
+}

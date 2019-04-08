@@ -1,0 +1,70 @@
+{
+  "id": 1193108655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03839,15.212,-92.03839,15.212",
+    "geom:latitude":15.212,
+    "geom:longitude":-92.03839,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Yerbabuena",
+    "gn:country_code":"GT",
+    "gn:dem":2777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635051,
+    "gn:latitude":15.212,
+    "gn:longitude":-92.03839,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Yerbabuena",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yerbabuena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635051
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"be470403be731e1e9247b7a055a0933c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1193108655,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1193108655,
+    "wof:lastmodified":1537625255,
+    "wof:name":"Yerbabuena",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03839,
+    15.212,
+    -92.03839,
+    15.212
+],
+  "geometry": {"coordinates":[-92.03839000000001,15.212],"type":"Point"}
+}

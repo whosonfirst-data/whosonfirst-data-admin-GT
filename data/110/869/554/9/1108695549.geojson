@@ -1,0 +1,111 @@
+{
+  "id": 1108695549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000807,
+    "geom:area_square_m":9647568.477009,
+    "geom:bbox":"-91.2768865672,14.7187816638,-91.2435223243,14.7532814974",
+    "geom:latitude":14.736311,
+    "geom:longitude":-91.260242,
+    "iso:country":"GT",
+    "lbl:latitude":14.73566,
+    "lbl:longitude":-91.26191,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SAN MARCOS LA LAGUNASOLOLA",
+    "meso:gadm_admin":"San Marcos La Laguna",
+    "meso:gaul_admin":"San Marcos La Laguna",
+    "meso:mps_x":-91.26191,
+    "meso:mps_y":14.73566,
+    "meso:name_en":"San Marcos La Laguna",
+    "meso:source":"AOTM",
+    "mps:latitude":14.73566,
+    "mps:longitude":-91.26191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u79d1\u65af\u62c9\u62c9\u53e4\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:eng_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:fre_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:ita_x_preferred":[
+        "San Marcos la Laguna"
+    ],
+    "name:nah_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:pol_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:por_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:spa_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "name:swe_x_preferred":[
+        "San Marcos La Laguna"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"San Marcos La Laguna",
+    "statoids:population":"2238",
+    "statoids:statoid":"GT.SO.ML",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402793"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493878,
+    "wof:geomhash":"8f4a4dd6fcb37fe4c8f3d38ab9dbd41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695549,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1108695549,
+    "wof:lastmodified":1514444550,
+    "wof:name":"San Marcos La Laguna",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":2238,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.27688656724071,
+    14.71878166384571,
+    -91.24352232428659,
+    14.75328149739769
+],
+  "geometry": {"coordinates":[[[-91.27452784337372,14.750311243782],[-91.27017832432799,14.75328149739769],[-91.26214772801391,14.74907194949494],[-91.25486430926412,14.75279146994449],[-91.24773601204873,14.75210452080534],[-91.24608136622152,14.7496732692437],[-91.24864577715715,14.74075641365571],[-91.25095485551654,14.73820880030708],[-91.25095004550381,14.7370241351815],[-91.24352232428659,14.72877356804944],[-91.2458222450271,14.72201308677835],[-91.24766211088591,14.72010959067821],[-91.2499150676835,14.71996926067084],[-91.25940835364202,14.72384588007438],[-91.26677768846533,14.71878166384571],[-91.27688656724071,14.7306311512196],[-91.27284549214475,14.73524147710666],[-91.27452784337372,14.750311243782]]],"type":"Polygon"}
+}

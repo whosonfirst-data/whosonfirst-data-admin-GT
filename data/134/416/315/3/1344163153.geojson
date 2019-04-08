@@ -1,0 +1,72 @@
+{
+  "id": 1344163153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31667,14.7,-89.31667,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-89.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cayur",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598940,
+    "gn:latitude":14.7,
+    "gn:longitude":-89.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cayur",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laguna de Cayur",
+        "Cayur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        1108695419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598940
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ac3feeba3b8b3871797e9d57ce847c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695419,
+            "locality_id":1344163153,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1344163153,
+    "wof:lastmodified":1537625227,
+    "wof:name":"Cayur",
+    "wof:parent_id":1108695419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31667,
+    14.7,
+    -89.31667,
+    14.7
+],
+  "geometry": {"coordinates":[-89.31667,14.7],"type":"Point"}
+}

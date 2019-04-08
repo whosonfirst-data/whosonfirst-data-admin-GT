@@ -1,0 +1,70 @@
+{
+  "id": 1193037801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.56145,15.7543,-91.56145,15.7543",
+    "geom:latitude":15.7543,
+    "geom:longitude":-91.56145,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ticolal",
+    "gn:country_code":"GT",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477325,
+    "gn:latitude":15.7543,
+    "gn:longitude":-91.56145,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ticolal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ticolal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477325
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a6cd164bbd1171dcdee11bddc43d8516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1193037801,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193037801,
+    "wof:lastmodified":1537625331,
+    "wof:name":"Ticolal",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.56145,
+    15.7543,
+    -91.56145,
+    15.7543
+],
+  "geometry": {"coordinates":[-91.56144999999999,15.7543],"type":"Point"}
+}

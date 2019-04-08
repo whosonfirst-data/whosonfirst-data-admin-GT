@@ -1,0 +1,72 @@
+{
+  "id": 1242865775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.58333,14.43333,-90.58333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-90.58333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Durazno",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597122,
+    "gn:latitude":14.43333,
+    "gn:longitude":-90.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Durazno",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durazno",
+        "El Durazno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597122
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"507a49add2caed0e9033dc0537f89eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695261,
+            "locality_id":1242865775,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1242865775,
+    "wof:lastmodified":1537625209,
+    "wof:name":"El Durazno",
+    "wof:parent_id":1108695261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.58333,
+    14.43333,
+    -90.58333,
+    14.43333
+],
+  "geometry": {"coordinates":[-90.58333,14.43333],"type":"Point"}
+}

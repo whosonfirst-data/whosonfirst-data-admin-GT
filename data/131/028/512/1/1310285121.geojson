@@ -1,0 +1,70 @@
+{
+  "id": 1310285121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.42745,16.42668,-90.42745,16.42668",
+    "geom:latitude":16.42668,
+    "geom:longitude":-90.42745,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Zaragoza",
+    "gn:country_code":"GT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533798,
+    "gn:latitude":16.42668,
+    "gn:longitude":-90.42745,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Zaragoza",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zaragoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533798
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5fdf6af9e27ba2c143e033ef5359868b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1310285121,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1310285121,
+    "wof:lastmodified":1537625249,
+    "wof:name":"Zaragoza",
+    "wof:parent_id":421187939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.42745,
+    16.42668,
+    -90.42745,
+    16.42668
+],
+  "geometry": {"coordinates":[-90.42744999999999,16.42668],"type":"Point"}
+}

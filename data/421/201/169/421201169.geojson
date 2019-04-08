@@ -1,0 +1,130 @@
+{
+  "id": 421201169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.86667,14.7,-91.86667,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-91.86667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0430\u0442\u0435\u043f\u0435\u043a\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u963f\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:eng_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:fra_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:fre_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30a2\u30c6\u30da\u30b1"
+    ],
+    "name:lit_x_preferred":[
+        "Koatepek\u0117"
+    ],
+    "name:nah_x_preferred":[
+        "Coatepec"
+    ],
+    "name:pol_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:por_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:swe_x_preferred":[
+        "Coatepeque"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0627\u062a\u06cc\u067e\u06cc\u06a9\u06d2\u060c \u06a9\u0648\u06cc\u062a\u0633\u0627\u0644\u062a\u06cc\u0646\u0627\u0646\u06af\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u963f\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598122,
+    "qs:gn_pop":45654,
+    "qs:name":"Coatepeque",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":142,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":142,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1340927,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81908,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":153,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598122,
+        "gp:id":81908,
+        "qs:id":1340927,
+        "wd:id":"Q2445821",
+        "wk:page":"Coatepeque, Quetzaltenango"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010064,
+    "wof:geomhash":"7eaaf9ee02aa019389ab2546713d6ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695297,
+            "locality_id":421201169,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421201169,
+    "wof:lastmodified":1527716432,
+    "wof:name":"Coatepeque",
+    "wof:parent_id":1108695297,
+    "wof:placetype":"locality",
+    "wof:population":45654,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.86667,
+    14.7,
+    -91.86667,
+    14.7
+],
+  "geometry": {"coordinates":[-91.86667,14.7],"type":"Point"}
+}

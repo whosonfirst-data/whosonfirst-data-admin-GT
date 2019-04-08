@@ -1,0 +1,70 @@
+{
+  "id": 1243533405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.06743,15.64183,-91.06743,15.64183",
+    "geom:latitude":15.64183,
+    "geom:longitude":-91.06743,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chel",
+    "gn:country_code":"GT",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598707,
+    "gn:latitude":15.64183,
+    "gn:longitude":-91.06743,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598707
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"39c6469486fd2aed9140eeb15f5c5218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695287,
+            "locality_id":1243533405,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243533405,
+    "wof:lastmodified":1537625225,
+    "wof:name":"Chel",
+    "wof:parent_id":1108695287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.06743,
+    15.64183,
+    -91.06743,
+    15.64183
+],
+  "geometry": {"coordinates":[-91.06743,15.64183],"type":"Point"}
+}

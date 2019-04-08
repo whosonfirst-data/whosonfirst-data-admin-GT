@@ -1,0 +1,61 @@
+{
+  "id": 1209401831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.78333,16.9,-89.78333,16.9",
+    "geom:latitude":16.9,
+    "geom:longitude":-89.78333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Paxcaman",
+    "gn:country_code":"GT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591493,
+    "gn:latitude":16.9,
+    "gn:longitude":-89.78333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paxcam\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591493
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b092029a0ffd4ab483f0517388b2c870",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209401831
+        }
+    ],
+    "wof:id":1209401831,
+    "wof:lastmodified":1536288121,
+    "wof:name":"Paxcaman",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.78333,
+    16.9,
+    -89.78333,
+    16.9
+],
+  "geometry": {"coordinates":[-89.78333000000001,16.9],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421195015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.639709,14.818698,-91.639709,14.818698",
+    "geom:latitude":14.818698,
+    "geom:longitude":-91.639709,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Martin Sacatep\u00e9quez",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115421,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807087,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":448,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807087,
+        "qs:id":115421,
+        "wd:id":"Q2402153"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009828,
+    "wof:geomhash":"b533fe7556a7e71bfc287245ed65400b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195015,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421195015,
+    "wof:lastmodified":1527716118,
+    "wof:name":"San Martin Sacatep\u00e9quez",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.639709,
+    14.818698,
+    -91.639709,
+    14.818698
+],
+  "geometry": {"coordinates":[-91.639709,14.818698],"type":"Point"}
+}

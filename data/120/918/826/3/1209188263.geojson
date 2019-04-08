@@ -1,0 +1,64 @@
+{
+  "id": 1209188263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.50785,15.12926,-91.50785,15.12926",
+    "geom:latitude":15.12926,
+    "geom:longitude":-91.50785,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chamaijibal",
+    "gn:country_code":"GT",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457273,
+    "gn:latitude":15.12926,
+    "gn:longitude":-91.50785,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chamaijibal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chamaijibal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457273
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"70934bc9fa377565615da129eed9b6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209188263
+        }
+    ],
+    "wof:id":1209188263,
+    "wof:lastmodified":1537625298,
+    "wof:name":"Chamaijibal",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.50785,
+    15.12926,
+    -91.50785,
+    15.12926
+],
+  "geometry": {"coordinates":[-91.50785,15.12926],"type":"Point"}
+}

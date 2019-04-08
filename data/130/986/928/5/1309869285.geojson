@@ -1,0 +1,70 @@
+{
+  "id": 1309869285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.06042,15.10121,-92.06042,15.10121",
+    "geom:latitude":15.10121,
+    "geom:longitude":-92.06042,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Siete Orejas",
+    "gn:country_code":"GT",
+    "gn:dem":2106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634739,
+    "gn:latitude":15.10121,
+    "gn:longitude":-92.06042,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Siete Orejas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Siete Orejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634739
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"52181bd0fe87af2ef825c67a207cfbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1309869285,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309869285,
+    "wof:lastmodified":1537625253,
+    "wof:name":"Siete Orejas",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06042,
+    15.10121,
+    -92.06042,
+    15.10121
+],
+  "geometry": {"coordinates":[-92.06041999999999,15.10121],"type":"Point"}
+}

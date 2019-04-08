@@ -1,0 +1,68 @@
+{
+  "id": 1243226893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.43333,14.16667,-90.43333,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":-90.43333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tecuamburro",
+    "gn:country_code":"GT",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588472,
+    "gn:latitude":14.16667,
+    "gn:longitude":-90.43333,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tecuamburro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588472,
+        "wk:page":"Tecuamburro"
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1455b8811d158c19a4b6dfec783122f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695443,
+            "locality_id":1243226893,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1243226893,
+    "wof:lastmodified":1537563192,
+    "wof:name":"Tecuamburro",
+    "wof:parent_id":1108695443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.43333,
+    14.16667,
+    -90.43333,
+    14.16667
+],
+  "geometry": {"coordinates":[-90.43333,14.16667],"type":"Point"}
+}

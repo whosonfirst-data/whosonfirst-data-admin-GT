@@ -1,0 +1,81 @@
+{
+  "id": 421166703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.840454,15.971891,-90.840454,15.971891",
+    "geom:latitude":15.971891,
+    "geom:longitude":-90.840454,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Playa Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Playa Grande"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Playa Grande",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":272,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":281,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1263991,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807094,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807094,
+        "qs:id":1263991,
+        "wd:id":"Q7203144"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008699,
+    "wof:geomhash":"a3f9f2558ca25a5b2b52dfdbea3ead56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421166703,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":421166703,
+    "wof:lastmodified":1527716105,
+    "wof:name":"Playa Grande",
+    "wof:parent_id":85671733,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.840454,
+    15.971891,
+    -90.840454,
+    15.971891
+],
+  "geometry": {"coordinates":[-90.84045399999999,15.971891],"type":"Point"}
+}

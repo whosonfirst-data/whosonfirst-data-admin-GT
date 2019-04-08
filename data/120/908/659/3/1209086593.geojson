@@ -1,0 +1,61 @@
+{
+  "id": 1209086593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.28972,16.18306,-89.28972,16.18306",
+    "geom:latitude":16.18306,
+    "geom:longitude":-89.28972,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jovente Abajo",
+    "gn:country_code":"GT",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759547,
+    "gn:latitude":16.18306,
+    "gn:longitude":-89.28972,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Jovent\u00e9 Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759547
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"998efbea49d86b9df9d905b0d1c3a381",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209086593
+        }
+    ],
+    "wof:id":1209086593,
+    "wof:lastmodified":1536298167,
+    "wof:name":"Jovente Abajo",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.28971999999997,
+    16.18306,
+    -89.28971999999997,
+    16.18306
+],
+  "geometry": {"coordinates":[-89.28971999999997,16.18306],"type":"Point"}
+}

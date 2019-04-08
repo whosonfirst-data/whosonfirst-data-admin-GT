@@ -1,0 +1,72 @@
+{
+  "id": 1209949727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.5,14.66667,-89.5,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-89.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Carrizal",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597425,
+    "gn:latitude":14.66667,
+    "gn:longitude":-89.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrizal",
+        "El Carrizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        1108695513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597425
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bd8e2d42b2510cd5ff5b880105b77e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695513,
+            "locality_id":1209949727,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1209949727,
+    "wof:lastmodified":1537625213,
+    "wof:name":"El Carrizal",
+    "wof:parent_id":1108695513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.5,
+    14.66667,
+    -89.5,
+    14.66667
+],
+  "geometry": {"coordinates":[-89.5,14.66667],"type":"Point"}
+}

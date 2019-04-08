@@ -1,0 +1,64 @@
+{
+  "id": 1209494101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.11643,15.11711,-91.11643,15.11711",
+    "geom:latitude":15.11711,
+    "geom:longitude":-91.11643,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"La Montana",
+    "gn:country_code":"GT",
+    "gn:dem":2313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594348,
+    "gn:latitude":15.11711,
+    "gn:longitude":-91.11643,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"La Monta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Monta\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594348
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bdab2af31c577a7143d0c8dfe7a5da3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209494101
+        }
+    ],
+    "wof:id":1209494101,
+    "wof:lastmodified":1537625182,
+    "wof:name":"La Montana",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.11643,
+    15.11711,
+    -91.11643,
+    15.11711
+],
+  "geometry": {"coordinates":[-91.11642999999999,15.11711],"type":"Point"}
+}

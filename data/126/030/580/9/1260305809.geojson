@@ -1,0 +1,70 @@
+{
+  "id": 1260305809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.64575,15.54005,-91.64575,15.54005",
+    "geom:latitude":15.54005,
+    "geom:longitude":-91.64575,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuiquil",
+    "gn:country_code":"GT",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476707,
+    "gn:latitude":15.54005,
+    "gn:longitude":-91.64575,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuiquil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuiquil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476707
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d44ff84175c3a92497013181496191e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1260305809,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260305809,
+    "wof:lastmodified":1537625322,
+    "wof:name":"Tuiquil",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.64575,
+    15.54005,
+    -91.64575,
+    15.54005
+],
+  "geometry": {"coordinates":[-91.64575000000001,15.54005],"type":"Point"}
+}

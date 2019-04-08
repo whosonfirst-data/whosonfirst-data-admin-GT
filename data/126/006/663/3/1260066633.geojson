@@ -1,0 +1,67 @@
+{
+  "id": 1260066633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00194,14.54389,-92.00194,14.54389",
+    "geom:latitude":14.54389,
+    "geom:longitude":-92.00194,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Pomal",
+    "gn:country_code":"GT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764434,
+    "gn:latitude":14.54389,
+    "gn:longitude":-92.00194,
+    "gn:modification_date":"1998-08-27",
+    "gn:name":"El Pomal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421204387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764434
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bdeab165e8f7fa8c23d233cf80981347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204387,
+            "locality_id":1260066633,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1260066633,
+    "wof:lastmodified":1537011606,
+    "wof:name":"El Pomal",
+    "wof:parent_id":421204387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00194,
+    14.54389,
+    -92.00194,
+    14.54389
+],
+  "geometry": {"coordinates":[-92.00194,14.54389],"type":"Point"}
+}

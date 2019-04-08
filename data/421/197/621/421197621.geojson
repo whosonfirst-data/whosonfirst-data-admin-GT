@@ -1,0 +1,117 @@
+{
+  "id": 421197621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.27611,14.38111,-90.27611,14.38111",
+    "geom:latitude":14.38111,
+    "geom:longitude":-90.27611,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u65b0\u8056\u7f85\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:fre_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:nah_x_preferred":[
+        "Yancu\u012bc Santa Rosa"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8056\u7f85\u85a9"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592126,
+    "qs:gn_pop":10130,
+    "qs:name":"Nueva Santa Rosa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Santa Rosa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149181,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84617,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421195543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592126,
+        "gp:id":84617,
+        "qs:id":149181,
+        "wd:id":"Q2402348",
+        "wk:page":"Nueva Santa Rosa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"fe946055dc8265ee01b24cbc73bc54fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195543,
+            "locality_id":421197621,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":421197621,
+    "wof:lastmodified":1514444489,
+    "wof:name":"Nueva Santa Rosa",
+    "wof:parent_id":421195543,
+    "wof:placetype":"locality",
+    "wof:population":10130,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.27611,
+    14.38111,
+    -90.27611,
+    14.38111
+],
+  "geometry": {"coordinates":[-90.27611,14.38111],"type":"Point"}
+}

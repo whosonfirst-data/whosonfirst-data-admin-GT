@@ -1,0 +1,70 @@
+{
+  "id": 1293648289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2772,15.00657,-91.2772,15.00657",
+    "geom:latitude":15.00657,
+    "geom:longitude":-91.2772,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xecaquix",
+    "gn:country_code":"GT",
+    "gn:dem":2156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478143,
+    "gn:latitude":15.00657,
+    "gn:longitude":-91.2772,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xecaquix",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xecaquix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478143
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0c3f3e1e0c80dcff8609505b55bf2a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1293648289,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293648289,
+    "wof:lastmodified":1537625335,
+    "wof:name":"Xecaquix",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2772,
+    15.00657,
+    -91.2772,
+    15.00657
+],
+  "geometry": {"coordinates":[-91.27719999999999,15.00657],"type":"Point"}
+}

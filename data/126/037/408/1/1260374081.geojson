@@ -1,0 +1,70 @@
+{
+  "id": 1260374081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09326,15.78265,-91.09326,15.78265",
+    "geom:latitude":15.78265,
+    "geom:longitude":-91.09326,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Candelaria Valle Tres",
+    "gn:country_code":"GT",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449730,
+    "gn:latitude":15.78265,
+    "gn:longitude":-91.09326,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Candelaria Valle Tres",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Candelaria Valle Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449730
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e704f00e296f0eea962550661e7eb492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1260374081,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1260374081,
+    "wof:lastmodified":1537625282,
+    "wof:name":"Candelaria Valle Tres",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09326,
+    15.78265,
+    -91.09326,
+    15.78265
+],
+  "geometry": {"coordinates":[-91.09326,15.78265],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309892695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45889,16.22472,-89.45889,16.22472",
+    "geom:latitude":16.22472,
+    "geom:longitude":-89.45889,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Laguna Cangrejal",
+    "gn:country_code":"GT",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759533,
+    "gn:latitude":16.22472,
+    "gn:longitude":-89.45889,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Laguna Cangrejal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759533
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f4aa51d8944808214b52bb2337723387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1309892695,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1309892695,
+    "wof:lastmodified":1536805708,
+    "wof:name":"Laguna Cangrejal",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45889,
+    16.22472,
+    -89.45889,
+    16.22472
+],
+  "geometry": {"coordinates":[-89.45889,16.22472],"type":"Point"}
+}

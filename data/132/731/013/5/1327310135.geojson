@@ -1,0 +1,70 @@
+{
+  "id": 1327310135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.80036,15.1854,-91.80036,15.1854",
+    "geom:latitude":15.1854,
+    "geom:longitude":-91.80036,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Florida",
+    "gn:country_code":"GT",
+    "gn:dem":2919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476400,
+    "gn:latitude":15.1854,
+    "gn:longitude":-91.80036,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"La Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Florida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476400
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3496ace6565efc3833f9edc5c0cb77d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695671,
+            "locality_id":1327310135,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1327310135,
+    "wof:lastmodified":1537625321,
+    "wof:name":"La Florida",
+    "wof:parent_id":1108695671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.80036,
+    15.1854,
+    -91.80036,
+    15.1854
+],
+  "geometry": {"coordinates":[-91.80036,15.1854],"type":"Point"}
+}

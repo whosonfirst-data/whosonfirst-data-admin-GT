@@ -1,0 +1,70 @@
+{
+  "id": 1276965421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61102,15.15375,-91.61102,15.15375",
+    "geom:latitude":15.15375,
+    "geom:longitude":-91.61102,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Saquicol",
+    "gn:country_code":"GT",
+    "gn:dem":2187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589023,
+    "gn:latitude":15.15375,
+    "gn:longitude":-91.61102,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Saquicol",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Saquicol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589023
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b35365f4444a628ecb104b2eef70717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":1276965421,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1276965421,
+    "wof:lastmodified":1537625140,
+    "wof:name":"Saquicol",
+    "wof:parent_id":1108695493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61102,
+    15.15375,
+    -91.61102,
+    15.15375
+],
+  "geometry": {"coordinates":[-91.61102,15.15375],"type":"Point"}
+}

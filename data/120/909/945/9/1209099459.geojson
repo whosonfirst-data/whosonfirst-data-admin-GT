@@ -1,0 +1,64 @@
+{
+  "id": 1209099459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.53967,15.68705,-91.53967,15.68705",
+    "geom:latitude":15.68705,
+    "geom:longitude":-91.53967,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cantetaj",
+    "gn:country_code":"GT",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599064,
+    "gn:latitude":15.68705,
+    "gn:longitude":-91.53967,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Cantetaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cantetaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599064
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"00bb14f7619226e9c3f9993f216503f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209099459
+        }
+    ],
+    "wof:id":1209099459,
+    "wof:lastmodified":1537625228,
+    "wof:name":"Cantetaj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.53967,
+    15.68705,
+    -91.53967,
+    15.68705
+],
+  "geometry": {"coordinates":[-91.53967,15.68705],"type":"Point"}
+}

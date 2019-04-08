@@ -1,0 +1,112 @@
+{
+  "id": 1108695595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003808,
+    "geom:area_square_m":45499151.310771,
+    "geom:bbox":"-91.9515086451,14.8916038576,-91.8728840825,14.9737789582",
+    "geom:latitude":14.927413,
+    "geom:longitude":-91.911634,
+    "iso:country":"GT",
+    "lbl:latitude":14.924427,
+    "lbl:longitude":-91.912371,
+    "meso:admin_1":"San Marcos",
+    "meso:diss_me":"SAN RAFAEL PIE DE LA CUESTASAN MARCOS",
+    "meso:gadm_admin":"San Rafa\u00e9l Pie de la Cuesta",
+    "meso:gaul_admin":"San Rafael Pie de la Cuesta",
+    "meso:mps_x":-91.912371,
+    "meso:mps_y":14.924427,
+    "meso:name_en":"San Rafael Pie De La Cuesta",
+    "meso:source":"AOTM",
+    "mps:latitude":14.924427,
+    "mps:longitude":-91.912371,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u5f7c\u5fb7\u62c9\u5eab\u57c3\u65af\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael Pie de la Cuesta"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafa\u00e9l Pie de La Cuesta"
+    ],
+    "name:eng_x_variant":[
+        "San Rafael Pie de la Cuesta",
+        "San Rafa\u00e9l Pie de la Cuesta"
+    ],
+    "name:fre_x_preferred":[
+        "San Rafael Pie de La Cuesta"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Pi\u00e9 de la Cuesta"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael Pie de la Cuesta"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael Pie de La Cuesta"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael Pie de la Cuesta"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael Pie de La Cuesta"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SM",
+    "statoids:name":"San Rafa\u00e9l Pie de La Cuesta",
+    "statoids:population":"13072",
+    "statoids:statoid":"GT.SM.RP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402778"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493917,
+    "wof:geomhash":"82f2acd6a3e6689f868b06aede6b5ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695595,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1108695595,
+    "wof:lastmodified":1514444558,
+    "wof:name":"San Rafael Pie De La Cuesta",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":13072,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.95150864512922,
+    14.89160385760676,
+    -91.87288408246644,
+    14.97377895819174
+],
+  "geometry": {"coordinates":[[[-91.9450702894753,14.9417761800929],[-91.9432839711026,14.9455230821529],[-91.93254923234299,14.95184293754581],[-91.9272981468264,14.95270185317398],[-91.92536524376538,14.954634756235],[-91.92454601961866,14.9562034783939],[-91.91775365984145,14.95958342432022],[-91.91423024711415,14.95957818992334],[-91.90363072529338,14.97350992609779],[-91.89890459945109,14.97377895819174],[-91.89308953531477,14.9660052499204],[-91.89358207887892,14.95782895154369],[-91.90026687520937,14.95246630218975],[-91.89576135957192,14.94648325234134],[-91.8904207458928,14.940752958153],[-91.88213487604052,14.94514139675878],[-91.87762689031454,14.94378110894771],[-91.87471885335243,14.93499098497809],[-91.87780964216944,14.92912800189536],[-91.87288408246644,14.92077873382557],[-91.87386625914972,14.91684541749757],[-91.87414684314555,14.91510868653461],[-91.88894274349062,14.90896382501504],[-91.88963513257536,14.90573539075206],[-91.89037619115898,14.9051680364547],[-91.89607949541633,14.89324179623193],[-91.89848853439462,14.89335785764664],[-91.90917790403768,14.89160385760676],[-91.91258422385808,14.89609845308617],[-91.91456450106134,14.89772311129134],[-91.93014366105524,14.89257313346876],[-91.93027734714441,14.89245220649513],[-91.94453384082601,14.90706873971781],[-91.9432124814863,14.91090103012751],[-91.95150864512922,14.92339362485349],[-91.94026352094659,14.92893233832775],[-91.93879036590384,14.93424046618035],[-91.9450702894753,14.9417761800929]]],"type":"Polygon"}
+}

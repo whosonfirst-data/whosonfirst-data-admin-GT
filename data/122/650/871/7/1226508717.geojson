@@ -1,0 +1,72 @@
+{
+  "id": 1226508717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.36667,14.2,-90.36667,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":-90.36667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Concepcion",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598009,
+    "gn:latitude":14.2,
+    "gn:longitude":-90.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Concepci\u00f3n",
+        "Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421191201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598009
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"415d8a982f85b203967f2da1d06f646d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191201,
+            "locality_id":1226508717,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1226508717,
+    "wof:lastmodified":1537625218,
+    "wof:name":"Concepcion",
+    "wof:parent_id":421191201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.36667,
+    14.2,
+    -90.36667,
+    14.2
+],
+  "geometry": {"coordinates":[-90.36667,14.2],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276535649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51667,16.1,-89.51667,16.1",
+    "geom:latitude":16.1,
+    "geom:longitude":-89.51667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chimay",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598564,
+    "gn:latitude":16.1,
+    "gn:longitude":-89.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chimay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ximay",
+        "Chimay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598564
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cf2ec99c07b5e47a4814895a8ed23299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1276535649,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1276535649,
+    "wof:lastmodified":1537625223,
+    "wof:name":"Chimay",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51666999999998,
+    16.1,
+    -89.51666999999998,
+    16.1
+],
+  "geometry": {"coordinates":[-89.51666999999998,16.1],"type":"Point"}
+}

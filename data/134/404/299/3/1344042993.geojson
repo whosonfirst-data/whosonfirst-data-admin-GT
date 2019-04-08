@@ -1,0 +1,70 @@
+{
+  "id": 1344042993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.4434,16.06958,-91.4434,16.06958",
+    "geom:latitude":16.06958,
+    "geom:longitude":-91.4434,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nueva Concepcion Ixquisis",
+    "gn:country_code":"GT",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533190,
+    "gn:latitude":16.06958,
+    "gn:longitude":-91.4434,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Nueva Concepci\u00f3n Ixquisis",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Concepci\u00f3n Ixquisis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533190
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8853324952b8c4d3df5e4503b6b29673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695557,
+            "locality_id":1344042993,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1344042993,
+    "wof:lastmodified":1537625245,
+    "wof:name":"Nueva Concepcion Ixquisis",
+    "wof:parent_id":1108695557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.4434,
+    16.06958,
+    -91.4434,
+    16.06958
+],
+  "geometry": {"coordinates":[-91.4434,16.06958],"type":"Point"}
+}

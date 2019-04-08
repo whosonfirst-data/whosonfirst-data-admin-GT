@@ -1,0 +1,126 @@
+{
+  "id": 421195547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004146,
+    "geom:area_square_m":49527047.423033,
+    "geom:bbox":"-91.7533793761,14.9217619891,-91.668504774,15.0098023822",
+    "geom:latitude":14.962154,
+    "geom:longitude":-91.709057,
+    "iso:country":"GT",
+    "lbl:latitude":14.951079,
+    "lbl:longitude":-91.711911,
+    "meso:admin_1":"San Marcos",
+    "meso:diss_me":"SAN ANTONIO SACATEPEQUEZSAN MARCOS",
+    "meso:gadm_admin":"San Antonio Sacatep\u00e9quez",
+    "meso:gaul_admin":"San Antonio Sacatep\u00e9quez",
+    "meso:mps_x":-91.711911,
+    "meso:mps_y":14.951079,
+    "meso:name_en":"San Antonio Sacatepequez",
+    "meso:source":"AOTM",
+    "mps:latitude":14.951079,
+    "mps:longitude":-91.711911,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio Sacatep\u00e9quez"
+    ],
+    "name:eng_x_variant":[
+        "San Antonio Sacatep\u00e9quez"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Pedro Sacatep\u00e9quez",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":115440,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807157,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SM",
+    "statoids:name":"San Antonio Sacatep\u00e9quez",
+    "statoids:population":"14658",
+    "statoids:statoid":"GT.SM.AS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807157,
+        "hasc:id":"GT.SM.AS",
+        "qs:id":115440,
+        "wd:id":"Q2219943"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009851,
+    "wof:geomhash":"db049c8e5668916863c044f38eaa1b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195547,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421195547,
+    "wof:lastmodified":1536616121,
+    "wof:name":"San Antonio Sacatepequez",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":14658,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"AS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75337937614148,
+    14.92176198911332,
+    -91.6685047740374,
+    15.00980238222478
+],
+  "geometry": {"coordinates":[[[-91.70620436095444,15.00848949295289],[-91.70325751212086,15.00980238222478],[-91.68970943979718,15.00435309140495],[-91.6871910735524,15.00284494781388],[-91.68714086318188,15.00262831760892],[-91.67010110862743,14.99781775520473],[-91.6685047740374,14.99267761480405],[-91.67195654809532,14.98581920744425],[-91.673125224467,14.98494824276836],[-91.67363773083966,14.98469886017781],[-91.67839034058669,14.97675392183909],[-91.67517591010548,14.96722356152707],[-91.67681611328393,14.96395289213637],[-91.67087808711194,14.95138834779298],[-91.68481272673245,14.94780692179765],[-91.68541821891277,14.94777387267324],[-91.69335242402312,14.93620688695726],[-91.69302710229189,14.93449281697692],[-91.69399588323698,14.93205030576799],[-91.70786656444982,14.9253540965866],[-91.711440923692,14.92741532723391],[-91.71578850258533,14.92832537005508],[-91.72467902270918,14.92176198911332],[-91.73298789391852,14.93342671572857],[-91.74159509962949,14.93],[-91.74519977871128,14.93],[-91.74712948074205,14.94016264722745],[-91.75337937614148,14.94542512601955],[-91.74866318943488,14.9560848465324],[-91.74943504623273,14.95784692632529],[-91.74632642958319,14.96623684787308],[-91.74723677912831,14.97046646473721],[-91.73442902741785,14.97890385445881],[-91.73411586972675,14.98012268611616],[-91.73203778647074,14.98079169576262],[-91.72238151509808,14.98068285347474],[-91.71748057911275,14.97509331996212],[-91.7173762835439,14.97489768908519],[-91.71004092554119,14.97449446470707],[-91.70641127154961,14.97935909107417],[-91.70541204073692,14.99015477187462],[-91.70501538601872,14.990826920417],[-91.70491375925641,14.99089167380895],[-91.70620436095444,15.00848949295289]]],"type":"Polygon"}
+}

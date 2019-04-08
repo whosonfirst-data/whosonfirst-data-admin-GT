@@ -1,0 +1,70 @@
+{
+  "id": 1327119821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.4892,15.74572,-91.4892,15.74572",
+    "geom:latitude":15.74572,
+    "geom:longitude":-91.4892,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anona",
+    "gn:country_code":"GT",
+    "gn:dem":2721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493236,
+    "gn:latitude":15.74572,
+    "gn:longitude":-91.4892,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Anona",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Anona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493236
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c92343ed10f7aa4d5743401da34524a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695587,
+            "locality_id":1327119821,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327119821,
+    "wof:lastmodified":1537625374,
+    "wof:name":"Anona",
+    "wof:parent_id":1108695587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.4892,
+    15.74572,
+    -91.4892,
+    15.74572
+],
+  "geometry": {"coordinates":[-91.4892,15.74572],"type":"Point"}
+}

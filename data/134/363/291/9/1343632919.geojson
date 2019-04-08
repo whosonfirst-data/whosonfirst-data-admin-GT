@@ -1,0 +1,70 @@
+{
+  "id": 1343632919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7378,15.25855,-91.7378,15.25855",
+    "geom:latitude":15.25855,
+    "geom:longitude":-91.7378,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuicampana",
+    "gn:country_code":"GT",
+    "gn:dem":2370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452601,
+    "gn:latitude":15.25855,
+    "gn:longitude":-91.7378,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tuicampana",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuicampana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452601
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5cd72f3e4565cc51c6c38662263d7f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695565,
+            "locality_id":1343632919,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343632919,
+    "wof:lastmodified":1537625285,
+    "wof:name":"Tuicampana",
+    "wof:parent_id":1108695565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7378,
+    15.25855,
+    -91.7378,
+    15.25855
+],
+  "geometry": {"coordinates":[-91.73779999999999,15.25855],"type":"Point"}
+}

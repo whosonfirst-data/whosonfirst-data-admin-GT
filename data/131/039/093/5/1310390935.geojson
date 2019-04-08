@@ -1,0 +1,70 @@
+{
+  "id": 1310390935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41899,15.5585,-91.41899,15.5585",
+    "geom:latitude":15.5585,
+    "geom:longitude":-91.41899,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yaxeu",
+    "gn:country_code":"GT",
+    "gn:dem":2725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492051,
+    "gn:latitude":15.5585,
+    "gn:longitude":-91.41899,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yaxeu",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yaxeu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492051
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"541a7d872873a0377a0944560e9c5441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1310390935,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310390935,
+    "wof:lastmodified":1537625369,
+    "wof:name":"Yaxeu",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41899,
+    15.5585,
+    -91.41899,
+    15.5585
+],
+  "geometry": {"coordinates":[-91.41898999999999,15.5585],"type":"Point"}
+}

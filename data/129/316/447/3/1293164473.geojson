@@ -1,0 +1,70 @@
+{
+  "id": 1293164473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09988,14.71267,-92.09988,14.71267",
+    "geom:latitude":14.71267,
+    "geom:longitude":-92.09988,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Hacienda La Virgen",
+    "gn:country_code":"GT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593440,
+    "gn:latitude":14.71267,
+    "gn:longitude":-92.09988,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Hacienda La Virgen",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Virgen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593440
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1ea9a7f4bce106d31c3d103d817dfe21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1293164473,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293164473,
+    "wof:lastmodified":1537625174,
+    "wof:name":"Hacienda La Virgen",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09988,
+    14.71267,
+    -92.09988,
+    14.71267
+],
+  "geometry": {"coordinates":[-92.09988,14.71267],"type":"Point"}
+}

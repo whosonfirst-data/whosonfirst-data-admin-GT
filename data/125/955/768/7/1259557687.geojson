@@ -1,0 +1,70 @@
+{
+  "id": 1259557687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45187,15.02431,-91.45187,15.02431",
+    "geom:latitude":15.02431,
+    "geom:longitude":-91.45187,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chirreal",
+    "gn:country_code":"GT",
+    "gn:dem":2575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478302,
+    "gn:latitude":15.02431,
+    "gn:longitude":-91.45187,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chirreal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chirreal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478302
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4e55e42d5a5a2fe38b7fd4153a35948e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1259557687,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1259557687,
+    "wof:lastmodified":1537625338,
+    "wof:name":"Chirreal",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45187,
+    15.02431,
+    -91.45187,
+    15.02431
+],
+  "geometry": {"coordinates":[-91.45187,15.02431],"type":"Point"}
+}

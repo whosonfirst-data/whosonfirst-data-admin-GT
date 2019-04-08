@@ -1,0 +1,64 @@
+{
+  "id": 1209301483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.0297,17.09018,-90.0297,17.09018",
+    "geom:latitude":17.09018,
+    "geom:longitude":-90.0297,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Resumidero",
+    "gn:country_code":"GT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8142070,
+    "gn:latitude":17.09018,
+    "gn:longitude":-90.0297,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"El Resumidero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Resumidero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142070
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1b26ab38713ae49881598599a9bb6910",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209301483
+        }
+    ],
+    "wof:id":1209301483,
+    "wof:lastmodified":1537625243,
+    "wof:name":"El Resumidero",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0297,
+    17.09018,
+    -90.0297,
+    17.09018
+],
+  "geometry": {"coordinates":[-90.02970000000001,17.09018],"type":"Point"}
+}

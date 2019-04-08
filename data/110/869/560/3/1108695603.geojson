@@ -1,0 +1,111 @@
+{
+  "id": 1108695603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003437,
+    "geom:area_square_m":41118763.659041,
+    "geom:bbox":"-90.7283801475,14.6116479878,-90.6385475911,14.6686646254",
+    "geom:latitude":14.64111,
+    "geom:longitude":-90.68137,
+    "iso:country":"GT",
+    "lbl:latitude":14.639543,
+    "lbl:longitude":-90.682256,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SAN TIAGO SACATEPEQUEZSACATEPEQUEZ",
+    "meso:gadm_admin":"Santiago Sacatep\u00e9quez",
+    "meso:gaul_admin":"Santiago Sacatep\u00e9quez",
+    "meso:mps_x":-90.682256,
+    "meso:mps_y":14.639543,
+    "meso:name_en":"San Tiago Sacatepequez",
+    "meso:source":"AOTM",
+    "mps:latitude":14.639543,
+    "mps:longitude":-90.682256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5\u85a9\u5361\u7279\u4f69\u514b\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:fre_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:pol_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:por_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:sco_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago Sacatep\u00e9quez"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"Santiago Sacatep\u00e9quez",
+    "statoids:population":"22038",
+    "statoids:statoid":"GT.SA.SS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2295832"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493926,
+    "wof:geomhash":"b41c5705f3a1f910355f150464141157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695603,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":1108695603,
+    "wof:lastmodified":1514444560,
+    "wof:name":"San Tiago Sacatepequez",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":22038,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.72838014749654,
+    14.61164798775586,
+    -90.63854759110536,
+    14.66866462543778
+],
+  "geometry": {"coordinates":[[[-90.72800287058087,14.65806661045976],[-90.71200069452038,14.66137463329969],[-90.7078061585366,14.66084742037491],[-90.70705149265844,14.66185131837939],[-90.68875192701188,14.66207111862418],[-90.6883171815484,14.66240795270636],[-90.68601026018091,14.6632419116122],[-90.68134866045757,14.66258908576753],[-90.67813531941333,14.66312358320063],[-90.67206569404385,14.66866462543778],[-90.65667345443636,14.66039078349136],[-90.65649530828327,14.66054384619065],[-90.6489873428455,14.66074430087264],[-90.64887980634771,14.66065664947695],[-90.63854759110536,14.65346272814906],[-90.63964321336658,14.64024836728844],[-90.63933878220877,14.6399146074961],[-90.64334339227845,14.62935492577772],[-90.64327609223125,14.62684130788464],[-90.65614234308684,14.61691455937124],[-90.66149732330726,14.62206964461768],[-90.66397178968795,14.62229450373434],[-90.67832513607485,14.61584091087979],[-90.68136006489546,14.61626977625928],[-90.68185359800377,14.61647564832657],[-90.68211117479822,14.61637220944796],[-90.69679445278092,14.61607040295919],[-90.70128295294188,14.61164798775586],[-90.70613794703219,14.61211012847848],[-90.71215233490192,14.6197641004122],[-90.71291775298373,14.62856626852115],[-90.71078010469003,14.63272140728131],[-90.71386104521859,14.64106728233697],[-90.71928414754507,14.64161072737263],[-90.72838014749654,14.64663890073185],[-90.72800287058087,14.65806661045976]]],"type":"Polygon"}
+}

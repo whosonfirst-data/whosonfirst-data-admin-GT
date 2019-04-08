@@ -1,0 +1,70 @@
+{
+  "id": 1276725585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65578,15.16491,-91.65578,15.16491",
+    "geom:latitude":15.16491,
+    "geom:longitude":-91.65578,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Potrero",
+    "gn:country_code":"GT",
+    "gn:dem":2050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457522,
+    "gn:latitude":15.16491,
+    "gn:longitude":-91.65578,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"El Potrero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Potrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457522
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1d069f31deae60155956cec57328312a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695653,
+            "locality_id":1276725585,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276725585,
+    "wof:lastmodified":1537625300,
+    "wof:name":"El Potrero",
+    "wof:parent_id":1108695653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65578,
+    15.16491,
+    -91.65578,
+    15.16491
+],
+  "geometry": {"coordinates":[-91.65577999999999,15.16491],"type":"Point"}
+}

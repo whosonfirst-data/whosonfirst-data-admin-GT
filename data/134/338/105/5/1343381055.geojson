@@ -1,0 +1,70 @@
+{
+  "id": 1343381055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73206,15.67405,-91.73206,15.67405",
+    "geom:latitude":15.67405,
+    "geom:longitude":-91.73206,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wixay",
+    "gn:country_code":"GT",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476997,
+    "gn:latitude":15.67405,
+    "gn:longitude":-91.73206,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Wixay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Wixay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421178135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476997
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"503c2f5041675d97f1a3ed875b8f2201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178135,
+            "locality_id":1343381055,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343381055,
+    "wof:lastmodified":1537625326,
+    "wof:name":"Wixay",
+    "wof:parent_id":421178135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73206,
+    15.67405,
+    -91.73206,
+    15.67405
+],
+  "geometry": {"coordinates":[-91.73206,15.67405],"type":"Point"}
+}

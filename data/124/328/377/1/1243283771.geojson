@@ -1,0 +1,70 @@
+{
+  "id": 1243283771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.84317,15.6143,-91.84317,15.6143",
+    "geom:latitude":15.6143,
+    "geom:longitude":-91.84317,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chichinabaj",
+    "gn:country_code":"GT",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637604,
+    "gn:latitude":15.6143,
+    "gn:longitude":-91.84317,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Chichinabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chichinabaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637604
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7bde3b96c3dab8f55c79ba3445ae809c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695373,
+            "locality_id":1243283771,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1243283771,
+    "wof:lastmodified":1537625265,
+    "wof:name":"Chichinabaj",
+    "wof:parent_id":1108695373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.84317,
+    15.6143,
+    -91.84317,
+    15.6143
+],
+  "geometry": {"coordinates":[-91.84317,15.6143],"type":"Point"}
+}

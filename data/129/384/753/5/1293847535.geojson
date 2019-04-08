@@ -1,0 +1,70 @@
+{
+  "id": 1293847535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00239,14.98462,-92.00239,14.98462",
+    "geom:latitude":14.98462,
+    "geom:longitude":-92.00239,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nuevo Horizonte",
+    "gn:country_code":"GT",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638839,
+    "gn:latitude":14.98462,
+    "gn:longitude":-92.00239,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Nuevo Horizonte",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Horizonte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638839
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"836c9ce3f4d5e8207ff01ce00e28f3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695575,
+            "locality_id":1293847535,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293847535,
+    "wof:lastmodified":1537625271,
+    "wof:name":"Nuevo Horizonte",
+    "wof:parent_id":1108695575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00239,
+    14.98462,
+    -92.00239,
+    14.98462
+],
+  "geometry": {"coordinates":[-92.00239000000001,14.98462],"type":"Point"}
+}

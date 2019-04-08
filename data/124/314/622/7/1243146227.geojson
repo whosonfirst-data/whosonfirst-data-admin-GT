@@ -1,0 +1,70 @@
+{
+  "id": 1243146227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30797,15.04807,-91.30797,15.04807",
+    "geom:latitude":15.04807,
+    "geom:longitude":-91.30797,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chucutinez",
+    "gn:country_code":"GT",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478158,
+    "gn:latitude":15.04807,
+    "gn:longitude":-91.30797,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chucutinez",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chucutinez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478158
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb657876d36261f04a0e0081d2c2228c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1243146227,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1243146227,
+    "wof:lastmodified":1537625335,
+    "wof:name":"Chucutinez",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30797,
+    15.04807,
+    -91.30797,
+    15.04807
+],
+  "geometry": {"coordinates":[-91.30797,15.04807],"type":"Point"}
+}

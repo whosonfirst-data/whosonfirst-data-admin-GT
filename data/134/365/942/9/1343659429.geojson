@@ -1,0 +1,70 @@
+{
+  "id": 1343659429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30404,15.27417,-91.30404,15.27417",
+    "geom:latitude":15.27417,
+    "geom:longitude":-91.30404,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nueva Esperancita",
+    "gn:country_code":"GT",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488386,
+    "gn:latitude":15.27417,
+    "gn:longitude":-91.30404,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nueva Esperancita",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Esperancita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488386
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4bfc88225402459a396077af9be6283f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "locality_id":1343659429,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343659429,
+    "wof:lastmodified":1537625361,
+    "wof:name":"Nueva Esperancita",
+    "wof:parent_id":421186319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30404,
+    15.27417,
+    -91.30404,
+    15.27417
+],
+  "geometry": {"coordinates":[-91.30404,15.27417],"type":"Point"}
+}

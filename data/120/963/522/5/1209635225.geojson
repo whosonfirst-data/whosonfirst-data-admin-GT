@@ -1,0 +1,64 @@
+{
+  "id": 1209635225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.547,15.69283,-91.547,15.69283",
+    "geom:latitude":15.69283,
+    "geom:longitude":-91.547,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pupala",
+    "gn:country_code":"GT",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477139,
+    "gn:latitude":15.69283,
+    "gn:longitude":-91.547,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pupal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pupal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477139
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7df47f890d521f9befaaa64b76f18cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209635225
+        }
+    ],
+    "wof:id":1209635225,
+    "wof:lastmodified":1537625329,
+    "wof:name":"Pupala",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.547,
+    15.69283,
+    -91.547,
+    15.69283
+],
+  "geometry": {"coordinates":[-91.547,15.69283],"type":"Point"}
+}

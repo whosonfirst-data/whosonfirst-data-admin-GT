@@ -1,0 +1,70 @@
+{
+  "id": 1327297373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.74588,15.25615,-91.74588,15.25615",
+    "geom:latitude":15.25615,
+    "geom:longitude":-91.74588,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ixchol",
+    "gn:country_code":"GT",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11452523,
+    "gn:latitude":15.25615,
+    "gn:longitude":-91.74588,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ixchol",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixchol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11452523
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ceb20d6cb5bcc4ef8bbb915a4c5cfe6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695565,
+            "locality_id":1327297373,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1327297373,
+    "wof:lastmodified":1537625285,
+    "wof:name":"Ixchol",
+    "wof:parent_id":1108695565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.74588,
+    15.25615,
+    -91.74588,
+    15.25615
+],
+  "geometry": {"coordinates":[-91.74588,15.25615],"type":"Point"}
+}

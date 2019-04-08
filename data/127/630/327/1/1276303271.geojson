@@ -1,0 +1,70 @@
+{
+  "id": 1276303271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08853,15.08616,-91.08853,15.08616",
+    "geom:latitude":15.08616,
+    "geom:longitude":-91.08853,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cruzche II",
+    "gn:country_code":"GT",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485204,
+    "gn:latitude":15.08616,
+    "gn:longitude":-91.08853,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cruzch\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cruzch\u00e9 II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485204
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c268f060891ab6c2ac70a99a44bde0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1276303271,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276303271,
+    "wof:lastmodified":1537625357,
+    "wof:name":"Cruzche II",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08853,
+    15.08616,
+    -91.08853,
+    15.08616
+],
+  "geometry": {"coordinates":[-91.08853000000001,15.08616],"type":"Point"}
+}

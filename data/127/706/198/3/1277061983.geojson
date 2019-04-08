@@ -1,0 +1,70 @@
+{
+  "id": 1277061983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.64077,15.39846,-91.64077,15.39846",
+    "geom:latitude":15.39846,
+    "geom:longitude":-91.64077,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cethuel",
+    "gn:country_code":"GT",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454419,
+    "gn:latitude":15.39846,
+    "gn:longitude":-91.64077,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Cethuel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cethuel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421170799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454419
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ca7a823a8571f9ffb9066d879cd2f954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170799,
+            "locality_id":1277061983,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1277061983,
+    "wof:lastmodified":1537625292,
+    "wof:name":"Cethuel",
+    "wof:parent_id":421170799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.64077,
+    15.39846,
+    -91.64077,
+    15.39846
+],
+  "geometry": {"coordinates":[-91.64077,15.39846],"type":"Point"}
+}

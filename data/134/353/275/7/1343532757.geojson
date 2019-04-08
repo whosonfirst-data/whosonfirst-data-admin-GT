@@ -1,0 +1,67 @@
+{
+  "id": 1343532757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.96667,14.8,-91.96667,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-91.96667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Palma Real",
+    "gn:country_code":"GT",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591826,
+    "gn:latitude":14.8,
+    "gn:longitude":-91.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Palma Real",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591826
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"32f3602b1b76cbfe155daee509a58e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695337,
+            "locality_id":1343532757,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343532757,
+    "wof:lastmodified":1536641154,
+    "wof:name":"Palma Real",
+    "wof:parent_id":1108695337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.96667,
+    14.8,
+    -91.96667,
+    14.8
+],
+  "geometry": {"coordinates":[-91.96666999999999,14.8],"type":"Point"}
+}

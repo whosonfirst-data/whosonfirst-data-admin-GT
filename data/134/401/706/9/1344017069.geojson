@@ -1,0 +1,70 @@
+{
+  "id": 1344017069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.24579,15.13435,-91.24579,15.13435",
+    "geom:latitude":15.13435,
+    "geom:longitude":-91.24579,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Oxlajuj",
+    "gn:country_code":"GT",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485024,
+    "gn:latitude":15.13435,
+    "gn:longitude":-91.24579,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Oxlajuj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Oxlajuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421195541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485024
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4101a37f61333ce97b94fd2012789a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195541,
+            "locality_id":1344017069,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1344017069,
+    "wof:lastmodified":1537625355,
+    "wof:name":"Oxlajuj",
+    "wof:parent_id":421195541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.24579,
+    15.13435,
+    -91.24579,
+    15.13435
+],
+  "geometry": {"coordinates":[-91.24579,15.13435],"type":"Point"}
+}

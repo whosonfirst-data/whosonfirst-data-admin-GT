@@ -1,0 +1,64 @@
+{
+  "id": 1209334615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.24236,15.83943,-91.24236,15.83943",
+    "geom:latitude":15.83943,
+    "geom:longitude":-91.24236,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tres Ranchos",
+    "gn:country_code":"GT",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450188,
+    "gn:latitude":15.83943,
+    "gn:longitude":-91.24236,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tres Ranchos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres Ranchos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450188
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9aaf7097697a0975a987f651b91059a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209334615
+        }
+    ],
+    "wof:id":1209334615,
+    "wof:lastmodified":1537625284,
+    "wof:name":"Tres Ranchos",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.24236,
+    15.83943,
+    -91.24236,
+    15.83943
+],
+  "geometry": {"coordinates":[-91.24236000000001,15.83943],"type":"Point"}
+}

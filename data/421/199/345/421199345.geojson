@@ -1,0 +1,121 @@
+{
+  "id": 421199345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.58333,15.13333,-90.58333,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":-90.58333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5eab\u6b66\u723e\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Cubulco"
+    ],
+    "name:dut_x_preferred":[
+        "Cubulco"
+    ],
+    "name:eng_x_preferred":[
+        "Cubulco"
+    ],
+    "name:fra_x_preferred":[
+        "Cubulco"
+    ],
+    "name:fre_x_preferred":[
+        "Cubulco"
+    ],
+    "name:ger_x_preferred":[
+        "Cubulco"
+    ],
+    "name:ita_x_preferred":[
+        "Cubulco"
+    ],
+    "name:pol_x_preferred":[
+        "Cubulco"
+    ],
+    "name:por_x_preferred":[
+        "Baja Verapaz#Munic\u00edpios"
+    ],
+    "name:spa_x_preferred":[
+        "Cubulco"
+    ],
+    "name:swe_x_preferred":[
+        "Cubulco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u6b66\u723e\u79d1"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597837,
+    "qs:gn_pop":9753,
+    "qs:name":"Cubulco",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Baja Verapaz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":159,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":193225,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":82031,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":917,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        1108695313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597837,
+        "gp:id":82031,
+        "qs:id":193225,
+        "wd:id":"Q2034094",
+        "wk:page":"Cubulco"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009986,
+    "wof:geomhash":"1f872c33ad18fff595a7d20134da0031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695313,
+            "locality_id":421199345,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":421199345,
+    "wof:lastmodified":1527716419,
+    "wof:name":"Cubulco",
+    "wof:parent_id":1108695313,
+    "wof:placetype":"locality",
+    "wof:population":9753,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.58333,
+    15.13333,
+    -90.58333,
+    15.13333
+],
+  "geometry": {"coordinates":[-90.58333,15.13333],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 421177317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.67861,14.57583,-90.67861,14.57583",
+    "geom:latitude":14.57583,
+    "geom:longitude":-90.67861,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:unk_x_variant":[
+        "Santa Luc\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589285,
+    "qs:gn_pop":13001,
+    "qs:name":"Santa Luc\u00eda Milpas Altas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":172,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":172,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1174570,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86015,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":270,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        1108695631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589285,
+        "gp:id":86015,
+        "qs:id":1174570,
+        "wd:id":"Q2400752",
+        "wk:page":"Santa Luc\u00eda Milpas Altas"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009140,
+    "wof:geomhash":"31997cef736184eb540c8c15788ea4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695631,
+            "locality_id":421177317,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421177317,
+    "wof:lastmodified":1527716486,
+    "wof:name":"Santa Luc\u00eda Milpas Altas",
+    "wof:parent_id":1108695631,
+    "wof:placetype":"locality",
+    "wof:population":13001,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.67861,
+    14.57583,
+    -90.67861,
+    14.57583
+],
+  "geometry": {"coordinates":[-90.67861000000001,14.57583],"type":"Point"}
+}

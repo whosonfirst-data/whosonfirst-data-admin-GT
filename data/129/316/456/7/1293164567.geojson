@@ -1,0 +1,70 @@
+{
+  "id": 1293164567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.15785,14.54753,-92.15785,14.54753",
+    "geom:latitude":14.54753,
+    "geom:longitude":-92.15785,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Las Cruces",
+    "gn:country_code":"GT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764430,
+    "gn:latitude":14.54753,
+    "gn:longitude":-92.15785,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cruces"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764430
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c1c81018d5972406a57ef147a2756e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695415,
+            "locality_id":1293164567,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293164567,
+    "wof:lastmodified":1537625241,
+    "wof:name":"Las Cruces",
+    "wof:parent_id":1108695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.15785,
+    14.54753,
+    -92.15785,
+    14.54753
+],
+  "geometry": {"coordinates":[-92.15785,14.54753],"type":"Point"}
+}

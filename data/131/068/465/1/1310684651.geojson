@@ -1,0 +1,70 @@
+{
+  "id": 1310684651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08668,15.17343,-91.08668,15.17343",
+    "geom:latitude":15.17343,
+    "geom:longitude":-91.08668,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chuacorral",
+    "gn:country_code":"GT",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11483957,
+    "gn:latitude":15.17343,
+    "gn:longitude":-91.08668,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chuacorral",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuacorral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483957
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1d89f2b6c68cf8015e445d698b76da64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1310684651,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1310684651,
+    "wof:lastmodified":1537625352,
+    "wof:name":"Chuacorral",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08668,
+    15.17343,
+    -91.08668,
+    15.17343
+],
+  "geometry": {"coordinates":[-91.08668,15.17343],"type":"Point"}
+}

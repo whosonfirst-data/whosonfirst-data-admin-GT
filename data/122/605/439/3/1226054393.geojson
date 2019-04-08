@@ -1,0 +1,74 @@
+{
+  "id": 1226054393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1,14.6,-91.1,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-91.1,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Panimaquim",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591704,
+    "gn:latitude":14.6,
+    "gn:longitude":-91.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Panimaquim",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca San Antonio Panimaqu\u00edn",
+        "San Antonio Panimaquin",
+        "Panimaqu\u00edn",
+        "Panimaquim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421178903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591704
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f28ef48fe83907b217fe485aa7c1af66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178903,
+            "locality_id":1226054393,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1226054393,
+    "wof:lastmodified":1537625161,
+    "wof:name":"Panimaquim",
+    "wof:parent_id":421178903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1,
+    14.6,
+    -91.1,
+    14.6
+],
+  "geometry": {"coordinates":[-91.09999999999999,14.6],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209492499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.35111,16.08111,-89.35111,16.08111",
+    "geom:latitude":16.08111,
+    "geom:longitude":-89.35111,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"La Cumbre",
+    "gn:country_code":"GT",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594763,
+    "gn:latitude":16.08111,
+    "gn:longitude":-89.35111,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"La Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594763
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e808fab141530b6558a8715d9744a5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209492499
+        }
+    ],
+    "wof:id":1209492499,
+    "wof:lastmodified":1536285440,
+    "wof:name":"La Cumbre",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.35110999999998,
+    16.08111,
+    -89.35110999999998,
+    16.08111
+],
+  "geometry": {"coordinates":[-89.35110999999998,16.08111],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 421200629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.67528,14.54528,-90.67528,14.54528",
+    "geom:latitude":14.54528,
+    "geom:longitude":-90.67528,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:ita_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:pol_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:por_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:sco_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena Milpas Altas"
+    ],
+    "name:unk_x_variant":[
+        "Magdalena"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u683c\u9054\u840a\u7d0d\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592770,
+    "qs:gn_pop":5582,
+    "qs:name":"Magdalena Milpas Altas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":300,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":300,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":889981,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84401,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        1108695391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592770,
+        "gp:id":84401,
+        "qs:id":889981,
+        "wd:id":"Q2401074",
+        "wk:page":"Magdalena Milpas Altas"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010033,
+    "wof:geomhash":"d942e55ad8509c08d62bf53cecba3c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695391,
+            "locality_id":421200629,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421200629,
+    "wof:lastmodified":1527716422,
+    "wof:name":"Magdalena Milpas Altas",
+    "wof:parent_id":1108695391,
+    "wof:placetype":"locality",
+    "wof:population":5582,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.67528,
+    14.54528,
+    -90.67528,
+    14.54528
+],
+  "geometry": {"coordinates":[-90.67528,14.54528],"type":"Point"}
+}

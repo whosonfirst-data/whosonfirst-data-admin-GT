@@ -1,0 +1,67 @@
+{
+  "id": 1343336867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.11667,14.7,-91.11667,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-91.11667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Chirijay",
+    "gn:country_code":"GT",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598436,
+    "gn:latitude":14.7,
+    "gn:longitude":-91.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chirijay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421189125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598436
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"40a2bed0d624e90df69c0867aabf8c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189125,
+            "locality_id":1343336867,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1343336867,
+    "wof:lastmodified":1536925432,
+    "wof:name":"Chirijay",
+    "wof:parent_id":421189125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.11667,
+    14.7,
+    -91.11667,
+    14.7
+],
+  "geometry": {"coordinates":[-91.11667,14.7],"type":"Point"}
+}

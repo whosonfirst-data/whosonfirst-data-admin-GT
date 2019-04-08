@@ -1,0 +1,121 @@
+{
+  "id": 421203985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.91667,14.8,-91.91667,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-91.91667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u65b0\u666e\u7f85\u683c\u96f7\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:eng_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:fra_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:fre_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:ita_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30dc\u30fb\u30d7\u30ed\u30b0\u30ec\u30bd"
+    ],
+    "name:pol_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:por_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:spa_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:swe_x_preferred":[
+        "Nuevo Progreso"
+    ],
+    "name:unk_x_variant":[
+        "Nuevo Progresso"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u666e\u7f85\u683c\u96f7\u7d22"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592108,
+    "qs:gn_pop":8113,
+    "qs:name":"Nuevo Progreso",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":169307,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84623,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":398,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592108,
+        "gp:id":84623,
+        "qs:id":169307,
+        "wd:id":"Q3879296",
+        "wk:page":"Nuevo Progreso, San Marcos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010170,
+    "wof:geomhash":"940bdb8d8ce47c8685e14f65e04b8a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695409,
+            "locality_id":421203985,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421203985,
+    "wof:lastmodified":1553816389,
+    "wof:name":"Nuevo Progreso",
+    "wof:parent_id":1108695409,
+    "wof:placetype":"locality",
+    "wof:population":8113,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.91667,
+    14.8,
+    -91.91667,
+    14.8
+],
+  "geometry": {"coordinates":[-91.91667,14.8],"type":"Point"}
+}

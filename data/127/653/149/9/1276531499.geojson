@@ -1,0 +1,74 @@
+{
+  "id": 1276531499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21667,14.95,-91.21667,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-91.21667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mactzul",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592795,
+    "gn:latitude":14.95,
+    "gn:longitude":-91.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mactzul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mactzul Sexto",
+        "Mactzuil",
+        "Mactzul Primero",
+        "Mactzul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421196995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592795
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0578f1a99f08c6532c6bd72558bf6f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196995,
+            "locality_id":1276531499,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276531499,
+    "wof:lastmodified":1537625168,
+    "wof:name":"Mactzul",
+    "wof:parent_id":421196995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21667,
+    14.95,
+    -91.21667,
+    14.95
+],
+  "geometry": {"coordinates":[-91.21666999999999,14.95],"type":"Point"}
+}

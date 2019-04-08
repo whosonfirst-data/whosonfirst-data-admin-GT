@@ -1,0 +1,85 @@
+{
+  "id": 1108695277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00173,
+    "geom:area_square_m":20674453.182271,
+    "geom:bbox":"-91.6457793474,14.9159675327,-91.5741518157,14.9576368356",
+    "geom:latitude":14.935333,
+    "geom:longitude":-91.613071,
+    "iso:country":"GT",
+    "lbl:latitude":14.934654,
+    "lbl:longitude":-91.616596,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"CAJOLAQUETZALTENANGO",
+    "meso:gadm_admin":"Cajol\u00e1",
+    "meso:gaul_admin":"Cajol\u00e1",
+    "meso:mps_x":-91.616596,
+    "meso:mps_y":14.934654,
+    "meso:name_en":"Cajola",
+    "meso:source":"AOTM",
+    "mps:latitude":14.934654,
+    "mps:longitude":-91.616596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Camot\u00e1n"
+    ],
+    "name:eng_x_variant":[
+        "Cajol\u00e1"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.CQ",
+    "statoids:name":"Camot\u00e1n",
+    "statoids:population":"36226",
+    "statoids:statoid":"GT.CQ.CA",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GT",
+    "wof:created":1474493583,
+    "wof:geomhash":"ad30848af3030cf59f51d579f418d3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695277,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695277,
+    "wof:lastmodified":1505431499,
+    "wof:name":"Cajola",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":36226,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.64577934742434,
+    14.91596753265895,
+    -91.57415181574024,
+    14.95763683559131
+],
+  "geometry": {"coordinates":[[[-91.63985701032287,14.9549865335555],[-91.63316598136115,14.95763683559131],[-91.62683044897078,14.95533779465877],[-91.62629031443259,14.95474383671405],[-91.61653497657618,14.9573880277824],[-91.60758781668099,14.9486736644639],[-91.60415425547663,14.94816728008718],[-91.60349977609067,14.94216379938408],[-91.60124435368077,14.93825628808825],[-91.58948859530832,14.93231286826117],[-91.58365829283645,14.93850626423689],[-91.58299924772236,14.93857321336265],[-91.57415181574024,14.93653465082263],[-91.57431037885053,14.92582522357058],[-91.57766009817978,14.91884476627482],[-91.59022256799415,14.92310615188217],[-91.5959483764,14.91714880860498],[-91.59964129938314,14.91596753265895],[-91.60482503243598,14.91618469327891],[-91.60918957043226,14.92060065741138],[-91.62113883246194,14.9171266611054],[-91.62969080855257,14.92621633498103],[-91.62974059104894,14.92678054019969],[-91.63130286407815,14.92826729280913],[-91.64296596978909,14.93089805150974],[-91.64299733865413,14.93094479726996],[-91.64577934742434,14.94156010021735],[-91.64120690843525,14.94467237731077],[-91.63985701032287,14.9549865335555]]],"type":"Polygon"}
+}

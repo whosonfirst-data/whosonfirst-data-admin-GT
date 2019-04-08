@@ -1,0 +1,67 @@
+{
+  "id": 1327428561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.35778,14.82167,-90.35778,14.82167",
+    "geom:latitude":14.82167,
+    "geom:longitude":-90.35778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Loma Tendida",
+    "gn:country_code":"GT",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593278,
+    "gn:latitude":14.82167,
+    "gn:longitude":-90.35778,
+    "gn:modification_date":"2001-08-22",
+    "gn:name":"Loma Tendida",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593278
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"70ed40f557edd02c1370112068fde92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695521,
+            "locality_id":1327428561,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1327428561,
+    "wof:lastmodified":1536686379,
+    "wof:name":"Loma Tendida",
+    "wof:parent_id":1108695521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.35778,
+    14.82167,
+    -90.35778,
+    14.82167
+],
+  "geometry": {"coordinates":[-90.35778000000001,14.82167],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343544665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.27862,15.21148,-91.27862,15.21148",
+    "geom:latitude":15.21148,
+    "geom:longitude":-91.27862,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Llano del Pericon",
+    "gn:country_code":"GT",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477830,
+    "gn:latitude":15.21148,
+    "gn:longitude":-91.27862,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Llano del Peric\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano del Peric\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477830
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1926dfdaa3357ca8c11d2c1cf033d1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1343544665,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343544665,
+    "wof:lastmodified":1537625332,
+    "wof:name":"Llano del Pericon",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.27862,
+    15.21148,
+    -91.27862,
+    15.21148
+],
+  "geometry": {"coordinates":[-91.27862,15.21148],"type":"Point"}
+}

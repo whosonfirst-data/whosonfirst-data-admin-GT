@@ -1,0 +1,72 @@
+{
+  "id": 1243341689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.96667,14.35,-89.96667,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-89.96667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Marias Montana",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592671,
+    "gn:latitude":14.35,
+    "gn:longitude":-89.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mar\u00edas Monta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maria Monta\u00f1as",
+        "Mar\u00edas Monta\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        421189491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592671
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fa0ad1b6badd7c3791224cebb9606ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189491,
+            "locality_id":1243341689,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1243341689,
+    "wof:lastmodified":1537625167,
+    "wof:name":"Marias Montana",
+    "wof:parent_id":421189491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.96667,
+    14.35,
+    -89.96667,
+    14.35
+],
+  "geometry": {"coordinates":[-89.96666999999999,14.35],"type":"Point"}
+}

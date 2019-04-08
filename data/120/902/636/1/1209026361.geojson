@@ -1,0 +1,64 @@
+{
+  "id": 1209026361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.89531,15.69699,-91.89531,15.69699",
+    "geom:latitude":15.69699,
+    "geom:longitude":-91.89531,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Belen Coyolar S.A.",
+    "gn:country_code":"GT",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10149501,
+    "gn:latitude":15.69699,
+    "gn:longitude":-91.89531,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Bel\u00e9n Coyolar S.A.",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bel\u00e9n Coyolar S.A."
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10149501
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a06ae6e8d5e2ec986ddd3f8b4af9a448",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209026361
+        }
+    ],
+    "wof:id":1209026361,
+    "wof:lastmodified":1537625279,
+    "wof:name":"Belen Coyolar S.A.",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.89531,
+    15.69699,
+    -91.89531,
+    15.69699
+],
+  "geometry": {"coordinates":[-91.89530999999999,15.69699],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209779291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.96622,15.07416,-91.96622,15.07416",
+    "geom:latitude":15.07416,
+    "geom:longitude":-91.96622,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuisla",
+    "gn:country_code":"GT",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475608,
+    "gn:latitude":15.07416,
+    "gn:longitude":-91.96622,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuisl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuisl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475608
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"11e1f411c8d6522ae650ad89f97c9814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1209779291,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1209779291,
+    "wof:lastmodified":1537625313,
+    "wof:name":"Tuisla",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.96622,
+    15.07416,
+    -91.96622,
+    15.07416
+],
+  "geometry": {"coordinates":[-91.96622000000001,15.07416],"type":"Point"}
+}

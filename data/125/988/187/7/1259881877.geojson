@@ -1,0 +1,67 @@
+{
+  "id": 1259881877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.0,14.66667,-91.0,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-91.0,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nimaya",
+    "gn:country_code":"GT",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592188,
+    "gn:latitude":14.66667,
+    "gn:longitude":-91.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nimay\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421178903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592188
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"696846841d7fb864fab575b46eeb7325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178903,
+            "locality_id":1259881877,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1259881877,
+    "wof:lastmodified":1536781971,
+    "wof:name":"Nimaya",
+    "wof:parent_id":421178903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.0,
+    14.66667,
+    -91.0,
+    14.66667
+],
+  "geometry": {"coordinates":[-91.0,14.66667],"type":"Point"}
+}

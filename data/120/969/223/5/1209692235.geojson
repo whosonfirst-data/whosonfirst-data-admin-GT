@@ -1,0 +1,64 @@
+{
+  "id": 1209692235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.10985,15.31362,-92.10985,15.31362",
+    "geom:latitude":15.31362,
+    "geom:longitude":-92.10985,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rancho Quemado",
+    "gn:country_code":"GT",
+    "gn:dem":2463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637412,
+    "gn:latitude":15.31362,
+    "gn:longitude":-92.10985,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Rancho Quemado",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancho Quemado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637412
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1bc2148250ab87bd035290bd1db825fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209692235
+        }
+    ],
+    "wof:id":1209692235,
+    "wof:lastmodified":1537625263,
+    "wof:name":"Rancho Quemado",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.10985,
+    15.31362,
+    -92.10985,
+    15.31362
+],
+  "geometry": {"coordinates":[-92.10984999999999,15.31362],"type":"Point"}
+}

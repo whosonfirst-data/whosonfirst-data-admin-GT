@@ -1,0 +1,70 @@
+{
+  "id": 1193108683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.93781,15.26674,-91.93781,15.26674",
+    "geom:latitude":15.26674,
+    "geom:longitude":-91.93781,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sajala",
+    "gn:country_code":"GT",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508261,
+    "gn:latitude":15.26674,
+    "gn:longitude":-91.93781,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sajal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sajal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508261
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"afd3efc02c301861dee12f25590490ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695309,
+            "locality_id":1193108683,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1193108683,
+    "wof:lastmodified":1537625379,
+    "wof:name":"Sajala",
+    "wof:parent_id":1108695309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.93781,
+    15.26674,
+    -91.93781,
+    15.26674
+],
+  "geometry": {"coordinates":[-91.93781,15.26674],"type":"Point"}
+}

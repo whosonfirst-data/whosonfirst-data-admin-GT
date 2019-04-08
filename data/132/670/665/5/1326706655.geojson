@@ -1,0 +1,70 @@
+{
+  "id": 1326706655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.93165,15.07587,-91.93165,15.07587",
+    "geom:latitude":15.07587,
+    "geom:longitude":-91.93165,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chana",
+    "gn:country_code":"GT",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475647,
+    "gn:latitude":15.07587,
+    "gn:longitude":-91.93165,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chan\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chan\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475647
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fd5916fee0694e60bf14ee0b578d0aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1326706655,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1326706655,
+    "wof:lastmodified":1537625314,
+    "wof:name":"Chana",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.93165,
+    15.07587,
+    -91.93165,
+    15.07587
+],
+  "geometry": {"coordinates":[-91.93165,15.07587],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209236705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.715,15.44616,-91.715,15.44616",
+    "geom:latitude":15.44616,
+    "geom:longitude":-91.715,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chemiche",
+    "gn:country_code":"GT",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454439,
+    "gn:latitude":15.44616,
+    "gn:longitude":-91.715,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chemiche",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chemiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454439
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"280aec8f6f3f195bab355727cd27deed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209236705
+        }
+    ],
+    "wof:id":1209236705,
+    "wof:lastmodified":1537625293,
+    "wof:name":"Chemiche",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.715,
+    15.44616,
+    -91.715,
+    15.44616
+],
+  "geometry": {"coordinates":[-91.715,15.44616],"type":"Point"}
+}

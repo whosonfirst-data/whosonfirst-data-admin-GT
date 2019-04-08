@@ -1,0 +1,67 @@
+{
+  "id": 1276752055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.19583,13.89194,-90.19583,13.89194",
+    "geom:latitude":13.89194,
+    "geom:longitude":-90.19583,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"La Barranquilla",
+    "gn:country_code":"GT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3765160,
+    "gn:latitude":13.89194,
+    "gn:longitude":-90.19583,
+    "gn:modification_date":"1998-10-07",
+    "gn:name":"La Barranquilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3765160
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3a80c3ccdfec002c4d5ec259b1c7dfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695437,
+            "locality_id":1276752055,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276752055,
+    "wof:lastmodified":1536715177,
+    "wof:name":"La Barranquilla",
+    "wof:parent_id":1108695437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.19583,
+    13.89194,
+    -90.19583,
+    13.89194
+],
+  "geometry": {"coordinates":[-90.19583,13.89194],"type":"Point"}
+}

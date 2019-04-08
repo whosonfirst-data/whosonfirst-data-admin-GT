@@ -1,0 +1,67 @@
+{
+  "id": 1225836743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.41667,14.55,-90.41667,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":-90.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Santa Ines Pinula",
+    "gn:country_code":"GT",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589330,
+    "gn:latitude":14.55,
+    "gn:longitude":-90.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa In\u00e9s Pinula",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589330
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"da5b8ae36b659e8d75f0a5674c61021d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695529,
+            "locality_id":1225836743,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1225836743,
+    "wof:lastmodified":1537025570,
+    "wof:name":"Santa Ines Pinula",
+    "wof:parent_id":1108695529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.41667,
+    14.55,
+    -90.41667,
+    14.55
+],
+  "geometry": {"coordinates":[-90.41667,14.55],"type":"Point"}
+}

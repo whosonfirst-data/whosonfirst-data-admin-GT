@@ -1,0 +1,138 @@
+{
+  "id": 421188899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001928,
+    "geom:area_square_m":23067051.809353,
+    "geom:bbox":"-90.6783251361,14.5679471009,-90.6118101481,14.6268413079",
+    "geom:latitude":14.5979,
+    "geom:longitude":-90.647618,
+    "iso:country":"GT",
+    "lbl:latitude":14.600095,
+    "lbl:longitude":-90.652657,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SAN LUCAS SACATEPEQUEZSACATEPEQUEZ",
+    "meso:gadm_admin":"San Lucas Sacatep\u00e9quez",
+    "meso:gaul_admin":"San Lucas Sacatep\u00e9quez",
+    "meso:mps_x":-90.652657,
+    "meso:mps_y":14.600095,
+    "meso:name_en":"San Lucas Sacatepequez",
+    "meso:source":"AOTM",
+    "mps:latitude":14.600095,
+    "mps:longitude":-90.652657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u5361\u65af\u85a9\u5361\u7279\u4f69\u514b\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:eng_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:fre_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:ita_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:pol_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:por_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:sco_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:spa_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "name:swe_x_preferred":[
+        "San Lucas Sacatep\u00e9quez"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Lucas Sacatepequez",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":211,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104965,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807130,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"San Lucas Sacatep\u00e9quez",
+    "statoids:population":"18394",
+    "statoids:statoid":"GT.SA.LS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":521,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807130,
+        "hasc:id":"GT.SA.LS",
+        "qs:id":1104965,
+        "wd:id":"Q2607797"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009587,
+    "wof:geomhash":"1fdfd83619a1c94da1fa9134e86d981d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188899,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421188899,
+    "wof:lastmodified":1536616073,
+    "wof:name":"San Lucas Sacatepequez",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":18394,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"LS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.67832513607485,
+    14.56794710091423,
+    -90.61181014808095,
+    14.62684130788464
+],
+  "geometry": {"coordinates":[[[-90.64327609223125,14.62684130788464],[-90.63541860537461,14.62067030971668],[-90.63381857314749,14.61306310755951],[-90.63433977809382,14.61265175637395],[-90.63786157284699,14.60416286929288],[-90.63415071996981,14.59453136455555],[-90.63236542696936,14.59429315382029],[-90.61588311446592,14.5973274868503],[-90.61181014808095,14.58752651786389],[-90.61205804509625,14.58584744275812],[-90.61609834830375,14.5831178087462],[-90.62848644528907,14.58038722115448],[-90.63000704966103,14.57939124565431],[-90.63329275883734,14.56937372802478],[-90.63528858972734,14.56794710091423],[-90.64458410072376,14.57099653299304],[-90.64559800029284,14.5754740825854],[-90.64561957999996,14.57626512557874],[-90.6482307663138,14.58243237567051],[-90.65928600665474,14.58537325218142],[-90.66035266712557,14.58425489591173],[-90.66688522590769,14.58144908466753],[-90.67317737549976,14.58567622693337],[-90.67306644118862,14.59570929298647],[-90.67126623419671,14.59805978883672],[-90.6695100531815,14.59935966756606],[-90.6687382770926,14.60249336599599],[-90.67832513607485,14.61584091087979],[-90.66397178968795,14.62229450373434],[-90.66149732330726,14.62206964461768],[-90.65614234308684,14.61691455937124],[-90.64327609223125,14.62684130788464]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310002721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.85628,15.46021,-91.85628,15.46021",
+    "geom:latitude":15.46021,
+    "geom:longitude":-91.85628,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Papal",
+    "gn:country_code":"GT",
+    "gn:dem":2754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512640,
+    "gn:latitude":15.46021,
+    "gn:longitude":-91.85628,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Papal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Papal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512640
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5cc4d54d1b44201e7dcea635cd669ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185571,
+            "locality_id":1310002721,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310002721,
+    "wof:lastmodified":1537625388,
+    "wof:name":"Papal",
+    "wof:parent_id":421185571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.85628,
+    15.46021,
+    -91.85628,
+    15.46021
+],
+  "geometry": {"coordinates":[-91.85628,15.46021],"type":"Point"}
+}

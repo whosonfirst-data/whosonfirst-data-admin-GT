@@ -1,0 +1,67 @@
+{
+  "id": 1310376271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.75,15.0,-90.75,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-90.75,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Caquil",
+    "gn:country_code":"GT",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599038,
+    "gn:latitude":15.0,
+    "gn:longitude":-90.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Caquil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421186001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599038
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8f9e876ad1022e98c106aacc95f40ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186001,
+            "locality_id":1310376271,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1310376271,
+    "wof:lastmodified":1536602914,
+    "wof:name":"Caquil",
+    "wof:parent_id":421186001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.75,
+    15.0,
+    -90.75,
+    15.0
+],
+  "geometry": {"coordinates":[-90.75,15.0],"type":"Point"}
+}

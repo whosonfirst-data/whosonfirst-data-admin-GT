@@ -1,0 +1,70 @@
+{
+  "id": 1293159721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.35657,15.01466,-91.35657,15.01466",
+    "geom:latitude":15.01466,
+    "geom:longitude":-91.35657,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chuijoj",
+    "gn:country_code":"GT",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11478232,
+    "gn:latitude":15.01466,
+    "gn:longitude":-91.35657,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chuijoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuijoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478232
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fbdd364d72a4e32b652c7779184b89ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1293159721,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293159721,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Chuijoj",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.35657,
+    15.01466,
+    -91.35657,
+    15.01466
+],
+  "geometry": {"coordinates":[-91.35657,15.01466],"type":"Point"}
+}

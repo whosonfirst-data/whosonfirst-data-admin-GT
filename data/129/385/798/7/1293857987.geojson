@@ -1,0 +1,70 @@
+{
+  "id": 1293857987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39862,15.01135,-91.39862,15.01135",
+    "geom:latitude":15.01135,
+    "geom:longitude":-91.39862,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Paquisis",
+    "gn:country_code":"GT",
+    "gn:dem":2395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478136,
+    "gn:latitude":15.01135,
+    "gn:longitude":-91.39862,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Paquisis",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paquisis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478136
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0e66d2bf9947aad3a987b0173c970858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293857987,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293857987,
+    "wof:lastmodified":1537625335,
+    "wof:name":"Paquisis",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39862,
+    15.01135,
+    -91.39862,
+    15.01135
+],
+  "geometry": {"coordinates":[-91.39861999999999,15.01135],"type":"Point"}
+}

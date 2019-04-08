@@ -1,0 +1,82 @@
+{
+  "id": 421201155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.81667,15.56667,-89.81667,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-89.81667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Cahab\u00f3n"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3599265,
+    "qs:gn_pop":4671,
+    "qs:name":"Cahab\u00f3n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Alta Verapaz",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":210169,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81258,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421182831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599265,
+        "gp:id":81258,
+        "qs:id":210169
+    },
+    "wof:country":"GT",
+    "wof:created":1459010058,
+    "wof:geomhash":"9d8562376c97064f7ac2e78ae01ae9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182831,
+            "locality_id":421201155,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421201155,
+    "wof:lastmodified":1505340772,
+    "wof:name":"Cahab\u00f3n",
+    "wof:parent_id":421182831,
+    "wof:placetype":"locality",
+    "wof:population":4671,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.81667,
+    15.56667,
+    -89.81667,
+    15.56667
+],
+  "geometry": {"coordinates":[-89.81667,15.56667],"type":"Point"}
+}

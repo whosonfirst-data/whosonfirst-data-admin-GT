@@ -1,0 +1,70 @@
+{
+  "id": 1259754661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.11342,14.92895,-92.11342,14.92895",
+    "geom:latitude":14.92895,
+    "geom:longitude":-92.11342,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nuevo San Antonio",
+    "gn:country_code":"GT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638939,
+    "gn:latitude":14.92895,
+    "gn:longitude":-92.11342,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Nuevo San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638939
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c0353f747a718e4d95ea4b5782945f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1259754661,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259754661,
+    "wof:lastmodified":1537625273,
+    "wof:name":"Nuevo San Antonio",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.11342,
+    14.92895,
+    -92.11342,
+    14.92895
+],
+  "geometry": {"coordinates":[-92.11342,14.92895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327013421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.63333,14.91667,-90.63333,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":-90.63333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Los Altos",
+    "gn:country_code":"GT",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593240,
+    "gn:latitude":14.91667,
+    "gn:longitude":-90.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Altos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593240
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"701394d8cb1b148d55ae4fa2869c832e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695423,
+            "locality_id":1327013421,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327013421,
+    "wof:lastmodified":1536788359,
+    "wof:name":"Los Altos",
+    "wof:parent_id":1108695423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.63333,
+    14.91667,
+    -90.63333,
+    14.91667
+],
+  "geometry": {"coordinates":[-90.63333,14.91667],"type":"Point"}
+}

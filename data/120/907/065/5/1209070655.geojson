@@ -1,0 +1,64 @@
+{
+  "id": 1209070655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2736,15.14279,-91.2736,15.14279",
+    "geom:latitude":15.14279,
+    "geom:longitude":-91.2736,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Iximche",
+    "gn:country_code":"GT",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11478657,
+    "gn:latitude":15.14279,
+    "gn:longitude":-91.2736,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Iximch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Iximch\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478657
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9e716af2a45d3e66f4f6e529b1d25f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209070655
+        }
+    ],
+    "wof:id":1209070655,
+    "wof:lastmodified":1537625342,
+    "wof:name":"Iximche",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2736,
+    15.14279,
+    -91.2736,
+    15.14279
+],
+  "geometry": {"coordinates":[-91.2736,15.14279],"type":"Point"}
+}

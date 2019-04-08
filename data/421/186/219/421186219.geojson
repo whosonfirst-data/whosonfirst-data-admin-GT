@@ -1,0 +1,108 @@
+{
+  "id": 421186219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.31583,15.80361,-91.31583,15.80361",
+    "geom:latitude":15.80361,
+    "geom:longitude":-91.31583,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Cruz de Barillas"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u5df4\u91cc\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "name:ita_x_preferred":[
+        "Barillas"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz Barillas"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3599575,
+    "qs:gn_pop":14100,
+    "qs:name":"Barillas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1062225,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81106,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599575,
+        "gp:id":81106,
+        "qs:id":1062225,
+        "wd:id":"Q2390990",
+        "wk:page":"Santa Cruz Barillas"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009474,
+    "wof:geomhash":"112ff1a093ed6d7b000b792140be8a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":421186219,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421186219,
+    "wof:lastmodified":1514444414,
+    "wof:name":"Barillas",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:population":14100,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.31583,
+    15.80361,
+    -91.31583,
+    15.80361
+],
+  "geometry": {"coordinates":[-91.31583000000001,15.80361],"type":"Point"}
+}

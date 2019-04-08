@@ -1,0 +1,70 @@
+{
+  "id": 1276316669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.09897,15.0718,-91.09897,15.0718",
+    "geom:latitude":15.0718,
+    "geom:longitude":-91.09897,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chiquix",
+    "gn:country_code":"GT",
+    "gn:dem":2416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485198,
+    "gn:latitude":15.0718,
+    "gn:longitude":-91.09897,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chiquix",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chiquix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485198
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3e89da2a21035b24be3879911dd50c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1276316669,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276316669,
+    "wof:lastmodified":1537625357,
+    "wof:name":"Chiquix",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.09897,
+    15.0718,
+    -91.09897,
+    15.0718
+],
+  "geometry": {"coordinates":[-91.09896999999999,15.0718],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344037741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.28167,16.19556,-89.28167,16.19556",
+    "geom:latitude":16.19556,
+    "geom:longitude":-89.28167,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jovente Arriba",
+    "gn:country_code":"GT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759546,
+    "gn:latitude":16.19556,
+    "gn:longitude":-89.28167,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Jovent\u00e9 Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759546
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d99e744666e1254f4670d36da6ac761a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1344037741,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1344037741,
+    "wof:lastmodified":1536908762,
+    "wof:name":"Jovente Arriba",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.28166999999998,
+    16.19556,
+    -89.28166999999998,
+    16.19556
+],
+  "geometry": {"coordinates":[-89.28166999999998,16.19556],"type":"Point"}
+}

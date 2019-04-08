@@ -1,0 +1,70 @@
+{
+  "id": 1259503527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.67911,15.48346,-91.67911,15.48346",
+    "geom:latitude":15.48346,
+    "geom:longitude":-91.67911,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"GT",
+    "gn:dem":2599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454369,
+    "gn:latitude":15.48346,
+    "gn:longitude":-91.67911,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bella Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454369
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"87adc841eb2f19e8b9c28ae36138c4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185575,
+            "locality_id":1259503527,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259503527,
+    "wof:lastmodified":1537625291,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":421185575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.67911,
+    15.48346,
+    -91.67911,
+    15.48346
+],
+  "geometry": {"coordinates":[-91.67910999999999,15.48346],"type":"Point"}
+}

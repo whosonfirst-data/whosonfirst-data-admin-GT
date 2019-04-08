@@ -1,0 +1,70 @@
+{
+  "id": 1292996365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.9971,15.28884,-91.9971,15.28884",
+    "geom:latitude":15.28884,
+    "geom:longitude":-91.9971,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cancuc",
+    "gn:country_code":"GT",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508324,
+    "gn:latitude":15.28884,
+    "gn:longitude":-91.9971,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Cancuc",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cancuc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508324
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"dc4edbdc3e7b229e16ae53b187425a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695667,
+            "locality_id":1292996365,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1292996365,
+    "wof:lastmodified":1537625379,
+    "wof:name":"Cancuc",
+    "wof:parent_id":1108695667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.9971,
+    15.28884,
+    -91.9971,
+    15.28884
+],
+  "geometry": {"coordinates":[-91.9971,15.28884],"type":"Point"}
+}

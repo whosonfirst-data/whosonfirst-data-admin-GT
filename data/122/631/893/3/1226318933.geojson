@@ -1,0 +1,74 @@
+{
+  "id": 1226318933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09113,14.96938,-92.09113,14.96938",
+    "geom:latitude":14.96938,
+    "geom:longitude":-92.09113,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"GT",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599109,
+    "gn:latitude":14.96938,
+    "gn:longitude":-92.09113,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:und_x_variant":[
+        "Finca Candelaria",
+        "Rancheria Finca Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599109
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"161eee00c49f0c16e40b6e5efd942acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1226318933,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226318933,
+    "wof:lastmodified":1537625228,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09113,
+    14.96938,
+    -92.09113,
+    14.96938
+],
+  "geometry": {"coordinates":[-92.09113000000001,14.96938],"type":"Point"}
+}

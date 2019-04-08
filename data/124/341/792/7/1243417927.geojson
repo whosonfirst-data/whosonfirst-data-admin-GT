@@ -1,0 +1,70 @@
+{
+  "id": 1243417927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.98788,15.13615,-91.98788,15.13615",
+    "geom:latitude":15.13615,
+    "geom:longitude":-91.98788,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Yuinima",
+    "gn:country_code":"GT",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11499260,
+    "gn:latitude":15.13615,
+    "gn:longitude":-91.98788,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Yuinima",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yuinima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11499260
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1aae3dc656386c41631d7a15857417b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695365,
+            "locality_id":1243417927,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243417927,
+    "wof:lastmodified":1537625375,
+    "wof:name":"Yuinima",
+    "wof:parent_id":1108695365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.98788,
+    15.13615,
+    -91.98788,
+    15.13615
+],
+  "geometry": {"coordinates":[-91.98788,15.13615],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259870313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58224,15.27732,-91.58224,15.27732",
+    "geom:latitude":15.27732,
+    "geom:longitude":-91.58224,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pacate",
+    "gn:country_code":"GT",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453600,
+    "gn:latitude":15.27732,
+    "gn:longitude":-91.58224,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Pacate",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421191463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453600
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2dd0d9e224e86bc13877b0bb87234eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191463,
+            "locality_id":1259870313,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259870313,
+    "wof:lastmodified":1537625287,
+    "wof:name":"Pacate",
+    "wof:parent_id":421191463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58224,
+    15.27732,
+    -91.58224,
+    15.27732
+],
+  "geometry": {"coordinates":[-91.58224,15.27732],"type":"Point"}
+}

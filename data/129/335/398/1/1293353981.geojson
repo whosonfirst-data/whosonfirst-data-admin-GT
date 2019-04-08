@@ -1,0 +1,70 @@
+{
+  "id": 1293353981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09863,15.14864,-92.09863,15.14864",
+    "geom:latitude":15.14864,
+    "geom:longitude":-92.09863,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuimanj",
+    "gn:country_code":"GT",
+    "gn:dem":3132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634827,
+    "gn:latitude":15.14864,
+    "gn:longitude":-92.09863,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Tuimanj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuimanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634827
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"056bc2d558c1033921f6357ed64503fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1293353981,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293353981,
+    "wof:lastmodified":1537625254,
+    "wof:name":"Tuimanj",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09863,
+    15.14864,
+    -92.09863,
+    15.14864
+],
+  "geometry": {"coordinates":[-92.09863,15.14864],"type":"Point"}
+}

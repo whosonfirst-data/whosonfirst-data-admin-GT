@@ -1,0 +1,67 @@
+{
+  "id": 1360261277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.996,14.766,-91.996,14.766",
+    "geom:latitude":14.766,
+    "geom:longitude":-91.996,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Medio Monte",
+    "gn:country_code":"GT",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592600,
+    "gn:latitude":14.766,
+    "gn:longitude":-91.996,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Medio Monte",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592600
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7fa5baf2ae5e8db0e983004fc932a0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1360261277,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1360261277,
+    "wof:lastmodified":1536691680,
+    "wof:name":"Medio Monte",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.996,
+    14.766,
+    -91.996,
+    14.766
+],
+  "geometry": {"coordinates":[-91.996,14.766],"type":"Point"}
+}

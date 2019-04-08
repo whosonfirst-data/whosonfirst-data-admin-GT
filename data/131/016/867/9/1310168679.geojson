@@ -1,0 +1,67 @@
+{
+  "id": 1310168679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.30472,13.97694,-90.30472,13.97694",
+    "geom:latitude":13.97694,
+    "geom:longitude":-90.30472,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Los Fajardo",
+    "gn:country_code":"GT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764755,
+    "gn:latitude":13.97694,
+    "gn:longitude":-90.30472,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Los Fajardo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421203587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764755
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ab8a2062d3b1a381ca397dc05a9e8b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203587,
+            "locality_id":1310168679,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1310168679,
+    "wof:lastmodified":1536905774,
+    "wof:name":"Los Fajardo",
+    "wof:parent_id":421203587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.30472,
+    13.97694,
+    -90.30472,
+    13.97694
+],
+  "geometry": {"coordinates":[-90.30472,13.97694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226223379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.54694,14.24417,-89.54694,14.24417",
+    "geom:latitude":14.24417,
+    "geom:longitude":-89.54694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hacienda San Juan La Isla",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589897,
+    "gn:latitude":14.24417,
+    "gn:longitude":-89.54694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hacienda San Juan La Isla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan La Isla",
+        "Hacienda San Juan La Isla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589897
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4e9ecc95f23ed2e7386c6a99d7d0aa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695263,
+            "locality_id":1226223379,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1226223379,
+    "wof:lastmodified":1537625145,
+    "wof:name":"Hacienda San Juan La Isla",
+    "wof:parent_id":1108695263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.54694,
+    14.24417,
+    -89.54694,
+    14.24417
+],
+  "geometry": {"coordinates":[-89.54694000000001,14.24417],"type":"Point"}
+}

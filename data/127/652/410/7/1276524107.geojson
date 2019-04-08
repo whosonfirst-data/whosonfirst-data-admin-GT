@@ -1,0 +1,70 @@
+{
+  "id": 1276524107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.0523,14.8952,-92.0523,14.8952",
+    "geom:latitude":14.8952,
+    "geom:longitude":-92.0523,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Independencia",
+    "gn:country_code":"GT",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638844,
+    "gn:latitude":14.8952,
+    "gn:longitude":-92.0523,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"La Independencia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Independencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638844
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"891a00c27fd480d69c8b2e9330b56d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":1276524107,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276524107,
+    "wof:lastmodified":1537625272,
+    "wof:name":"La Independencia",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0523,
+    14.8952,
+    -92.0523,
+    14.8952
+],
+  "geometry": {"coordinates":[-92.0523,14.8952],"type":"Point"}
+}

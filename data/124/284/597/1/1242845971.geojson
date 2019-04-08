@@ -1,0 +1,73 @@
+{
+  "id": 1242845971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05635,14.79022,-92.05635,14.79022",
+    "geom:latitude":14.79022,
+    "geom:longitude":-92.05635,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rio Los Cuaches",
+    "gn:country_code":"GT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590797,
+    "gn:latitude":14.79022,
+    "gn:longitude":-92.05635,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"R\u00edo Los Cuaches",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Cuache"
+    ],
+    "name:spa_x_variant":[
+        "R\u00edo Los Cuaches"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590797
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5ab36409736d07479d1300aff0330728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1242845971,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1242845971,
+    "wof:lastmodified":1537625153,
+    "wof:name":"Rio Los Cuaches",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05635,
+    14.79022,
+    -92.05635,
+    14.79022
+],
+  "geometry": {"coordinates":[-92.05634999999999,14.79022],"type":"Point"}
+}

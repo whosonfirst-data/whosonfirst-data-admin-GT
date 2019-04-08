@@ -1,0 +1,70 @@
+{
+  "id": 1276680995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5717,15.36884,-91.5717,15.36884",
+    "geom:latitude":15.36884,
+    "geom:longitude":-91.5717,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuicalpech",
+    "gn:country_code":"GT",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454028,
+    "gn:latitude":15.36884,
+    "gn:longitude":-91.5717,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tuicalpech",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuicalpech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421170799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454028
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"492c7096022ef24c549c80738ac7f240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170799,
+            "locality_id":1276680995,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276680995,
+    "wof:lastmodified":1537625291,
+    "wof:name":"Tuicalpech",
+    "wof:parent_id":421170799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5717,
+    15.36884,
+    -91.5717,
+    15.36884
+],
+  "geometry": {"coordinates":[-91.57170000000001,15.36884],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210012009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.68833,15.41141,-91.68833,15.41141",
+    "geom:latitude":15.41141,
+    "geom:longitude":-91.68833,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Xemal",
+    "gn:country_code":"GT",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587784,
+    "gn:latitude":15.41141,
+    "gn:longitude":-91.68833,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Xemal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xemal"
+    ],
+    "name:und_x_variant":[
+        "X\u00e9mal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587784
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"946259363a454d38ab735a839c1d6d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695593,
+            "locality_id":1210012009,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1210012009,
+    "wof:lastmodified":1537625126,
+    "wof:name":"Xemal",
+    "wof:parent_id":1108695593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.68833,
+    15.41141,
+    -91.68833,
+    15.41141
+],
+  "geometry": {"coordinates":[-91.68832999999999,15.41141],"type":"Point"}
+}

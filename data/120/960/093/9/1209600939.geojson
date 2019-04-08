@@ -1,0 +1,64 @@
+{
+  "id": 1209600939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.10249,15.43125,-92.10249,15.43125",
+    "geom:latitude":15.43125,
+    "geom:longitude":-92.10249,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Union La Frontera",
+    "gn:country_code":"GT",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637140,
+    "gn:latitude":15.43125,
+    "gn:longitude":-92.10249,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Uni\u00f3n La Frontera",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Uni\u00f3n La Frontera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637140
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b0d77b0a3792c4415962a18e548800fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209600939
+        }
+    ],
+    "wof:id":1209600939,
+    "wof:lastmodified":1537625261,
+    "wof:name":"Union La Frontera",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.10249,
+    15.43125,
+    -92.10249,
+    15.43125
+],
+  "geometry": {"coordinates":[-92.10249,15.43125],"type":"Point"}
+}

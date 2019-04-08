@@ -1,0 +1,67 @@
+{
+  "id": 1343933645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.38333,14.36667,-90.38333,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":-90.38333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"GT",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597462,
+    "gn:latitude":14.36667,
+    "gn:longitude":-90.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597462
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"91a7b119623ec72de80450cd4ac780ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695271,
+            "locality_id":1343933645,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1343933645,
+    "wof:lastmodified":1537056300,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108695271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.38333,
+    14.36667,
+    -90.38333,
+    14.36667
+],
+  "geometry": {"coordinates":[-90.38333,14.36667],"type":"Point"}
+}

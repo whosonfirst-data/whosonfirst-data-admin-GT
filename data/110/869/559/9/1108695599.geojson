@@ -1,0 +1,108 @@
+{
+  "id": 1108695599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001419,
+    "geom:area_square_m":16984874.783872,
+    "geom:bbox":"-91.6679408265,14.5308711593,-91.6313977115,14.5940087707",
+    "geom:latitude":14.567308,
+    "geom:longitude":-91.649585,
+    "iso:country":"GT",
+    "lbl:latitude":14.56868,
+    "lbl:longitude":-91.651419,
+    "meso:admin_1":"Retalhuleu",
+    "meso:diss_me":"SAN SEBASTIANRETALHULEU",
+    "meso:gadm_admin":"San Sebasti\u00e1n",
+    "meso:gaul_admin":"San Sebasti\u00e1n",
+    "meso:mps_x":-91.651419,
+    "meso:mps_y":14.56868,
+    "meso:name_en":"San Sebastian",
+    "meso:source":"AOTM",
+    "mps:latitude":14.56868,
+    "mps:longitude":-91.651419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89"
+    ],
+    "name:dut_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.RE",
+    "statoids:name":"San Sebasti\u00e1n",
+    "statoids:population":"21725",
+    "statoids:statoid":"GT.RE.SS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402108"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493922,
+    "wof:geomhash":"72f744ca95a6f8e51a06b9a8a40a6e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695599,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1108695599,
+    "wof:lastmodified":1553816465,
+    "wof:name":"San Sebastian",
+    "wof:parent_id":85671659,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":21725,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66794082654391,
+    14.5308711592788,
+    -91.6313977114509,
+    14.59400877073297
+],
+  "geometry": {"coordinates":[[[-91.66643692213188,14.59287690300397],[-91.65368938371452,14.58854196398833],[-91.64620846131433,14.59065435199338],[-91.64507454261238,14.59254790687221],[-91.6351280539551,14.59400877073297],[-91.6313977114509,14.59274562280397],[-91.632102791218,14.5853258658541],[-91.63351154192625,14.58188405733243],[-91.63257897325146,14.57637791513902],[-91.63276195338742,14.57588106388302],[-91.63587495645537,14.57272667031386],[-91.6386262655636,14.56775711640626],[-91.63529523178805,14.55766241255827],[-91.63566672531059,14.55618285913629],[-91.63847409367196,14.55467824555123],[-91.64491259379756,14.54550881193476],[-91.6432122524008,14.53612912849327],[-91.65247431959693,14.5308711592788],[-91.66113992290599,14.54323478474659],[-91.6594011750921,14.5470763789759],[-91.65921456807577,14.5474100914855],[-91.66038383836558,14.55822248352291],[-91.66373411466365,14.56279811729989],[-91.66629956323284,14.56421311342647],[-91.66631986723277,14.56424747074838],[-91.66261981113395,14.57692150786868],[-91.66794082654391,14.59154733804748],[-91.66643692213188,14.59287690300397]]],"type":"Polygon"}
+}

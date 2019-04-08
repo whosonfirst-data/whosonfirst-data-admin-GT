@@ -1,0 +1,72 @@
+{
+  "id": 1276718025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.63333,15.03333,-89.63333,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":-89.63333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Sunzapote",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588645,
+    "gn:latitude":15.03333,
+    "gn:longitude":-89.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sunzapote",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zunzapote",
+        "Sunzapote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421182433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588645
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"31d69de4601e11dc2d16116cb945e9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182433,
+            "locality_id":1276718025,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1276718025,
+    "wof:lastmodified":1537625135,
+    "wof:name":"Sunzapote",
+    "wof:parent_id":421182433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.63333,
+    15.03333,
+    -89.63333,
+    15.03333
+],
+  "geometry": {"coordinates":[-89.63333,15.03333],"type":"Point"}
+}

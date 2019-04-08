@@ -1,0 +1,106 @@
+{
+  "id": 421168579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.26667,14.71667,-91.26667,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-91.26667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "San Pablo La Laguna"
+    ],
+    "name:ita_x_preferred":[
+        "San Pablo la Laguna"
+    ],
+    "name:pol_x_preferred":[
+        "San Pablo La Laguna"
+    ],
+    "name:por_x_preferred":[
+        "San Pablo La Laguna"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo La Laguna"
+    ],
+    "name:swe_x_preferred":[
+        "San Pablo La Laguna"
+    ],
+    "name:unk_x_variant":[
+        "San Pablo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u52c3\u7f85\u62c9\u62c9\u53e4\u7d0d"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589669,
+    "qs:gn_pop":6186,
+    "qs:name":"San Pablo la Laguna",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":383,
+    "qs:photos_1k":78,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":383,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045550,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85845,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        1108695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589669,
+        "gp:id":85845,
+        "qs:id":1045550,
+        "wd:id":"Q2402177",
+        "wk:page":"San Pablo La Laguna"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008769,
+    "wof:geomhash":"e2049593ad74c74a9964f80ab2cc0a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695385,
+            "locality_id":421168579,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421168579,
+    "wof:lastmodified":1527716100,
+    "wof:name":"San Pablo la Laguna",
+    "wof:parent_id":1108695385,
+    "wof:placetype":"locality",
+    "wof:population":6186,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.26667,
+    14.71667,
+    -91.26667,
+    14.71667
+],
+  "geometry": {"coordinates":[-91.26667,14.71667],"type":"Point"}
+}

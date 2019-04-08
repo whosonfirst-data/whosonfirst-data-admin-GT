@@ -1,0 +1,70 @@
+{
+  "id": 1309769709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.13897,14.66141,-92.13897,14.66141",
+    "geom:latitude":14.66141,
+    "geom:longitude":-92.13897,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Atlantida",
+    "gn:country_code":"GT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764358,
+    "gn:latitude":14.66141,
+    "gn:longitude":-92.13897,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Atl\u00e1ntida",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764358
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"08d81a478009c1415119e701738ac2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695269,
+            "locality_id":1309769709,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309769709,
+    "wof:lastmodified":1537625241,
+    "wof:name":"Atlantida",
+    "wof:parent_id":1108695269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.13897,
+    14.66141,
+    -92.13897,
+    14.66141
+],
+  "geometry": {"coordinates":[-92.13897,14.66141],"type":"Point"}
+}

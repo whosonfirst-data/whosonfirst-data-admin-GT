@@ -1,0 +1,70 @@
+{
+  "id": 1343843689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65821,15.31821,-91.65821,15.31821",
+    "geom:latitude":15.31821,
+    "geom:longitude":-91.65821,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tojchiguel",
+    "gn:country_code":"GT",
+    "gn:dem":2517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588300,
+    "gn:latitude":15.31821,
+    "gn:longitude":-91.65821,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tojchiguel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tojchiquel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421170799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588300
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ff383d4651241ab2ad438254bf48eb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170799,
+            "locality_id":1343843689,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343843689,
+    "wof:lastmodified":1537625131,
+    "wof:name":"Tojchiguel",
+    "wof:parent_id":421170799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65821,
+    15.31821,
+    -91.65821,
+    15.31821
+],
+  "geometry": {"coordinates":[-91.65821,15.31821],"type":"Point"}
+}

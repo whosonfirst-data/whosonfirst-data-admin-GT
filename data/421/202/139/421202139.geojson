@@ -1,0 +1,118 @@
+{
+  "id": 421202139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88333,15.08333,-91.88333,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":-91.88333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5854\u80e1\u7a46\u723e\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:dut_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:eng_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:fre_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:ger_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:ita_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:pol_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:por_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:spa_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:swe_x_preferred":[
+        "Tajumulco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u80e1\u7a46\u723e\u79d1"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588588,
+    "qs:gn_pop":4329,
+    "qs:name":"Tajumulco",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":343,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":343,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":219447,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86343,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":648,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588588,
+        "gp:id":86343,
+        "qs:id":219447,
+        "wd:id":"Q1748863",
+        "wk:page":"Tajumulco"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010106,
+    "wof:geomhash":"d88d0bea78bab106077a7657830e16ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":421202139,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421202139,
+    "wof:lastmodified":1527716210,
+    "wof:name":"Tajumulco",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:population":4329,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88333,
+    15.08333,
+    -91.88333,
+    15.08333
+],
+  "geometry": {"coordinates":[-91.88333,15.08333],"type":"Point"}
+}

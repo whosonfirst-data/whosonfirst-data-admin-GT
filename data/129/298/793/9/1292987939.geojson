@@ -1,0 +1,80 @@
+{
+  "id": 1292987939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45497,16.19995,-90.45497,16.19995",
+    "geom:latitude":16.19995,
+    "geom:longitude":-90.45497,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"GT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533771,
+    "gn:latitude":16.19995,
+    "gn:longitude":-90.45497,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939,
+        85633293,
+        85686611,
+        102075639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533771
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1cc44cd336313e6f43c0446731ab6fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1292987939,
+            "region_id":85671647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102075639,
+            "locality_id":1292987939,
+            "region_id":85686611
+        }
+    ],
+    "wof:id":1292987939,
+    "wof:lastmodified":1537625248,
+    "wof:name":"San Isidro",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45497,
+    16.19995,
+    -90.45497,
+    16.19995
+],
+  "geometry": {"coordinates":[-90.45497,16.19995],"type":"Point"}
+}

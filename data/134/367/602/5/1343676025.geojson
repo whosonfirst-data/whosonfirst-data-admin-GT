@@ -1,0 +1,67 @@
+{
+  "id": 1343676025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01667,15.96667,-90.01667,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":-90.01667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Isla",
+    "gn:country_code":"GT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594499,
+    "gn:latitude":15.96667,
+    "gn:longitude":-90.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Isla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421204557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594499
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"017db09012f1bb985758bae63cc9ef09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204557,
+            "locality_id":1343676025,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1343676025,
+    "wof:lastmodified":1536933299,
+    "wof:name":"La Isla",
+    "wof:parent_id":421204557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01666999999998,
+    15.96667,
+    -90.01666999999998,
+    15.96667
+],
+  "geometry": {"coordinates":[-90.01666999999998,15.96667],"type":"Point"}
+}

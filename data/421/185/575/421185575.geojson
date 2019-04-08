@@ -1,0 +1,135 @@
+{
+  "id": 421185575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004192,
+    "geom:area_square_m":49942475.698402,
+    "geom:bbox":"-91.7179041449,15.4651153564,-91.6452954479,15.5496051824",
+    "geom:latitude":15.508857,
+    "geom:longitude":-91.683587,
+    "iso:country":"GT",
+    "lbl:latitude":15.509317,
+    "lbl:longitude":-91.686523,
+    "meso:admin_1":"Huehuetenango",
+    "meso:diss_me":"SANTIAGO CHIMALTENANGOHUEHUETENANGO",
+    "meso:gadm_admin":"Santiago Chimaltenango",
+    "meso:gaul_admin":"Santiago Chimaltenango",
+    "meso:mps_x":-91.686523,
+    "meso:mps_y":15.509317,
+    "meso:name_en":"Santiago Chimaltenango",
+    "meso:source":"AOTM",
+    "mps:latitude":15.509317,
+    "mps:longitude":-91.686523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5730\u7259\u54e5\u5947\u99ac\u723e\u7279\u5357\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:fre_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:pol_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:por_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santiago Chimaltenango",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1029769,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807017,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.HU",
+    "statoids:name":"Santiago Chimaltenango",
+    "statoids:population":"5811",
+    "statoids:statoid":"GT.HU.SC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807017,
+        "hasc:id":"GT.HU.SC",
+        "qs:id":1029769,
+        "wd:id":"Q2402809"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009447,
+    "wof:geomhash":"67a40fab60c1c895c37970fd770ada9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185575,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421185575,
+    "wof:lastmodified":1536616032,
+    "wof:name":"Santiago Chimaltenango",
+    "wof:parent_id":85671641,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":5811,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"SC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.71790414487567,
+    15.46511535637043,
+    -91.64529544788067,
+    15.54960518236331
+],
+  "geometry": {"coordinates":[[[-91.70504157196568,15.54809899573301],[-91.70113995828473,15.54960518236331],[-91.69322711492117,15.54672260985506],[-91.68833667584454,15.54694425284318],[-91.68753905293156,15.54605967292049],[-91.67344322600371,15.54269854345698],[-91.66858657548228,15.54473734132653],[-91.66478026807731,15.54416965019746],[-91.65965968172539,15.54620511348528],[-91.65912437702808,15.5462724543759],[-91.65153342097625,15.54553893271243],[-91.64943205987255,15.54158511621304],[-91.65039695174384,15.53282183923368],[-91.64928267657757,15.52298348721147],[-91.65188457402768,15.51887812665661],[-91.65626695433583,15.51636878939126],[-91.65770868832688,15.51625526624467],[-91.66174355592464,15.49916285102853],[-91.66863056449884,15.49243709965276],[-91.668683600704,15.49223186243708],[-91.65784744961211,15.48413263789078],[-91.65266111595669,15.48202585047766],[-91.64529544788067,15.46827962435747],[-91.64549534301692,15.4653931564169],[-91.64743968910528,15.46511535637043],[-91.65175375474526,15.4660464367175],[-91.6698064568273,15.47092786601297],[-91.67115448336443,15.47089153876124],[-91.68040808478827,15.48454611405672],[-91.68459237856854,15.48459237856804],[-91.69144813019237,15.47224274472411],[-91.69563060478681,15.47],[-91.69810506616035,15.47],[-91.70744098166099,15.47605480513033],[-91.71577490622332,15.47453573931267],[-91.71656553945459,15.47594415927787],[-91.71750867462484,15.48901440001236],[-91.7166140817053,15.49003628596031],[-91.71790414487567,15.50333540107065],[-91.71614664076552,15.50514577543404],[-91.71582744517971,15.51136653577302],[-91.71000000000046,15.5188193876931],[-91.71000000000046,15.5202533480149],[-91.71047166504016,15.52369094429865],[-91.70703750900064,15.5314713777844],[-91.70900021908383,15.53521710494811],[-91.70658861197199,15.54106587182791],[-91.70504157196568,15.54809899573301]]],"type":"Polygon"}
+}

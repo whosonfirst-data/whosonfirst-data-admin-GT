@@ -1,0 +1,67 @@
+{
+  "id": 1310676779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.11667,14.11667,-90.11667,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-90.11667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Cordoncillo",
+    "gn:country_code":"GT",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597950,
+    "gn:latitude":14.11667,
+    "gn:longitude":-90.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cordoncillo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597950
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"66d6f77171728e45cb09e2dafeb23897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695421,
+            "locality_id":1310676779,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1310676779,
+    "wof:lastmodified":1536669844,
+    "wof:name":"Cordoncillo",
+    "wof:parent_id":1108695421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.11667,
+    14.11667,
+    -90.11667,
+    14.11667
+],
+  "geometry": {"coordinates":[-90.11667,14.11667],"type":"Point"}
+}

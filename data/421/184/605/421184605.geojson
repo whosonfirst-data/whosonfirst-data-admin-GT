@@ -1,0 +1,141 @@
+{
+  "id": 421184605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001344,
+    "geom:area_square_m":16055436.925171,
+    "geom:bbox":"-91.5187841741,14.8829908864,-91.4751754201,14.9363651937",
+    "geom:latitude":14.909661,
+    "geom:longitude":-91.496526,
+    "iso:country":"GT",
+    "lbl:latitude":14.909073,
+    "lbl:longitude":-91.496196,
+    "meso:admin_1":"Totonicapan",
+    "meso:diss_me":"SAN ANDRES XECULTOTONICAPAN",
+    "meso:gadm_admin":"San Andr\u00e9s Xecul",
+    "meso:gaul_admin":"San Andr\u00e9s Xecul",
+    "meso:mps_x":-91.496196,
+    "meso:mps_y":14.909073,
+    "meso:name_en":"San Andres Xecul",
+    "meso:source":"AOTM",
+    "mps:latitude":14.909073,
+    "mps:longitude":-91.496196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u514b\u585e\u5eab\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:ger_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:lit_x_preferred":[
+        "San Andres \u0160ekulis"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Andr\u00e9s Xecul",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1002234,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807233,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.TO",
+    "statoids:name":"San Andr\u00e9s Xecul",
+    "statoids:population":"22362",
+    "statoids:statoid":"GT.TO.AX",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807233,
+        "hasc:id":"GT.TO.AX",
+        "qs:id":1002234,
+        "wd:id":"Q2609261"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009416,
+    "wof:geomhash":"06c4bf3009f68fa07c39c90e45c4a465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184605,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421184605,
+    "wof:lastmodified":1536616022,
+    "wof:name":"San Andres Xecul",
+    "wof:parent_id":85671697,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":22362,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"AX",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.51878417411481,
+    14.88299088644466,
+    -91.47517542013414,
+    14.93636519369891
+],
+  "geometry": {"coordinates":[[[-91.51688331422743,14.93636519369891],[-91.51421555119909,14.936309635776],[-91.51162473141321,14.93486998728715],[-91.5045797393975,14.92730682385716],[-91.5018795025678,14.92680150575559],[-91.49571967647485,14.92715462934272],[-91.49230679776451,14.92583850916011],[-91.48621791655387,14.9288540151279],[-91.48287650964907,14.92815633112887],[-91.47866597071859,14.92340270060081],[-91.47741175077356,14.91782967155462],[-91.48336480283619,14.91188324909406],[-91.48199446562641,14.90461346098992],[-91.47717591813597,14.90216132219328],[-91.47517542013414,14.89595770643595],[-91.4804135290386,14.89098497476763],[-91.48773235971677,14.88984721750591],[-91.48929786621491,14.88608996442384],[-91.49598097326361,14.88299088644466],[-91.50590609366458,14.88759711032278],[-91.50738093441041,14.88943586636803],[-91.50602021848913,14.89274178198634],[-91.50743822013177,14.90230518023245],[-91.51070492364978,14.90671134501138],[-91.50929905725786,14.91247096628886],[-91.51080981216377,14.91521313207559],[-91.51694629625615,14.91885731855155],[-91.51878417411481,14.93399027717205],[-91.51688331422743,14.93636519369891]]],"type":"Polygon"}
+}

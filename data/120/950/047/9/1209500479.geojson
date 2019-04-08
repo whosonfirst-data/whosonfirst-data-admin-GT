@@ -1,0 +1,64 @@
+{
+  "id": 1209500479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43685,15.67981,-91.43685,15.67981",
+    "geom:latitude":15.67981,
+    "geom:longitude":-91.43685,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulichal",
+    "gn:country_code":"GT",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493215,
+    "gn:latitude":15.67981,
+    "gn:longitude":-91.43685,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yulichal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulichal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493215
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9bdd005e4f13d169bf3f6eed4754c682",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209500479
+        }
+    ],
+    "wof:id":1209500479,
+    "wof:lastmodified":1537625373,
+    "wof:name":"Yulichal",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43685,
+    15.67981,
+    -91.43685,
+    15.67981
+],
+  "geometry": {"coordinates":[-91.43685000000001,15.67981],"type":"Point"}
+}

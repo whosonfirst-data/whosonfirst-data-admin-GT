@@ -1,0 +1,67 @@
+{
+  "id": 1343932309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.56667,14.51667,-91.56667,14.51667",
+    "geom:latitude":14.51667,
+    "geom:longitude":-91.56667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Chacalte Aparicio",
+    "gn:country_code":"GT",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598862,
+    "gn:latitude":14.51667,
+    "gn:longitude":-91.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chacalt\u00e9 Aparicio",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598862
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"39c32a3a74753cd54b9ac3cd72ce7c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695317,
+            "locality_id":1343932309,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1343932309,
+    "wof:lastmodified":1537058141,
+    "wof:name":"Chacalte Aparicio",
+    "wof:parent_id":1108695317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.56667,
+    14.51667,
+    -91.56667,
+    14.51667
+],
+  "geometry": {"coordinates":[-91.56667,14.51667],"type":"Point"}
+}

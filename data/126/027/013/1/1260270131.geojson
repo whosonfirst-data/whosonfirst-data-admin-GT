@@ -1,0 +1,70 @@
+{
+  "id": 1260270131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.14395,16.29721,-90.14395,16.29721",
+    "geom:latitude":16.29721,
+    "geom:longitude":-90.14395,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sepur",
+    "gn:country_code":"GT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11508083,
+    "gn:latitude":16.29721,
+    "gn:longitude":-90.14395,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sepur",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sepur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11508083
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"feaa57fa00bca8f6fc36d6d096fdc456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1260270131,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1260270131,
+    "wof:lastmodified":1537625378,
+    "wof:name":"Sepur",
+    "wof:parent_id":421187939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.14395,
+    16.29721,
+    -90.14395,
+    16.29721
+],
+  "geometry": {"coordinates":[-90.14395,16.29721],"type":"Point"}
+}

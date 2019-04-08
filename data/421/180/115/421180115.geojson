@@ -1,0 +1,115 @@
+{
+  "id": 421180115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.76667,15.5,-91.76667,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":-91.76667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5167\u514b\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro N\u00e9cta"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Necta"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5167\u514b\u5854"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589632,
+    "qs:gn_pop":3554,
+    "qs:name":"San Pedro Necta",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116126,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85863,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589632,
+        "gp:id":85863,
+        "qs:id":1116126,
+        "wd:id":"Q734440",
+        "wk:page":"San Pedro Necta"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009245,
+    "wof:geomhash":"ad2133630a7d06254cba0c878ae1ab19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695581,
+            "locality_id":421180115,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421180115,
+    "wof:lastmodified":1527716242,
+    "wof:name":"San Pedro Necta",
+    "wof:parent_id":1108695581,
+    "wof:placetype":"locality",
+    "wof:population":3554,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.76667,
+    15.5,
+    -91.76667,
+    15.5
+],
+  "geometry": {"coordinates":[-91.76667,15.5],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259540023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,14.9,-89.73333,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Los Frutillos",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593066,
+    "gn:latitude":14.9,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Frutillos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Caliente Segundo",
+        "Los Frutillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        1108695273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593066
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4575e0ba6e94000bbffe2f30a4f3cd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695273,
+            "locality_id":1259540023,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1259540023,
+    "wof:lastmodified":1537625171,
+    "wof:name":"Los Frutillos",
+    "wof:parent_id":1108695273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    14.9,
+    -89.73333000000002,
+    14.9
+],
+  "geometry": {"coordinates":[-89.73333000000002,14.9],"type":"Point"}
+}

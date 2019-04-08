@@ -1,0 +1,135 @@
+{
+  "id": 421172645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006261,
+    "geom:area_square_m":74791594.272889,
+    "geom:bbox":"-91.5452844451,14.9199823469,-91.4054675067,15.0209688512",
+    "geom:latitude":14.969846,
+    "geom:longitude":-91.477217,
+    "iso:country":"GT",
+    "lbl:latitude":14.978214,
+    "lbl:longitude":-91.484098,
+    "meso:admin_1":"Totonicapan",
+    "meso:diss_me":"SAN FRANCISCO EL ALTOTOTONICAPAN",
+    "meso:gadm_admin":"San Francisco El Alto",
+    "meso:gaul_admin":"San Francisco El Alto",
+    "meso:mps_x":-91.484098,
+    "meso:mps_y":14.978214,
+    "meso:name_en":"San Francisco El Alto",
+    "meso:source":"AOTM",
+    "mps:latitude":14.978214,
+    "mps:longitude":-91.484098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u57c3\u723e\u963f\u723e\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco el Alto"
+    ],
+    "name:pol_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco El Alto"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Francisco El Alto",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":392,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1315333,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807230,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.TO",
+    "statoids:name":"San Francisco El Alto",
+    "statoids:population":"45241",
+    "statoids:statoid":"GT.TO.FA",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":385,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807230,
+        "hasc:id":"GT.TO.FA",
+        "qs:id":1315333,
+        "wd:id":"Q2608408"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008950,
+    "wof:geomhash":"e730de22f3051c1c9f573d4246ece7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421172645,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421172645,
+    "wof:lastmodified":1536615944,
+    "wof:name":"San Francisco El Alto",
+    "wof:parent_id":85671697,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":45241,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"FA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54528444505466,
+    14.91998234691241,
+    -91.40546750673916,
+    15.0209688511935
+],
+  "geometry": {"coordinates":[[[-91.53857972008082,15.0209688511935],[-91.5312177329549,15.01802437360226],[-91.52834657242053,15.01122833416852],[-91.51762996835058,15.00408061763777],[-91.51819706363658,15.00198576238374],[-91.51817341187463,14.99474776333447],[-91.50339803688199,14.99189736044324],[-91.49600442807348,14.99991274925302],[-91.49839282845006,15.00597941995722],[-91.49662053558994,15.00859602961485],[-91.48297957185515,15.01422528798097],[-91.48197278376081,15.01563146600296],[-91.47621798617408,15.01463365298719],[-91.46587441564641,15.00333634879557],[-91.4647825698365,14.99706330014965],[-91.46440894125747,14.99614664192145],[-91.45822258442948,14.99291631604437],[-91.46176810849558,14.97849078955208],[-91.4545979875107,14.96915787632637],[-91.44440305016529,14.97119295307274],[-91.44227725425532,14.97],[-91.43926058294893,14.97],[-91.43805097209838,14.96962186004568],[-91.43757777564309,14.96958656130747],[-91.43492032827366,14.96867196287457],[-91.42536808859096,14.9702989736981],[-91.42043340561177,14.96287376484943],[-91.41500196594781,14.96044620727978],[-91.41461213752761,14.95990565452719],[-91.41524970480094,14.95260924195948],[-91.40592532579308,14.9473257062389],[-91.40546750673916,14.93608346281654],[-91.41298096283647,14.93454236983979],[-91.41471612051541,14.93305678770177],[-91.417023732724,14.92446265715341],[-91.42818887459906,14.91998234691241],[-91.43320623641154,14.92795080844885],[-91.44817885480488,14.92749738352235],[-91.44924459476086,14.92945654282544],[-91.45360547979372,14.9325052475693],[-91.46461827753824,14.93213496709375],[-91.46539632836959,14.93326767524665],[-91.47390934338235,14.9367873863847],[-91.47507758497012,14.9494729579655],[-91.47510597995608,14.95001222005967],[-91.47822176046438,14.95012792238393],[-91.48495882007744,14.94885731314156],[-91.49125437705969,14.95624693372272],[-91.50228669533412,14.95751575498542],[-91.50325321176416,14.96030293825714],[-91.51776881118477,14.96365440453488],[-91.52196220404753,14.958493669402],[-91.52949384820869,14.95967848147911],[-91.53490228986948,14.97007626179631],[-91.53507777248387,14.97170247546006],[-91.53732106244206,14.97480995856347],[-91.53783079714674,14.97645063201801],[-91.53802530217911,14.97658686916619],[-91.54528444505466,14.99894944790638],[-91.54510318241444,14.99909415806152],[-91.54418576964886,15.00076510654104],[-91.54411100848949,15.01064533211405],[-91.53857972008082,15.0209688511935]]],"type":"Polygon"}
+}

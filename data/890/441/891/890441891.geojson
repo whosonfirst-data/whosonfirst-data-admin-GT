@@ -1,0 +1,122 @@
+{
+  "id": 890441891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.22901,14.63823,-91.22901,14.63823",
+    "geom:latitude":14.63823,
+    "geom:longitude":-91.22901,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":33309,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5730\u4e9e\u54e5\u963f\u8482\u7279\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:ger_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30a3\u30a2\u30b4\u30fb\u30a2\u30c6\u30a3\u30c8\u30e9\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud2f0\uc544\uace0\uc544\ud2f0\ud2c0\ub780"
+    ],
+    "name:lit_x_preferred":[
+        "Santjago Atitlanas"
+    ],
+    "name:nah_x_preferred":[
+        "Santiago \u0100titlan"
+    ],
+    "name:pol_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Atitl\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
+    "qs:name":"Santiago Atitl\u00e1n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":317,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        1108695601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589105,
+        "qs:id":149129,
+        "wd:id":"Q168622",
+        "wk:page":"Santiago Atitl\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1469052341,
+    "wof:geomhash":"180558c188c50c279840c203580d169a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695601,
+            "locality_id":890441891,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":890441891,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Santiago Atitl\u00e1n",
+    "wof:parent_id":1108695601,
+    "wof:placetype":"locality",
+    "wof:population":33309,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.22901,
+    14.63823,
+    -91.22901,
+    14.63823
+],
+  "geometry": {"coordinates":[-91.22901,14.63823],"type":"Point"}
+}

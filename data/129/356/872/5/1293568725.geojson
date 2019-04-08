@@ -1,0 +1,72 @@
+{
+  "id": 1293568725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65,15.0,-91.65,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-91.65,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Paxoj",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591483,
+    "gn:latitude":15.0,
+    "gn:longitude":-91.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paxoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paxucup\u00e9",
+        "Paxoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591483
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"86e7c87209207420b744097f4c365113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695649,
+            "locality_id":1293568725,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1293568725,
+    "wof:lastmodified":1537625159,
+    "wof:name":"Paxoj",
+    "wof:parent_id":1108695649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65,
+    15.0,
+    -91.65,
+    15.0
+],
+  "geometry": {"coordinates":[-91.65000000000001,15.0],"type":"Point"}
+}

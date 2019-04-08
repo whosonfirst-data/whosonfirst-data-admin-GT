@@ -1,0 +1,106 @@
+{
+  "id": 421197629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61667,14.85,-91.61667,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-91.61667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:pol_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:unk_x_variant":[
+        "Concepci\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u585e\u666e\u897f\u7fc1\u5947\u585e\u91cc\u67e5\u5e15"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597993,
+    "qs:gn_pop":8080,
+    "qs:name":"Concepci\u00f3n Chiquirichapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149214,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81956,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1717,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597993,
+        "gp:id":81956,
+        "qs:id":149214,
+        "wd:id":"Q2401883",
+        "wk:page":"Concepci\u00f3n Chiquirichapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009920,
+    "wof:geomhash":"bad79d7e9cd0e026890a4464c5cd7cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695305,
+            "locality_id":421197629,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421197629,
+    "wof:lastmodified":1527716401,
+    "wof:name":"Concepci\u00f3n Chiquirichapa",
+    "wof:parent_id":1108695305,
+    "wof:placetype":"locality",
+    "wof:population":8080,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61667,
+    14.85,
+    -91.61667,
+    14.85
+],
+  "geometry": {"coordinates":[-91.61667,14.85],"type":"Point"}
+}

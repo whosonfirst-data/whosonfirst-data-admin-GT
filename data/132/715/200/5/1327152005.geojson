@@ -1,0 +1,67 @@
+{
+  "id": 1327152005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.13333,15.73333,-90.13333,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":-90.13333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sequixpec",
+    "gn:country_code":"GT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588832,
+    "gn:latitude":15.73333,
+    "gn:longitude":-90.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sequixpec",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421184389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588832
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ca3fd0f7e508afe57f5dbe5f4f4df5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184389,
+            "locality_id":1327152005,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1327152005,
+    "wof:lastmodified":1537082490,
+    "wof:name":"Sequixpec",
+    "wof:parent_id":421184389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.13333,
+    15.73333,
+    -90.13333,
+    15.73333
+],
+  "geometry": {"coordinates":[-90.13333,15.73333],"type":"Point"}
+}

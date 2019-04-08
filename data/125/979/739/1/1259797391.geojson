@@ -1,0 +1,67 @@
+{
+  "id": 1259797391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28333,15.48333,-90.28333,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":-90.28333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tupulcan",
+    "gn:country_code":"GT",
+    "gn:dem":1283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588154,
+    "gn:latitude":15.48333,
+    "gn:longitude":-90.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tupulc\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421184389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588154
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c0aaa5c8f39ca84b280aeae1ccdda636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184389,
+            "locality_id":1259797391,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1259797391,
+    "wof:lastmodified":1536903221,
+    "wof:name":"Tupulcan",
+    "wof:parent_id":421184389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28333,
+    15.48333,
+    -90.28333,
+    15.48333
+],
+  "geometry": {"coordinates":[-90.28333000000001,15.48333],"type":"Point"}
+}

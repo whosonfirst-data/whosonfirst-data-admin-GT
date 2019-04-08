@@ -1,0 +1,67 @@
+{
+  "id": 1259358905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.38444,13.85528,-90.38444,13.85528",
+    "geom:latitude":13.85528,
+    "geom:longitude":-90.38444,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Las Mananitas",
+    "gn:country_code":"GT",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593822,
+    "gn:latitude":13.85528,
+    "gn:longitude":-90.38444,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Las Ma\u00f1anitas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421203587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593822
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0aceade7dd79aace7d2c0cd8ba0d1dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203587,
+            "locality_id":1259358905,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1259358905,
+    "wof:lastmodified":1537036139,
+    "wof:name":"Las Mananitas",
+    "wof:parent_id":421203587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.38444,
+    13.85528,
+    -90.38444,
+    13.85528
+],
+  "geometry": {"coordinates":[-90.38444,13.85528],"type":"Point"}
+}

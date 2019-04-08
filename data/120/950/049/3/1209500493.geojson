@@ -1,0 +1,64 @@
+{
+  "id": 1209500493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.86592,15.63227,-91.86592,15.63227",
+    "geom:latitude":15.63227,
+    "geom:longitude":-91.86592,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Penascos",
+    "gn:country_code":"GT",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637633,
+    "gn:latitude":15.63227,
+    "gn:longitude":-91.86592,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Los Pe\u00f1ascos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Pe\u00f1ascos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637633
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b6a18008945efcb3798ad447bfe9668f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209500493
+        }
+    ],
+    "wof:id":1209500493,
+    "wof:lastmodified":1537625266,
+    "wof:name":"Los Penascos",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.86592,
+    15.63227,
+    -91.86592,
+    15.63227
+],
+  "geometry": {"coordinates":[-91.86592,15.63227],"type":"Point"}
+}

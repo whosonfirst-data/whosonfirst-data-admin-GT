@@ -1,0 +1,67 @@
+{
+  "id": 1243090139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.2,14.9,-90.2,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-90.2,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Santa Gertrudis",
+    "gn:country_code":"GT",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589340,
+    "gn:latitude":14.9,
+    "gn:longitude":-90.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Gertrudis",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        1108695403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589340
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f7c8d96e07906da437f68a1fa3f38e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695403,
+            "locality_id":1243090139,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1243090139,
+    "wof:lastmodified":1536821288,
+    "wof:name":"Santa Gertrudis",
+    "wof:parent_id":1108695403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.2,
+    14.9,
+    -90.2,
+    14.9
+],
+  "geometry": {"coordinates":[-90.2,14.9],"type":"Point"}
+}

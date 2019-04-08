@@ -1,0 +1,71 @@
+{
+  "id": 1309882081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61453,15.18478,-91.61453,15.18478",
+    "geom:latitude":15.18478,
+    "geom:longitude":-91.61453,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Quesiguan",
+    "gn:country_code":"GT",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590981,
+    "gn:latitude":15.18478,
+    "gn:longitude":-91.61453,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Quesigu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quequesigu\u00e1n",
+        "Quesigu\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590981
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e2639df16a9dcccaa59aea84b824b0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695653,
+            "locality_id":1309882081,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309882081,
+    "wof:lastmodified":1537625154,
+    "wof:name":"Quesiguan",
+    "wof:parent_id":1108695653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61453,
+    15.18478,
+    -91.61453,
+    15.18478
+],
+  "geometry": {"coordinates":[-91.61453,15.18478],"type":"Point"}
+}

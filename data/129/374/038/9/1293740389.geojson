@@ -1,0 +1,67 @@
+{
+  "id": 1293740389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.45,15.1,-89.45,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":-89.45,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Santiago",
+    "gn:country_code":"GT",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589110,
+    "gn:latitude":15.1,
+    "gn:longitude":-89.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santiago",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421166783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589110
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"848764c45085c7c4ac578e71ce3debc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421166783,
+            "locality_id":1293740389,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1293740389,
+    "wof:lastmodified":1536920387,
+    "wof:name":"Santiago",
+    "wof:parent_id":421166783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.45,
+    15.1,
+    -89.45,
+    15.1
+],
+  "geometry": {"coordinates":[-89.45,15.1],"type":"Point"}
+}

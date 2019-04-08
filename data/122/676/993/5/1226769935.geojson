@@ -1,0 +1,70 @@
+{
+  "id": 1226769935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.35095,15.27778,-91.35095,15.27778",
+    "geom:latitude":15.27778,
+    "geom:longitude":-91.35095,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Pilas",
+    "gn:country_code":"GT",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488381,
+    "gn:latitude":15.27778,
+    "gn:longitude":-91.35095,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Las Pilas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Pilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488381
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6a347c155093107e498c6153383fe7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "locality_id":1226769935,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226769935,
+    "wof:lastmodified":1537625361,
+    "wof:name":"Las Pilas",
+    "wof:parent_id":421186319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.35095,
+    15.27778,
+    -91.35095,
+    15.27778
+],
+  "geometry": {"coordinates":[-91.35095,15.27778],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 1108695643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001168,
+    "geom:area_square_m":13968855.186687,
+    "geom:bbox":"-91.4345086931,14.5953701035,-91.3938700106,14.6428588558",
+    "geom:latitude":14.622483,
+    "geom:longitude":-91.411285,
+    "iso:country":"GT",
+    "lbl:latitude":14.627961,
+    "lbl:longitude":-91.414961,
+    "meso:admin_1":"Suchitepequez",
+    "meso:diss_me":"SANTO TOMAS LA UNIONSUCHITEPEQUEZ",
+    "meso:gadm_admin":"Santo Tom\u00e1s La Uni\u00f3n",
+    "meso:gaul_admin":"Santo Tomas La Uni\u00f3n",
+    "meso:mps_x":-91.414961,
+    "meso:mps_y":14.627961,
+    "meso:name_en":"Santo Tomas La Union",
+    "meso:source":"AOTM",
+    "mps:latitude":14.627961,
+    "mps:longitude":-91.414961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u6258\u99ac\u65af\u62c9\u70cf\u5c3c\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Tomas La Uni\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "Santo Tomas La Uni\u00f3n",
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s la Uni\u00f3n"
+    ],
+    "name:nah_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:sco_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tomas La Uni\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SU",
+    "statoids:name":"Santo Tomas La Uni\u00f3n",
+    "statoids:population":"9429",
+    "statoids:statoid":"GT.SU.TU",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402120"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493970,
+    "wof:geomhash":"f2368d8a7cc47e39497c9bbc5aec757f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695643,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1108695643,
+    "wof:lastmodified":1514444574,
+    "wof:name":"Santo Tomas La Union",
+    "wof:parent_id":85671683,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":9429,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43450869308214,
+    14.59537010348893,
+    -91.39387001057841,
+    14.64285885576549
+],
+  "geometry": {"coordinates":[[[-91.39387001057841,14.63636070245898],[-91.3975477310709,14.63192501161383],[-91.40290264771383,14.62236025927286],[-91.40289416587939,14.62229212513023],[-91.39811308654771,14.61677904049051],[-91.39815986083153,14.61547654859845],[-91.3938799376001,14.59945730320335],[-91.3949573685116,14.59537010348893],[-91.40728589586415,14.60002570597223],[-91.41311839219185,14.6039651304513],[-91.41389090116682,14.60559773197091],[-91.41900982781921,14.61],[-91.42545953219407,14.61],[-91.42653812537455,14.62139281554541],[-91.43450869308214,14.6283482644764],[-91.43076237702147,14.63346109191409],[-91.41850135780901,14.64189833796382],[-91.41771500834713,14.64147813236015],[-91.41673351766214,14.6417588771427],[-91.41386290592574,14.64285885576549],[-91.39552147690357,14.64215992878932],[-91.39387001057841,14.63636070245898]]],"type":"Polygon"}
+}

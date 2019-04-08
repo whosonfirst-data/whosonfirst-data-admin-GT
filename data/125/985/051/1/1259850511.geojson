@@ -1,0 +1,70 @@
+{
+  "id": 1259850511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.12323,16.00203,-91.12323,16.00203",
+    "geom:latitude":16.00203,
+    "geom:longitude":-91.12323,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Monaco",
+    "gn:country_code":"GT",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533175,
+    "gn:latitude":16.00203,
+    "gn:longitude":-91.12323,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"M\u00f3naco",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "M\u00f3naco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533175
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ccf2a0f8ba1bc5e563f4e61ea5878b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1259850511,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259850511,
+    "wof:lastmodified":1537625244,
+    "wof:name":"Monaco",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.12323,
+    16.00203,
+    -91.12323,
+    16.00203
+],
+  "geometry": {"coordinates":[-91.12323000000001,16.00203],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 421166389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73333,14.71667,-91.73333,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-91.73333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Colomba"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u9686\u5df4"
+    ],
+    "name:dut_x_preferred":[
+        "Colomba"
+    ],
+    "name:eng_x_preferred":[
+        "Colomba"
+    ],
+    "name:fre_x_preferred":[
+        "Colomba"
+    ],
+    "name:glg_x_preferred":[
+        "Colomba"
+    ],
+    "name:ita_x_preferred":[
+        "Colomba"
+    ],
+    "name:nah_x_preferred":[
+        "Colomba"
+    ],
+    "name:pol_x_preferred":[
+        "Colomba"
+    ],
+    "name:por_x_preferred":[
+        "Colomba"
+    ],
+    "name:rum_x_preferred":[
+        "Colomba"
+    ],
+    "name:spa_x_preferred":[
+        "Colomba Costa Cuca"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0645\u0628\u0627"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598073,
+    "qs:gn_pop":19115,
+    "qs:name":"Colomba",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":75,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":75,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":266448,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81930,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.716667,
+    "wd:longitude":-91.733333,
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        421172665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598073,
+        "gp:id":81930,
+        "qs:id":266448,
+        "wd:id":"Q2426806",
+        "wk:page":"Colomba"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008688,
+    "wof:geomhash":"bb7ade455542fa53a1b0816d7576c827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421172665,
+            "locality_id":421166389,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421166389,
+    "wof:lastmodified":1527716106,
+    "wof:name":"Colomba",
+    "wof:parent_id":421172665,
+    "wof:placetype":"locality",
+    "wof:population":19115,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73333,
+    14.71667,
+    -91.73333,
+    14.71667
+],
+  "geometry": {"coordinates":[-91.73333,14.71667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225909873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.15,14.65,-91.15,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-91.15,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pachitulul",
+    "gn:country_code":"GT",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591944,
+    "gn:latitude":14.65,
+    "gn:longitude":-91.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pachitulul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421190509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591944
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"926e7f8fd3dadb3e430b0682d34a7668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190509,
+            "locality_id":1225909873,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1225909873,
+    "wof:lastmodified":1536922046,
+    "wof:name":"Pachitulul",
+    "wof:parent_id":421190509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.15,
+    14.65,
+    -91.15,
+    14.65
+],
+  "geometry": {"coordinates":[-91.15000000000001,14.65],"type":"Point"}
+}

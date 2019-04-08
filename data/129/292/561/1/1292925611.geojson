@@ -1,0 +1,70 @@
+{
+  "id": 1292925611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45165,15.7404,-91.45165,15.7404",
+    "geom:latitude":15.7404,
+    "geom:longitude":-91.45165,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chicala",
+    "gn:country_code":"GT",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493249,
+    "gn:latitude":15.7404,
+    "gn:longitude":-91.45165,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chical\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chical\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493249
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c8d8e366e86b96ccb2815b065cf34ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1292925611,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1292925611,
+    "wof:lastmodified":1537625374,
+    "wof:name":"Chicala",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45165,
+    15.7404,
+    -91.45165,
+    15.7404
+],
+  "geometry": {"coordinates":[-91.45165,15.7404],"type":"Point"}
+}

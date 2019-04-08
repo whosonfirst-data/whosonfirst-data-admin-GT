@@ -1,0 +1,121 @@
+{
+  "id": 421182503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.76944,14.53972,-90.76944,14.53972",
+    "geom:latitude":14.53972,
+    "geom:longitude":-90.76944,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u963f\u74dc\u65af\u5361\u9023\u7279\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:fra_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:pol_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
+    "name:unk_x_variant":[
+        "San Antonio"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u963f\u74dc\u65af\u5361\u9023\u7279\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590475,
+    "qs:gn_pop":7811,
+    "qs:name":"San Antonio Aguas Calientes",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1340984,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85520,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        421171693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590475,
+        "gp:id":85520,
+        "qs:id":1340984,
+        "wd:id":"Q630216",
+        "wk:page":"San Antonio Aguas Calientes"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009332,
+    "wof:geomhash":"1fb06d27bb1c4656ad663f299f664872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421171693,
+            "locality_id":421182503,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421182503,
+    "wof:lastmodified":1527726427,
+    "wof:name":"San Antonio Aguas Calientes",
+    "wof:parent_id":421171693,
+    "wof:placetype":"locality",
+    "wof:population":7811,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.76944,
+    14.53972,
+    -90.76944,
+    14.53972
+],
+  "geometry": {"coordinates":[-90.76944,14.53972],"type":"Point"}
+}

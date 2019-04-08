@@ -1,0 +1,66 @@
+{
+  "id": 1209606773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.41,14.61333,-90.41,14.61333",
+    "geom:latitude":14.61333,
+    "geom:longitude":-90.41,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Ocotes",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592975,
+    "gn:latitude":14.61333,
+    "gn:longitude":-90.41,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Ocotes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ocotes",
+        "Los Ocotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592975
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"881bea0278db91e9d5f522c95fd48c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209606773
+        }
+    ],
+    "wof:id":1209606773,
+    "wof:lastmodified":1537625170,
+    "wof:name":"Los Ocotes",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.41,
+    14.61333,
+    -90.41,
+    14.61333
+],
+  "geometry": {"coordinates":[-90.41,14.61333],"type":"Point"}
+}

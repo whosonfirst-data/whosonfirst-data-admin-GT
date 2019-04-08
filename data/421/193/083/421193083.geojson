@@ -1,0 +1,115 @@
+{
+  "id": 421193083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7,14.93333,-91.7,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-91.7,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u840a\u65af\u8482\u7d0d\u5fb7\u6d1b\u65af\u963f\u723e\u6258\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:eng_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:fre_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:ita_x_preferred":[
+        "Palestina de los Altos"
+    ],
+    "name:pol_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:por_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:spa_x_preferred":[
+        "Palestina de Los Altos"
+    ],
+    "name:swe_x_preferred":[
+        "Palestina de los Altos"
+    ],
+    "name:unk_x_variant":[
+        "Palestina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0644\u0633\u0637\u06cc\u0646 \u062f\u06d2 \u0644\u0627\u0633 \u0622\u0644\u062a\u0648\u0633"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591841,
+    "qs:gn_pop":1691,
+    "qs:name":"Palestina de los Altos",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201037,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84769,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421195547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591841,
+        "gp:id":84769,
+        "qs:id":1201037,
+        "wd:id":"Q2402624",
+        "wk:page":"Palestina de Los Altos"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009759,
+    "wof:geomhash":"4315e0de96d8387f524aecc3e846fd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195547,
+            "locality_id":421193083,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421193083,
+    "wof:lastmodified":1527716141,
+    "wof:name":"Palestina de los Altos",
+    "wof:parent_id":421195547,
+    "wof:placetype":"locality",
+    "wof:population":1691,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7,
+    14.93333,
+    -91.7,
+    14.93333
+],
+  "geometry": {"coordinates":[-91.7,14.93333],"type":"Point"}
+}

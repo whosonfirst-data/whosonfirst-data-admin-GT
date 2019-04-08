@@ -1,0 +1,73 @@
+{
+  "id": 1309977687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.14791,14.81508,-92.14791,14.81508",
+    "geom:latitude":14.81508,
+    "geom:longitude":-92.14791,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Covadonga",
+    "gn:country_code":"GT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597909,
+    "gn:latitude":14.81508,
+    "gn:longitude":-92.14791,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Covadonga",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Covadonga"
+    ],
+    "name:spa_x_variant":[
+        "Labor Covadonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421184393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597909
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a11bc483c3d86944fca63c396b19476b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184393,
+            "locality_id":1309977687,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309977687,
+    "wof:lastmodified":1537625217,
+    "wof:name":"Covadonga",
+    "wof:parent_id":421184393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.14791,
+    14.81508,
+    -92.14791,
+    14.81508
+],
+  "geometry": {"coordinates":[-92.14791,14.81508],"type":"Point"}
+}

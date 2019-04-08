@@ -1,0 +1,70 @@
+{
+  "id": 1343247679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7388,15.36325,-91.7388,15.36325",
+    "geom:latitude":15.36325,
+    "geom:longitude":-91.7388,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Cumbre",
+    "gn:country_code":"GT",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594765,
+    "gn:latitude":15.36325,
+    "gn:longitude":-91.7388,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"La Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cumbre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594765
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"01bd1f74854499193ca42e49d7b7b7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695511,
+            "locality_id":1343247679,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343247679,
+    "wof:lastmodified":1537625185,
+    "wof:name":"La Cumbre",
+    "wof:parent_id":1108695511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7388,
+    15.36325,
+    -91.7388,
+    15.36325
+],
+  "geometry": {"coordinates":[-91.7388,15.36325],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276524251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03123,14.67512,-92.03123,14.67512",
+    "geom:latitude":14.67512,
+    "geom:longitude":-92.03123,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"GT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594706,
+    "gn:latitude":14.67512,
+    "gn:longitude":-92.03123,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594706
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d3ca6e15bd5b6fcd0adf8366621b11f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695297,
+            "locality_id":1276524251,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1276524251,
+    "wof:lastmodified":1537625185,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":1108695297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03123,
+    14.67512,
+    -92.03123,
+    14.67512
+],
+  "geometry": {"coordinates":[-92.03122999999999,14.67512],"type":"Point"}
+}

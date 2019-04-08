@@ -1,0 +1,70 @@
+{
+  "id": 1343934073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09309,15.15318,-92.09309,15.15318",
+    "geom:latitude":15.15318,
+    "geom:longitude":-92.09309,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chicuj",
+    "gn:country_code":"GT",
+    "gn:dem":2931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634826,
+    "gn:latitude":15.15318,
+    "gn:longitude":-92.09309,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Chicuj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634826
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f107ea6979816b896a0193c201a0fd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1343934073,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343934073,
+    "wof:lastmodified":1537625254,
+    "wof:name":"Chicuj",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09309,
+    15.15318,
+    -92.09309,
+    15.15318
+],
+  "geometry": {"coordinates":[-92.09309,15.15318],"type":"Point"}
+}

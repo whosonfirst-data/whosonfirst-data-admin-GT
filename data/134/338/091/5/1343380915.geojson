@@ -1,0 +1,70 @@
+{
+  "id": 1343380915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58132,15.25249,-91.58132,15.25249",
+    "geom:latitude":15.25249,
+    "geom:longitude":-91.58132,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Cal",
+    "gn:country_code":"GT",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594956,
+    "gn:latitude":15.25249,
+    "gn:longitude":-91.58132,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"La Cal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421191463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594956
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b39fa0696d05db64d9939f93f973cb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191463,
+            "locality_id":1343380915,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343380915,
+    "wof:lastmodified":1537625187,
+    "wof:name":"La Cal",
+    "wof:parent_id":421191463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58132,
+    15.25249,
+    -91.58132,
+    15.25249
+],
+  "geometry": {"coordinates":[-91.58132000000001,15.25249],"type":"Point"}
+}

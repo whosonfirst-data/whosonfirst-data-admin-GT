@@ -1,0 +1,66 @@
+{
+  "id": 1209177385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.36806,14.43333,-90.36806,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-90.36806,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Salitre",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590590,
+    "gn:latitude":14.43333,
+    "gn:longitude":-90.36806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salitre",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Salitre",
+        "Salitre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590590
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8018b48c418e28a99b2d6029738129ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209177385
+        }
+    ],
+    "wof:id":1209177385,
+    "wof:lastmodified":1537625150,
+    "wof:name":"Salitre",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.36806,
+    14.43333,
+    -90.36806,
+    14.43333
+],
+  "geometry": {"coordinates":[-90.36806,14.43333],"type":"Point"}
+}

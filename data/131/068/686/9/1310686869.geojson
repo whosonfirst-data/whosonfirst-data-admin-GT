@@ -1,0 +1,70 @@
+{
+  "id": 1310686869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21758,15.88889,-91.21758,15.88889",
+    "geom:latitude":15.88889,
+    "geom:longitude":-91.21758,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Moxon",
+    "gn:country_code":"GT",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450194,
+    "gn:latitude":15.88889,
+    "gn:longitude":-91.21758,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mox\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mox\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450194
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3ec99873a396e0b8d61ff27bccff7a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1310686869,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310686869,
+    "wof:lastmodified":1537625284,
+    "wof:name":"Moxon",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21758,
+    15.88889,
+    -91.21758,
+    15.88889
+],
+  "geometry": {"coordinates":[-91.21758,15.88889],"type":"Point"}
+}

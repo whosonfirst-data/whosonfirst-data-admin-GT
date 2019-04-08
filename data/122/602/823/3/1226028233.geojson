@@ -1,0 +1,70 @@
+{
+  "id": 1226028233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.57645,16.00839,-90.57645,16.00839",
+    "geom:latitude":16.00839,
+    "geom:longitude":-90.57645,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nueva Maquina",
+    "gn:country_code":"GT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533717,
+    "gn:latitude":16.00839,
+    "gn:longitude":-90.57645,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Nueva M\u00e1quina",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva M\u00e1quina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533717
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0d13875f1477c823affc9faedc860296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1226028233,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1226028233,
+    "wof:lastmodified":1537625247,
+    "wof:name":"Nueva Maquina",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.57645,
+    16.00839,
+    -90.57645,
+    16.00839
+],
+  "geometry": {"coordinates":[-90.57644999999999,16.00839],"type":"Point"}
+}

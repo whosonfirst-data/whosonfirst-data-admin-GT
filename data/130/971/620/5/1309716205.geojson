@@ -1,0 +1,67 @@
+{
+  "id": 1309716205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.23333,15.36667,-90.23333,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":-90.23333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chamisun",
+    "gn:country_code":"GT",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598790,
+    "gn:latitude":15.36667,
+    "gn:longitude":-90.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chamis\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421181909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598790
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3e2efe8c0137f520f375b2b219415a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421181909,
+            "locality_id":1309716205,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1309716205,
+    "wof:lastmodified":1537057710,
+    "wof:name":"Chamisun",
+    "wof:parent_id":421181909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.23333,
+    15.36667,
+    -90.23333,
+    15.36667
+],
+  "geometry": {"coordinates":[-90.23333,15.36667],"type":"Point"}
+}

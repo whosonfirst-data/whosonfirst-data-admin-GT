@@ -1,0 +1,70 @@
+{
+  "id": 1209810839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.685,15.56483,-91.685,15.56483",
+    "geom:latitude":15.56483,
+    "geom:longitude":-91.685,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Teogal",
+    "gn:country_code":"GT",
+    "gn:dem":1985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476756,
+    "gn:latitude":15.56483,
+    "gn:longitude":-91.685,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Teogal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Teogal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476756
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3e0396139abb8c52d378a8affb4a0305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1209810839,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1209810839,
+    "wof:lastmodified":1537625323,
+    "wof:name":"Teogal",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.685,
+    15.56483,
+    -91.685,
+    15.56483
+],
+  "geometry": {"coordinates":[-91.685,15.56483],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327207975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.31451,15.1698,-91.31451,15.1698",
+    "geom:latitude":15.1698,
+    "geom:longitude":-91.31451,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Xejuyup",
+    "gn:country_code":"GT",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477875,
+    "gn:latitude":15.1698,
+    "gn:longitude":-91.31451,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xejuyup",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xejuyup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421195541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477875
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0598fdc2c2cca9cdf6743d0acd0f635b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195541,
+            "locality_id":1327207975,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1327207975,
+    "wof:lastmodified":1537625333,
+    "wof:name":"Xejuyup",
+    "wof:parent_id":421195541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.31451,
+    15.1698,
+    -91.31451,
+    15.1698
+],
+  "geometry": {"coordinates":[-91.31451,15.1698],"type":"Point"}
+}

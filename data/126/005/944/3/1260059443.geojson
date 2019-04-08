@@ -1,0 +1,72 @@
+{
+  "id": 1260059443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58333,14.83333,-91.58333,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":-91.58333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Jose Panimacho",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589979,
+    "gn:latitude":14.83333,
+    "gn:longitude":-91.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 Panimach\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jose Pachimach\u00f3",
+        "San Jos\u00e9 Panimach\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589979
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0b2b05c6fcdc492af3669eabe6055de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695559,
+            "locality_id":1260059443,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1260059443,
+    "wof:lastmodified":1537625146,
+    "wof:name":"San Jose Panimacho",
+    "wof:parent_id":1108695559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58333,
+    14.83333,
+    -91.58333,
+    14.83333
+],
+  "geometry": {"coordinates":[-91.58333,14.83333],"type":"Point"}
+}

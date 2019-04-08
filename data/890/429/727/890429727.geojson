@@ -1,0 +1,99 @@
+{
+  "id": 890429727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08722,15.28667,-91.08722,15.28667",
+    "geom:latitude":15.28667,
+    "geom:longitude":-91.08722,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":12088,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u85a9\u5361\u666e\u62c9\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:eng_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:fre_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:ita_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:pol_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:por_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:spa_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:swe_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06a9\u067e\u0644\u0627\u0633"
+    ],
+    "qs:name":"Sacapulas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":2975,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590690,
+        "gp:id":85424,
+        "qs:id":149169,
+        "wd:id":"Q2401849",
+        "wk:page":"Sacapulas"
+    },
+    "wof:country":"GT",
+    "wof:created":1469051826,
+    "wof:geomhash":"a0ab9100bea6359c7dc76c0e55866c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169961,
+            "locality_id":890429727,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":890429727,
+    "wof:lastmodified":1527792797,
+    "wof:name":"Sacapulas",
+    "wof:parent_id":421169961,
+    "wof:placetype":"locality",
+    "wof:population":12088,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08722,
+    15.28667,
+    -91.08722,
+    15.28667
+],
+  "geometry": {"coordinates":[-91.08722,15.28667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193254643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.02618,14.90427,-92.02618,14.90427",
+    "geom:latitude":14.90427,
+    "geom:longitude":-92.02618,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Lima",
+    "gn:country_code":"GT",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594412,
+    "gn:latitude":14.90427,
+    "gn:longitude":-92.02618,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Lima",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Lima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594412
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"60212c81e8a55cd68da80e21b70faf95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":1193254643,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1193254643,
+    "wof:lastmodified":1537625183,
+    "wof:name":"La Lima",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.02618,
+    14.90427,
+    -92.02618,
+    14.90427
+],
+  "geometry": {"coordinates":[-92.02618,14.90427],"type":"Point"}
+}

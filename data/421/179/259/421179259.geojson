@@ -1,0 +1,115 @@
+{
+  "id": 421179259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.24417,14.42222,-90.24417,14.42222",
+    "geom:latitude":14.42222,
+    "geom:longitude":-90.24417,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5361\u897f\u5229\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Casillas"
+    ],
+    "name:eng_x_preferred":[
+        "Casillas"
+    ],
+    "name:fra_x_preferred":[
+        "Casillas"
+    ],
+    "name:fre_x_preferred":[
+        "Casillas"
+    ],
+    "name:ita_x_preferred":[
+        "Casillas"
+    ],
+    "name:nah_x_preferred":[
+        "Casillas"
+    ],
+    "name:pol_x_preferred":[
+        "Casillas"
+    ],
+    "name:por_x_preferred":[
+        "Casillas"
+    ],
+    "name:spa_x_preferred":[
+        "Casillas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u897f\u5229\u4e9e\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598968,
+    "qs:gn_pop":8970,
+    "qs:name":"Casillas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Santa Rosa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149224,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81406,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598968,
+        "gp:id":81406,
+        "qs:id":149224,
+        "wd:id":"Q1748683",
+        "wk:page":"Casillas, Guatemala"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009209,
+    "wof:geomhash":"7cc8d84fa98c0e1468aa00c2a9da6b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695281,
+            "locality_id":421179259,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":421179259,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Casillas",
+    "wof:parent_id":1108695281,
+    "wof:placetype":"locality",
+    "wof:population":8970,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.24417,
+    14.42222,
+    -90.24417,
+    14.42222
+],
+  "geometry": {"coordinates":[-90.24417,14.42222],"type":"Point"}
+}

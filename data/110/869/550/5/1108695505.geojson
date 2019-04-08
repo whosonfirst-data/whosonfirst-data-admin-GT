@@ -1,0 +1,108 @@
+{
+  "id": 1108695505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001522,
+    "geom:area_square_m":18179778.178061,
+    "geom:bbox":"-91.5776600982,14.9103053603,-91.5168833142,14.9482384378",
+    "geom:latitude":14.928286,
+    "geom:longitude":-91.543661,
+    "iso:country":"GT",
+    "lbl:latitude":14.930822,
+    "lbl:longitude":-91.541204,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"SAN FRANCISCO LA UNIONQUETZALTENANGO",
+    "meso:gadm_admin":"San Francisco La Uni\u00f3n",
+    "meso:gaul_admin":"San Francisco La Uni\u00f3n",
+    "meso:mps_x":-91.541204,
+    "meso:mps_y":14.930822,
+    "meso:name_en":"San Francisco La Union",
+    "meso:source":"AOTM",
+    "mps:latitude":14.930822,
+    "mps:longitude":-91.541204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u62c9\u70cf\u5c3c\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco la Uni\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco La Uni\u00f3n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"San Francisco La Uni\u00f3n",
+    "statoids:population":"7403",
+    "statoids:statoid":"GT.QZ.FU",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402566"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493830,
+    "wof:geomhash":"ac0effb5d5e44b1b933be002853c47f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695505,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695505,
+    "wof:lastmodified":1514444536,
+    "wof:name":"San Francisco La Union",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":7403,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.57766009817978,
+    14.91030536030335,
+    -91.51688331422743,
+    14.94823843777862
+],
+  "geometry": {"coordinates":[[[-91.57415181574024,14.93653465082263],[-91.57107516625682,14.9378883927486],[-91.55857422696101,14.93023155320733],[-91.55823137354137,14.93043089021605],[-91.55476132733233,14.9345070873363],[-91.55374827025331,14.93751759970474],[-91.54674446991663,14.94823843777862],[-91.54099385207061,14.94678045894702],[-91.53968586606977,14.94739466876358],[-91.52071036726373,14.94426286997395],[-91.51688331422743,14.93636519369891],[-91.51878417411481,14.93399027717205],[-91.51694629625615,14.91885731855155],[-91.52464018737003,14.91543376512842],[-91.52637369001036,14.9111008857934],[-91.52730765895619,14.91036341815626],[-91.53824233034213,14.91030536030335],[-91.53926190642871,14.91341486823748],[-91.54431342963359,14.91704542570543],[-91.54818276873087,14.91783058160299],[-91.55478230211968,14.91533568164263],[-91.55998850544965,14.91880664264921],[-91.57322647528291,14.91128147388509],[-91.57766009817978,14.91884476627482],[-91.57431037885053,14.92582522357058],[-91.57415181574024,14.93653465082263]]],"type":"Polygon"}
+}

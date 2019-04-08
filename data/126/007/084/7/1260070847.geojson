@@ -1,0 +1,70 @@
+{
+  "id": 1260070847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.79228,15.55905,-91.79228,15.55905",
+    "geom:latitude":15.55905,
+    "geom:longitude":-91.79228,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Zompopero",
+    "gn:country_code":"GT",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10147363,
+    "gn:latitude":15.55905,
+    "gn:longitude":-91.79228,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Zompopero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Zompopero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10147363
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8514559513c07651988873292c4c62a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695581,
+            "locality_id":1260070847,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260070847,
+    "wof:lastmodified":1537625278,
+    "wof:name":"Zompopero",
+    "wof:parent_id":1108695581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.79228,
+    15.55905,
+    -91.79228,
+    15.55905
+],
+  "geometry": {"coordinates":[-91.79228000000001,15.55905],"type":"Point"}
+}

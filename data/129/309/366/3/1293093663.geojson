@@ -1,0 +1,71 @@
+{
+  "id": 1293093663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.965,14.30611,-90.965,14.30611",
+    "geom:latitude":14.30611,
+    "geom:longitude":-90.965,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Siquinala",
+    "gn:country_code":"GT",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3588720,
+    "gn:latitude":14.30611,
+    "gn:longitude":-90.965,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Siquinal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siquinal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671677,
+        1108695655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588720,
+        "wk:page":"Siquinal%C3%A1"
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d02e2e5e2a7c4de716a82b72765518e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695655,
+            "locality_id":1293093663,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":1293093663,
+    "wof:lastmodified":1537625136,
+    "wof:name":"Siquinala",
+    "wof:parent_id":1108695655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.965,
+    14.30611,
+    -90.965,
+    14.30611
+],
+  "geometry": {"coordinates":[-90.965,14.30611],"type":"Point"}
+}

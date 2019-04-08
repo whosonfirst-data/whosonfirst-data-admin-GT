@@ -1,0 +1,70 @@
+{
+  "id": 1192992143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.10772,15.16932,-91.10772,15.16932",
+    "geom:latitude":15.16932,
+    "geom:longitude":-91.10772,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cucal II",
+    "gn:country_code":"GT",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483950,
+    "gn:latitude":15.16932,
+    "gn:longitude":-91.10772,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cucal II",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cucal II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483950
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"29d780c9a3be9586c12c508aed791b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1192992143,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1192992143,
+    "wof:lastmodified":1537625352,
+    "wof:name":"Cucal II",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.10772,
+    15.16932,
+    -91.10772,
+    15.16932
+],
+  "geometry": {"coordinates":[-91.10772,15.16932],"type":"Point"}
+}

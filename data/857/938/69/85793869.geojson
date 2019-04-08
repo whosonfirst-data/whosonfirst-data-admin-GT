@@ -1,0 +1,112 @@
+{
+  "id": 85793869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":47982259.852744,
+    "geom:bbox":"-90.513858,14.633951,-90.513858,14.633951",
+    "geom:latitude":14.633951,
+    "geom:longitude":-90.513858,
+    "gn:latitude":14.63333,
+    "gn:longitude":-90.5,
+    "iso:country":"GT",
+    "lbl:latitude":14.633951,
+    "lbl:longitude":-90.513858,
+    "mps:latitude":14.62116,
+    "mps:longitude":-90.512522,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Las Victorias",
+        "Parque nacional Las Victorias"
+    ],
+    "name:unk_x_variant":[
+        "Las Victorias"
+    ],
+    "qs:gn_adm0_cc":"GT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3598132,
+    "qs:gn_nam_loc":"Ciudad de Guatemala, GT, Guatemala, Guatemala",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Las Victorias",
+    "qs:local_max":1519,
+    "qs:local_sum":1820,
+    "qs:localhoods":2,
+    "qs:name":"Las Victorias",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:name_adm2":"Guatemala",
+    "qs:name_local":"Ciudad de Guatemala",
+    "qs:photo_max":241,
+    "qs:photo_sum":1519,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":88,
+    "qs:woe_adm0":23424834,
+    "qs:woe_adm1":2345558,
+    "qs:woe_adm2":26806989,
+    "qs:woe_lau":0,
+    "qs:woe_local":83123,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85671681,
+        102191575,
+        85632385,
+        421191461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593575,
+        "gp:id":84016,
+        "qs:id":211073
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4d6cc7f1fb4415c90d1a899a9e049f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191461,
+            "locality_id":-1,
+            "neighbourhood_id":85793869,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":85793869,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379333,
+    "wof:name":"Las Victorias",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[
+        1126067385
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.513858,
+    14.633951,
+    -90.513858,
+    14.633951
+],
+  "geometry": {"coordinates":[-90.513858,14.633951],"type":"Point"}
+}

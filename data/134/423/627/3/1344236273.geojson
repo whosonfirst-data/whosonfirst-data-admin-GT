@@ -1,0 +1,70 @@
+{
+  "id": 1344236273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.55645,15.0181,-91.55645,15.0181",
+    "geom:latitude":15.0181,
+    "geom:longitude":-91.55645,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Antonio Buenabaj",
+    "gn:country_code":"GT",
+    "gn:dem":2783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457172,
+    "gn:latitude":15.0181,
+    "gn:longitude":-91.55645,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"San Antonio Buenabaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio Buenabaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457172
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0daa9502990f890829b2b52a89f48310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":1344236273,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1344236273,
+    "wof:lastmodified":1537625298,
+    "wof:name":"San Antonio Buenabaj",
+    "wof:parent_id":1108695493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.55645,
+    15.0181,
+    -91.55645,
+    15.0181
+],
+  "geometry": {"coordinates":[-91.55645,15.0181],"type":"Point"}
+}

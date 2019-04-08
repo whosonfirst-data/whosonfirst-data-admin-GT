@@ -1,0 +1,72 @@
+{
+  "id": 1243026723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.5,14.9,-89.5,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-89.5,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Jumuzna",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595088,
+    "gn:latitude":14.9,
+    "gn:longitude":-89.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jumuzna",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jum\u00fasna",
+        "Jumuzna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421170045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595088
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"dd074e89eb56c78dfce36e38b8f92504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170045,
+            "locality_id":1243026723,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1243026723,
+    "wof:lastmodified":1537625188,
+    "wof:name":"Jumuzna",
+    "wof:parent_id":421170045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.5,
+    14.9,
+    -89.5,
+    14.9
+],
+  "geometry": {"coordinates":[-89.5,14.9],"type":"Point"}
+}

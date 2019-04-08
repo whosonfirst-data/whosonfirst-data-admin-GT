@@ -1,0 +1,72 @@
+{
+  "id": 1193136431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,15.0,-89.98333,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Escaleras",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595820,
+    "gn:latitude":15.0,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Escaleras",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Escaleras",
+        "Escaleras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        421184713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595820
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"136f7275bb7a067fa2e088e404748286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184713,
+            "locality_id":1193136431,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1193136431,
+    "wof:lastmodified":1537625195,
+    "wof:name":"Escaleras",
+    "wof:parent_id":421184713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    15.0,
+    -89.98333000000002,
+    15.0
+],
+  "geometry": {"coordinates":[-89.98333000000002,15.0],"type":"Point"}
+}

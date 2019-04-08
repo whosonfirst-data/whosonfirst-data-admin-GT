@@ -1,0 +1,70 @@
+{
+  "id": 1276867353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.08016,15.4402,-92.08016,15.4402",
+    "geom:latitude":15.4402,
+    "geom:longitude":-92.08016,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Plan de Las Vigas",
+    "gn:country_code":"GT",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9636748,
+    "gn:latitude":15.4402,
+    "gn:longitude":-92.08016,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Plan de Las Vigas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Plan de Las Vigas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9636748
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"42cb9e124edda6770a7a6f698a62913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695667,
+            "locality_id":1276867353,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276867353,
+    "wof:lastmodified":1537625260,
+    "wof:name":"Plan de Las Vigas",
+    "wof:parent_id":1108695667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.08016,
+    15.4402,
+    -92.08016,
+    15.4402
+],
+  "geometry": {"coordinates":[-92.08016000000001,15.4402],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310497039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39951,15.46865,-91.39951,15.46865",
+    "geom:latitude":15.46865,
+    "geom:longitude":-91.39951,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Botija",
+    "gn:country_code":"GT",
+    "gn:dem":3217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734034,
+    "gn:latitude":15.46865,
+    "gn:longitude":-91.39951,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"La Botija",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Botija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734034
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"98c6412211bb1724755baf6510f28a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1310497039,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310497039,
+    "wof:lastmodified":1537625239,
+    "wof:name":"La Botija",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39951,
+    15.46865,
+    -91.39951,
+    15.46865
+],
+  "geometry": {"coordinates":[-91.39951000000001,15.46865],"type":"Point"}
+}

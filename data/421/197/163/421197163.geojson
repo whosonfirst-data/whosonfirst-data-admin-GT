@@ -1,0 +1,120 @@
+{
+  "id": 421197163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21667,14.76667,-91.21667,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":-91.21667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u67e5\u5361\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:nah_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 Chacay\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u67e5\u5361\u4e9e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590041,
+    "qs:gn_pop":839,
+    "qs:name":"San Jos\u00e9 Chacay\u00e1",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1340998,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85687,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421183939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590041,
+        "gp:id":85687,
+        "qs:id":1340998,
+        "wd:id":"Q2401917",
+        "wk:page":"San Jos\u00e9 Chacay\u00e1"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009904,
+    "wof:geomhash":"edf58e640b8e2455c469acaaa6d4c9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421183939,
+            "locality_id":421197163,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421197163,
+    "wof:lastmodified":1514444539,
+    "wof:name":"San Jos\u00e9 Chacay\u00e1",
+    "wof:parent_id":421183939,
+    "wof:placetype":"locality",
+    "wof:population":839,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21667,
+    14.76667,
+    -91.21667,
+    14.76667
+],
+  "geometry": {"coordinates":[-91.21666999999999,14.76667],"type":"Point"}
+}

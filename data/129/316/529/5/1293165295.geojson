@@ -1,0 +1,73 @@
+{
+  "id": 1293165295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39556,15.03167,-91.39556,15.03167",
+    "geom:latitude":15.03167,
+    "geom:longitude":-91.39556,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chinictacaj",
+    "gn:country_code":"GT",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733891,
+    "gn:latitude":15.03167,
+    "gn:longitude":-91.39556,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Chinictacaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chinictacaj"
+    ],
+    "name:und_x_variant":[
+        "Panictacaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733891
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1d822f09729f61dd9f3fd23ebd9cf16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293165295,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293165295,
+    "wof:lastmodified":1537625235,
+    "wof:name":"Chinictacaj",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39556,
+    15.03167,
+    -91.39556,
+    15.03167
+],
+  "geometry": {"coordinates":[-91.39556,15.03167],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421179203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03333,14.71667,-92.03333,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-92.03333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u54c8\u76ae\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Pajapita"
+    ],
+    "name:eng_x_preferred":[
+        "Pajapita"
+    ],
+    "name:fra_x_preferred":[
+        "Pajapita"
+    ],
+    "name:fre_x_preferred":[
+        "Pajapita"
+    ],
+    "name:ita_x_preferred":[
+        "Pajapita"
+    ],
+    "name:pol_x_preferred":[
+        "Pajapita"
+    ],
+    "name:por_x_preferred":[
+        "Pajapita"
+    ],
+    "name:spa_x_preferred":[
+        "Pajapita"
+    ],
+    "name:swe_x_preferred":[
+        "Pajapita"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u54c8\u76ae\u5854"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591885,
+    "qs:gn_pop":8164,
+    "qs:name":"Pajapita",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149176,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84744,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":485,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591885,
+        "gp:id":84744,
+        "qs:id":149176,
+        "wd:id":"Q2402391",
+        "wk:page":"Pajapita"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"c783b34a7e428acb6848fd99129e171f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":421179203,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421179203,
+    "wof:lastmodified":1527717705,
+    "wof:name":"Pajapita",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:population":8164,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03333,
+    14.71667,
+    -92.03333,
+    14.71667
+],
+  "geometry": {"coordinates":[-92.03333000000001,14.71667],"type":"Point"}
+}

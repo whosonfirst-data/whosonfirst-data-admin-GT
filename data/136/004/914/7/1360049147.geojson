@@ -1,0 +1,70 @@
+{
+  "id": 1360049147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.06943,14.78256,-92.06943,14.78256",
+    "geom:latitude":14.78256,
+    "geom:longitude":-92.06943,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Barrio Nuevo",
+    "gn:country_code":"GT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638793,
+    "gn:latitude":14.78256,
+    "gn:longitude":-92.06943,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Barrio Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barrio Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638793
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"de7d8d24cd6d499c88db95d67a9b54d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1360049147,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1360049147,
+    "wof:lastmodified":1537625270,
+    "wof:name":"Barrio Nuevo",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06943,
+    14.78256,
+    -92.06943,
+    14.78256
+],
+  "geometry": {"coordinates":[-92.06943,14.78256],"type":"Point"}
+}

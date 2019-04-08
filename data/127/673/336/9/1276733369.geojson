@@ -1,0 +1,70 @@
+{
+  "id": 1276733369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20653,15.43769,-91.20653,15.43769",
+    "geom:latitude":15.43769,
+    "geom:longitude":-91.20653,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Janlay",
+    "gn:country_code":"GT",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734016,
+    "gn:latitude":15.43769,
+    "gn:longitude":-91.20653,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Janlay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Janlay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734016
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cdff55504a00fadbb6d5f9c92071a27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1276733369,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276733369,
+    "wof:lastmodified":1537625238,
+    "wof:name":"Janlay",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20653,
+    15.43769,
+    -91.20653,
+    15.43769
+],
+  "geometry": {"coordinates":[-91.20653,15.43769],"type":"Point"}
+}

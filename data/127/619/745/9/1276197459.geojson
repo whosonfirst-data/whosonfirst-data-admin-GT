@@ -1,0 +1,70 @@
+{
+  "id": 1276197459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09564,15.36879,-92.09564,15.36879",
+    "geom:latitude":15.36879,
+    "geom:longitude":-92.09564,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nuevo Llano Grande",
+    "gn:country_code":"GT",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637128,
+    "gn:latitude":15.36879,
+    "gn:longitude":-92.09564,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Nuevo Llano Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nuevo Llano Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637128
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a1927af976a9a6a4dc3473835b636e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1276197459,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276197459,
+    "wof:lastmodified":1537625260,
+    "wof:name":"Nuevo Llano Grande",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09564,
+    15.36879,
+    -92.09564,
+    15.36879
+],
+  "geometry": {"coordinates":[-92.09564,15.36879],"type":"Point"}
+}

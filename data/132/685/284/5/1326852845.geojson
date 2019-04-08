@@ -1,0 +1,70 @@
+{
+  "id": 1326852845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.57589,15.70526,-91.57589,15.70526",
+    "geom:latitude":15.70526,
+    "geom:longitude":-91.57589,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mete",
+    "gn:country_code":"GT",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477112,
+    "gn:latitude":15.70526,
+    "gn:longitude":-91.57589,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Met\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Met\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477112
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"80d494167d5620f86e6936e1c64281cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695561,
+            "locality_id":1326852845,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1326852845,
+    "wof:lastmodified":1537625328,
+    "wof:name":"Mete",
+    "wof:parent_id":1108695561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.57589,
+    15.70526,
+    -91.57589,
+    15.70526
+],
+  "geometry": {"coordinates":[-91.57589,15.70526],"type":"Point"}
+}

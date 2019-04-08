@@ -1,0 +1,64 @@
+{
+  "id": 1209177739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.7802,15.20101,-91.7802,15.20101",
+    "geom:latitude":15.20101,
+    "geom:longitude":-91.7802,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Numaltze",
+    "gn:country_code":"GT",
+    "gn:dem":2751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476416,
+    "gn:latitude":15.20101,
+    "gn:longitude":-91.7802,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Numaltz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Numaltz\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476416
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"babfefea8633772640e33c85801e3fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209177739
+        }
+    ],
+    "wof:id":1209177739,
+    "wof:lastmodified":1537625321,
+    "wof:name":"Numaltze",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.7802,
+    15.20101,
+    -91.7802,
+    15.20101
+],
+  "geometry": {"coordinates":[-91.78019999999999,15.20101],"type":"Point"}
+}

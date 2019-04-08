@@ -1,0 +1,61 @@
+{
+  "id": 1209025317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.97995,15.76277,-88.97995,15.76277",
+    "geom:latitude":15.76277,
+    "geom:longitude":-88.97995,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Cocales Chacon",
+    "gn:country_code":"GT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598110,
+    "gn:latitude":15.76277,
+    "gn:longitude":-88.97995,
+    "gn:modification_date":"2014-07-01",
+    "gn:name":"Cocales Chac\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598110
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"084f0954b75219197c03f5e0c52118eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209025317
+        }
+    ],
+    "wof:id":1209025317,
+    "wof:lastmodified":1536300018,
+    "wof:name":"Cocales Chacon",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.97995,
+    15.762770000000002,
+    -88.97995,
+    15.762770000000002
+],
+  "geometry": {"coordinates":[-88.97995,15.76277],"type":"Point"}
+}

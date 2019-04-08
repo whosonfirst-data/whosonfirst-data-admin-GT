@@ -1,0 +1,121 @@
+{
+  "id": 421200853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.7075,13.93333,-90.7075,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-90.7075,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0442\u0430\u043f\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u65af\u5854\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Iztapa"
+    ],
+    "name:eng_x_preferred":[
+        "Iztapa"
+    ],
+    "name:fra_x_preferred":[
+        "Iztapa"
+    ],
+    "name:fre_x_preferred":[
+        "Iztapa"
+    ],
+    "name:ita_x_preferred":[
+        "Iztapa"
+    ],
+    "name:pol_x_preferred":[
+        "Iztapa"
+    ],
+    "name:por_x_preferred":[
+        "Iztapa"
+    ],
+    "name:spa_x_preferred":[
+        "Iztapa"
+    ],
+    "name:swe_x_preferred":[
+        "Iztapa"
+    ],
+    "name:unk_x_variant":[
+        "Puerto de Iztapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u5854\u5e15"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3595255,
+    "qs:gn_pop":4020,
+    "qs:name":"Iztapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Escuintla",
+    "qs:photos":159,
+    "qs:photos_1k":32,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":159,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":898357,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83238,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":341,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671677,
+        1108695367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595255,
+        "gp:id":83238,
+        "qs:id":898357,
+        "wd:id":"Q2401869",
+        "wk:page":"Iztapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010044,
+    "wof:geomhash":"e79692649639e8713e0d28b5c9b84c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695367,
+            "locality_id":421200853,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":421200853,
+    "wof:lastmodified":1527716428,
+    "wof:name":"Iztapa",
+    "wof:parent_id":1108695367,
+    "wof:placetype":"locality",
+    "wof:population":4020,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.7075,
+    13.93333,
+    -90.7075,
+    13.93333
+],
+  "geometry": {"coordinates":[-90.7075,13.93333],"type":"Point"}
+}

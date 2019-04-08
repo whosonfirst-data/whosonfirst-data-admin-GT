@@ -1,0 +1,237 @@
+{
+  "id": 421182337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.007611,
+    "geom:area_square_m":91095886.390644,
+    "geom:bbox":"-90.6678538252,14.4732472332,-90.5488833871,14.5858474428",
+    "geom:latitude":14.538327,
+    "geom:longitude":-90.607044,
+    "iso:country":"GT",
+    "lbl:latitude":14.539753,
+    "lbl:longitude":-90.601312,
+    "meso:admin_1":"Guatemala",
+    "meso:diss_me":"VILLA NUEVAGUATEMALA",
+    "meso:gadm_admin":"Villa Nueva",
+    "meso:gaul_admin":"Villa Nueva",
+    "meso:mps_x":-90.601312,
+    "meso:mps_y":14.539753,
+    "meso:name_en":"Villa Nueva",
+    "meso:source":"AOTM",
+    "mps:latitude":14.539753,
+    "mps:longitude":-90.601312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0646\u0648\u064a\u0641\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u09a8\u09cc\u09af\u09bc\u09c7\u09ad\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043b\u044f\u043d\u0443\u0435\u0432\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u4e9e\u52aa\u57c3\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:dan_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:deu_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:epo_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:fin_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:fre_x_preferred":[
+        "villa Nueva"
+    ],
+    "name:ger_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u039d\u03bf\u03c5\u03ad\u03b2\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abf\u0ab2\u0abe \u0aa8\u0ac1\u0a8f\u0ab5\u0abe"
+    ],
+    "name:hbs_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d9\u05d4 \u05e0\u05d5\u05d0\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0940\u092f\u093e \u0928\u0941\u090f\u0935\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30fb\u30cc\u30a8\u30d0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe \u0ca8\u0cc1\u0cb5\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc57c\ub204\uc5d0\ubc14"
+    ],
+    "name:lav_x_preferred":[
+        "Vilja Nueva"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja Nueva"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u093f\u0932\u093e \u0928\u0942\u090f\u0935\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:nob_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:por_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041d\u0443\u044d\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dd2\u0dbd\u0dcf \u0db1\u0dd4\u0d91\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe \u0ba8\u0bc1\u0bb5\u0bc7\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c28\u0c41\u0c35"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e34\u0e25\u0e25\u0e32\u0e19\u0e39\u0e27\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Nueva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u044f-\u041d\u0443\u0435\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627 \u0646\u0648\u06cc\u0648\u0627\u060c \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Villa Nueva"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Villa Nueva",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1884,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":900270,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26806993,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.GU",
+    "statoids:name":"Villa Nueva",
+    "statoids:population":"355901",
+    "statoids:statoid":"GT.GU.VN",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806993,
+        "hasc:id":"GT.GU.VN",
+        "qs:id":900270,
+        "wd:id":"Q1018584"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009326,
+    "wof:geomhash":"e93815ddcc82aeedfdce0f539f7f2e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182337,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421182337,
+    "wof:lastmodified":1553816371,
+    "wof:name":"Villa Nueva",
+    "wof:parent_id":85671681,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":355901,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"VN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.66785382515594,
+    14.47324723322793,
+    -90.54888338711645,
+    14.58584744275812
+],
+  "geometry": {"coordinates":[[[-90.66688522590769,14.58144908466753],[-90.66035266712557,14.58425489591173],[-90.65928600665474,14.58537325218142],[-90.6482307663138,14.58243237567051],[-90.64561957999996,14.57626512557874],[-90.64559800029284,14.5754740825854],[-90.64458410072376,14.57099653299304],[-90.63528858972734,14.56794710091423],[-90.63329275883734,14.56937372802478],[-90.63000704966103,14.57939124565431],[-90.62848644528907,14.58038722115448],[-90.61609834830375,14.5831178087462],[-90.61205804509625,14.58584744275812],[-90.60661862306625,14.57699560820831],[-90.58796010893289,14.57409147753425],[-90.58672535048842,14.57295366784462],[-90.57975055186662,14.56965469909534],[-90.57788639886164,14.5675879737574],[-90.56408051517326,14.57954995827146],[-90.54966126147723,14.57795650060315],[-90.54888338711645,14.57734704202718],[-90.55584695172843,14.56088290420718],[-90.56460203871802,14.55617606438324],[-90.56318773376834,14.5512341248702],[-90.5583952777861,14.54552095266029],[-90.55785924591814,14.52983384983394],[-90.56283142341331,14.52670970883214],[-90.56495347974729,14.5260725392693],[-90.56907981411725,14.51277502925532],[-90.56959609708987,14.51233292238019],[-90.57117689897437,14.50952518472562],[-90.58142420321579,14.50549993280889],[-90.58172563562457,14.49589095365125],[-90.57182391709613,14.48527446789759],[-90.57882272919625,14.47480255600334],[-90.58142445696886,14.47324723322793],[-90.58182986197974,14.47347178757782],[-90.59217816019594,14.48116071041508],[-90.60506704463756,14.48212903140887],[-90.60692528874763,14.48397489098512],[-90.60935278618845,14.48935278618775],[-90.61058677394975,14.49058677394905],[-90.61749958638994,14.49132819625907],[-90.62473382894608,14.49501973117496],[-90.62624690451597,14.50359739536707],[-90.62568956518415,14.50458027757493],[-90.62317089622098,14.51277260286531],[-90.63763076035387,14.52185986985207],[-90.64401365663147,14.5205660826138],[-90.64408668610739,14.52058312174824],[-90.64441981064968,14.52120511158853],[-90.66185686148503,14.52918353965678],[-90.66347038644278,14.5390897371641],[-90.66304651366157,14.54115760531396],[-90.66078954797089,14.54221368387168],[-90.65590532823113,14.5601907317339],[-90.65489277549268,14.56111818079624],[-90.65467405573406,14.56245367864571],[-90.65869217330133,14.56740032526297],[-90.66607536858101,14.57128211050926],[-90.66785382515594,14.57696157868242],[-90.66688522590769,14.58144908466753]]],"type":"Polygon"}
+}

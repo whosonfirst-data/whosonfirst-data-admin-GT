@@ -1,0 +1,101 @@
+{
+  "id": 1126067385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.5,14.63333,-90.5,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":-90.5,
+    "gn:gn_country":"GT",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":14.63333,
+    "gn:longitude":-90.5,
+    "iso:country":"GT",
+    "lbl:latitude":14.63333,
+    "lbl:longitude":-90.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Parque nacional Las Victorias",
+        "Las Victorias"
+    ],
+    "name:unk_x_variant":[
+        "Las Victorias"
+    ],
+    "qs_pg:aaroncc":"GT",
+    "qs_pg:gn_country":"GT",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3593575,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Las Victorias",
+    "qs_pg:name_adm0":"Guatemala",
+    "qs_pg:name_adm1":"Guatemala",
+    "qs_pg:photos":1451,
+    "qs_pg:photos_1k":294,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1451,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211073,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424834,
+    "qs_pg:woe_id":84016,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424834,
+    "woe:name_adm0":"Guatemala",
+    "woe:name_adm1":"Guatemala",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85671681,
+        102191575,
+        85632385,
+        421191461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593575,
+        "gp:id":84016,
+        "qs:id":211073,
+        "qs_pg:id":211073
+    },
+    "wof:country":"GT",
+    "wof:created":1497309101,
+    "wof:geomhash":"e35e0c4979d1b48102b9b317cb2bb1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191461,
+            "locality_id":-1,
+            "neighbourhood_id":1126067385,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1126067385,
+    "wof:lastmodified":1534379333,
+    "wof:name":"Las Victorias",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793869
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.5,
+    14.63333,
+    -90.5,
+    14.63333
+],
+  "geometry": {"coordinates":[-90.5,14.63333],"type":"Point"}
+}

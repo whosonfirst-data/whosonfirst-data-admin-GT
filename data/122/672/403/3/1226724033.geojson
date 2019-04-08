@@ -1,0 +1,70 @@
+{
+  "id": 1226724033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.44347,15.00242,-91.44347,15.00242",
+    "geom:latitude":15.00242,
+    "geom:longitude":-91.44347,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pasuc",
+    "gn:country_code":"GT",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733884,
+    "gn:latitude":15.00242,
+    "gn:longitude":-91.44347,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Pasuc",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pasuc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733884
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b85227f3e389f040caea58ce15b9e4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1226724033,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1226724033,
+    "wof:lastmodified":1537625235,
+    "wof:name":"Pasuc",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.44347,
+    15.00242,
+    -91.44347,
+    15.00242
+],
+  "geometry": {"coordinates":[-91.44347,15.00242],"type":"Point"}
+}

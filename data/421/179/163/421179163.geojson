@@ -1,0 +1,121 @@
+{
+  "id": 421179163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,14.65,-89.73333,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-89.73333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613\u5e0c\u6d1b\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:fra_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:pol_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:por_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:sco_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:swe_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:unk_x_variant":[
+        "Jilotepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u5e0c\u6d1b\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589822,
+    "qs:gn_pop":10306,
+    "qs:name":"San Luis Jilotepeque",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Jalapa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149142,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85776,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        1108695545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589822,
+        "gp:id":85776,
+        "qs:id":149142,
+        "wd:id":"Q568999",
+        "wk:page":"San Luis Jilotepeque"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009206,
+    "wof:geomhash":"03d8670fb0cbe749032b474229b1381b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695545,
+            "locality_id":421179163,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":421179163,
+    "wof:lastmodified":1527717709,
+    "wof:name":"San Luis Jilotepeque",
+    "wof:parent_id":1108695545,
+    "wof:placetype":"locality",
+    "wof:population":10306,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333,
+    14.65,
+    -89.73333,
+    14.65
+],
+  "geometry": {"coordinates":[-89.73333,14.65],"type":"Point"}
+}

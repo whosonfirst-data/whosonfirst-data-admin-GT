@@ -1,0 +1,70 @@
+{
+  "id": 1310290601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.55315,15.81956,-91.55315,15.81956",
+    "geom:latitude":15.81956,
+    "geom:longitude":-91.55315,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yaca",
+    "gn:country_code":"GT",
+    "gn:dem":2766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481933,
+    "gn:latitude":15.81956,
+    "gn:longitude":-91.55315,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yac\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yac\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481933
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8dcf0aeba08f8bc6f10f62e3e3a68f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1310290601,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310290601,
+    "wof:lastmodified":1537625344,
+    "wof:name":"Yaca",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.55315,
+    15.81956,
+    -91.55315,
+    15.81956
+],
+  "geometry": {"coordinates":[-91.55315,15.81956],"type":"Point"}
+}

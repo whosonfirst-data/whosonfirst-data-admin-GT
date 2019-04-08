@@ -1,0 +1,70 @@
+{
+  "id": 1327001027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.22326,15.0482,-91.22326,15.0482",
+    "geom:latitude":15.0482,
+    "geom:longitude":-91.22326,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chujip",
+    "gn:country_code":"GT",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486790,
+    "gn:latitude":15.0482,
+    "gn:longitude":-91.22326,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chujip",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chujip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486790
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a68f7d9b30d450f5353bfc97a133dd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1327001027,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327001027,
+    "wof:lastmodified":1537625359,
+    "wof:name":"Chujip",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.22326,
+    15.0482,
+    -91.22326,
+    15.0482
+],
+  "geometry": {"coordinates":[-91.22326,15.0482],"type":"Point"}
+}

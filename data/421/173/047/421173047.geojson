@@ -1,0 +1,121 @@
+{
+  "id": 421173047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61667,14.58333,-91.61667,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":-91.61667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u7a46\u76e7\u963f"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz Mulu\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Mulu\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u7a46\u76e7\u963f"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589400,
+    "qs:gn_pop":2706,
+    "qs:name":"Santa Cruz Mulu\u00e1",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Retalhuleu",
+    "qs:photos":352,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":352,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":489180,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85979,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        1108695623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589400,
+        "gp:id":85979,
+        "qs:id":489180,
+        "wd:id":"Q1748852",
+        "wk:page":"Santa Cruz Mulu\u00e1"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008969,
+    "wof:geomhash":"62430e441128bcdaa6a264d81b2fac42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695623,
+            "locality_id":421173047,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":421173047,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Santa Cruz Mulu\u00e1",
+    "wof:parent_id":1108695623,
+    "wof:placetype":"locality",
+    "wof:population":2706,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61667,
+    14.58333,
+    -91.61667,
+    14.58333
+],
+  "geometry": {"coordinates":[-91.61667,14.58333],"type":"Point"}
+}

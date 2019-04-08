@@ -1,0 +1,70 @@
+{
+  "id": 1225841881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.83127,15.39675,-91.83127,15.39675",
+    "geom:latitude":15.39675,
+    "geom:longitude":-91.83127,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuicham",
+    "gn:country_code":"GT",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512612,
+    "gn:latitude":15.39675,
+    "gn:longitude":-91.83127,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tuich\u00e1m",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuich\u00e1m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512612
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"21bb51231ba8bc2d712dfdb2442d4840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695511,
+            "locality_id":1225841881,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1225841881,
+    "wof:lastmodified":1537625387,
+    "wof:name":"Tuicham",
+    "wof:parent_id":1108695511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.83127,
+    15.39675,
+    -91.83127,
+    15.39675
+],
+  "geometry": {"coordinates":[-91.83127,15.39675],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243322551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.32564,15.07453,-91.32564,15.07453",
+    "geom:latitude":15.07453,
+    "geom:longitude":-91.32564,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chicastro",
+    "gn:country_code":"GT",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478460,
+    "gn:latitude":15.07453,
+    "gn:longitude":-91.32564,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chicastro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicastro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478460
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8ce1057939aaaedb835da8ed87dc1297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1243322551,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1243322551,
+    "wof:lastmodified":1537625341,
+    "wof:name":"Chicastro",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.32564,
+    15.07453,
+    -91.32564,
+    15.07453
+],
+  "geometry": {"coordinates":[-91.32564000000001,15.07453],"type":"Point"}
+}

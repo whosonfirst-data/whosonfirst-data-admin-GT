@@ -1,0 +1,121 @@
+{
+  "id": 421176765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.66667,15.2,-91.66667,15.2",
+    "geom:latitude":15.2,
+    "geom:longitude":-91.66667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u932b\u5e15\u5361\u5e15"
+    ],
+    "name:deu_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:dut_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:eng_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:fra_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:fre_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:ger_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:ita_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:pol_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:por_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:spa_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:swe_x_preferred":[
+        "Sipacapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5e15\u5361\u5e15"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588726,
+    "qs:gn_pop":661,
+    "qs:name":"Sipacapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":395641,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86268,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":848,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588726,
+        "gp:id":86268,
+        "qs:id":395641,
+        "wd:id":"Q1748824",
+        "wk:page":"Sipacapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009118,
+    "wof:geomhash":"c090865199b84b944d3a27d6a2d22aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695653,
+            "locality_id":421176765,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421176765,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Sipacapa",
+    "wof:parent_id":1108695653,
+    "wof:placetype":"locality",
+    "wof:population":661,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66667,
+    15.2,
+    -91.66667,
+    15.2
+],
+  "geometry": {"coordinates":[-91.66667,15.2],"type":"Point"}
+}

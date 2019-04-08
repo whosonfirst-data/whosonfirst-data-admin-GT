@@ -1,0 +1,71 @@
+{
+  "id": 1293453339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.11621,15.34923,-92.11621,15.34923",
+    "geom:latitude":15.34923,
+    "geom:longitude":-92.11621,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuicoche",
+    "gn:country_code":"GT",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588200,
+    "gn:latitude":15.34923,
+    "gn:longitude":-92.11621,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tuicoche",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuicoch",
+        "Tuicoche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588200
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"11cbd72f65c2a2e962fbe9fa7d1e22f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1293453339,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293453339,
+    "wof:lastmodified":1537625130,
+    "wof:name":"Tuicoche",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.11621,
+    15.34923,
+    -92.11621,
+    15.34923
+],
+  "geometry": {"coordinates":[-92.11621,15.34923],"type":"Point"}
+}

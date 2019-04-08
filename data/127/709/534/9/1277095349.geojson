@@ -1,0 +1,73 @@
+{
+  "id": 1277095349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88333,15.8,-88.88333,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-88.88333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Calix Creek",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599221,
+    "gn:latitude":15.8,
+    "gn:longitude":-88.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"C\u00e1lix Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crique C\u00e1lix",
+        "Calix",
+        "C\u00e1lix Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599221
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e3dd02350ed8d2c0a2339366865c5119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695389,
+            "locality_id":1277095349,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1277095349,
+    "wof:lastmodified":1537625229,
+    "wof:name":"Calix Creek",
+    "wof:parent_id":1108695389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    15.8,
+    -88.88333,
+    15.8
+],
+  "geometry": {"coordinates":[-88.88333,15.8],"type":"Point"}
+}

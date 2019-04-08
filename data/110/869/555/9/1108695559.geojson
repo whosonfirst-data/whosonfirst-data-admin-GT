@@ -1,0 +1,105 @@
+{
+  "id": 1108695559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00091,
+    "geom:area_square_m":10881545.484958,
+    "geom:bbox":"-91.6018039655,14.8190065306,-91.5715707401,14.871014159",
+    "geom:latitude":14.845513,
+    "geom:longitude":-91.58553,
+    "iso:country":"GT",
+    "lbl:latitude":14.84809,
+    "lbl:longitude":-91.585759,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"SAN MATEOQUETZALTENANGO",
+    "meso:gadm_admin":"San Mateo",
+    "meso:gaul_admin":"San Mateo",
+    "meso:mps_x":-91.585759,
+    "meso:mps_y":14.84809,
+    "meso:name_en":"San Mateo",
+    "meso:source":"AOTM",
+    "mps:latitude":14.84809,
+    "mps:longitude":-91.585759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u7279\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Mateo"
+    ],
+    "name:eng_x_preferred":[
+        "San Mateo"
+    ],
+    "name:ita_x_preferred":[
+        "San Mateo"
+    ],
+    "name:pol_x_preferred":[
+        "San Mateo"
+    ],
+    "name:por_x_preferred":[
+        "San Mateo"
+    ],
+    "name:spa_x_preferred":[
+        "San Mateo"
+    ],
+    "name:swe_x_preferred":[
+        "San Mateo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"San Mateo",
+    "statoids:population":"4982",
+    "statoids:statoid":"GT.QZ.SM",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q938168"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493887,
+    "wof:geomhash":"7a1533586d992172e74f978ccf45fb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695559,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695559,
+    "wof:lastmodified":1553816465,
+    "wof:name":"San Mateo",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":4982,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.60180396549512,
+    14.81900653064547,
+    -91.57157074007937,
+    14.87101415900394
+],
+  "geometry": {"coordinates":[[[-91.58955725087705,14.87101415900394],[-91.58299027617424,14.86889984647229],[-91.58221918890554,14.86059005622523],[-91.57557674709346,14.85638764166113],[-91.57629486675319,14.84246969826679],[-91.57266887638531,14.84112683737124],[-91.57157074007937,14.82968092846066],[-91.57388568304683,14.82264068270445],[-91.57495457635477,14.8225885377581],[-91.58256986116508,14.81900653064547],[-91.59123314074705,14.82412635151657],[-91.592254769711,14.82766490624091],[-91.58659670762279,14.83572715616383],[-91.5937279789387,14.84222916744063],[-91.59741613012726,14.84981664662865],[-91.59958059621378,14.85046295027521],[-91.60180396549512,14.86422676501201],[-91.59523557283551,14.86628091761346],[-91.58955725087705,14.87101415900394]]],"type":"Polygon"}
+}

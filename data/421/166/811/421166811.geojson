@@ -1,0 +1,144 @@
+{
+  "id": 421166811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006427,
+    "geom:area_square_m":76639017.076693,
+    "geom:bbox":"-90.4555413319,15.268193813,-90.3732021571,15.4039751876",
+    "geom:latitude":15.340561,
+    "geom:longitude":-90.415767,
+    "iso:country":"GT",
+    "lbl:latitude":15.361645,
+    "lbl:longitude":-90.411726,
+    "meso:admin_1":"Alta Verapaz",
+    "meso:diss_me":"SANTA CRUZ VERAPAZALTA VERAPAZ",
+    "meso:gadm_admin":"Santa Cruz Verapaz",
+    "meso:gaul_admin":"Santa Cruz Verapaz",
+    "meso:mps_x":-90.411726,
+    "meso:mps_y":15.361645,
+    "meso:name_en":"Santa Cruz Verapaz",
+    "meso:source":"AOTM",
+    "mps:latitude":15.361645,
+    "mps:longitude":-90.411726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u8c9d\u62c9\u5e15\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Cruz Verapaz",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Alta Verapaz",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":73,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":510773,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26806920,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.AV",
+    "statoids:name":"Santa Cruz Verapaz",
+    "statoids:population":"19012",
+    "statoids:statoid":"GT.AV.SC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":306,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806920,
+        "hasc:id":"GT.AV.SC",
+        "qs:id":510773,
+        "wd:id":"Q332059"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008703,
+    "wof:geomhash":"1deabbd64e87f5b96bc2f63fdde1b1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421166811,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421166811,
+    "wof:lastmodified":1536615893,
+    "wof:name":"Santa Cruz Verapaz",
+    "wof:parent_id":85671665,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":19012,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"SC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45554133189248,
+    15.26819381303456,
+    -90.37320215706299,
+    15.40397518762533
+],
+  "geometry": {"coordinates":[[[-90.429721940486,15.40397518762533],[-90.41964394945907,15.39752234287656],[-90.41077728659484,15.39937043470649],[-90.40528722481484,15.39],[-90.39000000000071,15.39],[-90.38833843185591,15.38833843185515],[-90.38382562361834,15.38824390718315],[-90.37425559786894,15.37927966591694],[-90.37320215706299,15.3748680518246],[-90.37394047277412,15.37203871213204],[-90.37997234055027,15.3670201746746],[-90.37907105822693,15.36450578712564],[-90.37844736594248,15.35613148963212],[-90.38972329472409,15.34490718621117],[-90.38918714707339,15.3409736930581],[-90.39073376882715,15.33420074984863],[-90.39285006480051,15.3320819703626],[-90.39506878101406,15.32532230682623],[-90.39263416099595,15.31200942344147],[-90.39791302259958,15.30565650659887],[-90.3949365802539,15.29676088305147],[-90.3967793224172,15.28586083427364],[-90.38828853468186,15.2828968706487],[-90.38778520706005,15.28233341757706],[-90.38543294974605,15.27019825885534],[-90.38596553405387,15.26819381303456],[-90.39829939578516,15.26904874278114],[-90.39918434924257,15.26934946454258],[-90.40410658785667,15.27938823130628],[-90.40351639873771,15.2824666142998],[-90.40517539571519,15.28413054245404],[-90.41693909711968,15.28872688542466],[-90.4288651247667,15.28535814387177],[-90.43235424057978,15.28826624856017],[-90.43291148969989,15.28837992475551],[-90.45043600897795,15.2798672955382],[-90.45548733837421,15.2835752189169],[-90.45541288999354,15.29426559478819],[-90.45027512867787,15.30391269868008],[-90.44550198775649,15.30748336314251],[-90.44426087106791,15.31515391537752],[-90.44337390261256,15.31676015015339],[-90.44279507276369,15.32037935582549],[-90.43003681544938,15.32562028792534],[-90.4287413565856,15.32686822914825],[-90.42820912986835,15.34000989915862],[-90.43934127557654,15.34714912128085],[-90.43952623978048,15.34752456357062],[-90.43985919980315,15.34782453100481],[-90.44403722261572,15.3492548718409],[-90.4473074866202,15.35783482972179],[-90.45325862334857,15.36107503738155],[-90.45497687358892,15.36482463440559],[-90.45554133189248,15.36839097917287],[-90.44403630566339,15.37845826822318],[-90.44633675939997,15.38546502374414],[-90.44646514722488,15.38628272309962],[-90.43441788567542,15.39192070648951],[-90.429721940486,15.40397518762533]]],"type":"Polygon"}
+}

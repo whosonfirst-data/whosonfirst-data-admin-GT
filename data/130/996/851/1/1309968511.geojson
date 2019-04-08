@@ -1,0 +1,72 @@
+{
+  "id": 1309968511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43333,14.63333,-91.43333,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":-91.43333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pacamche",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591974,
+    "gn:latitude":14.63333,
+    "gn:longitude":-91.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pacamch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pacamach\u00e9",
+        "Pacamch\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        1108695617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591974
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"dc183128cb0f769673dcf949b97332bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695617,
+            "locality_id":1309968511,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1309968511,
+    "wof:lastmodified":1537625163,
+    "wof:name":"Pacamche",
+    "wof:parent_id":1108695617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43333,
+    14.63333,
+    -91.43333,
+    14.63333
+],
+  "geometry": {"coordinates":[-91.43333,14.63333],"type":"Point"}
+}

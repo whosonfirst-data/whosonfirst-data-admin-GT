@@ -1,0 +1,72 @@
+{
+  "id": 1293272175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.46667,16.48333,-90.46667,16.48333",
+    "geom:latitude":16.48333,
+    "geom:longitude":-90.46667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Caribe",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597465,
+    "gn:latitude":16.48333,
+    "gn:longitude":-90.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Caribe",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caribe",
+        "El Caribe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421187939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597465
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b25e3bcabe56c726b35e57faaa118a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421187939,
+            "locality_id":1293272175,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1293272175,
+    "wof:lastmodified":1537625213,
+    "wof:name":"El Caribe",
+    "wof:parent_id":421187939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.46667,
+    16.48333,
+    -90.46667,
+    16.48333
+],
+  "geometry": {"coordinates":[-90.46666999999999,16.48333],"type":"Point"}
+}

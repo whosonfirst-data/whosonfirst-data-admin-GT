@@ -1,0 +1,73 @@
+{
+  "id": 1309683711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.0269,14.75381,-92.0269,14.75381",
+    "geom:latitude":14.75381,
+    "geom:longitude":-92.0269,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Providencia",
+    "gn:country_code":"GT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594169,
+    "gn:latitude":14.75381,
+    "gn:longitude":-92.0269,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Providencia"
+    ],
+    "name:spa_x_variant":[
+        "Hacienda La Providencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594169
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"94c4118e4b7f15361e59bbe0cc27ec80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1309683711,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309683711,
+    "wof:lastmodified":1537625181,
+    "wof:name":"La Providencia",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0269,
+    14.75381,
+    -92.0269,
+    14.75381
+],
+  "geometry": {"coordinates":[-92.0269,14.75381],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343980831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.95,15.0,-89.95,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-89.95,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Arrozal",
+    "gn:country_code":"GT",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599655,
+    "gn:latitude":15.0,
+    "gn:longitude":-89.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Arrozal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        421184713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599655
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"60b7c845c1c73ad908b48cc605ec87a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184713,
+            "locality_id":1343980831,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1343980831,
+    "wof:lastmodified":1536989791,
+    "wof:name":"Arrozal",
+    "wof:parent_id":421184713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.95,
+    15.0,
+    -89.95,
+    15.0
+],
+  "geometry": {"coordinates":[-89.95,15.0],"type":"Point"}
+}

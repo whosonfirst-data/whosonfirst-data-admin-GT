@@ -1,0 +1,73 @@
+{
+  "id": 1259654731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.16793,15.19506,-91.16793,15.19506",
+    "geom:latitude":15.19506,
+    "geom:longitude":-91.16793,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tzujil",
+    "gn:country_code":"GT",
+    "gn:dem":2402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733938,
+    "gn:latitude":15.19506,
+    "gn:longitude":-91.16793,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tzujil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tzujil"
+    ],
+    "name:und_x_variant":[
+        "Sichugil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733938
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"63715c907114af861f80d79d565aac74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1259654731,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259654731,
+    "wof:lastmodified":1537625236,
+    "wof:name":"Tzujil",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.16793,
+    15.19506,
+    -91.16793,
+    15.19506
+],
+  "geometry": {"coordinates":[-91.16793,15.19506],"type":"Point"}
+}

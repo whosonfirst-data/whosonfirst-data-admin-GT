@@ -1,0 +1,70 @@
+{
+  "id": 1309791557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.33304,15.26175,-91.33304,15.26175",
+    "geom:latitude":15.26175,
+    "geom:longitude":-91.33304,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Piedra del Tambor",
+    "gn:country_code":"GT",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11488383,
+    "gn:latitude":15.26175,
+    "gn:longitude":-91.33304,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Piedra del Tambor",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra del Tambor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421186319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11488383
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"85f4423cc62d6bcd154ba4413a7542a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421186319,
+            "locality_id":1309791557,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309791557,
+    "wof:lastmodified":1537625361,
+    "wof:name":"Piedra del Tambor",
+    "wof:parent_id":421186319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.33304,
+    15.26175,
+    -91.33304,
+    15.26175
+],
+  "geometry": {"coordinates":[-91.33304,15.26175],"type":"Point"}
+}

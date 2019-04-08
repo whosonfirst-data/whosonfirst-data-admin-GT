@@ -1,0 +1,67 @@
+{
+  "id": 1309885999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.43667,16.35806,-89.43667,16.35806",
+    "geom:latitude":16.35806,
+    "geom:longitude":-89.43667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"GT",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759570,
+    "gn:latitude":16.35806,
+    "gn:longitude":-89.43667,
+    "gn:modification_date":"1997-02-28",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421203225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759570
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"98ca94071450616e58f94a41205a67e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203225,
+            "locality_id":1309885999,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1309885999,
+    "wof:lastmodified":1536814839,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":421203225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.43666999999998,
+    16.35806,
+    -89.43666999999998,
+    16.35806
+],
+  "geometry": {"coordinates":[-89.43666999999998,16.35806],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 421204161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,15.63333,-89.0,15.63333",
+    "geom:latitude":15.63333,
+    "geom:longitude":-89.0,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Castillo de San Felipe"
+    ],
+    "name:spa_x_preferred":[
+        "Castillo de San Felipe"
+    ],
+    "name:swe_x_preferred":[
+        "Castillo de San Felipe"
+    ],
+    "name:unk_x_variant":[
+        "San Felipe"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3598964,
+    "qs:gn_pop":0,
+    "qs:name":"Castillo de San Felipe",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Izabal",
+    "qs:photos":527,
+    "qs:photos_1k":107,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":527,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238569,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":81407,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598964,
+        "gp:id":81407,
+        "qs:id":238569
+    },
+    "wof:country":"GT",
+    "wof:created":1459010175,
+    "wof:geomhash":"1e66e7731803866919588db00c6baf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695389,
+            "locality_id":421204161,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":421204161,
+    "wof:lastmodified":1527716178,
+    "wof:name":"Castillo de San Felipe",
+    "wof:parent_id":1108695389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    15.63333,
+    -89.0,
+    15.63333
+],
+  "geometry": {"coordinates":[-89.0,15.63333],"type":"Point"}
+}

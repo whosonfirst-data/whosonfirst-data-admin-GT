@@ -1,0 +1,66 @@
+{
+  "id": 1209410257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.91667,14.65,-89.91667,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-89.91667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Riscos",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592895,
+    "gn:latitude":14.65,
+    "gn:longitude":-89.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Riscos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinc\u00f3n",
+        "Los Riscos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592895
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"18abccd51606d907d96212d306312976",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209410257
+        }
+    ],
+    "wof:id":1209410257,
+    "wof:lastmodified":1537625169,
+    "wof:name":"Los Riscos",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91667,
+    14.65,
+    -89.91667,
+    14.65
+],
+  "geometry": {"coordinates":[-89.91667,14.65],"type":"Point"}
+}

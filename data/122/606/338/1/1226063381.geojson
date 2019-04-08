@@ -1,0 +1,67 @@
+{
+  "id": 1226063381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.2,14.65,-90.2,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-90.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sampaquisoy",
+    "gn:country_code":"GT",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590558,
+    "gn:latitude":14.65,
+    "gn:longitude":-90.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sampaquisoy",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421191465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590558
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"aed4e4558f83f38b4fca2aad3120cc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191465,
+            "locality_id":1226063381,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1226063381,
+    "wof:lastmodified":1536700070,
+    "wof:name":"Sampaquisoy",
+    "wof:parent_id":421191465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.2,
+    14.65,
+    -90.2,
+    14.65
+],
+  "geometry": {"coordinates":[-90.2,14.65],"type":"Point"}
+}

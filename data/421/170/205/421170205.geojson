@@ -1,0 +1,127 @@
+{
+  "id": 421170205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.41139,14.54611,-90.41139,14.54611",
+    "geom:latitude":14.54611,
+    "geom:longitude":-90.41139,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u76ae\u52aa\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:ger_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30db\u30bb\u30fb\u30d4\u30cc\u30fc\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud638\uc138\ud53c\ub20c\ub77c"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:sco_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589977,
+    "qs:gn_pop":47247,
+    "qs:name":"San Jos\u00e9 Pinula",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":218,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":218,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":228572,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85710,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589977,
+        "gp:id":85710,
+        "qs:id":228572,
+        "wd:id":"Q317380",
+        "wk:page":"San Jos\u00e9 Pinula"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008842,
+    "wof:geomhash":"117f790d0366b1602a6a515a1c0504e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695529,
+            "locality_id":421170205,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421170205,
+    "wof:lastmodified":1527716463,
+    "wof:name":"San Jos\u00e9 Pinula",
+    "wof:parent_id":1108695529,
+    "wof:placetype":"locality",
+    "wof:population":47247,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.41139,
+    14.54611,
+    -90.41139,
+    14.54611
+],
+  "geometry": {"coordinates":[-90.41139,14.54611],"type":"Point"}
+}

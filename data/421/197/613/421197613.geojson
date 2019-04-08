@@ -1,0 +1,123 @@
+{
+  "id": 421197613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58333,14.56667,-91.58333,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-91.58333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u6bd4\u5229\u4e9e\u585e\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:nah_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:sco_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
+    "name:unk_x_variant":[
+        "San Andr\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u6bd4\u5229\u4e9e\u585e\u5361"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590522,
+    "qs:gn_pop":5102,
+    "qs:name":"San Andr\u00e9s Villa Seca",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Retalhuleu",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149164,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85499,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        1108695469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590522,
+        "gp:id":85499,
+        "qs:id":149164,
+        "wd:id":"Q2401685"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"afac2b03145f5b5c89825d7e8209eb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695469,
+            "locality_id":421197613,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":421197613,
+    "wof:lastmodified":1527716405,
+    "wof:name":"San Andr\u00e9s Villa Seca",
+    "wof:parent_id":1108695469,
+    "wof:placetype":"locality",
+    "wof:population":5102,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58333,
+    14.56667,
+    -91.58333,
+    14.56667
+],
+  "geometry": {"coordinates":[-91.58333,14.56667],"type":"Point"}
+}

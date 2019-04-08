@@ -1,0 +1,70 @@
+{
+  "id": 1259468473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54838,15.64365,-91.54838,15.64365",
+    "geom:latitude":15.64365,
+    "geom:longitude":-91.54838,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Suntelaj",
+    "gn:country_code":"GT",
+    "gn:dem":2707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476938,
+    "gn:latitude":15.64365,
+    "gn:longitude":-91.54838,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Suntelaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Suntelaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476938
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6570df905833fa6ea2431c11cc464d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1259468473,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259468473,
+    "wof:lastmodified":1537625326,
+    "wof:name":"Suntelaj",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54838,
+    15.64365,
+    -91.54838,
+    15.64365
+],
+  "geometry": {"coordinates":[-91.54837999999999,15.64365],"type":"Point"}
+}

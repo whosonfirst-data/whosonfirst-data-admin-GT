@@ -1,0 +1,74 @@
+{
+  "id": 1309777525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03752,14.98921,-92.03752,14.98921",
+    "geom:latitude":14.98921,
+    "geom:longitude":-92.03752,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Clarita",
+    "gn:country_code":"GT",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598126,
+    "gn:latitude":14.98921,
+    "gn:longitude":-92.03752,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Clarita",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Clarita"
+    ],
+    "name:und_x_variant":[
+        "La Clarita",
+        "Finca Clarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598126
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9aeb3047eabc0e3a888d9dd6a12cd263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695575,
+            "locality_id":1309777525,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1309777525,
+    "wof:lastmodified":1537625218,
+    "wof:name":"Clarita",
+    "wof:parent_id":1108695575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03752,
+    14.98921,
+    -92.03752,
+    14.98921
+],
+  "geometry": {"coordinates":[-92.03752,14.98921],"type":"Point"}
+}

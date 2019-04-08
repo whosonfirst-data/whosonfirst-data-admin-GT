@@ -1,0 +1,115 @@
+{
+  "id": 421179179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45,14.53333,-91.45,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":-91.45,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u8c9d\u7d0d\u8fea\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:eng_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:fre_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:ita_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:pol_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:por_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:sco_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:spa_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:swe_x_preferred":[
+        "San Bernardino"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8c9d\u7d0d\u8fea\u8afe"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590384,
+    "qs:gn_pop":5501,
+    "qs:name":"San Bernardino",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Suchitepequez",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":118,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149160,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85557,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590384,
+        "gp:id":85557,
+        "qs:id":149160,
+        "wd:id":"Q1748616",
+        "wk:page":"San Bernardino, Suchitep\u00e9quez"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"0edf8146865f952c97dc9ebae00683a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695489,
+            "locality_id":421179179,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":421179179,
+    "wof:lastmodified":1527717716,
+    "wof:name":"San Bernardino",
+    "wof:parent_id":1108695489,
+    "wof:placetype":"locality",
+    "wof:population":5501,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45,
+    14.53333,
+    -91.45,
+    14.53333
+],
+  "geometry": {"coordinates":[-91.45,14.53333],"type":"Point"}
+}

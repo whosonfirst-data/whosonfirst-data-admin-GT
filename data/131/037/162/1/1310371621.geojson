@@ -1,0 +1,67 @@
+{
+  "id": 1310371621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.60028,13.92278,-90.60028,13.92278",
+    "geom:latitude":13.92278,
+    "geom:longitude":-90.60028,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Gariton",
+    "gn:country_code":"GT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597050,
+    "gn:latitude":13.92278,
+    "gn:longitude":-90.60028,
+    "gn:modification_date":"1998-09-22",
+    "gn:name":"El Garit\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597050
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b3eac0767a792bb34578b6952187aa0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1310371621,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1310371621,
+    "wof:lastmodified":1536610095,
+    "wof:name":"El Gariton",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.60028,
+    13.92278,
+    -90.60028,
+    13.92278
+],
+  "geometry": {"coordinates":[-90.60028,13.92278],"type":"Point"}
+}

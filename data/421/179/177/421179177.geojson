@@ -1,0 +1,118 @@
+{
+  "id": 421179177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.78333,14.9,-91.78333,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-91.78333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u5eab\u55ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:pol_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
+    "name:unk_x_variant":[
+        "San Crist\u00f3bal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u5eab\u55ac"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590323,
+    "qs:gn_pop":9152,
+    "qs:name":"San Crist\u00f3bal Cucho",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"San Marcos",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149158,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85571,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590323,
+        "gp:id":85571,
+        "qs:id":149158,
+        "wd:id":"Q1748857",
+        "wk:page":"San Crist\u00f3bal Cucho"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"15c324f71b30aba272881d9cb66c46df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695497,
+            "locality_id":421179177,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":421179177,
+    "wof:lastmodified":1527717716,
+    "wof:name":"San Crist\u00f3bal Cucho",
+    "wof:parent_id":1108695497,
+    "wof:placetype":"locality",
+    "wof:population":9152,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.78333,
+    14.9,
+    -91.78333,
+    14.9
+],
+  "geometry": {"coordinates":[-91.78333000000001,14.9],"type":"Point"}
+}

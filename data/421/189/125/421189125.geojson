@@ -1,0 +1,145 @@
+{
+  "id": 421189125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002327,
+    "geom:area_square_m":27832150.943456,
+    "geom:bbox":"-91.1390525096,14.6270761408,-91.0750237065,14.7004842215",
+    "geom:latitude":14.661867,
+    "geom:longitude":-91.107458,
+    "iso:country":"GT",
+    "lbl:latitude":14.656244,
+    "lbl:longitude":-91.104794,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SAN ANTONIO PALOPOSOLOLA",
+    "meso:gadm_admin":"San Antonio Palop\u00f3",
+    "meso:gaul_admin":"San Antonio Palap\u00f3",
+    "meso:mps_x":-91.104794,
+    "meso:mps_y":14.656244,
+    "meso:name_en":"San Antonio Palopo",
+    "meso:source":"AOTM",
+    "mps:latitude":14.656244,
+    "mps:longitude":-91.104794,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u7fc1\u5e15\u6d1b\u6ce2"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:eng_x_variant":[
+        "San Antonio Palap\u00f3",
+        "San Antonio Palop\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:lit_x_preferred":[
+        "San Antonijo Palopo"
+    ],
+    "name:nah_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio Palop\u00f3"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Antonio Palopo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":397,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110197,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807202,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"San Antonio Palop\u00f3",
+    "statoids:population":"10520",
+    "statoids:statoid":"GT.SO.AP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":1331,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807202,
+        "hasc:id":"GT.SO.AP",
+        "qs:id":1110197,
+        "wd:id":"Q2609248"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009605,
+    "wof:geomhash":"37ddabee119ebc0d7160c62f2130c546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189125,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421189125,
+    "wof:lastmodified":1536616075,
+    "wof:name":"San Antonio Palopo",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":10520,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"AP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13905250961618,
+    14.62707614082438,
+    -91.07502370647974,
+    14.70048422149421
+],
+  "geometry": {"coordinates":[[[-91.137067515563,14.64447250511333],[-91.12945043660966,14.65791111864942],[-91.12854042456877,14.65900757594842],[-91.12374257483717,14.65781272273972],[-91.1183122834865,14.66103680362254],[-91.11458234573399,14.6672570090029],[-91.11433954975502,14.67165805438148],[-91.1118391513907,14.67742115594284],[-91.11259643691228,14.68014055971454],[-91.11437603919396,14.68129437126876],[-91.11663303214679,14.68485549585654],[-91.11752787685319,14.69995556489688],[-91.1080046243694,14.70048422149421],[-91.10188117824383,14.69028497269692],[-91.09192237447574,14.69364553161536],[-91.09175559522845,14.69387832159234],[-91.08702658746503,14.69488418377511],[-91.075628257692,14.69264068668644],[-91.07502370647974,14.69190938125071],[-91.07860411724967,14.68455932605108],[-91.08523903176493,14.67567792246295],[-91.08491436843217,14.67495790433271],[-91.09108480306746,14.66254062235527],[-91.09000000000057,14.65562484202448],[-91.09000000000057,14.65],[-91.09225585499992,14.64774414500063],[-91.09567668852713,14.63835521731902],[-91.09695537986211,14.6382620269219],[-91.10438705448429,14.63525551472516],[-91.11193405780553,14.62707614082438],[-91.12239633656139,14.63013747693778],[-91.12420544861212,14.6288110851747],[-91.13334729796644,14.62924535083136],[-91.13905250961618,14.63954623319226],[-91.13702130208436,14.64413965507326],[-91.137067515563,14.64447250511333]]],"type":"Polygon"}
+}

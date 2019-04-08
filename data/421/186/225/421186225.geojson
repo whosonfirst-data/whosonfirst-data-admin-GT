@@ -1,0 +1,115 @@
+{
+  "id": 421186225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.75,15.8,-91.75,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-91.75,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5ae9\u901a"
+    ],
+    "name:dut_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Nent\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ae9\u901a"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592217,
+    "qs:gn_pop":2530,
+    "qs:name":"Nent\u00f3n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1062236,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84589,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592217,
+        "gp:id":84589,
+        "qs:id":1062236,
+        "wd:id":"Q2402097",
+        "wk:page":"Nent\u00f3n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009474,
+    "wof:geomhash":"cb987d0656ad85687b61f5edee76a7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695407,
+            "locality_id":421186225,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421186225,
+    "wof:lastmodified":1527716317,
+    "wof:name":"Nent\u00f3n",
+    "wof:parent_id":1108695407,
+    "wof:placetype":"locality",
+    "wof:population":2530,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75,
+    15.8,
+    -91.75,
+    15.8
+],
+  "geometry": {"coordinates":[-91.75,15.8],"type":"Point"}
+}

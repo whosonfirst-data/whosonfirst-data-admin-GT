@@ -1,0 +1,70 @@
+{
+  "id": 1226009137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.33279,15.02423,-91.33279,15.02423",
+    "geom:latitude":15.02423,
+    "geom:longitude":-91.33279,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chuichac",
+    "gn:country_code":"GT",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478168,
+    "gn:latitude":15.02423,
+    "gn:longitude":-91.33279,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chuichac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chuichac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421191321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478168
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"eedac9f83e9c4252b94d55631778da42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191321,
+            "locality_id":1226009137,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1226009137,
+    "wof:lastmodified":1537625336,
+    "wof:name":"Chuichac",
+    "wof:parent_id":421191321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.33279,
+    15.02423,
+    -91.33279,
+    15.02423
+],
+  "geometry": {"coordinates":[-91.33279,15.02423],"type":"Point"}
+}

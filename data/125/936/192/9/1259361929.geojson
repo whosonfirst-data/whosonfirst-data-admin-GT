@@ -1,0 +1,70 @@
+{
+  "id": 1259361929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1015,15.28414,-91.1015,15.28414",
+    "geom:latitude":15.28414,
+    "geom:longitude":-91.1015,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chupacay",
+    "gn:country_code":"GT",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482507,
+    "gn:latitude":15.28414,
+    "gn:longitude":-91.1015,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chupacay",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chupacay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482507
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cabbb9db1d196133626db05a696b113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169961,
+            "locality_id":1259361929,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259361929,
+    "wof:lastmodified":1537625346,
+    "wof:name":"Chupacay",
+    "wof:parent_id":421169961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1015,
+    15.28414,
+    -91.1015,
+    15.28414
+],
+  "geometry": {"coordinates":[-91.1015,15.28414],"type":"Point"}
+}

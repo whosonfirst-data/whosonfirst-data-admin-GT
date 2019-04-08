@@ -1,0 +1,67 @@
+{
+  "id": 1209687391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.13123,14.99446,-92.13123,14.99446",
+    "geom:latitude":14.99446,
+    "geom:longitude":-92.13123,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Veinte de Abril",
+    "gn:country_code":"GT",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638953,
+    "gn:latitude":14.99446,
+    "gn:longitude":-92.13123,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Veinte de Abril",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Viente de Abril"
+    ],
+    "name:spa_x_variant":[
+        "Veinte de Abril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638953
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a584c3da782186bb92799b9540b62d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209687391
+        }
+    ],
+    "wof:id":1209687391,
+    "wof:lastmodified":1537625274,
+    "wof:name":"Veinte de Abril",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.13123,
+    14.99446,
+    -92.13123,
+    14.99446
+],
+  "geometry": {"coordinates":[-92.13123,14.99446],"type":"Point"}
+}

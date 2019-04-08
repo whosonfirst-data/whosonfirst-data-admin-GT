@@ -1,0 +1,66 @@
+{
+  "id": 1209300749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.48333,14.81667,-91.48333,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-91.48333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Las Delicias",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593960,
+    "gn:latitude":14.81667,
+    "gn:longitude":-91.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chocantel",
+        "Las Delicias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593960
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"97bf5e04c45a2bc8a81cadf2b26175cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209300749
+        }
+    ],
+    "wof:id":1209300749,
+    "wof:lastmodified":1537625179,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.48333,
+    14.81667,
+    -91.48333,
+    14.81667
+],
+  "geometry": {"coordinates":[-91.48333,14.81667],"type":"Point"}
+}

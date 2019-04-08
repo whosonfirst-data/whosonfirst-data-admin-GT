@@ -1,0 +1,61 @@
+{
+  "id": 1209693029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.88333,16.93333,-89.88333,16.93333",
+    "geom:latitude":16.93333,
+    "geom:longitude":-89.88333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"GT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589751,
+    "gn:latitude":16.93333,
+    "gn:longitude":-89.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589751
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ff04c1f42b1a4b8ec833284ce52b01cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209693029
+        }
+    ],
+    "wof:id":1209693029,
+    "wof:lastmodified":1536279172,
+    "wof:name":"San Miguel",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.88333,
+    16.933329999999998,
+    -89.88333,
+    16.933329999999998
+],
+  "geometry": {"coordinates":[-89.88333,16.93333],"type":"Point"}
+}

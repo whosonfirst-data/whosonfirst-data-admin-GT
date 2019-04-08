@@ -1,0 +1,112 @@
+{
+  "id": 421178905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001972,
+    "geom:area_square_m":23609731.283214,
+    "geom:bbox":"-90.5817256356,14.4721671427,-90.5317643549,14.5455209527",
+    "geom:latitude":14.509277,
+    "geom:longitude":-90.554064,
+    "iso:country":"GT",
+    "lbl:latitude":14.514327,
+    "lbl:longitude":-90.555767,
+    "meso:admin_1":"Guatemala",
+    "meso:diss_me":"PETAPAGUATEMALA",
+    "meso:gadm_admin":"Petapa",
+    "meso:gaul_admin":"Petapa",
+    "meso:mps_x":-90.555767,
+    "meso:mps_y":14.514327,
+    "meso:name_en":"Petapa",
+    "meso:source":"AOTM",
+    "mps:latitude":14.514327,
+    "mps:longitude":-90.555767,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "San Miguel Petapa"
+    ],
+    "name:eng_x_variant":[
+        "Petapa"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Petapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":200,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":288296,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26806996,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.GU",
+    "statoids:name":"San Miguel Petapa",
+    "statoids:population":"101242",
+    "statoids:statoid":"GT.GU.MP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806996,
+        "hasc:id":"GT.GU.MP",
+        "qs:id":288296
+    },
+    "wof:country":"GT",
+    "wof:created":1459009197,
+    "wof:geomhash":"693578e44becffabbb1157cbc192d9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178905,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421178905,
+    "wof:lastmodified":1536615963,
+    "wof:name":"Petapa",
+    "wof:parent_id":85671681,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":101242,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"MP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.58172563562457,
+    14.47216714271711,
+    -90.53176435491365,
+    14.54552095266029
+],
+  "geometry": {"coordinates":[[[-90.5583952777861,14.54552095266029],[-90.54609871967489,14.54290535259661],[-90.54609105067273,14.54289399584922],[-90.53320670556404,14.53745920597617],[-90.53268083810431,14.53398138937673],[-90.53187398928215,14.52793228066232],[-90.5333680829627,14.52560549970291],[-90.53176435491365,14.51413556264873],[-90.54740196878117,14.50534318967615],[-90.54822882787826,14.50118141627388],[-90.54766436121717,14.4939524326687],[-90.54076950927038,14.49035587821456],[-90.5400703238745,14.47384508628461],[-90.55419869154466,14.47216714271711],[-90.55908464394901,14.48685198974655],[-90.56544969883429,14.48791542573824],[-90.57182391709613,14.48527446789759],[-90.58172563562457,14.49589095365125],[-90.58142420321579,14.50549993280889],[-90.57117689897437,14.50952518472562],[-90.56959609708987,14.51233292238019],[-90.56907981411725,14.51277502925532],[-90.56495347974729,14.5260725392693],[-90.56283142341331,14.52670970883214],[-90.55785924591814,14.52983384983394],[-90.5583952777861,14.54552095266029]]],"type":"Polygon"}
+}

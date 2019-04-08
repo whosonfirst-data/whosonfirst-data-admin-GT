@@ -1,0 +1,73 @@
+{
+  "id": 1327419179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.07686,15.46589,-92.07686,15.46589",
+    "geom:latitude":15.46589,
+    "geom:longitude":-92.07686,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oaxaqueno",
+    "gn:country_code":"GT",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592102,
+    "gn:latitude":15.46589,
+    "gn:longitude":-92.07686,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Oaxaque\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Oxaque\u00f1o",
+        "Platanillo Oaxaque\u00f1o",
+        "Oajaque\u00f1o",
+        "Oaxaque\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592102
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3f1a6336f542cb789043fb15ec0f686f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1327419179,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327419179,
+    "wof:lastmodified":1537625164,
+    "wof:name":"Oaxaqueno",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.07686,
+    15.46589,
+    -92.07686,
+    15.46589
+],
+  "geometry": {"coordinates":[-92.07686,15.46589],"type":"Point"}
+}

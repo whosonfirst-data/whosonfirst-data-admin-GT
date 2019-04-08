@@ -1,0 +1,73 @@
+{
+  "id": 1243383609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.934,15.61013,-91.934,15.61013",
+    "geom:latitude":15.61013,
+    "geom:longitude":-91.934,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santo Domingo Merton",
+    "gn:country_code":"GT",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589082,
+    "gn:latitude":15.61013,
+    "gn:longitude":-91.934,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Santo Domingo Mert\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Finca Santo Domingo"
+    ],
+    "name:spa_x_variant":[
+        "Santo Domingo Mert\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589082
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4f94e8a3c44532f57b329f9159e08751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185571,
+            "locality_id":1243383609,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1243383609,
+    "wof:lastmodified":1537625140,
+    "wof:name":"Santo Domingo Merton",
+    "wof:parent_id":421185571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.934,
+    15.61013,
+    -91.934,
+    15.61013
+],
+  "geometry": {"coordinates":[-91.934,15.61013],"type":"Point"}
+}

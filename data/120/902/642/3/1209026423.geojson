@@ -1,0 +1,64 @@
+{
+  "id": 1209026423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73946,15.44575,-91.73946,15.44575",
+    "geom:latitude":15.44575,
+    "geom:longitude":-91.73946,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Morales",
+    "gn:country_code":"GT",
+    "gn:dem":1814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454437,
+    "gn:latitude":15.44575,
+    "gn:longitude":-91.73946,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Morales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454437
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"38e02fb4435e2dd56395c20d7314bc89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209026423
+        }
+    ],
+    "wof:id":1209026423,
+    "wof:lastmodified":1537625293,
+    "wof:name":"Morales",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73946,
+    15.44575,
+    -91.73946,
+    15.44575
+],
+  "geometry": {"coordinates":[-91.73945999999999,15.44575],"type":"Point"}
+}

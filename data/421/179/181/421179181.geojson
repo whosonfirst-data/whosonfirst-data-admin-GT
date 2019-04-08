@@ -1,0 +1,121 @@
+{
+  "id": 421179181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.68,14.60611,-90.68,14.60611",
+    "geom:latitude":14.60611,
+    "geom:longitude":-90.68,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u6258\u6d1b\u6885\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:eng_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:fra_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:fre_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:ita_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:pol_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:por_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:sco_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:swe_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
+    "name:unk_x_variant":[
+        "San Bartolom\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5df4\u6258\u6d1b\u6885\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590393,
+    "qs:gn_pop":6261,
+    "qs:name":"San Bartolom\u00e9 Milpas Altas",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149161,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85554,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":369,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        1108695485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590393,
+        "gp:id":85554,
+        "qs:id":149161,
+        "wd:id":"Q2401093",
+        "wk:page":"San Bartolom\u00e9 Milpas Altas"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"c0f98c851c103677171ef59e4a8d5f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695485,
+            "locality_id":421179181,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421179181,
+    "wof:lastmodified":1527717707,
+    "wof:name":"San Bartolom\u00e9 Milpas Altas",
+    "wof:parent_id":1108695485,
+    "wof:placetype":"locality",
+    "wof:population":6261,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.68,
+    14.60611,
+    -90.68,
+    14.60611
+],
+  "geometry": {"coordinates":[-90.68000000000001,14.60611],"type":"Point"}
+}

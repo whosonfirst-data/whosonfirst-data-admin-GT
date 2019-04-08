@@ -1,0 +1,70 @@
+{
+  "id": 1243513399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.51043,15.08757,-91.51043,15.08757",
+    "geom:latitude":15.08757,
+    "geom:longitude":-91.51043,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Patrubala",
+    "gn:country_code":"GT",
+    "gn:dem":2609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457470,
+    "gn:latitude":15.08757,
+    "gn:longitude":-91.51043,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Patrubal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patrubal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457470
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d6c217ada3e67d7e473d9b6fb996cbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1243513399,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1243513399,
+    "wof:lastmodified":1537625299,
+    "wof:name":"Patrubala",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.51043,
+    15.08757,
+    -91.51043,
+    15.08757
+],
+  "geometry": {"coordinates":[-91.51043,15.08757],"type":"Point"}
+}

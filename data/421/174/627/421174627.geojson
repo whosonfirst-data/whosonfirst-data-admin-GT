@@ -1,0 +1,88 @@
+{
+  "id": 421174627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.48,13.89417,-90.48,13.89417",
+    "geom:latitude":13.89417,
+    "geom:longitude":-90.48,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Monterrico"
+    ],
+    "name:ita_x_preferred":[
+        "Monterrico"
+    ],
+    "name:spa_x_preferred":[
+        "Monterrico"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3592390,
+    "qs:gn_pop":0,
+    "qs:name":"Monterrico",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Santa Rosa",
+    "qs:photos":605,
+    "qs:photos_1k":123,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":605,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889976,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84531,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-24.451389,
+    "wd:longitude":-65.166667,
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592390,
+        "gp:id":84531,
+        "qs:id":889976
+    },
+    "wof:country":"GT",
+    "wof:created":1459009038,
+    "wof:geomhash":"277c3499b794c9f21da5443d5df98e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":421174627,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":421174627,
+    "wof:lastmodified":1527716225,
+    "wof:name":"Monterrico",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.48,
+    13.89417,
+    -90.48,
+    13.89417
+],
+  "geometry": {"coordinates":[-90.48,13.89417],"type":"Point"}
+}

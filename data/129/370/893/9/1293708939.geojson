@@ -1,0 +1,70 @@
+{
+  "id": 1293708939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63606,15.46388,-91.63606,15.46388",
+    "geom:latitude":15.46388,
+    "geom:longitude":-91.63606,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Topojop",
+    "gn:country_code":"GT",
+    "gn:dem":2678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456088,
+    "gn:latitude":15.46388,
+    "gn:longitude":-91.63606,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Topojop",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Topojop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421173721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456088
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5a3f1e0f23bbd3fb02b6bd0348ca97c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421173721,
+            "locality_id":1293708939,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293708939,
+    "wof:lastmodified":1537625294,
+    "wof:name":"Topojop",
+    "wof:parent_id":421173721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63606,
+    15.46388,
+    -91.63606,
+    15.46388
+],
+  "geometry": {"coordinates":[-91.63606,15.46388],"type":"Point"}
+}

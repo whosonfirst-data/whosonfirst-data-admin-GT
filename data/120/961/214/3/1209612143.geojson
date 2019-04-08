@@ -1,0 +1,64 @@
+{
+  "id": 1209612143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.39698,15.34556,-91.39698,15.34556",
+    "geom:latitude":15.34556,
+    "geom:longitude":-91.39698,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lo de Chavez",
+    "gn:country_code":"GT",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11490849,
+    "gn:latitude":15.34556,
+    "gn:longitude":-91.39698,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Lo de Ch\u00e1vez",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lo de Ch\u00e1vez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11490849
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b6a885ec38de15d5769b86c3ccf86821",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209612143
+        }
+    ],
+    "wof:id":1209612143,
+    "wof:lastmodified":1537625365,
+    "wof:name":"Lo de Chavez",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.39698,
+    15.34556,
+    -91.39698,
+    15.34556
+],
+  "geometry": {"coordinates":[-91.39698,15.34556],"type":"Point"}
+}

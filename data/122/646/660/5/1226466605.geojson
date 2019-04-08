@@ -1,0 +1,67 @@
+{
+  "id": 1226466605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41667,14.4,-89.41667,14.4",
+    "geom:latitude":14.4,
+    "geom:longitude":-89.41667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Las Presas",
+    "gn:country_code":"GT",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593636,
+    "gn:latitude":14.4,
+    "gn:longitude":-89.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Presas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677195,
+        421171709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593636
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"64aded79f303996d9921fc053f947201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":421171709,
+            "locality_id":1226466605,
+            "region_id":85677195
+        }
+    ],
+    "wof:id":1226466605,
+    "wof:lastmodified":1536613007,
+    "wof:name":"Las Presas",
+    "wof:parent_id":421171709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41667,
+    14.4,
+    -89.41667,
+    14.4
+],
+  "geometry": {"coordinates":[-89.41667,14.4],"type":"Point"}
+}

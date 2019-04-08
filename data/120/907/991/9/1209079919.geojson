@@ -1,0 +1,61 @@
+{
+  "id": 1209079919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.1,14.95,-91.1,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-91.1,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chujupen",
+    "gn:country_code":"GT",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598204,
+    "gn:latitude":14.95,
+    "gn:longitude":-91.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chujup\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598204
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"febb0ef5eeaef6dc476b783e64eba640",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209079919
+        }
+    ],
+    "wof:id":1209079919,
+    "wof:lastmodified":1536298372,
+    "wof:name":"Chujupen",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1,
+    14.95,
+    -91.1,
+    14.95
+],
+  "geometry": {"coordinates":[-91.09999999999999,14.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309876665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.8226,16.0532,-90.8226,16.0532",
+    "geom:latitude":16.0532,
+    "geom:longitude":-90.8226,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Darien",
+    "gn:country_code":"GT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9252746,
+    "gn:latitude":16.0532,
+    "gn:longitude":-90.8226,
+    "gn:modification_date":"2014-07-22",
+    "gn:name":"Darien",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9252746
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c91e8c1b05968827dc13cb907a5426fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1309876665,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1309876665,
+    "wof:lastmodified":1536828129,
+    "wof:name":"Darien",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.8226,
+    16.0532,
+    -90.8226,
+    16.0532
+],
+  "geometry": {"coordinates":[-90.82259999999999,16.0532],"type":"Point"}
+}

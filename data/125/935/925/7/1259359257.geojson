@@ -1,0 +1,73 @@
+{
+  "id": 1259359257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05209,14.86932,-92.05209,14.86932",
+    "geom:latitude":14.86932,
+    "geom:longitude":-92.05209,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Relicario",
+    "gn:country_code":"GT",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596326,
+    "gn:latitude":14.86932,
+    "gn:longitude":-92.05209,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"El Relicario",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Relicario"
+    ],
+    "name:und_x_variant":[
+        "Finca El Relicario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596326
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b6335b31f8616a53b350683f773e40a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695283,
+            "locality_id":1259359257,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259359257,
+    "wof:lastmodified":1537625201,
+    "wof:name":"El Relicario",
+    "wof:parent_id":1108695283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05209,
+    14.86932,
+    -92.05209,
+    14.86932
+],
+  "geometry": {"coordinates":[-92.05209000000001,14.86932],"type":"Point"}
+}

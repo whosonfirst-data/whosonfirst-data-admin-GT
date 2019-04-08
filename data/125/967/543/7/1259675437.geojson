@@ -1,0 +1,67 @@
+{
+  "id": 1259675437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28333,14.61667,-90.28333,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-90.28333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Barrancon",
+    "gn:country_code":"GT",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597569,
+    "gn:latitude":14.61667,
+    "gn:longitude":-90.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Barranc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597569
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bc8e8b463a7f1350d14910dc68f31e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695427,
+            "locality_id":1259675437,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1259675437,
+    "wof:lastmodified":1537075551,
+    "wof:name":"El Barrancon",
+    "wof:parent_id":1108695427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28333,
+    14.61667,
+    -90.28333,
+    14.61667
+],
+  "geometry": {"coordinates":[-90.28333000000001,14.61667],"type":"Point"}
+}

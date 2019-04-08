@@ -1,0 +1,67 @@
+{
+  "id": 1326814841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.96667,15.28333,-88.96667,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":-88.96667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tepemechines",
+    "gn:country_code":"GT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588440,
+    "gn:latitude":15.28333,
+    "gn:longitude":-88.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tepemechines",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421196435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588440
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0e609592d9096668813a9aa167c74031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196435,
+            "locality_id":1326814841,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1326814841,
+    "wof:lastmodified":1537070802,
+    "wof:name":"Tepemechines",
+    "wof:parent_id":421196435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.96667,
+    15.28333,
+    -88.96667,
+    15.28333
+],
+  "geometry": {"coordinates":[-88.96666999999999,15.28333],"type":"Point"}
+}

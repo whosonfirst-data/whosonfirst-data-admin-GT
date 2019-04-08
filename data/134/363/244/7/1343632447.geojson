@@ -1,0 +1,70 @@
+{
+  "id": 1343632447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.2094,15.52421,-91.2094,15.52421",
+    "geom:latitude":15.52421,
+    "geom:longitude":-91.2094,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Batzunala",
+    "gn:country_code":"GT",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11491509,
+    "gn:latitude":15.52421,
+    "gn:longitude":-91.2094,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Batzunal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batzunal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491509
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e4ae1886812fe7c362b3d155c6a57c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1343632447,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343632447,
+    "wof:lastmodified":1537625366,
+    "wof:name":"Batzunala",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.2094,
+    15.52421,
+    -91.2094,
+    15.52421
+],
+  "geometry": {"coordinates":[-91.2094,15.52421],"type":"Point"}
+}

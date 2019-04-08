@@ -1,0 +1,70 @@
+{
+  "id": 1293574867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.248,16.016,-91.248,16.016",
+    "geom:latitude":16.016,
+    "geom:longitude":-91.248,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixtateco La Paz Los Achiotes",
+    "gn:country_code":"GT",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533161,
+    "gn:latitude":16.016,
+    "gn:longitude":-91.248,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Ixtateco La Paz Los Achiotes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixtateco La Paz Los Achiotes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533161
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2ac3ead9c8f37bd17d30cb28b54448ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1293574867,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293574867,
+    "wof:lastmodified":1537625244,
+    "wof:name":"Ixtateco La Paz Los Achiotes",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.248,
+    16.016,
+    -91.248,
+    16.016
+],
+  "geometry": {"coordinates":[-91.248,16.016],"type":"Point"}
+}

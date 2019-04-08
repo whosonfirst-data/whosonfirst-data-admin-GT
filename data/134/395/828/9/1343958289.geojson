@@ -1,0 +1,67 @@
+{
+  "id": 1343958289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.3,14.78333,-89.3,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-89.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Zapote",
+    "gn:country_code":"GT",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595883,
+    "gn:latitude":14.78333,
+    "gn:longitude":-89.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Zapote",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421177381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595883
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ac4104b627fd3f375c8b163840ec0c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421177381,
+            "locality_id":1343958289,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1343958289,
+    "wof:lastmodified":1537022155,
+    "wof:name":"El Zapote",
+    "wof:parent_id":421177381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.3,
+    14.78333,
+    -89.3,
+    14.78333
+],
+  "geometry": {"coordinates":[-89.3,14.78333],"type":"Point"}
+}

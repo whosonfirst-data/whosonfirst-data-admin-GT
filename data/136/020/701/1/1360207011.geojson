@@ -1,0 +1,73 @@
+{
+  "id": 1360207011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.43109,15.75054,-91.43109,15.75054",
+    "geom:latitude":15.75054,
+    "geom:longitude":-91.43109,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pajconob",
+    "gn:country_code":"GT",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591897,
+    "gn:latitude":15.75054,
+    "gn:longitude":-91.43109,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pajconob",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pajconob"
+    ],
+    "name:und_x_variant":[
+        "Paiconob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591897
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"72a194316c4c48b9d38bab96a546d1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1360207011,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1360207011,
+    "wof:lastmodified":1537625162,
+    "wof:name":"Pajconob",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.43109,
+    15.75054,
+    -91.43109,
+    15.75054
+],
+  "geometry": {"coordinates":[-91.43109,15.75054],"type":"Point"}
+}

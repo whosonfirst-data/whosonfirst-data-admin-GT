@@ -1,0 +1,70 @@
+{
+  "id": 1226527841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.8072,15.33207,-91.8072,15.33207",
+    "geom:latitude":15.33207,
+    "geom:longitude":-91.8072,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cuatro Caminos",
+    "gn:country_code":"GT",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510617,
+    "gn:latitude":15.33207,
+    "gn:longitude":-91.8072,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Cuatro Caminos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cuatro Caminos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510617
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7c16ab5220c7b0cdecf207102d1d42af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695511,
+            "locality_id":1226527841,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226527841,
+    "wof:lastmodified":1537625382,
+    "wof:name":"Cuatro Caminos",
+    "wof:parent_id":1108695511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.8072,
+    15.33207,
+    -91.8072,
+    15.33207
+],
+  "geometry": {"coordinates":[-91.80719999999999,15.33207],"type":"Point"}
+}

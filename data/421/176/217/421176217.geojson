@@ -1,0 +1,127 @@
+{
+  "id": 421176217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.88333,14.91667,-89.88333,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":-89.88333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u963f\u5361\u85a9\u74dc\u65af\u7279\u862d"
+    ],
+    "name:deu_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:dut_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:ger_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Crist\u00f3bal Acasaguastl\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Acasaguastl\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u963f\u5361\u85a9\u74dc\u65af\u7279\u862d"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590325,
+    "qs:gn_pop":2171,
+    "qs:name":"San Crist\u00f3bal Acasaguastl\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"El Progreso",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045556,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85570,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":467,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        1108695325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590325,
+        "gp:id":85570,
+        "qs:id":1045556,
+        "wd:id":"Q1020799",
+        "wk:page":"San Crist\u00f3bal Acasaguastl\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009101,
+    "wof:geomhash":"14443caf4a3d0ebba6d5b285823e2647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695325,
+            "locality_id":421176217,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":421176217,
+    "wof:lastmodified":1527726470,
+    "wof:name":"San Crist\u00f3bal Acasaguastl\u00e1n",
+    "wof:parent_id":1108695325,
+    "wof:placetype":"locality",
+    "wof:population":2171,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.88333,
+    14.91667,
+    -89.88333,
+    14.91667
+],
+  "geometry": {"coordinates":[-89.88333,14.91667],"type":"Point"}
+}

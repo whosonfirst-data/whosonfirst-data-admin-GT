@@ -1,0 +1,70 @@
+{
+  "id": 1259876581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.44903,15.73205,-91.44903,15.73205",
+    "geom:latitude":15.73205,
+    "geom:longitude":-91.44903,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulchen",
+    "gn:country_code":"GT",
+    "gn:dem":2486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493252,
+    "gn:latitude":15.73205,
+    "gn:longitude":-91.44903,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Yulch\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulch\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493252
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f295dac4b94d4bb40ff3ff531b7e7a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695657,
+            "locality_id":1259876581,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259876581,
+    "wof:lastmodified":1537625375,
+    "wof:name":"Yulchen",
+    "wof:parent_id":1108695657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.44903,
+    15.73205,
+    -91.44903,
+    15.73205
+],
+  "geometry": {"coordinates":[-91.44902999999999,15.73205],"type":"Point"}
+}

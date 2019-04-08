@@ -1,0 +1,105 @@
+{
+  "id": 1108695417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002759,
+    "geom:area_square_m":32964843.862909,
+    "geom:bbox":"-91.5774854521,14.8633125107,-91.4959809733,14.9188573186",
+    "geom:latitude":14.893609,
+    "geom:longitude":-91.536268,
+    "iso:country":"GT",
+    "lbl:latitude":14.891926,
+    "lbl:longitude":-91.532971,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"OLINTEPEQUEQUETZALTENANGO",
+    "meso:gadm_admin":"Olintepeque",
+    "meso:gaul_admin":"Olintepeque",
+    "meso:mps_x":-91.532971,
+    "meso:mps_y":14.891926,
+    "meso:name_en":"Olintepeque",
+    "meso:source":"AOTM",
+    "mps:latitude":14.891926,
+    "mps:longitude":-91.532971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5967\u6797\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:eng_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:fre_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:pol_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:por_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:spa_x_preferred":[
+        "Olintepeque"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"Olintepeque",
+    "statoids:population":"22544",
+    "statoids:statoid":"GT.QZ.OL",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2608428"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493734,
+    "wof:geomhash":"9dd60df94886e0a2b9d3dae8bda399bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695417,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695417,
+    "wof:lastmodified":1514444490,
+    "wof:name":"Olintepeque",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":22544,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.57748545209738,
+    14.86331251074961,
+    -91.49598097326361,
+    14.91885731855155
+],
+  "geometry": {"coordinates":[[[-91.57322647528291,14.91128147388509],[-91.55998850544965,14.91880664264921],[-91.55478230211968,14.91533568164263],[-91.54818276873087,14.91783058160299],[-91.54431342963359,14.91704542570543],[-91.53926190642871,14.91341486823748],[-91.53824233034213,14.91030536030335],[-91.52730765895619,14.91036341815626],[-91.52637369001036,14.9111008857934],[-91.52464018737003,14.91543376512842],[-91.51694629625615,14.91885731855155],[-91.51080981216377,14.91521313207559],[-91.50929905725786,14.91247096628886],[-91.51070492364978,14.90671134501138],[-91.50743822013177,14.90230518023245],[-91.50602021848913,14.89274178198634],[-91.50738093441041,14.88943586636803],[-91.50590609366458,14.88759711032278],[-91.49598097326361,14.88299088644466],[-91.49704264592117,14.87242154685339],[-91.50756489158702,14.87187807148326],[-91.50840957648971,14.87130366662498],[-91.51482385466323,14.87469856556834],[-91.51761318658301,14.87470601314919],[-91.52656041963493,14.87196085075196],[-91.5274544622078,14.86793214946095],[-91.53115216962227,14.86331251074961],[-91.53960942016144,14.86745888140252],[-91.54655081059835,14.86785804119632],[-91.55279328189035,14.88047406740114],[-91.55367853044045,14.88147918226533],[-91.55446512506977,14.88172723435161],[-91.55456539391837,14.8818202571526],[-91.55457793910874,14.88185421007421],[-91.5673500004699,14.89084856509834],[-91.57113840255099,14.89151741980774],[-91.57180012865828,14.89295354152753],[-91.57748545209738,14.90007008994761],[-91.57666337771016,14.90656269994618],[-91.57329215484845,14.91078531490395],[-91.57322647528291,14.91128147388509]]],"type":"Polygon"}
+}

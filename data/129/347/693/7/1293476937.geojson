@@ -1,0 +1,73 @@
+{
+  "id": 1293476937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.31611,16.185,-89.31611,16.185",
+    "geom:latitude":16.185,
+    "geom:longitude":-89.31611,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pusila",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591026,
+    "gn:latitude":16.185,
+    "gn:longitude":-89.31611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pusil\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pushil\u00e1",
+        "Pusilh\u00e1",
+        "Pusil\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591026
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5d1261dd5599e0d387d75167eac8f2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1293476937,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1293476937,
+    "wof:lastmodified":1537625155,
+    "wof:name":"Pusila",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.31611,
+    16.185,
+    -89.31611,
+    16.185
+],
+  "geometry": {"coordinates":[-89.31610999999999,16.185],"type":"Point"}
+}

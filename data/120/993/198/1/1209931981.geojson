@@ -1,0 +1,72 @@
+{
+  "id": 1209931981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.98333,15.81667,-89.98333,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":-89.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Searranx",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588975,
+    "gn:latitude":15.81667,
+    "gn:longitude":-89.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Searranx",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarranx",
+        "Searranx"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421204557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588975
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9afcca1581ac757d37eabc2959c8a8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204557,
+            "locality_id":1209931981,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1209931981,
+    "wof:lastmodified":1537625139,
+    "wof:name":"Searranx",
+    "wof:parent_id":421204557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.98333000000002,
+    15.81667,
+    -89.98333000000002,
+    15.81667
+],
+  "geometry": {"coordinates":[-89.98333000000002,15.81667],"type":"Point"}
+}

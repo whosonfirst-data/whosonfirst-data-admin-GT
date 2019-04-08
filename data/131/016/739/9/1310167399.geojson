@@ -1,0 +1,67 @@
+{
+  "id": 1310167399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46667,14.16667,-91.46667,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":-91.46667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Bolivia",
+    "gn:country_code":"GT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599430,
+    "gn:latitude":14.16667,
+    "gn:longitude":-91.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bolivia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671677,
+        1108695673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599430
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9856de3ddf45b417c110858cfec3efd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695673,
+            "locality_id":1310167399,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":1310167399,
+    "wof:lastmodified":1536907692,
+    "wof:name":"Bolivia",
+    "wof:parent_id":1108695673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46667,
+    14.16667,
+    -91.46667,
+    14.16667
+],
+  "geometry": {"coordinates":[-91.46666999999999,14.16667],"type":"Point"}
+}

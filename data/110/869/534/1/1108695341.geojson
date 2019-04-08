@@ -1,0 +1,108 @@
+{
+  "id": 1108695341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004234,
+    "geom:area_square_m":50591869.460705,
+    "geom:bbox":"-91.8896351326,14.8856149777,-91.8016618252,14.9646827419",
+    "geom:latitude":14.924741,
+    "geom:longitude":-91.846753,
+    "iso:country":"GT",
+    "lbl:latitude":14.927367,
+    "lbl:longitude":-91.845895,
+    "meso:admin_1":"San Marcos",
+    "meso:diss_me":"ESQUIPULAS PALO GORDOSAN MARCOS",
+    "meso:gadm_admin":"Esquipulas Palo Gordo",
+    "meso:gaul_admin":"Esquipulas Palo Gordo",
+    "meso:mps_x":-91.845895,
+    "meso:mps_y":14.927367,
+    "meso:name_en":"Esquipulas Palo Gordo",
+    "meso:source":"AOTM",
+    "mps:latitude":14.927367,
+    "mps:longitude":-91.845895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u57fa\u666e\u62c9\u65af\u5e15\u6d1b\u6208\u723e\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:eng_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:fre_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:ita_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:pol_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:por_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:spa_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "name:swe_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SM",
+    "statoids:name":"Esquipulas Palo Gordo",
+    "statoids:population":"8613",
+    "statoids:statoid":"GT.SM.EP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1748873"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493651,
+    "wof:geomhash":"998cd8da5185376da1d83c7e8767fc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695341,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1108695341,
+    "wof:lastmodified":1514444447,
+    "wof:name":"Esquipulas Palo Gordo",
+    "wof:parent_id":85671661,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8613,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88963513257536,
+    14.88561497770913,
+    -91.80166182516908,
+    14.9646827419011
+],
+  "geometry": {"coordinates":[[[-91.87762689031454,14.94378110894771],[-91.86311167160957,14.95694069350784],[-91.86339337679375,14.95833463006492],[-91.8633372010045,14.9592018427251],[-91.84501852375497,14.9646827419011],[-91.83381801725737,14.95796109553807],[-91.83373039345777,14.95680593304126],[-91.82371750917902,14.94986718615418],[-91.82213476086839,14.94980914885117],[-91.81855526999232,14.95],[-91.811514945605,14.95],[-91.81117083336082,14.94862312357264],[-91.80166182516908,14.93886330237664],[-91.80232217340094,14.93349076036939],[-91.80433630479871,14.92818894186967],[-91.80780559454325,14.92652076276205],[-91.80927929633206,14.9262281700701],[-91.81127318341841,14.9227493317096],[-91.81149590179653,14.92155487698521],[-91.81219822542342,14.9169679379039],[-91.82366563565053,14.90972172926769],[-91.82281886644368,14.90659573362341],[-91.83089012577211,14.89551212483133],[-91.83330536080149,14.89616426885759],[-91.84491003882258,14.89220594361626],[-91.84574565438197,14.89034878243768],[-91.85428618457566,14.88837324246081],[-91.85551313145575,14.88707584885878],[-91.86974980765915,14.88602215377205],[-91.87039902473802,14.88561497770913],[-91.87878131767397,14.89034190518528],[-91.87955292513138,14.89630252446799],[-91.88963513257536,14.90573539075206],[-91.88894274349062,14.90896382501504],[-91.87414684314555,14.91510868653461],[-91.87386625914972,14.91684541749757],[-91.87288408246644,14.92077873382557],[-91.87780964216944,14.92912800189536],[-91.87471885335243,14.93499098497809],[-91.87762689031454,14.94378110894771]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327219305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.67677,15.49372,-91.67677,15.49372",
+    "geom:latitude":15.49372,
+    "geom:longitude":-91.67677,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tijarx",
+    "gn:country_code":"GT",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454371,
+    "gn:latitude":15.49372,
+    "gn:longitude":-91.67677,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tijarx",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tijarx"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454371
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"518aa400e0335608886a25ba287bb044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185575,
+            "locality_id":1327219305,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327219305,
+    "wof:lastmodified":1537625291,
+    "wof:name":"Tijarx",
+    "wof:parent_id":421185575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.67677,
+    15.49372,
+    -91.67677,
+    15.49372
+],
+  "geometry": {"coordinates":[-91.67677,15.49372],"type":"Point"}
+}

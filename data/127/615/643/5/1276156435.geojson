@@ -1,0 +1,72 @@
+{
+  "id": 1276156435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4,14.85,-89.4,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-89.4,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Encuentro de Guaraquiche",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595835,
+    "gn:latitude":14.85,
+    "gn:longitude":-89.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Encuentro de Guaraquich\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guaraquich\u00e9",
+        "Encuentro de Guaraquich\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421177381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595835
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"30acc455efd6d49de0cf1235c3163717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421177381,
+            "locality_id":1276156435,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1276156435,
+    "wof:lastmodified":1537625195,
+    "wof:name":"Encuentro de Guaraquiche",
+    "wof:parent_id":421177381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.4,
+    14.85,
+    -89.4,
+    14.85
+],
+  "geometry": {"coordinates":[-89.40000000000001,14.85],"type":"Point"}
+}

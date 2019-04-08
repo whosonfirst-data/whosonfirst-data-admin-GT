@@ -1,0 +1,72 @@
+{
+  "id": 1360273453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58333,14.35,-89.58333,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-89.58333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Anguiatu",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599713,
+    "gn:latitude":14.35,
+    "gn:longitude":-89.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anguiat\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Estaci\u00f3n Anguiat\u00fa",
+        "Anguiat\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599713
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5365e738cbe86d52d7a3faf60a791fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695263,
+            "locality_id":1360273453,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1360273453,
+    "wof:lastmodified":1537625233,
+    "wof:name":"Anguiatu",
+    "wof:parent_id":1108695263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58333,
+    14.35,
+    -89.58333,
+    14.35
+],
+  "geometry": {"coordinates":[-89.58333,14.35],"type":"Point"}
+}

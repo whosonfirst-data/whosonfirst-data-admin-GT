@@ -1,0 +1,120 @@
+{
+  "id": 421169555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.7925,14.78778,-90.7925,14.78778",
+    "geom:latitude":14.78778,
+    "geom:longitude":-90.7925,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01\u5e0c\u6d1b\u7279\u4f69\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:fra_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:ita_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3\u30fb\u30d2\u30ed\u30c6\u30da\u30b1"
+    ],
+    "name:nah_x_preferred":[
+        "San Mart\u00edn X\u012bl\u014dtep\u0113c"
+    ],
+    "name:pol_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn Jilotepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u4e01\u5e0c\u6d1b\u7279\u4f69\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589780,
+    "qs:gn_pop":9846,
+    "qs:name":"San Mart\u00edn Jilotepeque",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chimaltenango",
+    "qs:photos":142,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":142,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":211077,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85792,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421191199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589780,
+        "gp:id":85792,
+        "qs:id":211077,
+        "wd:id":"Q2607954",
+        "wk:page":"San Mart\u00edn Jilotepeque"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008815,
+    "wof:geomhash":"49f6890913ad768c6f22d54e13ae1a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191199,
+            "locality_id":421169555,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":421169555,
+    "wof:lastmodified":1514444551,
+    "wof:name":"San Mart\u00edn Jilotepeque",
+    "wof:parent_id":421191199,
+    "wof:placetype":"locality",
+    "wof:population":9846,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.7925,
+    14.78778,
+    -90.7925,
+    14.78778
+],
+  "geometry": {"coordinates":[-90.7925,14.78778],"type":"Point"}
+}

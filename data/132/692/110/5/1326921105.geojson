@@ -1,0 +1,70 @@
+{
+  "id": 1326921105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46995,15.75139,-91.46995,15.75139",
+    "geom:latitude":15.75139,
+    "geom:longitude":-91.46995,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nancultac",
+    "gn:country_code":"GT",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493239,
+    "gn:latitude":15.75139,
+    "gn:longitude":-91.46995,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nancultac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nancultac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493239
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb425c2c8d35e3c7c09c2d8b9c014d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1326921105,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1326921105,
+    "wof:lastmodified":1537625374,
+    "wof:name":"Nancultac",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46995,
+    15.75139,
+    -91.46995,
+    15.75139
+],
+  "geometry": {"coordinates":[-91.46995,15.75139],"type":"Point"}
+}

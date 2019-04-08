@@ -1,0 +1,70 @@
+{
+  "id": 1226425983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08392,15.01035,-91.08392,15.01035",
+    "geom:latitude":15.01035,
+    "geom:longitude":-91.08392,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chicabracan",
+    "gn:country_code":"GT",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598679,
+    "gn:latitude":15.01035,
+    "gn:longitude":-91.08392,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chicabrac\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicabrac\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598679
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a42c498b9eae7fa27163234a1a1433b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695455,
+            "locality_id":1226425983,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1226425983,
+    "wof:lastmodified":1537625224,
+    "wof:name":"Chicabracan",
+    "wof:parent_id":1108695455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08392,
+    15.01035,
+    -91.08392,
+    15.01035
+],
+  "geometry": {"coordinates":[-91.08392000000001,15.01035],"type":"Point"}
+}

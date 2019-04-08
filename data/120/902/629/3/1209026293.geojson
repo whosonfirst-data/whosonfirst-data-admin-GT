@@ -1,0 +1,64 @@
+{
+  "id": 1209026293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.81515,15.65368,-91.81515,15.65368",
+    "geom:latitude":15.65368,
+    "geom:longitude":-91.81515,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nojoya",
+    "gn:country_code":"GT",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637566,
+    "gn:latitude":15.65368,
+    "gn:longitude":-91.81515,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Nojoy\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nojoy\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637566
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e1d81eb3d134e86f48eb2ead408718f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209026293
+        }
+    ],
+    "wof:id":1209026293,
+    "wof:lastmodified":1537625265,
+    "wof:name":"Nojoya",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.81515,
+    15.65368,
+    -91.81515,
+    15.65368
+],
+  "geometry": {"coordinates":[-91.81515,15.65368],"type":"Point"}
+}

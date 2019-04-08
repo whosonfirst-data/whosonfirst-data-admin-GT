@@ -1,0 +1,70 @@
+{
+  "id": 1343747543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5628,15.8546,-91.5628,15.8546",
+    "geom:latitude":15.8546,
+    "geom:longitude":-91.5628,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"GT",
+    "gn:dem":2458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481951,
+    "gn:latitude":15.8546,
+    "gn:longitude":-91.5628,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Flores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481951
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"306bcaec4719a712cb5dafc0c1868e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1343747543,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343747543,
+    "wof:lastmodified":1537625345,
+    "wof:name":"Las Flores",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5628,
+    15.8546,
+    -91.5628,
+    15.8546
+],
+  "geometry": {"coordinates":[-91.5628,15.8546],"type":"Point"}
+}

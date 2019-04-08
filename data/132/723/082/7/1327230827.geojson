@@ -1,0 +1,67 @@
+{
+  "id": 1327230827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.1,14.85,-90.1,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-90.1,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tierra Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588398,
+    "gn:latitude":14.85,
+    "gn:longitude":-90.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tierra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671701,
+        421178907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588398
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7be20210f6065dd67e4c4ee0ad117e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421178907,
+            "locality_id":1327230827,
+            "region_id":85671701
+        }
+    ],
+    "wof:id":1327230827,
+    "wof:lastmodified":1536971475,
+    "wof:name":"Tierra Blanca",
+    "wof:parent_id":421178907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.1,
+    14.85,
+    -90.1,
+    14.85
+],
+  "geometry": {"coordinates":[-90.09999999999999,14.85],"type":"Point"}
+}

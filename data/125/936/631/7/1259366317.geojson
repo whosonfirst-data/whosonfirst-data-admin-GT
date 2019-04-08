@@ -1,0 +1,73 @@
+{
+  "id": 1259366317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13725,15.13282,-91.13725,15.13282",
+    "geom:latitude":15.13282,
+    "geom:longitude":-91.13725,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Xoliuyub",
+    "gn:country_code":"GT",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3587707,
+    "gn:latitude":15.13282,
+    "gn:longitude":-91.13725,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Xoliuyub",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xoliuyub"
+    ],
+    "name:und_x_variant":[
+        "Xoljuyub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3587707
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e3b5727b9791e8f86cad5db592403453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1259366317,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259366317,
+    "wof:lastmodified":1537625125,
+    "wof:name":"Xoliuyub",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13725,
+    15.13282,
+    -91.13725,
+    15.13282
+],
+  "geometry": {"coordinates":[-91.13724999999999,15.13282],"type":"Point"}
+}

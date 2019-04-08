@@ -1,0 +1,70 @@
+{
+  "id": 1259503495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61446,15.40685,-91.61446,15.40685",
+    "geom:latitude":15.40685,
+    "geom:longitude":-91.61446,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sipal",
+    "gn:country_code":"GT",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454415,
+    "gn:latitude":15.40685,
+    "gn:longitude":-91.61446,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"S\u00edpal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "S\u00edpal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421201163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454415
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3fce7dbd70e3240a7a8ea90c39cde30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201163,
+            "locality_id":1259503495,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259503495,
+    "wof:lastmodified":1537625292,
+    "wof:name":"Sipal",
+    "wof:parent_id":421201163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61446,
+    15.40685,
+    -91.61446,
+    15.40685
+],
+  "geometry": {"coordinates":[-91.61445999999999,15.40685],"type":"Point"}
+}

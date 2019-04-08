@@ -1,0 +1,67 @@
+{
+  "id": 1327041481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.85,14.8,-90.85,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-90.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Agua Caliente",
+    "gn:country_code":"GT",
+    "gn:dem":1883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599946,
+    "gn:latitude":14.8,
+    "gn:longitude":-90.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Agua Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421191199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599946
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2811c0e9fad94d0c783eb5dea0f09da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191199,
+            "locality_id":1327041481,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1327041481,
+    "wof:lastmodified":1536747069,
+    "wof:name":"Agua Caliente",
+    "wof:parent_id":421191199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.85,
+    14.8,
+    -90.85,
+    14.8
+],
+  "geometry": {"coordinates":[-90.84999999999999,14.8],"type":"Point"}
+}

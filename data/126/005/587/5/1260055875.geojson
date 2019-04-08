@@ -1,0 +1,73 @@
+{
+  "id": 1260055875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.44808,14.08996,-90.44808,14.08996",
+    "geom:latitude":14.08996,
+    "geom:longitude":-90.44808,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Cacahuito",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597527,
+    "gn:latitude":14.08996,
+    "gn:longitude":-90.44808,
+    "gn:modification_date":"2014-07-01",
+    "gn:name":"El Cacahuito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca El Cacahuito",
+        "El Cacahuito",
+        "Cacahuito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421190501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597527
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6cf7e233dda345627eb69dec974ab4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190501,
+            "locality_id":1260055875,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1260055875,
+    "wof:lastmodified":1537625214,
+    "wof:name":"El Cacahuito",
+    "wof:parent_id":421190501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.44808,
+    14.08996,
+    -90.44808,
+    14.08996
+],
+  "geometry": {"coordinates":[-90.44808,14.08996],"type":"Point"}
+}

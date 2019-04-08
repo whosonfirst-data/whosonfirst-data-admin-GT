@@ -1,0 +1,61 @@
+{
+  "id": 1209486451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.15,14.93333,-91.15,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-91.15,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Patzibal",
+    "gn:country_code":"GT",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591524,
+    "gn:latitude":14.93333,
+    "gn:longitude":-91.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Patzibal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591524
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"709c87abca48a295b8136b0a86889be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209486451
+        }
+    ],
+    "wof:id":1209486451,
+    "wof:lastmodified":1536285622,
+    "wof:name":"Patzibal",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.15,
+    14.933329999999998,
+    -91.15,
+    14.933329999999998
+],
+  "geometry": {"coordinates":[-91.15000000000001,14.93333],"type":"Point"}
+}

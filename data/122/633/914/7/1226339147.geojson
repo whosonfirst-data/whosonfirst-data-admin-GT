@@ -1,0 +1,70 @@
+{
+  "id": 1226339147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.74259,15.59667,-91.74259,15.59667",
+    "geom:latitude":15.59667,
+    "geom:longitude":-91.74259,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Lomas",
+    "gn:country_code":"GT",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476733,
+    "gn:latitude":15.59667,
+    "gn:longitude":-91.74259,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Las Lomas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Lomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476733
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"908ef8a0a8643ad5324c6f1997179150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695675,
+            "locality_id":1226339147,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226339147,
+    "wof:lastmodified":1537625323,
+    "wof:name":"Las Lomas",
+    "wof:parent_id":1108695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.74259,
+    15.59667,
+    -91.74259,
+    15.59667
+],
+  "geometry": {"coordinates":[-91.74259000000001,15.59667],"type":"Point"}
+}

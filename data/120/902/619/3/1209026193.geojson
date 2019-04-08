@@ -1,0 +1,64 @@
+{
+  "id": 1209026193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45074,15.62573,-91.45074,15.62573",
+    "geom:latitude":15.62573,
+    "geom:longitude":-91.45074,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Onnil",
+    "gn:country_code":"GT",
+    "gn:dem":2390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492248,
+    "gn:latitude":15.62573,
+    "gn:longitude":-91.45074,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Onnil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Onnil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492248
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3cd75f216fbf8722c3c99669737e9b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209026193
+        }
+    ],
+    "wof:id":1209026193,
+    "wof:lastmodified":1537625371,
+    "wof:name":"Onnil",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45074,
+    15.62573,
+    -91.45074,
+    15.62573
+],
+  "geometry": {"coordinates":[-91.45074,15.62573],"type":"Point"}
+}

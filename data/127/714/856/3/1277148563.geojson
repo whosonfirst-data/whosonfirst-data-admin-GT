@@ -1,0 +1,70 @@
+{
+  "id": 1277148563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.04735,15.08961,-92.04735,15.08961",
+    "geom:latitude":15.08961,
+    "geom:longitude":-92.04735,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Santa Rita Bullaj",
+    "gn:country_code":"GT",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634735,
+    "gn:latitude":15.08961,
+    "gn:longitude":-92.04735,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Santa Rita Bullaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rita Bullaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634735
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f68c24420f086460feee3e35a0947b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1277148563,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1277148563,
+    "wof:lastmodified":1537625253,
+    "wof:name":"Santa Rita Bullaj",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.04735,
+    15.08961,
+    -92.04735,
+    15.08961
+],
+  "geometry": {"coordinates":[-92.04734999999999,15.08961],"type":"Point"}
+}

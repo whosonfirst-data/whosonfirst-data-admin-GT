@@ -1,0 +1,64 @@
+{
+  "id": 1209334675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.92539,15.53014,-91.92539,15.53014",
+    "geom:latitude":15.53014,
+    "geom:longitude":-91.92539,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Aguacate II",
+    "gn:country_code":"GT",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10147366,
+    "gn:latitude":15.53014,
+    "gn:longitude":-91.92539,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"El Aguacate II",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Aguacate II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10147366
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"77013270994f8a666909f8355111e0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209334675
+        }
+    ],
+    "wof:id":1209334675,
+    "wof:lastmodified":1537625279,
+    "wof:name":"El Aguacate II",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.92539,
+    15.53014,
+    -91.92539,
+    15.53014
+],
+  "geometry": {"coordinates":[-91.92538999999999,15.53014],"type":"Point"}
+}

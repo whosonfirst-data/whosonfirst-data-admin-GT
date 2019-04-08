@@ -1,0 +1,70 @@
+{
+  "id": 1309828425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.53328,16.05693,-91.53328,16.05693",
+    "geom:latitude":16.05693,
+    "geom:longitude":-91.53328,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Jose Frontera",
+    "gn:country_code":"GT",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997281,
+    "gn:latitude":16.05693,
+    "gn:longitude":-91.53328,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"San Jos\u00e9 Frontera",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Frontera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997281
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1df90c54f62cd71895a5d3ad3ac3c1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695407,
+            "locality_id":1309828425,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309828425,
+    "wof:lastmodified":1537625274,
+    "wof:name":"San Jose Frontera",
+    "wof:parent_id":1108695407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.53328,
+    16.05693,
+    -91.53328,
+    16.05693
+],
+  "geometry": {"coordinates":[-91.53328,16.05693],"type":"Point"}
+}

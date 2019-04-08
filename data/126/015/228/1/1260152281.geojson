@@ -1,0 +1,70 @@
+{
+  "id": 1260152281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.73842,15.18283,-91.73842,15.18283",
+    "geom:latitude":15.18283,
+    "geom:longitude":-91.73842,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chijil",
+    "gn:country_code":"GT",
+    "gn:dem":2707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458539,
+    "gn:latitude":15.18283,
+    "gn:longitude":-91.73842,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chij\u00edl",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chij\u00edl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458539
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"747112abce0ee5bd522eb529fc627bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695653,
+            "locality_id":1260152281,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1260152281,
+    "wof:lastmodified":1537625303,
+    "wof:name":"Chijil",
+    "wof:parent_id":1108695653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.73842,
+    15.18283,
+    -91.73842,
+    15.18283
+],
+  "geometry": {"coordinates":[-91.73842,15.18283],"type":"Point"}
+}

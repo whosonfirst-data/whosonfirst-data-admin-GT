@@ -1,0 +1,66 @@
+{
+  "id": 1209633049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.35,15.8,-90.35,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-90.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Secomococh",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588912,
+    "gn:latitude":15.8,
+    "gn:longitude":-90.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Secomococh",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semococh",
+        "Secomococh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588912
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5e2760fb31040ed7920a63b74d371a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209633049
+        }
+    ],
+    "wof:id":1209633049,
+    "wof:lastmodified":1537625138,
+    "wof:name":"Secomococh",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.35,
+    15.8,
+    -90.35,
+    15.8
+],
+  "geometry": {"coordinates":[-90.34999999999999,15.8],"type":"Point"}
+}

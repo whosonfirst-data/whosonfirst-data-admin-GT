@@ -1,0 +1,70 @@
+{
+  "id": 1243349051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.63963,15.80059,-91.63963,15.80059",
+    "geom:latitude":15.80059,
+    "geom:longitude":-91.63963,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Xeen",
+    "gn:country_code":"GT",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481890,
+    "gn:latitude":15.80059,
+    "gn:longitude":-91.63963,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Xeen",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Xeen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481890
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4cd6b03dae433734ea6a26244aa62d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1243349051,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1243349051,
+    "wof:lastmodified":1537625343,
+    "wof:name":"Xeen",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.63963,
+    15.80059,
+    -91.63963,
+    15.80059
+],
+  "geometry": {"coordinates":[-91.63963,15.80059],"type":"Point"}
+}

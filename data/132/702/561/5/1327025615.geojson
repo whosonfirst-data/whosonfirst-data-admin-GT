@@ -1,0 +1,70 @@
+{
+  "id": 1327025615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30047,15.70643,-91.30047,15.70643",
+    "geom:latitude":15.70643,
+    "geom:longitude":-91.30047,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Platanito",
+    "gn:country_code":"GT",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492467,
+    "gn:latitude":15.70643,
+    "gn:longitude":-91.30047,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Platanito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Platanito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492467
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"988f96e0f32fcf7fb6f0f001cc4791be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695629,
+            "locality_id":1327025615,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327025615,
+    "wof:lastmodified":1537625372,
+    "wof:name":"Platanito",
+    "wof:parent_id":1108695629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30047,
+    15.70643,
+    -91.30047,
+    15.70643
+],
+  "geometry": {"coordinates":[-91.30047,15.70643],"type":"Point"}
+}

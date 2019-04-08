@@ -1,0 +1,70 @@
+{
+  "id": 1276639079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.01424,15.0352,-91.01424,15.0352",
+    "geom:latitude":15.0352,
+    "geom:longitude":-91.01424,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tizacal",
+    "gn:country_code":"GT",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11487579,
+    "gn:latitude":15.0352,
+    "gn:longitude":-91.01424,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tizacal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tizacal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11487579
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e95f1421c1dccc7eb3b70d593924fba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695293,
+            "locality_id":1276639079,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276639079,
+    "wof:lastmodified":1537625359,
+    "wof:name":"Tizacal",
+    "wof:parent_id":1108695293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.01424,
+    15.0352,
+    -91.01424,
+    15.0352
+],
+  "geometry": {"coordinates":[-91.01424,15.0352],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209593833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.53333,14.5,-89.53333,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":-89.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"GT",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589135,
+    "gn:latitude":14.5,
+    "gn:longitude":-89.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589135
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ee043547f2ee83ba19f8181ab15fb942",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209593833
+        }
+    ],
+    "wof:id":1209593833,
+    "wof:lastmodified":1536282390,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.53333,
+    14.5,
+    -89.53333,
+    14.5
+],
+  "geometry": {"coordinates":[-89.53333000000001,14.5],"type":"Point"}
+}

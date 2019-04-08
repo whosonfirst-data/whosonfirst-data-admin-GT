@@ -1,0 +1,70 @@
+{
+  "id": 1344031851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46898,15.12819,-91.46898,15.12819",
+    "geom:latitude":15.12819,
+    "geom:longitude":-91.46898,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chocanuleu",
+    "gn:country_code":"GT",
+    "gn:dem":2109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478472,
+    "gn:latitude":15.12819,
+    "gn:longitude":-91.46898,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chocanuleu",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chocanuleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478472
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9d6582e59fd5ccd546f8dcd2fae03796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695487,
+            "locality_id":1344031851,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1344031851,
+    "wof:lastmodified":1537625341,
+    "wof:name":"Chocanuleu",
+    "wof:parent_id":1108695487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46898,
+    15.12819,
+    -91.46898,
+    15.12819
+],
+  "geometry": {"coordinates":[-91.46898,15.12819],"type":"Point"}
+}

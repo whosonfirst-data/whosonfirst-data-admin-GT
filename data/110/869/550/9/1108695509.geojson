@@ -1,0 +1,86 @@
+{
+  "id": 1108695509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002317,
+    "geom:area_square_m":27630370.788317,
+    "geom:bbox":"-91.7502003323,15.3320050373,-91.6906049531,15.4171993009",
+    "geom:latitude":15.377213,
+    "geom:longitude":-91.717212,
+    "iso:country":"GT",
+    "lbl:latitude":15.384962,
+    "lbl:longitude":-91.714277,
+    "meso:admin_1":"Huehuetenango",
+    "meso:diss_me":"SAN GASPAR IXCHILHUEHUETENANGO",
+    "meso:gadm_admin":"San Ildefonso Ixtahuac\u00e1n",
+    "meso:gaul_admin":"San Gaspar Ixchil",
+    "meso:mps_x":-91.714277,
+    "meso:mps_y":15.384962,
+    "meso:name_en":"San Gaspar Ixchil",
+    "meso:source":"AOTM",
+    "mps:latitude":15.384962,
+    "mps:longitude":-91.714277,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Gaspar Ixchil"
+    ],
+    "name:eng_x_variant":[
+        "San Gaspar Ixchil",
+        "San Ildefonso Ixtahuac\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.HU",
+    "statoids:name":"San Gaspar Ixchil",
+    "statoids:population":"5809",
+    "statoids:statoid":"GT.HU.GI",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GT",
+    "wof:created":1474493836,
+    "wof:geomhash":"6ba5fff22199c81bf0b87fb05740acaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695509,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1108695509,
+    "wof:lastmodified":1505431501,
+    "wof:name":"San Gaspar Ixchil",
+    "wof:parent_id":85671641,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":5809,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75020033229404,
+    15.33200503728354,
+    -91.69060495308564,
+    15.417199300858
+],
+  "geometry": {"coordinates":[[[-91.74937956207216,15.41570149673355],[-91.74573883803802,15.41701023950861],[-91.73224821629715,15.417199300858],[-91.72897132271422,15.40932080968072],[-91.7268242842535,15.40844042756674],[-91.71737637419238,15.40041700378679],[-91.7168436030549,15.39864635603845],[-91.70026529788652,15.39665468905539],[-91.69902682839805,15.39436903262514],[-91.6982965907623,15.38268919626697],[-91.70226833549405,15.37564788385153],[-91.69980015412517,15.37415533269888],[-91.69420974361506,15.36350591826969],[-91.69060495308564,15.35939809538317],[-91.69418580646519,15.34976869094684],[-91.69379236899199,15.34529770401521],[-91.69211722189462,15.342555009751],[-91.69222487892348,15.34142482954351],[-91.70462399651984,15.33200503728354],[-91.71344629992137,15.34462064760417],[-91.72427524682278,15.34300240153009],[-91.72300869383284,15.36045966293639],[-91.72660871112579,15.36494450835271],[-91.72263781113166,15.37053002798476],[-91.72874648334388,15.38502026087378],[-91.73239087371074,15.38407945676825],[-91.7362744014487,15.38601210100784],[-91.74530086641261,15.39796625373783],[-91.74699776925993,15.3979965073956],[-91.75020033229404,15.40322740558673],[-91.74937956207216,15.41570149673355]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209301449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.66667,16.68333,-90.66667,16.68333",
+    "geom:latitude":16.68333,
+    "geom:longitude":-90.66667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Chorro",
+    "gn:country_code":"GT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597292,
+    "gn:latitude":16.68333,
+    "gn:longitude":-90.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597292
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3e1122364d9e937a7ff94682b906452a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209301449
+        }
+    ],
+    "wof:id":1209301449,
+    "wof:lastmodified":1536291343,
+    "wof:name":"El Chorro",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.66667,
+    16.683329999999998,
+    -90.66667,
+    16.683329999999998
+],
+  "geometry": {"coordinates":[-90.66667,16.68333],"type":"Point"}
+}

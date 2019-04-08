@@ -1,0 +1,70 @@
+{
+  "id": 1310477901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.98167,15.20425,-91.98167,15.20425",
+    "geom:latitude":15.20425,
+    "geom:longitude":-91.98167,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sanajaba",
+    "gn:country_code":"GT",
+    "gn:dem":2888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590542,
+    "gn:latitude":15.20425,
+    "gn:longitude":-91.98167,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sanajab\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sanajab\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590542
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"08c138dde5ce12829c6c72311d5f8fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1310477901,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1310477901,
+    "wof:lastmodified":1537625150,
+    "wof:name":"Sanajaba",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.98167,
+    15.20425,
+    -91.98167,
+    15.20425
+],
+  "geometry": {"coordinates":[-91.98166999999999,15.20425],"type":"Point"}
+}

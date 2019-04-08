@@ -1,0 +1,67 @@
+{
+  "id": 1276429195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.73333,14.43333,-89.73333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-89.73333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Puente",
+    "gn:country_code":"GT",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596407,
+    "gn:latitude":14.43333,
+    "gn:longitude":-89.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Puente",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596407
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"57786d432f5c422a9bae46df717f7468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695619,
+            "locality_id":1276429195,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276429195,
+    "wof:lastmodified":1536649969,
+    "wof:name":"El Puente",
+    "wof:parent_id":1108695619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.73333000000002,
+    14.43333,
+    -89.73333000000002,
+    14.43333
+],
+  "geometry": {"coordinates":[-89.73333000000002,14.43333],"type":"Point"}
+}

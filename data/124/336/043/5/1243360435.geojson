@@ -1,0 +1,70 @@
+{
+  "id": 1243360435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.50728,15.67293,-91.50728,15.67293",
+    "geom:latitude":15.67293,
+    "geom:longitude":-91.50728,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixtinajab",
+    "gn:country_code":"GT",
+    "gn:dem":2594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595264,
+    "gn:latitude":15.67293,
+    "gn:longitude":-91.50728,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ixtinajab",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixtinajab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595264
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f02ede60e1cc69a487ff339ab10cbec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695657,
+            "locality_id":1243360435,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1243360435,
+    "wof:lastmodified":1537625190,
+    "wof:name":"Ixtinajab",
+    "wof:parent_id":1108695657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.50728,
+    15.67293,
+    -91.50728,
+    15.67293
+],
+  "geometry": {"coordinates":[-91.50727999999999,15.67293],"type":"Point"}
+}

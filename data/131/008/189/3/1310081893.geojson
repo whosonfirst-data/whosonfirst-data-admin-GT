@@ -1,0 +1,72 @@
+{
+  "id": 1310081893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.75,14.86667,-91.75,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-91.75,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Parnaso",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596586,
+    "gn:latitude":14.86667,
+    "gn:longitude":-91.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Parnaso",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca El Parnaso",
+        "El Parnaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596586
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ca25362208bba148f9f6898d34e0575a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695539,
+            "locality_id":1310081893,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1310081893,
+    "wof:lastmodified":1537625203,
+    "wof:name":"El Parnaso",
+    "wof:parent_id":1108695539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75,
+    14.86667,
+    -91.75,
+    14.86667
+],
+  "geometry": {"coordinates":[-91.75,14.86667],"type":"Point"}
+}

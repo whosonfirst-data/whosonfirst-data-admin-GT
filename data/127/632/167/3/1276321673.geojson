@@ -1,0 +1,67 @@
+{
+  "id": 1276321673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.51667,14.41667,-89.51667,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":-89.51667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Talquezal",
+    "gn:country_code":"GT",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588564,
+    "gn:latitude":14.41667,
+    "gn:longitude":-89.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Talquezal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588564
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bd5d5ad109a4bb345ad4f2dd28bbc389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":1276321673,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276321673,
+    "wof:lastmodified":1536794621,
+    "wof:name":"Talquezal",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.51666999999998,
+    14.41667,
+    -89.51666999999998,
+    14.41667
+],
+  "geometry": {"coordinates":[-89.51666999999998,14.41667],"type":"Point"}
+}

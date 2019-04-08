@@ -1,0 +1,70 @@
+{
+  "id": 1260172267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.85647,15.37058,-91.85647,15.37058",
+    "geom:latitude":15.37058,
+    "geom:longitude":-91.85647,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tojchalom",
+    "gn:country_code":"GT",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11511581,
+    "gn:latitude":15.37058,
+    "gn:longitude":-91.85647,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Tojchal\u00f3m",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tojchal\u00f3m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11511581
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"77ebf481b07f6d105626788c5c63e6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695511,
+            "locality_id":1260172267,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260172267,
+    "wof:lastmodified":1537625384,
+    "wof:name":"Tojchalom",
+    "wof:parent_id":1108695511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.85647,
+    15.37058,
+    -91.85647,
+    15.37058
+],
+  "geometry": {"coordinates":[-91.85647,15.37058],"type":"Point"}
+}

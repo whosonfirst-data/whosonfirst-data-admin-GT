@@ -1,0 +1,111 @@
+{
+  "id": 1108695567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002482,
+    "geom:area_square_m":29715750.478033,
+    "geom:bbox":"-91.3894167734,14.469725265,-91.3232714803,14.5410334227",
+    "geom:latitude":14.506979,
+    "geom:longitude":-91.358385,
+    "iso:country":"GT",
+    "lbl:latitude":14.504146,
+    "lbl:longitude":-91.35886,
+    "meso:admin_1":"Suchitepequez",
+    "meso:diss_me":"SAN MIGUEL PANNASUCHITEPEQUEZ",
+    "meso:gadm_admin":"San Miguel Pan\u00e1n",
+    "meso:gaul_admin":"San Miguel Pan\u00e1n",
+    "meso:mps_x":-91.35886,
+    "meso:mps_y":14.504146,
+    "meso:name_en":"San Miguel Panna",
+    "meso:source":"AOTM",
+    "mps:latitude":14.504146,
+    "mps:longitude":-91.35886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u5e15\u5357"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SU",
+    "statoids:name":"San Miguel Pan\u00e1n",
+    "statoids:population":"7163",
+    "statoids:statoid":"GT.SU.MP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2402447"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493895,
+    "wof:geomhash":"9a5dd1131cd0597367055e52758db189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695567,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1108695567,
+    "wof:lastmodified":1514444553,
+    "wof:name":"San Miguel Panna",
+    "wof:parent_id":85671683,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":7163,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.38941677338534,
+    14.46972526501821,
+    -91.32327148028025,
+    14.54103342268633
+],
+  "geometry": {"coordinates":[[[-91.37477177052378,14.53433983327837],[-91.36853897981987,14.53156516904991],[-91.36399131783369,14.53147967285711],[-91.35786685069392,14.52383380796817],[-91.35108952454088,14.52293043428958],[-91.35067131019616,14.52307360918379],[-91.34819488954433,14.53493812623993],[-91.33599202758948,14.54103342268633],[-91.3356014304709,14.54053435999587],[-91.32605270273875,14.53570619576706],[-91.32502992824338,14.53448095144267],[-91.32327148028025,14.52962674032499],[-91.32782458821853,14.52294245829434],[-91.33449343805989,14.51574051917449],[-91.33268813679979,14.51029977257792],[-91.3358261534167,14.50423386501138],[-91.33967558091281,14.50133751145337],[-91.34162492605731,14.49576456137257],[-91.3419258563294,14.49547952108038],[-91.35025947005147,14.48373109906444],[-91.3534373729625,14.48138940684962],[-91.35739684680463,14.48173894431639],[-91.36242504330441,14.47649091238053],[-91.37215398499974,14.47594679512707],[-91.37593832756338,14.47096670353994],[-91.3850120431097,14.46972526501821],[-91.38509615323436,14.46984037912561],[-91.38941677338534,14.4767912092171],[-91.38617151152576,14.48578208892677],[-91.38037290409977,14.48700892460005],[-91.37792973046589,14.50481476919215],[-91.37757737954041,14.50515231896362],[-91.37746453900172,14.50559578519464],[-91.38191685302688,14.51839450967077],[-91.38020646422765,14.52044937497998],[-91.37892688092681,14.53213541956303],[-91.37477177052378,14.53433983327837]]],"type":"Polygon"}
+}

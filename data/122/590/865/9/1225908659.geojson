@@ -1,0 +1,70 @@
+{
+  "id": 1225908659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.47803,15.07109,-91.47803,15.07109",
+    "geom:latitude":15.07109,
+    "geom:longitude":-91.47803,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Paoj",
+    "gn:country_code":"GT",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478334,
+    "gn:latitude":15.07109,
+    "gn:longitude":-91.47803,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Paoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478334
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3bc30609f67489f3453735f0234676d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1225908659,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1225908659,
+    "wof:lastmodified":1537625338,
+    "wof:name":"Paoj",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.47803,
+    15.07109,
+    -91.47803,
+    15.07109
+],
+  "geometry": {"coordinates":[-91.47803,15.07109],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260177827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.2216,15.87209,-89.2216,15.87209",
+    "geom:latitude":15.87209,
+    "geom:longitude":-89.2216,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chocon",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598347,
+    "gn:latitude":15.87209,
+    "gn:longitude":-89.2216,
+    "gn:modification_date":"2014-07-01",
+    "gn:name":"Choc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chac\u00f3n",
+        "Choc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598347
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"39532c430a838548718f08d72777ed96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695389,
+            "locality_id":1260177827,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1260177827,
+    "wof:lastmodified":1537625220,
+    "wof:name":"Chocon",
+    "wof:parent_id":1108695389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.2216,
+    15.87209,
+    -89.2216,
+    15.87209
+],
+  "geometry": {"coordinates":[-89.2216,15.87209],"type":"Point"}
+}

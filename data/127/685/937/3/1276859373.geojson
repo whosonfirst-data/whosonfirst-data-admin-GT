@@ -1,0 +1,67 @@
+{
+  "id": 1276859373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.1,14.25,-90.1,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":-90.1,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Los Llanitos",
+    "gn:country_code":"GT",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593006,
+    "gn:latitude":14.25,
+    "gn:longitude":-90.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Llanitos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593006
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4fd587dabde4d6afe1ee31816b8ab946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695517,
+            "locality_id":1276859373,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1276859373,
+    "wof:lastmodified":1537065700,
+    "wof:name":"Los Llanitos",
+    "wof:parent_id":1108695517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.1,
+    14.25,
+    -90.1,
+    14.25
+],
+  "geometry": {"coordinates":[-90.09999999999999,14.25],"type":"Point"}
+}

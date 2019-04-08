@@ -1,0 +1,67 @@
+{
+  "id": 1343941619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.16667,14.66667,-90.16667,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-90.16667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Los Talpetates",
+    "gn:country_code":"GT",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592870,
+    "gn:latitude":14.66667,
+    "gn:longitude":-90.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Talpetates",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671719,
+        421183137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592870
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ed58cad7dfcbb828eb70dc9a320aa1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421183137,
+            "locality_id":1343941619,
+            "region_id":85671719
+        }
+    ],
+    "wof:id":1343941619,
+    "wof:lastmodified":1537045366,
+    "wof:name":"Los Talpetates",
+    "wof:parent_id":421183137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.16667,
+    14.66667,
+    -90.16667,
+    14.66667
+],
+  "geometry": {"coordinates":[-90.16667,14.66667],"type":"Point"}
+}

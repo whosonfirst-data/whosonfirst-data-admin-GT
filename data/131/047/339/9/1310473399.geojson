@@ -1,0 +1,70 @@
+{
+  "id": 1310473399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05032,14.74257,-92.05032,14.74257",
+    "geom:latitude":14.74257,
+    "geom:longitude":-92.05032,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Carmen Puntarenas",
+    "gn:country_code":"GT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639017,
+    "gn:latitude":14.74257,
+    "gn:longitude":-92.05032,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"El Carmen Puntarenas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Carmen Puntarenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639017
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"501e112e6e48bccd156660e3514ef5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1310473399,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1310473399,
+    "wof:lastmodified":1537625274,
+    "wof:name":"El Carmen Puntarenas",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05032,
+    14.74257,
+    -92.05032,
+    14.74257
+],
+  "geometry": {"coordinates":[-92.05032,14.74257],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 421179193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58333,15.06667,-89.58333,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":-89.58333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u7fc1\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:ger_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Hondo"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590788,
+    "qs:gn_pop":5997,
+    "qs:name":"R\u00edo Hondo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Zacapa",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149170,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85367,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        421182433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590788,
+        "gp:id":85367,
+        "qs:id":149170,
+        "wd:id":"Q593520"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"8761de3e9227db3dbbe7d2191eb1eab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182433,
+            "locality_id":421179193,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":421179193,
+    "wof:lastmodified":1553816368,
+    "wof:name":"R\u00edo Hondo",
+    "wof:parent_id":421182433,
+    "wof:placetype":"locality",
+    "wof:population":5997,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58333,
+    15.06667,
+    -89.58333,
+    15.06667
+],
+  "geometry": {"coordinates":[-89.58333,15.06667],"type":"Point"}
+}

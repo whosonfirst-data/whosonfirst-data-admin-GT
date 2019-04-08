@@ -1,0 +1,70 @@
+{
+  "id": 1343332613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14195,15.41324,-91.14195,15.41324",
+    "geom:latitude":15.41324,
+    "geom:longitude":-91.14195,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bipo",
+    "gn:country_code":"GT",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483089,
+    "gn:latitude":15.41324,
+    "gn:longitude":-91.14195,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Bipo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bipo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483089
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"212d67c0b2e14612249daaa0ab88ee05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1343332613,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1343332613,
+    "wof:lastmodified":1537625349,
+    "wof:name":"Bipo",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14195,
+    15.41324,
+    -91.14195,
+    15.41324
+],
+  "geometry": {"coordinates":[-91.14194999999999,15.41324],"type":"Point"}
+}

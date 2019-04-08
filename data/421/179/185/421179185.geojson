@@ -1,0 +1,123 @@
+{
+  "id": 421179185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.48333,14.9,-91.48333,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-91.48333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u514b\u585e\u5eab\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:ger_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:lit_x_preferred":[
+        "San Andres \u0160ekulis"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Xecul"
+    ],
+    "name:unk_x_variant":[
+        "San Andr\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u96f7\u65af\u514b\u585e\u5eab\u723e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3590520,
+    "qs:gn_pop":12133,
+    "qs:name":"San Andr\u00e9s Xecul",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Totonicapan",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149163,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85500,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421184605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590520,
+        "gp:id":85500,
+        "qs:id":149163,
+        "wd:id":"Q2609261",
+        "wk:page":"San Andr\u00e9s Xecul"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"62b4aa4554074947c968cb73383dfcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184605,
+            "locality_id":421179185,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":421179185,
+    "wof:lastmodified":1514444529,
+    "wof:name":"San Andr\u00e9s Xecul",
+    "wof:parent_id":421184605,
+    "wof:placetype":"locality",
+    "wof:population":12133,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.48333,
+    14.9,
+    -91.48333,
+    14.9
+],
+  "geometry": {"coordinates":[-91.48333,14.9],"type":"Point"}
+}

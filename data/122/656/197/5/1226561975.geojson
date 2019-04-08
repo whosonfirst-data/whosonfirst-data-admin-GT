@@ -1,0 +1,70 @@
+{
+  "id": 1226561975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.70099,15.38969,-91.70099,15.38969",
+    "geom:latitude":15.38969,
+    "geom:longitude":-91.70099,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Txantalchej",
+    "gn:country_code":"GT",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453807,
+    "gn:latitude":15.38969,
+    "gn:longitude":-91.70099,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Txantalchej",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Txantalchej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453807
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8e66d16f616d890a6e001c468c64b801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695509,
+            "locality_id":1226561975,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226561975,
+    "wof:lastmodified":1537625289,
+    "wof:name":"Txantalchej",
+    "wof:parent_id":1108695509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.70099,
+    15.38969,
+    -91.70099,
+    15.38969
+],
+  "geometry": {"coordinates":[-91.70099,15.38969],"type":"Point"}
+}

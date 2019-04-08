@@ -1,0 +1,70 @@
+{
+  "id": 1259679217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54556,15.42919,-91.54556,15.42919",
+    "geom:latitude":15.42919,
+    "geom:longitude":-91.54556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tzimaj",
+    "gn:country_code":"GT",
+    "gn:dem":2879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456468,
+    "gn:latitude":15.42919,
+    "gn:longitude":-91.54556,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tzimaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tzimaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421201163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456468
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ace564f89be25a65cd3bc8592d7c8f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201163,
+            "locality_id":1259679217,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259679217,
+    "wof:lastmodified":1537625295,
+    "wof:name":"Tzimaj",
+    "wof:parent_id":421201163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54556,
+    15.42919,
+    -91.54556,
+    15.42919
+],
+  "geometry": {"coordinates":[-91.54555999999999,15.42919],"type":"Point"}
+}

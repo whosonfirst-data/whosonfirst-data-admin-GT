@@ -1,0 +1,70 @@
+{
+  "id": 1310181421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.95387,15.22871,-91.95387,15.22871",
+    "geom:latitude":15.22871,
+    "geom:longitude":-91.95387,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tierra Colorada",
+    "gn:country_code":"GT",
+    "gn:dem":2998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475925,
+    "gn:latitude":15.22871,
+    "gn:longitude":-91.95387,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tierra Colorada",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierra Colorada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475925
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"912ae7ba8d021e3631bf71529e4cdde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695527,
+            "locality_id":1310181421,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1310181421,
+    "wof:lastmodified":1537625316,
+    "wof:name":"Tierra Colorada",
+    "wof:parent_id":1108695527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.95387,
+    15.22871,
+    -91.95387,
+    15.22871
+],
+  "geometry": {"coordinates":[-91.95386999999999,15.22871],"type":"Point"}
+}

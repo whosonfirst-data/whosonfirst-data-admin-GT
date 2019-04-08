@@ -1,0 +1,111 @@
+{
+  "id": 421179207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61667,14.86667,-91.61667,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-91.61667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5967\u65af\u901a\u5361\u723e\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan Ostuncalco"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Ostuncalco"
+    ],
+    "name:fre_x_preferred":[
+        "Ostuncalco"
+    ],
+    "name:ita_x_preferred":[
+        "Ostuncalco"
+    ],
+    "name:pol_x_preferred":[
+        "Ostuncalco"
+    ],
+    "name:por_x_preferred":[
+        "Ostuncalco"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Ostuncalco"
+    ],
+    "name:swe_x_preferred":[
+        "Ostuncalco"
+    ],
+    "name:unk_x_variant":[
+        "San Juan Ostuncalco"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591997,
+    "qs:gn_pop":28894,
+    "qs:name":"Ostuncalco",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149178,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84678,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591997,
+        "gp:id":84678,
+        "qs:id":149178,
+        "wd:id":"Q2718157",
+        "wk:page":"San Juan Ostuncalco"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009208,
+    "wof:geomhash":"0303b03f117a89cafe6dab9ef326d98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695539,
+            "locality_id":421179207,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421179207,
+    "wof:lastmodified":1514444491,
+    "wof:name":"Ostuncalco",
+    "wof:parent_id":1108695539,
+    "wof:placetype":"locality",
+    "wof:population":28894,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61667,
+    14.86667,
+    -91.61667,
+    14.86667
+],
+  "geometry": {"coordinates":[-91.61667,14.86667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293075055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45141,15.02049,-91.45141,15.02049",
+    "geom:latitude":15.02049,
+    "geom:longitude":-91.45141,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pacamam",
+    "gn:country_code":"GT",
+    "gn:dem":2577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478301,
+    "gn:latitude":15.02049,
+    "gn:longitude":-91.45141,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pacamam",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacamam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478301
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7f8c540473b46847fb3eb778fab8206f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1293075055,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1293075055,
+    "wof:lastmodified":1537625338,
+    "wof:name":"Pacamam",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45141,
+    15.02049,
+    -91.45141,
+    15.02049
+],
+  "geometry": {"coordinates":[-91.45141,15.02049],"type":"Point"}
+}

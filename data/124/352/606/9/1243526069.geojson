@@ -1,0 +1,70 @@
+{
+  "id": 1243526069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.8283,15.05593,-91.8283,15.05593",
+    "geom:latitude":15.05593,
+    "geom:longitude":-91.8283,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Los Puentes",
+    "gn:country_code":"GT",
+    "gn:dem":2811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475341,
+    "gn:latitude":15.05593,
+    "gn:longitude":-91.8283,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Los Puentes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Puentes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        421190499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475341
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4f702a41a1928fbc24255bd9a9f5d394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190499,
+            "locality_id":1243526069,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243526069,
+    "wof:lastmodified":1537625309,
+    "wof:name":"Los Puentes",
+    "wof:parent_id":421190499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.8283,
+    15.05593,
+    -91.8283,
+    15.05593
+],
+  "geometry": {"coordinates":[-91.8283,15.05593],"type":"Point"}
+}

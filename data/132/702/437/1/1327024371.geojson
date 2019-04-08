@@ -1,0 +1,73 @@
+{
+  "id": 1327024371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1,15.56667,-89.1,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-89.1,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bricenos",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599396,
+    "gn:latitude":15.56667,
+    "gn:longitude":-89.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brice\u00f1os",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brise\u00f1a",
+        "Brise\u00f1o",
+        "Brice\u00f1os"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599396
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b8beb1a471909542c2577b897346b7ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695387,
+            "locality_id":1327024371,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1327024371,
+    "wof:lastmodified":1537625231,
+    "wof:name":"Bricenos",
+    "wof:parent_id":1108695387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1,
+    15.56667,
+    -89.1,
+    15.56667
+],
+  "geometry": {"coordinates":[-89.09999999999999,15.56667],"type":"Point"}
+}

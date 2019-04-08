@@ -1,0 +1,70 @@
+{
+  "id": 1310101161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.58664,15.49038,-91.58664,15.49038",
+    "geom:latitude":15.49038,
+    "geom:longitude":-91.58664,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuiich",
+    "gn:country_code":"GT",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454461,
+    "gn:latitude":15.49038,
+    "gn:longitude":-91.58664,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tuiich",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuiich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421201163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454461
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"45c87caf1f77b316456627e1369cb42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201163,
+            "locality_id":1310101161,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1310101161,
+    "wof:lastmodified":1537625294,
+    "wof:name":"Tuiich",
+    "wof:parent_id":421201163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.58664,
+    15.49038,
+    -91.58664,
+    15.49038
+],
+  "geometry": {"coordinates":[-91.58664,15.49038],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 421194063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.96667,15.56667,-89.96667,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-89.96667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u963f\u53e4\u65af\u4e01\u862d\u91d1"
+    ],
+    "name:deu_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:dut_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:fra_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:ger_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30b0\u30b9\u30c6\u30a3\u30f3\u30fb\u30e9\u30f3\u30ad\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Lankinas"
+    ],
+    "name:nld_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:nob_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:nor_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:pol_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Lanqu\u00edn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06a9\u0648\u06cc\u0646"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3594315,
+    "qs:gn_pop":2006,
+    "qs:name":"Lanqu\u00edn",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Alta Verapaz",
+    "qs:photos":1701,
+    "qs:photos_1k":345,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1701,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1284753,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83768,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421182335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594315,
+        "gp:id":83768,
+        "qs:id":1284753,
+        "wd:id":"Q275883",
+        "wk:page":"San Agust\u00edn Lanqu\u00edn"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009793,
+    "wof:geomhash":"c2fc34cd157d6b0b80dad8df59a4c8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182335,
+            "locality_id":421194063,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":421194063,
+    "wof:lastmodified":1514444478,
+    "wof:name":"Lanqu\u00edn",
+    "wof:parent_id":421182335,
+    "wof:placetype":"locality",
+    "wof:population":2006,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.96667,
+    15.56667,
+    -89.96667,
+    15.56667
+],
+  "geometry": {"coordinates":[-89.96666999999999,15.56667],"type":"Point"}
+}

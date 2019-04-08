@@ -1,0 +1,70 @@
+{
+  "id": 1276948835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.05491,15.39999,-91.05491,15.39999",
+    "geom:latitude":15.39999,
+    "geom:longitude":-91.05491,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"GT",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483175,
+    "gn:latitude":15.39999,
+    "gn:longitude":-91.05491,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"San Nic\u00f3las",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Nic\u00f3las"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421204285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483175
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"572998c155c9922455d6a7eac28dd8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204285,
+            "locality_id":1276948835,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276948835,
+    "wof:lastmodified":1537625350,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":421204285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.05491,
+    15.39999,
+    -91.05491,
+    15.39999
+],
+  "geometry": {"coordinates":[-91.05491000000001,15.39999],"type":"Point"}
+}

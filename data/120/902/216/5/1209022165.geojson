@@ -1,0 +1,61 @@
+{
+  "id": 1209022165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4,15.46667,-90.4,15.46667",
+    "geom:latitude":15.46667,
+    "geom:longitude":-90.4,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Samac",
+    "gn:country_code":"GT",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590573,
+    "gn:latitude":15.46667,
+    "gn:longitude":-90.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Samac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590573
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"61b36de2266c8caf9c80a4ab7c5b57a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209022165
+        }
+    ],
+    "wof:id":1209022165,
+    "wof:lastmodified":1536300113,
+    "wof:name":"Samac",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4,
+    15.46667,
+    -90.4,
+    15.46667
+],
+  "geometry": {"coordinates":[-90.40000000000001,15.46667],"type":"Point"}
+}

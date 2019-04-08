@@ -1,0 +1,70 @@
+{
+  "id": 1193038077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.30913,15.33681,-91.30913,15.33681",
+    "geom:latitude":15.33681,
+    "geom:longitude":-91.30913,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agua Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491344,
+    "gn:latitude":15.33681,
+    "gn:longitude":-91.30913,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Agua Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491344
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a6b126edf4020da0e81bef2fc224bb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1193038077,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193038077,
+    "wof:lastmodified":1537625365,
+    "wof:name":"Agua Blanca",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.30913,
+    15.33681,
+    -91.30913,
+    15.33681
+],
+  "geometry": {"coordinates":[-91.30913,15.33681],"type":"Point"}
+}

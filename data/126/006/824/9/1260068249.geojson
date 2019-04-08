@@ -1,0 +1,72 @@
+{
+  "id": 1260068249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01667,14.11667,-90.01667,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-90.01667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Jicaral",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596949,
+    "gn:latitude":14.11667,
+    "gn:longitude":-90.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Jicaral",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jicaral",
+        "El Jicaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596949
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5ce14776dc059b89bd1aceebc8faf769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695369,
+            "locality_id":1260068249,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1260068249,
+    "wof:lastmodified":1537625207,
+    "wof:name":"El Jicaral",
+    "wof:parent_id":1108695369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01666999999998,
+    14.11667,
+    -90.01666999999998,
+    14.11667
+],
+  "geometry": {"coordinates":[-90.01666999999998,14.11667],"type":"Point"}
+}

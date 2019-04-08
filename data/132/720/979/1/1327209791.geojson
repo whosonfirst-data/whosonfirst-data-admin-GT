@@ -1,0 +1,67 @@
+{
+  "id": 1327209791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.25,14.1,-90.25,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-90.25,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"El Manacal",
+    "gn:country_code":"GT",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596839,
+    "gn:latitude":14.1,
+    "gn:longitude":-90.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Manacal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596839
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"684b585761c949507a34cae5459f7926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695633,
+            "locality_id":1327209791,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1327209791,
+    "wof:lastmodified":1537001591,
+    "wof:name":"El Manacal",
+    "wof:parent_id":1108695633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.25,
+    14.1,
+    -90.25,
+    14.1
+],
+  "geometry": {"coordinates":[-90.25,14.1],"type":"Point"}
+}

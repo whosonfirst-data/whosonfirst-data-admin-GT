@@ -1,0 +1,70 @@
+{
+  "id": 1293609093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.46626,15.60776,-91.46626,15.60776",
+    "geom:latitude":15.60776,
+    "geom:longitude":-91.46626,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Canchicu",
+    "gn:country_code":"GT",
+    "gn:dem":2754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492225,
+    "gn:latitude":15.60776,
+    "gn:longitude":-91.46626,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Canchic\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Canchic\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421189489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492225
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"acb42f43472ea430fd9c7c5a9aca3507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189489,
+            "locality_id":1293609093,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293609093,
+    "wof:lastmodified":1537625371,
+    "wof:name":"Canchicu",
+    "wof:parent_id":421189489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.46626,
+    15.60776,
+    -91.46626,
+    15.60776
+],
+  "geometry": {"coordinates":[-91.46626000000001,15.60776],"type":"Point"}
+}

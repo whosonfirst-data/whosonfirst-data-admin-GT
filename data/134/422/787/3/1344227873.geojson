@@ -1,0 +1,70 @@
+{
+  "id": 1344227873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.25136,15.47441,-91.25136,15.47441",
+    "geom:latitude":15.47441,
+    "geom:longitude":-91.25136,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Batzporbin",
+    "gn:country_code":"GT",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491489,
+    "gn:latitude":15.47441,
+    "gn:longitude":-91.25136,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Batzporb\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batzporb\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491489
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"43213c55b389e222f8dcdab9cc2eed60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1344227873,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1344227873,
+    "wof:lastmodified":1537625365,
+    "wof:name":"Batzporbin",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.25136,
+    15.47441,
+    -91.25136,
+    15.47441
+],
+  "geometry": {"coordinates":[-91.25136000000001,15.47441],"type":"Point"}
+}

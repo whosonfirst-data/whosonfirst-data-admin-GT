@@ -1,0 +1,129 @@
+{
+  "id": 1125847855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28333,14.7,-91.28333,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-91.28333,
+    "gn:gn_country":"GT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4608,
+    "gn:population":4608,
+    "iso:country":"GT",
+    "lbl:latitude":14.7,
+    "lbl:longitude":-91.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u62c9\u62c9\u53e4\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan la Laguna"
+    ],
+    "name:lit_x_preferred":[
+        "San Chuan La Laguna"
+    ],
+    "name:nah_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:por_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan La Laguna"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "qs_pg:aaroncc":"GT",
+    "qs_pg:gn_country":"GT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3589896,
+    "qs_pg:gn_pop":4608,
+    "qs_pg:name":"San Juan la Laguna",
+    "qs_pg:name_adm0":"Guatemala",
+    "qs_pg:name_adm1":"Solola",
+    "qs_pg:photos":742,
+    "qs_pg:photos_1k":150,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":742,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":489169,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424834,
+    "qs_pg:woe_id":85742,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424834,
+    "woe:name_adm0":"Guatemala",
+    "woe:name_adm1":"Solola",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        1108695385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589896,
+        "gp:id":85742,
+        "qs_pg:id":489169,
+        "wd:id":"Q2403501"
+    },
+    "wof:country":"GT",
+    "wof:created":1497293248,
+    "wof:geomhash":"62b0b1875d786538f50fc4a7d09ddd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695385,
+            "locality_id":1125847855,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":1125847855,
+    "wof:lastmodified":1514444543,
+    "wof:name":"San Juan la Laguna",
+    "wof:parent_id":1108695385,
+    "wof:placetype":"locality",
+    "wof:population":4608,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28333,
+    14.7,
+    -91.28333,
+    14.7
+],
+  "geometry": {"coordinates":[-91.28333000000001,14.7],"type":"Point"}
+}

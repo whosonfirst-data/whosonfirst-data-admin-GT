@@ -1,0 +1,71 @@
+{
+  "id": 1293768247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05124,15.45213,-89.05124,15.45213",
+    "geom:latitude":15.45213,
+    "geom:longitude":-89.05124,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Rio Blanco Segundo",
+    "gn:country_code":"GT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590806,
+    "gn:latitude":15.45213,
+    "gn:longitude":-89.05124,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"R\u00edo Blanco Segundo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Blanco",
+        "R\u00edo Blanco Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421196435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590806
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f6d3ab533294d29bab481eee9e9ab7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196435,
+            "locality_id":1293768247,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1293768247,
+    "wof:lastmodified":1537625153,
+    "wof:name":"Rio Blanco Segundo",
+    "wof:parent_id":421196435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05124,
+    15.45213,
+    -89.05124,
+    15.45213
+],
+  "geometry": {"coordinates":[-89.05124000000001,15.45213],"type":"Point"}
+}

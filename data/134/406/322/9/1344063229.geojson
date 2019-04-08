@@ -1,0 +1,67 @@
+{
+  "id": 1344063229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.36667,14.56667,-89.36667,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-89.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jesus y Maria",
+    "gn:country_code":"GT",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595213,
+    "gn:latitude":14.56667,
+    "gn:longitude":-89.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Jes\u00fas y Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421188729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595213
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b40ba6235a4ba19562a2425dc9ddf75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188729,
+            "locality_id":1344063229,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1344063229,
+    "wof:lastmodified":1536870409,
+    "wof:name":"Jesus y Maria",
+    "wof:parent_id":421188729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.36667,
+    14.56667,
+    -89.36667,
+    14.56667
+],
+  "geometry": {"coordinates":[-89.36667,14.56667],"type":"Point"}
+}

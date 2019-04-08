@@ -1,0 +1,70 @@
+{
+  "id": 1310671727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08881,15.16841,-91.08881,15.16841",
+    "geom:latitude":15.16841,
+    "geom:longitude":-91.08881,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chicajom",
+    "gn:country_code":"GT",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483955,
+    "gn:latitude":15.16841,
+    "gn:longitude":-91.08881,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chicajom",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicajom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483955
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"524afd6e4478145d1fb5f92d51945934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1310671727,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1310671727,
+    "wof:lastmodified":1537625352,
+    "wof:name":"Chicajom",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08881,
+    15.16841,
+    -91.08881,
+    15.16841
+],
+  "geometry": {"coordinates":[-91.08881,15.16841],"type":"Point"}
+}

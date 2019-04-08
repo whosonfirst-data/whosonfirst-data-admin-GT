@@ -1,0 +1,72 @@
+{
+  "id": 1327001631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.75,14.91667,-91.75,14.91667",
+    "geom:latitude":14.91667,
+    "geom:longitude":-91.75,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Castalia",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594910,
+    "gn:latitude":14.91667,
+    "gn:longitude":-91.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Castalia",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castalia",
+        "La Castalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594910
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7826b874d0afa86083f546768bd62b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695585,
+            "locality_id":1327001631,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1327001631,
+    "wof:lastmodified":1537625187,
+    "wof:name":"La Castalia",
+    "wof:parent_id":1108695585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75,
+    14.91667,
+    -91.75,
+    14.91667
+],
+  "geometry": {"coordinates":[-91.75,14.91667],"type":"Point"}
+}

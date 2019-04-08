@@ -1,0 +1,67 @@
+{
+  "id": 1343967657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.86103,15.80697,-89.86103,15.80697",
+    "geom:latitude":15.80697,
+    "geom:longitude":-89.86103,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fray Bartolome de las Casas",
+    "gn:country_code":"GT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165894,
+    "gn:latitude":15.80697,
+    "gn:longitude":-89.86103,
+    "gn:modification_date":"2014-06-12",
+    "gn:name":"Fray Bartolom\u00e9 de las Casas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        1108695349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165894
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9a9e7ce78617520e129cb291be09ed99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695349,
+            "locality_id":1343967657,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1343967657,
+    "wof:lastmodified":1537008797,
+    "wof:name":"Fray Bartolome de las Casas",
+    "wof:parent_id":1108695349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.86103,
+    15.80697,
+    -89.86103,
+    15.80697
+],
+  "geometry": {"coordinates":[-89.86103,15.80697],"type":"Point"}
+}

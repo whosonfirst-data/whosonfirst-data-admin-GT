@@ -1,0 +1,70 @@
+{
+  "id": 1327353499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.53332,15.76275,-91.53332,15.76275",
+    "geom:latitude":15.76275,
+    "geom:longitude":-91.53332,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Campanac",
+    "gn:country_code":"GT",
+    "gn:dem":2694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481822,
+    "gn:latitude":15.76275,
+    "gn:longitude":-91.53332,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Campanac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campanac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481822
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"54de68859386c8348c57575ea0466671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695587,
+            "locality_id":1327353499,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1327353499,
+    "wof:lastmodified":1537625343,
+    "wof:name":"Campanac",
+    "wof:parent_id":1108695587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.53332,
+    15.76275,
+    -91.53332,
+    15.76275
+],
+  "geometry": {"coordinates":[-91.53332,15.76275],"type":"Point"}
+}

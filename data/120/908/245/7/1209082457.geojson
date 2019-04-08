@@ -1,0 +1,64 @@
+{
+  "id": 1209082457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.18114,14.50729,-92.18114,14.50729",
+    "geom:latitude":14.50729,
+    "geom:longitude":-92.18114,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Los Almendrales",
+    "gn:country_code":"GT",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764467,
+    "gn:latitude":14.50729,
+    "gn:longitude":-92.18114,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Los Almendrales",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Almendrales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764467
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5f006f72007ce89817e60c387793eb3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209082457
+        }
+    ],
+    "wof:id":1209082457,
+    "wof:lastmodified":1537625241,
+    "wof:name":"Los Almendrales",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.18114,
+    14.50729,
+    -92.18114,
+    14.50729
+],
+  "geometry": {"coordinates":[-92.18114,14.50729],"type":"Point"}
+}

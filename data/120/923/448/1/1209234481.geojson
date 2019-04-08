@@ -1,0 +1,67 @@
+{
+  "id": 1209234481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.40179,15.39911,-91.40179,15.39911",
+    "geom:latitude":15.39911,
+    "geom:longitude":-91.40179,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tojxim",
+    "gn:country_code":"GT",
+    "gn:dem":3090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733961,
+    "gn:latitude":15.39911,
+    "gn:longitude":-91.40179,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tojxim",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tojxim"
+    ],
+    "name:und_x_variant":[
+        "Tojxin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733961
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"df6308e7538fd706da01f3381aa6e216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209234481
+        }
+    ],
+    "wof:id":1209234481,
+    "wof:lastmodified":1537625237,
+    "wof:name":"Tojxim",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.40179,
+    15.39911,
+    -91.40179,
+    15.39911
+],
+  "geometry": {"coordinates":[-91.40179000000001,15.39911],"type":"Point"}
+}

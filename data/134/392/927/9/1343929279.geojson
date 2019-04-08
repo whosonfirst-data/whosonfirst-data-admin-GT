@@ -1,0 +1,70 @@
+{
+  "id": 1343929279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88036,15.11084,-91.88036,15.11084",
+    "geom:latitude":15.11084,
+    "geom:longitude":-91.88036,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Triunfo",
+    "gn:country_code":"GT",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475525,
+    "gn:latitude":15.11084,
+    "gn:longitude":-91.88036,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Triunfo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Triunfo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475525
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ba0bd641e52b7c0e2b023758cea5cd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1343929279,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1343929279,
+    "wof:lastmodified":1537625312,
+    "wof:name":"El Triunfo",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88036,
+    15.11084,
+    -91.88036,
+    15.11084
+],
+  "geometry": {"coordinates":[-91.88036,15.11084],"type":"Point"}
+}

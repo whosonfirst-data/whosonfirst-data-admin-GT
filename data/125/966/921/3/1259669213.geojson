@@ -1,0 +1,70 @@
+{
+  "id": 1259669213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.77775,15.58799,-91.77775,15.58799",
+    "geom:latitude":15.58799,
+    "geom:longitude":-91.77775,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Guantan",
+    "gn:country_code":"GT",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637557,
+    "gn:latitude":15.58799,
+    "gn:longitude":-91.77775,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Guant\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guant\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637557
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cd6d7ae8b08183722756b16537db8760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695675,
+            "locality_id":1259669213,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259669213,
+    "wof:lastmodified":1537625264,
+    "wof:name":"Guantan",
+    "wof:parent_id":1108695675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.77775,
+    15.58799,
+    -91.77775,
+    15.58799
+],
+  "geometry": {"coordinates":[-91.77775,15.58799],"type":"Point"}
+}

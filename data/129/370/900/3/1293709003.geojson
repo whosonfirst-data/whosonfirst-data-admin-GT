@@ -1,0 +1,73 @@
+{
+  "id": 1293709003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.27859,15.35287,-91.27859,15.35287",
+    "geom:latitude":15.35287,
+    "geom:longitude":-91.27859,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rio Blanco Chiquito",
+    "gn:country_code":"GT",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590811,
+    "gn:latitude":15.35287,
+    "gn:longitude":-91.27859,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"R\u00edo Blanco Chiquito",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "R\u00edo Blanco Chiquito"
+    ],
+    "name:und_x_variant":[
+        "R\u00edo Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590811
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a25d389b1387e0e2be9e3129c48fb5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1293709003,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293709003,
+    "wof:lastmodified":1537625153,
+    "wof:name":"Rio Blanco Chiquito",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.27859,
+    15.35287,
+    -91.27859,
+    15.35287
+],
+  "geometry": {"coordinates":[-91.27858999999999,15.35287],"type":"Point"}
+}

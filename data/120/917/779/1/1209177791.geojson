@@ -1,0 +1,64 @@
+{
+  "id": 1209177791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.09789,15.27965,-92.09789,15.27965",
+    "geom:latitude":15.27965,
+    "geom:longitude":-92.09789,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuiscuchuy",
+    "gn:country_code":"GT",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637401,
+    "gn:latitude":15.27965,
+    "gn:longitude":-92.09789,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Tuiscuchuy",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tuiscuchuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637401
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fbf87a131cd7ee3a09b70313a420567a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209177791
+        }
+    ],
+    "wof:id":1209177791,
+    "wof:lastmodified":1537625262,
+    "wof:name":"Tuiscuchuy",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.09789,
+    15.27965,
+    -92.09789,
+    15.27965
+],
+  "geometry": {"coordinates":[-92.09789000000001,15.27965],"type":"Point"}
+}

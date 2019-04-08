@@ -1,0 +1,70 @@
+{
+  "id": 1293560653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.85878,15.19802,-91.85878,15.19802",
+    "geom:latitude":15.19802,
+    "geom:longitude":-91.85878,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sector Tierra Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":3075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476223,
+    "gn:latitude":15.19802,
+    "gn:longitude":-91.85878,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sector Tierra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sector Tierra Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476223
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a589c853aa3a9bbc8edf6d7223166609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695671,
+            "locality_id":1293560653,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1293560653,
+    "wof:lastmodified":1537625318,
+    "wof:name":"Sector Tierra Blanca",
+    "wof:parent_id":1108695671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.85878,
+    15.19802,
+    -91.85878,
+    15.19802
+],
+  "geometry": {"coordinates":[-91.85878,15.19802],"type":"Point"}
+}

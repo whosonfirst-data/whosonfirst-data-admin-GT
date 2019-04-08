@@ -1,0 +1,70 @@
+{
+  "id": 1343744933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00191,14.48141,-92.00191,14.48141",
+    "geom:latitude":14.48141,
+    "geom:longitude":-92.00191,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"GT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450781,
+    "gn:latitude":14.48141,
+    "gn:longitude":-92.00191,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        421204387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450781
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"09a26b001f432a6a9a7ce46dac6cfe48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421204387,
+            "locality_id":1343744933,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":1343744933,
+    "wof:lastmodified":1537625285,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":421204387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00191,
+    14.48141,
+    -92.00191,
+    14.48141
+],
+  "geometry": {"coordinates":[-92.00191,14.48141],"type":"Point"}
+}

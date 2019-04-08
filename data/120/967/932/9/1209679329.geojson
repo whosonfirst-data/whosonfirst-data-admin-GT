@@ -1,0 +1,64 @@
+{
+  "id": 1209679329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.00541,15.04647,-92.00541,15.04647",
+    "geom:latitude":15.04647,
+    "geom:longitude":-92.00541,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Chantzaj",
+    "gn:country_code":"GT",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634663,
+    "gn:latitude":15.04647,
+    "gn:longitude":-92.00541,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Chantzaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chantzaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634663
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3f9ed8b719fa9ea6d8f90cebffe24465",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209679329
+        }
+    ],
+    "wof:id":1209679329,
+    "wof:lastmodified":1537625251,
+    "wof:name":"Chantzaj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.00541,
+    15.04647,
+    -92.00541,
+    15.04647
+],
+  "geometry": {"coordinates":[-92.00541,15.04647],"type":"Point"}
+}

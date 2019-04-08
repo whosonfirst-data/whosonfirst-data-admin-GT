@@ -1,0 +1,70 @@
+{
+  "id": 1226616871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.08778,15.42698,-91.08778,15.42698",
+    "geom:latitude":15.42698,
+    "geom:longitude":-91.08778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Batzrancho",
+    "gn:country_code":"GT",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483172,
+    "gn:latitude":15.42698,
+    "gn:longitude":-91.08778,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Batzrancho",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Batzrancho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421200685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483172
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9e82a6c150b285f576613d1764c2bfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421200685,
+            "locality_id":1226616871,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1226616871,
+    "wof:lastmodified":1537625350,
+    "wof:name":"Batzrancho",
+    "wof:parent_id":421200685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.08778,
+    15.42698,
+    -91.08778,
+    15.42698
+],
+  "geometry": {"coordinates":[-91.08778,15.42698],"type":"Point"}
+}

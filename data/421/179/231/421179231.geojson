@@ -1,0 +1,107 @@
+{
+  "id": 421179231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.61667,14.61667,-89.61667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-89.61667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4f0a\u5e15\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Ipala"
+    ],
+    "name:eng_x_preferred":[
+        "Ipala"
+    ],
+    "name:fre_x_preferred":[
+        "Ipala"
+    ],
+    "name:ita_x_preferred":[
+        "Ipala"
+    ],
+    "name:pol_x_preferred":[
+        "Ipala"
+    ],
+    "name:por_x_preferred":[
+        "Ipala"
+    ],
+    "name:spa_x_preferred":[
+        "Ipala"
+    ],
+    "name:unk_x_variant":[
+        "Jilotepeque"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3595366,
+    "qs:gn_pop":5283,
+    "qs:name":"Ipala",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chiquimula",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149199,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":83194,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421185525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595366,
+        "gp:id":83194,
+        "qs:id":149199,
+        "wd:id":"Q541819"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009208,
+    "wof:geomhash":"de8452a4814aa58cdfdb8ebad908c4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185525,
+            "locality_id":421179231,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":421179231,
+    "wof:lastmodified":1514444458,
+    "wof:name":"Ipala",
+    "wof:parent_id":421185525,
+    "wof:placetype":"locality",
+    "wof:population":5283,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.61667,
+    14.61667,
+    -89.61667,
+    14.61667
+],
+  "geometry": {"coordinates":[-89.61667,14.61667],"type":"Point"}
+}

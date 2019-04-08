@@ -1,0 +1,72 @@
+{
+  "id": 1242785471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.93333,14.68333,-90.93333,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-90.93333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Caman",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597501,
+    "gn:latitude":14.68333,
+    "gn:longitude":-90.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Cam\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cam\u00e1n",
+        "El Cam\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421182885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597501
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9c39c1eb2bc1ab7c78e4658a4175b031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182885,
+            "locality_id":1242785471,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1242785471,
+    "wof:lastmodified":1537625214,
+    "wof:name":"El Caman",
+    "wof:parent_id":421182885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.93333,
+    14.68333,
+    -90.93333,
+    14.68333
+],
+  "geometry": {"coordinates":[-90.93333,14.68333],"type":"Point"}
+}

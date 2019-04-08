@@ -1,0 +1,73 @@
+{
+  "id": 1243530799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05007,15.15644,-92.05007,15.15644",
+    "geom:latitude":15.15644,
+    "geom:longitude":-92.05007,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Checamba",
+    "gn:country_code":"GT",
+    "gn:dem":2605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634688,
+    "gn:latitude":15.15644,
+    "gn:longitude":-92.05007,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Checamb\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Checambal"
+    ],
+    "name:spa_x_variant":[
+        "Checamb\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634688
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8df1f18aadd13d08f1f9f2c4033d3bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1243530799,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243530799,
+    "wof:lastmodified":1537625252,
+    "wof:name":"Checamba",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05007,
+    15.15644,
+    -92.05007,
+    15.15644
+],
+  "geometry": {"coordinates":[-92.05007000000001,15.15644],"type":"Point"}
+}

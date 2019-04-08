@@ -1,0 +1,70 @@
+{
+  "id": 1360056293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20579,15.04285,-91.20579,15.04285",
+    "geom:latitude":15.04285,
+    "geom:longitude":-91.20579,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Panaxit Segundo",
+    "gn:country_code":"GT",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486787,
+    "gn:latitude":15.04285,
+    "gn:longitude":-91.20579,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Panaxit Segundo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Panaxit Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486787
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a4f4448a5ed369a54c0240b4f8caed1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1360056293,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1360056293,
+    "wof:lastmodified":1537625358,
+    "wof:name":"Panaxit Segundo",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20579,
+    15.04285,
+    -91.20579,
+    15.04285
+],
+  "geometry": {"coordinates":[-91.20578999999999,15.04285],"type":"Point"}
+}

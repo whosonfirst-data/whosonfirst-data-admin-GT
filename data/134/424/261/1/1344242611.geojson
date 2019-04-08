@@ -1,0 +1,70 @@
+{
+  "id": 1344242611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.69124,15.33883,-91.69124,15.33883",
+    "geom:latitude":15.33883,
+    "geom:longitude":-91.69124,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixcobiche",
+    "gn:country_code":"GT",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453811,
+    "gn:latitude":15.33883,
+    "gn:longitude":-91.69124,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ixcobich\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixcobich\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421170799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453811
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"87286a5023df93bf0eec8e282f5a052f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170799,
+            "locality_id":1344242611,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1344242611,
+    "wof:lastmodified":1537625289,
+    "wof:name":"Ixcobiche",
+    "wof:parent_id":421170799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.69124,
+    15.33883,
+    -91.69124,
+    15.33883
+],
+  "geometry": {"coordinates":[-91.69123999999999,15.33883],"type":"Point"}
+}

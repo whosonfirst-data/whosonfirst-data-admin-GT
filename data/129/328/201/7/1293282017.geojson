@@ -1,0 +1,67 @@
+{
+  "id": 1293282017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.11667,15.41667,-89.11667,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":-89.11667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Morro",
+    "gn:country_code":"GT",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596744,
+    "gn:latitude":15.41667,
+    "gn:longitude":-89.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Morro",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596744
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4bfbc15244b8331bdac0c71677066923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695387,
+            "locality_id":1293282017,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1293282017,
+    "wof:lastmodified":1537080094,
+    "wof:name":"El Morro",
+    "wof:parent_id":1108695387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.11667,
+    15.41667,
+    -89.11667,
+    15.41667
+],
+  "geometry": {"coordinates":[-89.11667,15.41667],"type":"Point"}
+}

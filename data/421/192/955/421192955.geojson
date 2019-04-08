@@ -1,0 +1,102 @@
+{
+  "id": 421192955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.51667,14.48333,-91.51667,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":-91.51667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:pol_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:por_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:sco_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:swe_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3589869,
+    "qs:gn_pop":2165,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Suchitepequez",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"4",
+    "qs:qs_id":511715,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807222,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589869,
+        "gp:id":26807222,
+        "qs:id":511715,
+        "wd:id":"Q3947493",
+        "wk:page":"San Lorenzo, Suchitep\u00e9quez"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009754,
+    "wof:geomhash":"9b9bbaccd54a86c5e9f4168fcd602c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421192955,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":421192955,
+    "wof:lastmodified":1527716108,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":85671683,
+    "wof:placetype":"county",
+    "wof:population":2165,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.51667,
+    14.48333,
+    -91.51667,
+    14.48333
+],
+  "geometry": {"coordinates":[-91.51667,14.48333],"type":"Point"}
+}

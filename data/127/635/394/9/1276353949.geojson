@@ -1,0 +1,73 @@
+{
+  "id": 1276353949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.3,15.36667,-90.3,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":-90.3,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chitix",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598390,
+    "gn:latitude":15.36667,
+    "gn:longitude":-90.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chitix",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chitixl",
+        "Chitzajay",
+        "Chitix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        421190247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598390
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"50528bd7a167571e1d1c50e44f92388f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190247,
+            "locality_id":1276353949,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":1276353949,
+    "wof:lastmodified":1537625221,
+    "wof:name":"Chitix",
+    "wof:parent_id":421190247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.3,
+    15.36667,
+    -90.3,
+    15.36667
+],
+  "geometry": {"coordinates":[-90.3,15.36667],"type":"Point"}
+}

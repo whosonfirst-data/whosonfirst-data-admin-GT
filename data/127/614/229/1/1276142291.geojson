@@ -1,0 +1,70 @@
+{
+  "id": 1276142291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.75396,15.48138,-91.75396,15.48138",
+    "geom:latitude":15.48138,
+    "geom:longitude":-91.75396,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Coles",
+    "gn:country_code":"GT",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512917,
+    "gn:latitude":15.48138,
+    "gn:longitude":-91.75396,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Los Coles",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Coles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512917
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a927b58ab456dc63788cdde4feee52a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695581,
+            "locality_id":1276142291,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276142291,
+    "wof:lastmodified":1537625389,
+    "wof:name":"Los Coles",
+    "wof:parent_id":1108695581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.75396,
+    15.48138,
+    -91.75396,
+    15.48138
+],
+  "geometry": {"coordinates":[-91.75396000000001,15.48138],"type":"Point"}
+}

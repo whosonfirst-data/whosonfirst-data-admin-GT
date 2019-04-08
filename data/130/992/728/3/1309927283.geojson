@@ -1,0 +1,67 @@
+{
+  "id": 1309927283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45,14.58333,-90.45,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":-90.45,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Lopez",
+    "gn:country_code":"GT",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592996,
+    "gn:latitude":14.58333,
+    "gn:longitude":-90.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592996
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a6aaaedaa83a5ad6d6dd1b86628f4238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695621,
+            "locality_id":1309927283,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1309927283,
+    "wof:lastmodified":1536756111,
+    "wof:name":"Los Lopez",
+    "wof:parent_id":1108695621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45,
+    14.58333,
+    -90.45,
+    14.58333
+],
+  "geometry": {"coordinates":[-90.45,14.58333],"type":"Point"}
+}

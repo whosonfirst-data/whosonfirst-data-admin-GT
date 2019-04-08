@@ -1,0 +1,67 @@
+{
+  "id": 1327038901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4,14.93333,-90.4,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-90.4,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Jacinto",
+    "gn:country_code":"GT",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3590125,
+    "gn:latitude":14.93333,
+    "gn:longitude":-90.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Jacinto",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        421175573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590125
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"49bf45caed2f9be36b58a5068edb5fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421175573,
+            "locality_id":1327038901,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":1327038901,
+    "wof:lastmodified":1536750851,
+    "wof:name":"San Jacinto",
+    "wof:parent_id":421175573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4,
+    14.93333,
+    -90.4,
+    14.93333
+],
+  "geometry": {"coordinates":[-90.40000000000001,14.93333],"type":"Point"}
+}

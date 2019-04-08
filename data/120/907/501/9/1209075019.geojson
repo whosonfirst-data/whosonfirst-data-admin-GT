@@ -1,0 +1,66 @@
+{
+  "id": 1209075019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.71667,14.81667,-89.71667,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-89.71667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Chupte",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597269,
+    "gn:latitude":14.81667,
+    "gn:longitude":-89.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Chupte",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Chucte",
+        "El Chupte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597269
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bf646860a31fcab9d436ef99db14df03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209075019
+        }
+    ],
+    "wof:id":1209075019,
+    "wof:lastmodified":1537625210,
+    "wof:name":"El Chupte",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.71667,
+    14.81667,
+    -89.71667,
+    14.81667
+],
+  "geometry": {"coordinates":[-89.71666999999999,14.81667],"type":"Point"}
+}

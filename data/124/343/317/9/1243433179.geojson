@@ -1,0 +1,67 @@
+{
+  "id": 1243433179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13333,14.98333,-91.13333,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-91.13333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pacho",
+    "gn:country_code":"GT",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591941,
+    "gn:latitude":14.98333,
+    "gn:longitude":-91.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pach\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591941
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9e9417768d10b945709dcf575c7d2b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1243433179,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243433179,
+    "wof:lastmodified":1536823742,
+    "wof:name":"Pacho",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13333,
+    14.98333,
+    -91.13333,
+    14.98333
+],
+  "geometry": {"coordinates":[-91.13333,14.98333],"type":"Point"}
+}

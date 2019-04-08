@@ -1,0 +1,226 @@
+{
+  "id": 890434957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14889,15.03056,-91.14889,15.03056",
+    "geom:latitude":15.03056,
+    "geom:longitude":-91.14889,
+    "gn:country":"GT",
+    "gn:fcode":"PPLA",
+    "gn:pop":23618,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632 \u062f\u064a\u0644 \u0643\u0648\u064a\u062a\u0634\u064a"
+    ],
+    "name:baq_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u5207\u7701\u8056\u514b\u9b6f\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9\u30fb\u30c7\u30eb\u30fb\u30ad\u30c1\u30a7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4\ub378\ud0a4\uccb4"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Krus del Ki\u010d\u0117"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Cruz Quiche"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435\u043b\u044c-\u041a\u0438\u0447\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:sme_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Cruz del Quich\u00e9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Guatemala",
+    "ne:ADM0_A3":"GTM",
+    "ne:ADM1NAME":"Quich\u00e9",
+    "ne:ADMIN1_COD":14,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3589404,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Santa Cruz del Quiche",
+    "ne:GN_POP":23618,
+    "ne:GTOPO30":1979.0,
+    "ne:ISO_A2":"GT",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.033303,
+    "ne:LONGITUDE":-91.133298,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Santa Cruz Del Quiche",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santa Cruz Del Quiche",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":23618,
+    "ne:POP_MIN":23618,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Guatemala",
+    "ne:SOV_A3":"GTM",
+    "ne:TIMEZONE":"America/Guatemala",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Santa Cruz del Quich\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:latitude":"15.05",
+    "wd:longitude":"-91.25",
+    "wd:wordcount":2145,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589404,
+        "gp:id":85977,
+        "qs:id":149133,
+        "wd:id":"Q693140",
+        "wk:page":"Santa Cruz del Quich\u00e9"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1074065
+    },
+    "wof:country":"GT",
+    "wof:created":1469052046,
+    "wof:geomhash":"ea2d7a5ea7bc4293252ed22c63c5dcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":890434957,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":890434957,
+    "wof:lastmodified":1534379332,
+    "wof:name":"Santa Cruz del Quich\u00e9",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:population":23618,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421186591
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14889,
+    15.03056,
+    -91.14889,
+    15.03056
+],
+  "geometry": {"coordinates":[-91.14888999999999,15.03056],"type":"Point"}
+}

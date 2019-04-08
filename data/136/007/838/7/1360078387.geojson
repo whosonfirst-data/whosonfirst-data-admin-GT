@@ -1,0 +1,70 @@
+{
+  "id": 1360078387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61869,15.67582,-91.61869,15.67582",
+    "geom:latitude":15.67582,
+    "geom:longitude":-91.61869,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sotojlaj",
+    "gn:country_code":"GT",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477090,
+    "gn:latitude":15.67582,
+    "gn:longitude":-91.61869,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sotojlaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sotojlaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477090
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ea476cb52a30a97c8645023b043d5975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695307,
+            "locality_id":1360078387,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1360078387,
+    "wof:lastmodified":1537625328,
+    "wof:name":"Sotojlaj",
+    "wof:parent_id":1108695307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61869,
+    15.67582,
+    -91.61869,
+    15.67582
+],
+  "geometry": {"coordinates":[-91.61869,15.67582],"type":"Point"}
+}

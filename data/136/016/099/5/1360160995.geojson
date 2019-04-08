@@ -1,0 +1,70 @@
+{
+  "id": 1360160995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.65604,15.1858,-91.65604,15.1858",
+    "geom:latitude":15.1858,
+    "geom:longitude":-91.65604,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Pie de La Cuesta",
+    "gn:country_code":"GT",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459648,
+    "gn:latitude":15.1858,
+    "gn:longitude":-91.65604,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Pie de La Cuesta",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pie de La Cuesta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459648
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bf3cc3740358b7ccb9ecab59d9f5268a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695653,
+            "locality_id":1360160995,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1360160995,
+    "wof:lastmodified":1537625304,
+    "wof:name":"Pie de La Cuesta",
+    "wof:parent_id":1108695653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65604,
+    15.1858,
+    -91.65604,
+    15.1858
+],
+  "geometry": {"coordinates":[-91.65604,15.1858],"type":"Point"}
+}

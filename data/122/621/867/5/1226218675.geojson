@@ -1,0 +1,72 @@
+{
+  "id": 1226218675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.14137,14.57889,-92.14137,14.57889",
+    "geom:latitude":14.57889,
+    "geom:longitude":-92.14137,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3594989,
+    "gn:latitude":14.57889,
+    "gn:longitude":-92.14137,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Blanca",
+        "La Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594989,
+        "wk:page":"La_Blanca%2C_San_Marcos"
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"60a1a73310a4c9b42e767669f45857bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695415,
+            "locality_id":1226218675,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226218675,
+    "wof:lastmodified":1537625187,
+    "wof:name":"La Blanca",
+    "wof:parent_id":1108695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.14137,
+    14.57889,
+    -92.14137,
+    14.57889
+],
+  "geometry": {"coordinates":[-92.14136999999999,14.57889],"type":"Point"}
+}

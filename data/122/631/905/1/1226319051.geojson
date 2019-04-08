@@ -1,0 +1,67 @@
+{
+  "id": 1226319051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.45,14.8,-91.45,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-91.45,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pasac",
+    "gn:country_code":"GT",
+    "gn:dem":2280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591620,
+    "gn:latitude":14.8,
+    "gn:longitude":-91.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pasac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        421195013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591620
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bf2259f6504c8dcbadc6c63689a909a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195013,
+            "locality_id":1226319051,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1226319051,
+    "wof:lastmodified":1536827114,
+    "wof:name":"Pasac",
+    "wof:parent_id":421195013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.45,
+    14.8,
+    -91.45,
+    14.8
+],
+  "geometry": {"coordinates":[-91.45,14.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309731887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.64452,15.65228,-91.64452,15.65228",
+    "geom:latitude":15.65228,
+    "geom:longitude":-91.64452,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ajul",
+    "gn:country_code":"GT",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476913,
+    "gn:latitude":15.65228,
+    "gn:longitude":-91.64452,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ajul",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ajul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476913
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"f1d423ef339dfabe8c4baf211198f8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695307,
+            "locality_id":1309731887,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309731887,
+    "wof:lastmodified":1537625325,
+    "wof:name":"Ajul",
+    "wof:parent_id":1108695307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.64452,
+    15.65228,
+    -91.64452,
+    15.65228
+],
+  "geometry": {"coordinates":[-91.64452,15.65228],"type":"Point"}
+}

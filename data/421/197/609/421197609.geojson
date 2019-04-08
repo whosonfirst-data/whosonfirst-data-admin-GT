@@ -1,0 +1,118 @@
+{
+  "id": 421197609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.6,14.61667,-91.6,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-91.6,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Felipe"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69"
+    ],
+    "name:dut_x_preferred":[
+        "San Felipe"
+    ],
+    "name:eng_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fre_x_preferred":[
+        "San Felipe"
+    ],
+    "name:glg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ita_x_preferred":[
+        "San Felipe"
+    ],
+    "name:pol_x_preferred":[
+        "San Felipe"
+    ],
+    "name:por_x_preferred":[
+        "San Felipe"
+    ],
+    "name:spa_x_preferred":[
+        "San Felipe"
+    ],
+    "name:swe_x_preferred":[
+        "San Felipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590288,
+    "qs:gn_pop":8921,
+    "qs:name":"San Felipe",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Retalhuleu",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149150,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85587,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":140,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671659,
+        1108695553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590288,
+        "gp:id":85587,
+        "qs:id":149150,
+        "wd:id":"Q1748865",
+        "wk:page":"San Felipe, Retalhuleu"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"2b0eeba469bdc4f14229f09ef979e563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695553,
+            "locality_id":421197609,
+            "region_id":85671659
+        }
+    ],
+    "wof:id":421197609,
+    "wof:lastmodified":1527716407,
+    "wof:name":"San Felipe",
+    "wof:parent_id":1108695553,
+    "wof:placetype":"locality",
+    "wof:population":8921,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6,
+    14.61667,
+    -91.6,
+    14.61667
+],
+  "geometry": {"coordinates":[-91.59999999999999,14.61667],"type":"Point"}
+}

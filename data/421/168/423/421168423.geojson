@@ -1,0 +1,130 @@
+{
+  "id": 421168423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.45111,14.78667,-90.45111,14.78667",
+    "geom:latitude":14.78667,
+    "geom:longitude":-90.45111,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u963f\u63da\u666e\u514b"
+    ],
+    "name:deu_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:ger_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30a2\u30e4\u30f3\u30d7\u30af"
+    ],
+    "name:nah_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u963f\u63da\u666e\u514b"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589646,
+    "qs:gn_pop":46803,
+    "qs:name":"San Pedro Ayampuc",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1201103,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85855,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589646,
+        "gp:id":85855,
+        "qs:id":1201103,
+        "wd:id":"Q275983",
+        "wk:page":"San Pedro Ayampuc"
+    },
+    "wof:country":"GT",
+    "wof:created":1459008764,
+    "wof:geomhash":"2d24a34055a701f23a6bf7ae924e2c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695577,
+            "locality_id":421168423,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421168423,
+    "wof:lastmodified":1527716092,
+    "wof:name":"San Pedro Ayampuc",
+    "wof:parent_id":1108695577,
+    "wof:placetype":"locality",
+    "wof:population":46803,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.45111,
+    14.78667,
+    -90.45111,
+    14.78667
+],
+  "geometry": {"coordinates":[-90.45111,14.78667],"type":"Point"}
+}

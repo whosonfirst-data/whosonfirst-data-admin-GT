@@ -1,0 +1,118 @@
+{
+  "id": 421179155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.49528,14.56889,-90.49528,14.56889",
+    "geom:latitude":14.56889,
+    "geom:longitude":-90.49528,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u041f\u0438\u043d\u0443\u043b\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u76ae\u52aa\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589452,
+    "qs:gn_pop":67994,
+    "qs:name":"Santa Catarina Pinula",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":372,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":372,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":149138,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85959,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":625,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589452,
+        "gp:id":85959,
+        "qs:id":149138,
+        "wd:id":"Q1671882",
+        "wk:page":"Santa Catarina Pinula"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009206,
+    "wof:geomhash":"8be390d298849f83abafa7a52e52f3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695621,
+            "locality_id":421179155,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421179155,
+    "wof:lastmodified":1527717709,
+    "wof:name":"Santa Catarina Pinula",
+    "wof:parent_id":1108695621,
+    "wof:placetype":"locality",
+    "wof:population":67994,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.49528,
+    14.56889,
+    -90.49528,
+    14.56889
+],
+  "geometry": {"coordinates":[-90.49527999999999,14.56889],"type":"Point"}
+}

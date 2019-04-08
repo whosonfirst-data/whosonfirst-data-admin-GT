@@ -1,0 +1,70 @@
+{
+  "id": 1259768687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41707,15.57752,-91.41707,15.57752",
+    "geom:latitude":15.57752,
+    "geom:longitude":-91.41707,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ixjoyom",
+    "gn:country_code":"GT",
+    "gn:dem":2244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11492046,
+    "gn:latitude":15.57752,
+    "gn:longitude":-91.41707,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ixjoyom",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ixjoyom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11492046
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"07742c3e1a4b5b782debc86e75af56b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1259768687,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259768687,
+    "wof:lastmodified":1537625369,
+    "wof:name":"Ixjoyom",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41707,
+    15.57752,
+    -91.41707,
+    15.57752
+],
+  "geometry": {"coordinates":[-91.41707,15.57752],"type":"Point"}
+}

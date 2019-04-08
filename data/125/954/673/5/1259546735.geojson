@@ -1,0 +1,67 @@
+{
+  "id": 1259546735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.27833,13.88056,-90.27833,13.88056",
+    "geom:latitude":13.88056,
+    "geom:longitude":-90.27833,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Las Pozas",
+    "gn:country_code":"GT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593644,
+    "gn:latitude":13.88056,
+    "gn:longitude":-90.27833,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Las Pozas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421203587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593644
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"fb8306e93b713d461571a05d27b25d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203587,
+            "locality_id":1259546735,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1259546735,
+    "wof:lastmodified":1536768386,
+    "wof:name":"Las Pozas",
+    "wof:parent_id":421203587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.27833,
+    13.88056,
+    -90.27833,
+    13.88056
+],
+  "geometry": {"coordinates":[-90.27833,13.88056],"type":"Point"}
+}

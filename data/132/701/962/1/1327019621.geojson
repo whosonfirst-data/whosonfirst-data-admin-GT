@@ -1,0 +1,67 @@
+{
+  "id": 1327019621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23333,15.73333,-88.23333,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":-88.23333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Barra del Motagua",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3599569,
+    "gn:latitude":15.73333,
+    "gn:longitude":-88.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barra del Motagua",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Barra",
+        "La Barra del Motagua",
+        "Barra del Motagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599569
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1146b681a7063194856c7be985bc00e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327019621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327019621,
+    "wof:lastmodified":1537625232,
+    "wof:name":"Barra del Motagua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23333000000002,
+    15.73333,
+    -88.23333000000002,
+    15.73333
+],
+  "geometry": {"coordinates":[-88.23333000000002,15.73333],"type":"Point"}
+}

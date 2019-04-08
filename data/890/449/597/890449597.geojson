@@ -1,0 +1,68 @@
+{
+  "id": 890449597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.596679,15.848407,-88.596679,15.848407",
+    "geom:latitude":15.848407,
+    "geom:longitude":-88.596679,
+    "gn:country":"GT",
+    "gp:adm0":23424834,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Puerto Barrios",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Izabal",
+    "qs:photos":284,
+    "qs:photos_1k":58,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1084,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:latitude":"15.73",
+    "wd:longitude":"-88.6",
+    "wd:wordcount":1997,
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807030,
+        "qs:id":1063635,
+        "wd:id":"Q991400",
+        "wk:page":"Puerto Barrios"
+    },
+    "wof:country":"GT",
+    "wof:created":1469052699,
+    "wof:geomhash":"28e407775f9ba15ebc67a22ee82641ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "county_id":890449597
+        }
+    ],
+    "wof:id":890449597,
+    "wof:lastmodified":1527727156,
+    "wof:name":"Puerto Barrios",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.596679,
+    15.848407,
+    -88.596679,
+    15.848407
+],
+  "geometry": {"coordinates":[-88.59667899999999,15.848407],"type":"Point"}
+}

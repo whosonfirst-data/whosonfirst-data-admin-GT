@@ -1,0 +1,70 @@
+{
+  "id": 1259603155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20004,15.87555,-91.20004,15.87555",
+    "geom:latitude":15.87555,
+    "geom:longitude":-91.20004,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulachut",
+    "gn:country_code":"GT",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450187,
+    "gn:latitude":15.87555,
+    "gn:longitude":-91.20004,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Yulachut",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulachut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450187
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"892f29cfc58824c0addf09be791e3387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1259603155,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1259603155,
+    "wof:lastmodified":1537625284,
+    "wof:name":"Yulachut",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20004,
+    15.87555,
+    -91.20004,
+    15.87555
+],
+  "geometry": {"coordinates":[-91.20004,15.87555],"type":"Point"}
+}

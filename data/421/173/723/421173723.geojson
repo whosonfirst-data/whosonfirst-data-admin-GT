@@ -1,0 +1,149 @@
+{
+  "id": 421173723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001068,
+    "geom:area_square_m":12763990.427272,
+    "geom:bbox":"-91.5981907287,14.8563876417,-91.5544651251,14.9000700899",
+    "geom:latitude":14.878277,
+    "geom:longitude":-91.575929,
+    "iso:country":"GT",
+    "lbl:latitude":14.878346,
+    "lbl:longitude":-91.57381,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"LA ESPERANZAQUETZALTENANGO",
+    "meso:gadm_admin":"La Esperanza",
+    "meso:gaul_admin":"La Esperanza",
+    "meso:mps_x":-91.57381,
+    "meso:mps_y":14.878346,
+    "meso:name_en":"La Esperanza",
+    "meso:source":"AOTM",
+    "mps:latitude":14.878346,
+    "mps:longitude":-91.57381,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u62c9\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fra_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:pol_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:unk_x_variant":[
+        "Esperanza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u067e\u06cc\u0631\u0627\u0646\u0632\u0627\u060c \u06a9\u0648\u06cc\u0679\u0632\u0627\u0644\u0679\u06cc\u0646\u0627\u0646\u06af\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3594703,
+    "qs:gn_pop":16461,
+    "qs:name":"La Esperanza",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quetzaltenango",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"6",
+    "qs:qs_id":532381,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807082,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"La Esperanza",
+    "statoids:population":"14497",
+    "statoids:statoid":"GT.QZ.LE",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594703,
+        "gp:id":26807082,
+        "hasc:id":"GT.QZ.LE",
+        "qs:id":532381,
+        "wd:id":"Q2608447",
+        "wk:page":"La Esperanza, Quetzaltenango"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009004,
+    "wof:geomhash":"91f7cdd810fd42fc7144c5df62a76336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421173723,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":421173723,
+    "wof:lastmodified":1536615945,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":14497,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"LE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5981907287223,
+    14.85638764166113,
+    -91.55446512506977,
+    14.90007008994761
+],
+  "geometry": {"coordinates":[[[-91.57748545209738,14.90007008994761],[-91.57180012865828,14.89295354152753],[-91.57113840255099,14.89151741980774],[-91.5673500004699,14.89084856509834],[-91.55457793910874,14.88185421007421],[-91.55456539391837,14.8818202571526],[-91.55446512506977,14.88172723435161],[-91.56282258984533,14.86222652715363],[-91.5638885931824,14.86159420561609],[-91.56464461361615,14.86177170345688],[-91.57557674709346,14.85638764166113],[-91.58221918890554,14.86059005622523],[-91.58299027617424,14.86889984647229],[-91.58955725087705,14.87101415900394],[-91.59115726923244,14.87483758427688],[-91.5981907287223,14.88131969333544],[-91.59408704556674,14.89117708427458],[-91.59274782416351,14.89221948554759],[-91.5923038722908,14.89248270222458],[-91.5883155358661,14.89183846706747],[-91.57748545209738,14.90007008994761]]],"type":"Polygon"}
+}

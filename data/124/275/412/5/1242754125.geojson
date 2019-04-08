@@ -1,0 +1,70 @@
+{
+  "id": 1242754125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.05899,15.04591,-92.05899,15.04591",
+    "geom:latitude":15.04591,
+    "geom:longitude":-92.05899,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Taxcontze",
+    "gn:country_code":"GT",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634755,
+    "gn:latitude":15.04591,
+    "gn:longitude":-92.05899,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Taxcontz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Taxcontz\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634755
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"704a534834303e7c271cb4bd9a533a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1242754125,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1242754125,
+    "wof:lastmodified":1537625253,
+    "wof:name":"Taxcontze",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.05899,
+    15.04591,
+    -92.05899,
+    15.04591
+],
+  "geometry": {"coordinates":[-92.05898999999999,15.04591],"type":"Point"}
+}

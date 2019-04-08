@@ -1,0 +1,70 @@
+{
+  "id": 1276411683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.08552,15.14378,-92.08552,15.14378",
+    "geom:latitude":15.14378,
+    "geom:longitude":-92.08552,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Haciendita",
+    "gn:country_code":"GT",
+    "gn:dem":3036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594526,
+    "gn:latitude":15.14378,
+    "gn:longitude":-92.08552,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"La Haciendita",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Haciendita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594526
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"838cef531da1a0f2c20c339a67f2e8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695651,
+            "locality_id":1276411683,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1276411683,
+    "wof:lastmodified":1537625184,
+    "wof:name":"La Haciendita",
+    "wof:parent_id":1108695651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.08552,
+    15.14378,
+    -92.08552,
+    15.14378
+],
+  "geometry": {"coordinates":[-92.08552,15.14378],"type":"Point"}
+}

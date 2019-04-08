@@ -1,0 +1,70 @@
+{
+  "id": 1293077471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5899,15.16174,-91.5899,15.16174",
+    "geom:latitude":15.16174,
+    "geom:longitude":-91.5899,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Los Encuentros",
+    "gn:country_code":"GT",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457530,
+    "gn:latitude":15.16174,
+    "gn:longitude":-91.5899,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Los Encuentros",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Encuentros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457530
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7639f277a093ad4dcdbf43ba461829f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":1293077471,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1293077471,
+    "wof:lastmodified":1537625300,
+    "wof:name":"Los Encuentros",
+    "wof:parent_id":1108695493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5899,
+    15.16174,
+    -91.5899,
+    15.16174
+],
+  "geometry": {"coordinates":[-91.5899,15.16174],"type":"Point"}
+}

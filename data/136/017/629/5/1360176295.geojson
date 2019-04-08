@@ -1,0 +1,72 @@
+{
+  "id": 1360176295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.4,14.71667,-90.4,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-90.4,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Fiscal",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597068,
+    "gn:latitude":14.71667,
+    "gn:longitude":-90.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Fiscal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fiscal",
+        "El Fiscal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597068
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cb1d36145ed526e75994c6ad09092d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695427,
+            "locality_id":1360176295,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1360176295,
+    "wof:lastmodified":1537625208,
+    "wof:name":"El Fiscal",
+    "wof:parent_id":1108695427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4,
+    14.71667,
+    -90.4,
+    14.71667
+],
+  "geometry": {"coordinates":[-90.40000000000001,14.71667],"type":"Point"}
+}

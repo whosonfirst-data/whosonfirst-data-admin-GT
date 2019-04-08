@@ -1,0 +1,126 @@
+{
+  "id": 421193855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13333,14.71667,-91.13333,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-91.13333,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u5e15\u6d1b\u6ce2"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30d1\u30ed\u30dd"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Katarina Palopo"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Santa Catarina"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u5e15\u6d1b\u6ce2"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589454,
+    "qs:gn_pop":2948,
+    "qs:name":"Santa Catarina Palop\u00f3",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":612,
+    "qs:photos_1k":124,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":612,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":489182,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85958,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421189123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589454,
+        "gp:id":85958,
+        "qs:id":489182,
+        "wd:id":"Q2608981",
+        "wk:page":"Santa Catarina Palop\u00f3"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009785,
+    "wof:geomhash":"7d6f9b5ce1eb01bba00b4d864778008f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189123,
+            "locality_id":421193855,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421193855,
+    "wof:lastmodified":1514444563,
+    "wof:name":"Santa Catarina Palop\u00f3",
+    "wof:parent_id":421189123,
+    "wof:placetype":"locality",
+    "wof:population":2948,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13333,
+    14.71667,
+    -91.13333,
+    14.71667
+],
+  "geometry": {"coordinates":[-91.13333,14.71667],"type":"Point"}
+}

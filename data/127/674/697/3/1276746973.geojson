@@ -1,0 +1,70 @@
+{
+  "id": 1276746973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21115,15.08049,-91.21115,15.08049",
+    "geom:latitude":15.08049,
+    "geom:longitude":-91.21115,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tachinal",
+    "gn:country_code":"GT",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485175,
+    "gn:latitude":15.08049,
+    "gn:longitude":-91.21115,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tachinal",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tachinal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485175
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"538b995a6b609ed1989f4ad4d4b6725a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695475,
+            "locality_id":1276746973,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276746973,
+    "wof:lastmodified":1537625357,
+    "wof:name":"Tachinal",
+    "wof:parent_id":1108695475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21115,
+    15.08049,
+    -91.21115,
+    15.08049
+],
+  "geometry": {"coordinates":[-91.21115,15.08049],"type":"Point"}
+}

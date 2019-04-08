@@ -1,0 +1,67 @@
+{
+  "id": 1277076351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.95,14.81667,-90.95,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-90.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Patzaj",
+    "gn:country_code":"GT",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591532,
+    "gn:latitude":14.81667,
+    "gn:longitude":-90.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Patzaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        1108695611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591532
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b2d629411b129b7345d2acf9157f4958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695611,
+            "locality_id":1277076351,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":1277076351,
+    "wof:lastmodified":1536777370,
+    "wof:name":"Patzaj",
+    "wof:parent_id":1108695611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.95,
+    14.81667,
+    -90.95,
+    14.81667
+],
+  "geometry": {"coordinates":[-90.95,14.81667],"type":"Point"}
+}

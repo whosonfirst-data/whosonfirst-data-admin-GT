@@ -1,0 +1,111 @@
+{
+  "id": 1108695305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001872,
+    "geom:area_square_m":22381076.91609,
+    "geom:bbox":"-91.6530332719,14.819770727,-91.5865967076,14.8683152671",
+    "geom:latitude":14.843836,
+    "geom:longitude":-91.620209,
+    "iso:country":"GT",
+    "lbl:latitude":14.841061,
+    "lbl:longitude":-91.619721,
+    "meso:admin_1":"Quetzaltenango",
+    "meso:diss_me":"CONCEPCION CHIQUIRICHAPAQUETZALTENANGO",
+    "meso:gadm_admin":"Concepci\u00f3n Chiquirichapa",
+    "meso:gaul_admin":"Concepci\u00f3n Chiquirichapa",
+    "meso:mps_x":-91.619721,
+    "meso:mps_y":14.841061,
+    "meso:name_en":"Concepcion Chiquirichapa",
+    "meso:source":"AOTM",
+    "mps:latitude":14.841061,
+    "mps:longitude":-91.619721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b54\u585e\u666e\u897f\u7fc1\u5947\u585e\u91cc\u67e5\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:eng_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:fre_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:ita_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:nah_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:pol_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:por_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:spa_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "name:swe_x_preferred":[
+        "Concepci\u00f3n Chiquirichapa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.QZ",
+    "statoids:name":"Concepci\u00f3n Chiquirichapa",
+    "statoids:population":"15912",
+    "statoids:statoid":"GT.QZ.CC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2401883"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493617,
+    "wof:geomhash":"707580519c9257c02b5ab9ff4ad65e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695305,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1108695305,
+    "wof:lastmodified":1514444433,
+    "wof:name":"Concepcion Chiquirichapa",
+    "wof:parent_id":85671651,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":15912,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.65303327187468,
+    14.81977072703062,
+    -91.58659670762279,
+    14.86831526707379
+],
+  "geometry": {"coordinates":[[[-91.60180396549512,14.86422676501201],[-91.59958059621378,14.85046295027521],[-91.59741613012726,14.84981664662865],[-91.5937279789387,14.84222916744063],[-91.58659670762279,14.83572715616383],[-91.592254769711,14.82766490624091],[-91.60526378810012,14.83027186026422],[-91.61097983147413,14.8242163012874],[-91.6111817877626,14.82341904425194],[-91.61965612158528,14.81977072703062],[-91.63112391023142,14.82362069836575],[-91.63319671574551,14.8288007756487],[-91.63375155441824,14.82918340534294],[-91.63683994518266,14.83220746703764],[-91.63705849403065,14.83272243909781],[-91.64445211561031,14.83672204073771],[-91.64861174209653,14.84414474571338],[-91.64806193009507,14.84607065165241],[-91.65303327187468,14.85556191556771],[-91.6506605895518,14.86116716132479],[-91.64900070328686,14.86282844896763],[-91.63484082932591,14.85775153404331],[-91.63030098600878,14.86129245673056],[-91.62351635753781,14.86069641498362],[-91.6190510238271,14.8590652178917],[-91.60852806912126,14.86831526707379],[-91.60180396549512,14.86422676501201]]],"type":"Polygon"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 421179149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.26667,14.76667,-91.26667,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":-91.26667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u70cf\u5854\u7279\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Santa Luc\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u70cf\u5854\u7279\u862d"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589282,
+    "qs:gn_pop":1305,
+    "qs:name":"Santa Luc\u00eda Utatl\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":263,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":263,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149130,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86017,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695,
+        421170143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589282,
+        "gp:id":86017,
+        "qs:id":149130,
+        "wd:id":"Q2401971",
+        "wk:page":"Santa Luc\u00eda Utatl\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009206,
+    "wof:geomhash":"efa46e25a7928e907fef31482a3bd38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421170143,
+            "locality_id":421179149,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421179149,
+    "wof:lastmodified":1514444568,
+    "wof:name":"Santa Luc\u00eda Utatl\u00e1n",
+    "wof:parent_id":421170143,
+    "wof:placetype":"locality",
+    "wof:population":1305,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.26667,
+    14.76667,
+    -91.26667,
+    14.76667
+],
+  "geometry": {"coordinates":[-91.26667,14.76667],"type":"Point"}
+}

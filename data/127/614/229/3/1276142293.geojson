@@ -1,0 +1,70 @@
+{
+  "id": 1276142293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.92281,15.36265,-91.92281,15.36265",
+    "geom:latitude":15.36265,
+    "geom:longitude":-91.92281,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pabiltzaj",
+    "gn:country_code":"GT",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591986,
+    "gn:latitude":15.36265,
+    "gn:longitude":-91.92281,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Pabiltzaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pabiltzaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591986
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c7aea9426b87a9da38288dcbd6865667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695315,
+            "locality_id":1276142293,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1276142293,
+    "wof:lastmodified":1537625163,
+    "wof:name":"Pabiltzaj",
+    "wof:parent_id":1108695315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.92281,
+    15.36265,
+    -91.92281,
+    15.36265
+],
+  "geometry": {"coordinates":[-91.92281,15.36265],"type":"Point"}
+}

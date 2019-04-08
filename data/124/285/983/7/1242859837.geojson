@@ -1,0 +1,70 @@
+{
+  "id": 1242859837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.31436,15.40508,-91.31436,15.40508",
+    "geom:latitude":15.40508,
+    "geom:longitude":-91.31436,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Joya Grande",
+    "gn:country_code":"GT",
+    "gn:dem":2907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491338,
+    "gn:latitude":15.40508,
+    "gn:longitude":-91.31436,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Joya Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Joya Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491338
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"519dcff6ae20f99155360d9cdec65662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1242859837,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1242859837,
+    "wof:lastmodified":1537625365,
+    "wof:name":"Joya Grande",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.31436,
+    15.40508,
+    -91.31436,
+    15.40508
+],
+  "geometry": {"coordinates":[-91.31435999999999,15.40508],"type":"Point"}
+}

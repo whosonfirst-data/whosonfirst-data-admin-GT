@@ -1,0 +1,67 @@
+{
+  "id": 1226098547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.23333,14.96667,-89.23333,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-89.23333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"El Llanon",
+    "gn:country_code":"GT",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596850,
+    "gn:latitude":14.96667,
+    "gn:longitude":-89.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Llan\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671727,
+        1108695381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596850
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"68e28b69f5dc112ed785d1dac5be91db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695381,
+            "locality_id":1226098547,
+            "region_id":85671727
+        }
+    ],
+    "wof:id":1226098547,
+    "wof:lastmodified":1536648721,
+    "wof:name":"El Llanon",
+    "wof:parent_id":1108695381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.23333000000002,
+    14.96667,
+    -89.23333000000002,
+    14.96667
+],
+  "geometry": {"coordinates":[-89.23333000000002,14.96667],"type":"Point"}
+}

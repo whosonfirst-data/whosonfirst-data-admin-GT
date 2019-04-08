@@ -1,0 +1,70 @@
+{
+  "id": 1226128089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.5434,15.74471,-91.5434,15.74471",
+    "geom:latitude":15.74471,
+    "geom:longitude":-91.5434,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"His",
+    "gn:country_code":"GT",
+    "gn:dem":2722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477310,
+    "gn:latitude":15.74471,
+    "gn:longitude":-91.5434,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"His",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "His"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477310
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"a8cb76e7334ce6d3a119708a58a6200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695587,
+            "locality_id":1226128089,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1226128089,
+    "wof:lastmodified":1537625330,
+    "wof:name":"His",
+    "wof:parent_id":1108695587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.5434,
+    15.74471,
+    -91.5434,
+    15.74471
+],
+  "geometry": {"coordinates":[-91.54340000000001,15.74471],"type":"Point"}
+}

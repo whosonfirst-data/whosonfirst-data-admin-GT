@@ -1,0 +1,70 @@
+{
+  "id": 1327113421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.5421,16.03665,-90.5421,16.03665",
+    "geom:latitude":16.03665,
+    "geom:longitude":-90.5421,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Esmeraldas",
+    "gn:country_code":"GT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533723,
+    "gn:latitude":16.03665,
+    "gn:longitude":-90.5421,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Esmeraldas",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esmeraldas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533723
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"328bb68d7ce5dc88f33dcf231b558b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1327113421,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1327113421,
+    "wof:lastmodified":1537625247,
+    "wof:name":"Esmeraldas",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.5421,
+    16.03665,
+    -90.5421,
+    16.03665
+],
+  "geometry": {"coordinates":[-90.5421,16.03665],"type":"Point"}
+}

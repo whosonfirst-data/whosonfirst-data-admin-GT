@@ -1,0 +1,70 @@
+{
+  "id": 1360160893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.0312,15.08514,-92.0312,15.08514",
+    "geom:latitude":15.08514,
+    "geom:longitude":-92.0312,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Montecristo",
+    "gn:country_code":"GT",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634671,
+    "gn:latitude":15.08514,
+    "gn:longitude":-92.0312,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Montecristo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Montecristo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634671
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ce2f218536a65d32a335783e1df79546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1360160893,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1360160893,
+    "wof:lastmodified":1537625251,
+    "wof:name":"Montecristo",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0312,
+    15.08514,
+    -92.0312,
+    15.08514
+],
+  "geometry": {"coordinates":[-92.0312,15.08514],"type":"Point"}
+}

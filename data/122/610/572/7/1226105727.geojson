@@ -1,0 +1,70 @@
+{
+  "id": 1226105727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.03915,15.24941,-92.03915,15.24941",
+    "geom:latitude":15.24941,
+    "geom:longitude":-92.03915,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Panchicaj",
+    "gn:country_code":"GT",
+    "gn:dem":2551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9635039,
+    "gn:latitude":15.24941,
+    "gn:longitude":-92.03915,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Panchicaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Panchicaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9635039
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"b51bd67de1e5776b928fa38add59c707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695659,
+            "locality_id":1226105727,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226105727,
+    "wof:lastmodified":1537625255,
+    "wof:name":"Panchicaj",
+    "wof:parent_id":1108695659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.03915,
+    15.24941,
+    -92.03915,
+    15.24941
+],
+  "geometry": {"coordinates":[-92.03915000000001,15.24941],"type":"Point"}
+}

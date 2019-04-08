@@ -1,0 +1,70 @@
+{
+  "id": 1360158749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.3259,15.17553,-91.3259,15.17553",
+    "geom:latitude":15.17553,
+    "geom:longitude":-91.3259,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pacabrican",
+    "gn:country_code":"GT",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477876,
+    "gn:latitude":15.17553,
+    "gn:longitude":-91.3259,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pacabric\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacabric\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        421195541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477876
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c36db26823f9f38b2c9b41ed2f8157ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421195541,
+            "locality_id":1360158749,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1360158749,
+    "wof:lastmodified":1537625333,
+    "wof:name":"Pacabrican",
+    "wof:parent_id":421195541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.3259,
+    15.17553,
+    -91.3259,
+    15.17553
+],
+  "geometry": {"coordinates":[-91.3259,15.17553],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243044223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.01442,14.87957,-92.01442,14.87957",
+    "geom:latitude":14.87957,
+    "geom:longitude":-92.01442,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"San Rafael Las Flores",
+    "gn:country_code":"GT",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3589590,
+    "gn:latitude":14.87957,
+    "gn:longitude":-92.01442,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"San Rafael Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Rafael",
+        "San Rafael Las Flores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589590
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d8a6415793722c271a31559de059c814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695333,
+            "locality_id":1243044223,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243044223,
+    "wof:lastmodified":1537625143,
+    "wof:name":"San Rafael Las Flores",
+    "wof:parent_id":1108695333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.01442,
+    14.87957,
+    -92.01442,
+    14.87957
+],
+  "geometry": {"coordinates":[-92.01442,14.87957],"type":"Point"}
+}

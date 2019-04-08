@@ -1,0 +1,70 @@
+{
+  "id": 1243044253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.84971,15.31103,-91.84971,15.31103",
+    "geom:latitude":15.31103,
+    "geom:longitude":-91.84971,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Camnoj",
+    "gn:country_code":"GT",
+    "gn:dem":2568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510392,
+    "gn:latitude":15.31103,
+    "gn:longitude":-91.84971,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Camnoj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Camnoj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510392
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6b29fafebab40f6443a045dd034c30e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695309,
+            "locality_id":1243044253,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1243044253,
+    "wof:lastmodified":1537625382,
+    "wof:name":"Camnoj",
+    "wof:parent_id":1108695309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.84971,
+    15.31103,
+    -91.84971,
+    15.31103
+],
+  "geometry": {"coordinates":[-91.84971,15.31103],"type":"Point"}
+}

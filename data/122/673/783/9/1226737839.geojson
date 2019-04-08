@@ -1,0 +1,67 @@
+{
+  "id": 1226737839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.95,14.45,-89.95,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":-89.95,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Tule",
+    "gn:country_code":"GT",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3595934,
+    "gn:latitude":14.45,
+    "gn:longitude":-89.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Tule",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        421189491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3595934
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4dee6b8cf6783c06b2c6e11a51b8d18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189491,
+            "locality_id":1226737839,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1226737839,
+    "wof:lastmodified":1536727317,
+    "wof:name":"El Tule",
+    "wof:parent_id":421189491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.95,
+    14.45,
+    -89.95,
+    14.45
+],
+  "geometry": {"coordinates":[-89.95,14.45],"type":"Point"}
+}

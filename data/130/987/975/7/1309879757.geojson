@@ -1,0 +1,70 @@
+{
+  "id": 1309879757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.41179,15.00171,-91.41179,15.00171",
+    "geom:latitude":15.00171,
+    "geom:longitude":-91.41179,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pasutuj",
+    "gn:country_code":"GT",
+    "gn:dem":2532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478113,
+    "gn:latitude":15.00171,
+    "gn:longitude":-91.41179,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pasutuj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pasutuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478113
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4da56eda22a8ca1dac84447ceff1f582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1309879757,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1309879757,
+    "wof:lastmodified":1537625335,
+    "wof:name":"Pasutuj",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41179,
+    15.00171,
+    -91.41179,
+    15.00171
+],
+  "geometry": {"coordinates":[-91.41179,15.00171],"type":"Point"}
+}

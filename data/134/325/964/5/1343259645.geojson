@@ -1,0 +1,70 @@
+{
+  "id": 1343259645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28624,16.02803,-91.28624,16.02803",
+    "geom:latitude":16.02803,
+    "geom:longitude":-91.28624,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"GT",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533205,
+    "gn:latitude":16.02803,
+    "gn:longitude":-91.28624,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Elena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421185569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533205
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8758d45bbd8bad5d94c5bcc67c586217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421185569,
+            "locality_id":1343259645,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343259645,
+    "wof:lastmodified":1537625245,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":421185569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28624,
+    16.02803,
+    -91.28624,
+    16.02803
+],
+  "geometry": {"coordinates":[-91.28624000000001,16.02803],"type":"Point"}
+}

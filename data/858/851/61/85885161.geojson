@@ -1,0 +1,104 @@
+{
+  "id": 85885161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6320346.39741,
+    "geom:bbox":"-92.142693,14.676597,-92.142693,14.676597",
+    "geom:latitude":14.676597,
+    "geom:longitude":-92.142693,
+    "gn:id":"",
+    "iso:country":"GT",
+    "lbl:latitude":14.676597,
+    "lbl:longitude":-92.142693,
+    "mps:latitude":14.676597,
+    "mps:longitude":-92.145081,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:spa_x_preferred":[
+        "Salomon Gonzalez Blanco"
+    ],
+    "name:unk_x_variant":[
+        "Salomon Gonzalez Blanco"
+    ],
+    "qs:gn_adm0_cc":"MX",
+    "qs:gn_id":0,
+    "qs:gn_local":3530595,
+    "qs:gn_nam_loc":"Suchiate, Ciudad Hidalgo, Chiapas, MX",
+    "qs:gn_namadm1":"05",
+    "qs:local_max":23,
+    "qs:local_sum":23,
+    "qs:localhoods":1,
+    "qs:name":"Salomon Gonzalez Blanco",
+    "qs:name_adm0":"M\u00e9xico",
+    "qs:name_adm1":"Chiapas",
+    "qs:name_adm2":"Suchiate",
+    "qs:name_local":"Ciudad Hidalgo",
+    "qs:photo_max":11,
+    "qs:photo_sum":23,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424900,
+    "qs:woe_adm1":2346268,
+    "qs:woe_adm2":12599796,
+    "qs:woe_lau":0,
+    "qs:woe_local":116553,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        1108695269,
+        85671661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55917324,
+        "qs:id":1137772
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d5ca844fa11b2064f9dea052f6536e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695269,
+            "locality_id":-1,
+            "neighbourhood_id":85885161,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":85885161,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531874735,
+    "wof:name":"Salomon Gonzalez Blanco",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.142693,
+    14.676597,
+    -92.142693,
+    14.676597
+],
+  "geometry": {"coordinates":[-92.14269299999999,14.676597],"type":"Point"}
+}

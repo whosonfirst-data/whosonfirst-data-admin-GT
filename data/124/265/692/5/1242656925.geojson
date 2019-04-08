@@ -1,0 +1,70 @@
+{
+  "id": 1242656925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.62215,15.00779,-91.62215,15.00779",
+    "geom:latitude":15.00779,
+    "geom:longitude":-91.62215,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Piedra Grande",
+    "gn:country_code":"GT",
+    "gn:dem":2798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457130,
+    "gn:latitude":15.00779,
+    "gn:longitude":-91.62215,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Piedra Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457130
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"1f8c4b90d9ee7f95bdeaa31348104e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695649,
+            "locality_id":1242656925,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1242656925,
+    "wof:lastmodified":1537625297,
+    "wof:name":"Piedra Grande",
+    "wof:parent_id":1108695649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.62215,
+    15.00779,
+    -91.62215,
+    15.00779
+],
+  "geometry": {"coordinates":[-91.62215,15.00779],"type":"Point"}
+}

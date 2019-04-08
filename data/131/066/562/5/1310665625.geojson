@@ -1,0 +1,67 @@
+{
+  "id": 1310665625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61667,14.08333,-91.61667,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-91.61667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Chicago",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598676,
+    "gn:latitude":14.08333,
+    "gn:longitude":-91.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chicago",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiquero",
+        "Chicao",
+        "Chicago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598676
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2ee97a74d1508a34987427c41fc92f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310665625,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310665625,
+    "wof:lastmodified":1537625224,
+    "wof:name":"Chicago",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61667,
+    14.08333,
+    -91.61667,
+    14.08333
+],
+  "geometry": {"coordinates":[-91.61667,14.08333],"type":"Point"}
+}

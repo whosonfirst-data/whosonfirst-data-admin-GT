@@ -1,0 +1,64 @@
+{
+  "id": 1209234493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28752,16.00964,-91.28752,16.00964",
+    "geom:latitude":16.00964,
+    "geom:longitude":-91.28752,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Monte Bello Momlac",
+    "gn:country_code":"GT",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533209,
+    "gn:latitude":16.00964,
+    "gn:longitude":-91.28752,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Monte Bello Momlac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Bello Momlac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533209
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"0187b7a7687f966af3fb07d7ac2b2aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209234493
+        }
+    ],
+    "wof:id":1209234493,
+    "wof:lastmodified":1537625245,
+    "wof:name":"Monte Bello Momlac",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28752,
+    16.00964,
+    -91.28752,
+    16.00964
+],
+  "geometry": {"coordinates":[-91.28752,16.00964],"type":"Point"}
+}

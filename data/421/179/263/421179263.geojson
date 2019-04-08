@@ -1,0 +1,127 @@
+{
+  "id": 421179263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.65,14.5,-89.65,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":-89.65,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u963f\u74dc\u5e03\u862d\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:eng_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u0628\u0644\u0644\u0627\u0646\u06a9\u0627\u060c \u062c\u0648\u062a\u06cc\u0627\u067e\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:fre_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:hrv_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u0628\u0644\u0644\u0627\u0646\u06a9\u0627\u060c \u062c\u0648\u062a\u06cc\u0627\u067e\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:por_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Blanca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u0628\u0644\u0627\u0646\u06a9\u0627\u060c \u062c\u0648\u062a\u06cc\u0627\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u5e03\u862d\u5361"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3599972,
+    "qs:gn_pop":2776,
+    "qs:name":"Agua Blanca",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Jutiapa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149227,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":80952,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3599972,
+        "gp:id":80952,
+        "qs:id":149227,
+        "wd:id":"Q2403493",
+        "wk:page":"Agua Blanca, Jutiapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009209,
+    "wof:geomhash":"c463836fba63e61979b476f050f58f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":421179263,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":421179263,
+    "wof:lastmodified":1527717715,
+    "wof:name":"Agua Blanca",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:population":2776,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.65,
+    14.5,
+    -89.65,
+    14.5
+],
+  "geometry": {"coordinates":[-89.65000000000001,14.5],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209079985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.0206,15.68479,-91.0206,15.68479",
+    "geom:latitude":15.68479,
+    "geom:longitude":-91.0206,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Encuantro Amacchel",
+    "gn:country_code":"GT",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491814,
+    "gn:latitude":15.68479,
+    "gn:longitude":-91.0206,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Encuantro Amacchel",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Encuantro Amacchel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491814
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2d9b02c137d05c7cf5cfddf7791aa73f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209079985
+        }
+    ],
+    "wof:id":1209079985,
+    "wof:lastmodified":1537625367,
+    "wof:name":"Encuantro Amacchel",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.0206,
+    15.68479,
+    -91.0206,
+    15.68479
+],
+  "geometry": {"coordinates":[-91.0206,15.68479],"type":"Point"}
+}

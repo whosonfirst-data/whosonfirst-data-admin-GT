@@ -1,0 +1,76 @@
+{
+  "id": 421173035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.46667,14.56667,-90.46667,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":-90.46667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591064,
+    "qs:gn_pop":0,
+    "qs:name":"Puerta Parada",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Guatemala",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":489155,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591064,
+        "gp:id":85207,
+        "qs:id":489155
+    },
+    "wof:country":"GT",
+    "wof:created":1459008963,
+    "wof:geomhash":"6e0480dfbf9d8de8f6d7505df9c9dee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695621,
+            "locality_id":421173035,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":421173035,
+    "wof:lastmodified":1499978331,
+    "wof:name":"Puerta Parada",
+    "wof:parent_id":1108695621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.46667,
+    14.56667,
+    -90.46667,
+    14.56667
+],
+  "geometry": {"coordinates":[-90.46666999999999,14.56667],"type":"Point"}
+}

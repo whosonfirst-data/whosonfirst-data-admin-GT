@@ -1,0 +1,108 @@
+{
+  "id": 890429637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.01667,14.33333,-91.01667,14.33333",
+    "geom:latitude":14.33333,
+    "geom:longitude":-91.01667,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":62097,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041b\u0443\u0441\u0438\u044f \u041a\u043e\u0446\u0443\u043c\u0430\u043b\u0433\u0443\u0430\u043f\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u79d1\u7279\u8607\u99ac\u723e\u74dc\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Lusija Kocumalguapa"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
+    "name:unk_x_variant":[
+        "Santa Luc\u00eda"
+    ],
+    "qs:name":"Santa Luc\u00eda Cotzumalguapa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671677,
+        421184715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589289,
+        "gp:id":86013,
+        "qs:id":149131,
+        "wd:id":"Q404550",
+        "wk:page":"Santa Luc\u00eda Cotzumalguapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1469051823,
+    "wof:geomhash":"40483b91aa6eb269ba30b0085abf7ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184715,
+            "locality_id":890429637,
+            "region_id":85671677
+        }
+    ],
+    "wof:id":890429637,
+    "wof:lastmodified":1527792795,
+    "wof:name":"Santa Luc\u00eda Cotzumalguapa",
+    "wof:parent_id":421184715,
+    "wof:placetype":"locality",
+    "wof:population":62097,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.01667,
+    14.33333,
+    -91.01667,
+    14.33333
+],
+  "geometry": {"coordinates":[-91.01667,14.33333],"type":"Point"}
+}

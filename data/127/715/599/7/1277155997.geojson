@@ -1,0 +1,70 @@
+{
+  "id": 1277155997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.96377,16.0368,-90.96377,16.0368",
+    "geom:latitude":16.0368,
+    "geom:longitude":-90.96377,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Centro Santa Elena",
+    "gn:country_code":"GT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11597674,
+    "gn:latitude":16.0368,
+    "gn:longitude":-90.96377,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Centro Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Centro Santa Elena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11597674
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"ca4b9972cf7a52c29187f0f642fa0784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695441,
+            "locality_id":1277155997,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1277155997,
+    "wof:lastmodified":1537625391,
+    "wof:name":"Centro Santa Elena",
+    "wof:parent_id":1108695441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.96377,
+    16.0368,
+    -90.96377,
+    16.0368
+],
+  "geometry": {"coordinates":[-90.96377,16.0368],"type":"Point"}
+}

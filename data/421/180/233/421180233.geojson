@@ -1,0 +1,106 @@
+{
+  "id": 421180233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.26111,14.08222,-90.26111,14.08222",
+    "geom:latitude":14.08222,
+    "geom:longitude":-90.26111,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:por_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan Tecuaco"
+    ],
+    "name:unk_x_variant":[
+        "Tecuaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u7279\u5938\u79d1"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589880,
+    "qs:gn_pop":2210,
+    "qs:name":"San Juan Tecuaco",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Santa Rosa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201093,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85748,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        1108695541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589880,
+        "gp:id":85748,
+        "qs:id":1201093,
+        "wd:id":"Q2372941",
+        "wk:page":"San Juan Tecuaco"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009249,
+    "wof:geomhash":"479a9a1a81912eb2e6458209b8b94374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695541,
+            "locality_id":421180233,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":421180233,
+    "wof:lastmodified":1527716236,
+    "wof:name":"San Juan Tecuaco",
+    "wof:parent_id":1108695541,
+    "wof:placetype":"locality",
+    "wof:population":2210,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.26111,
+    14.08222,
+    -90.26111,
+    14.08222
+],
+  "geometry": {"coordinates":[-90.26111,14.08222],"type":"Point"}
+}

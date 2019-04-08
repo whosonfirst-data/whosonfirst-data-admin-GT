@@ -1,0 +1,67 @@
+{
+  "id": 1243168907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.33333,14.53333,-90.33333,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":-90.33333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pena Blanca",
+    "gn:country_code":"GT",
+    "gn:dem":2144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591453,
+    "gn:latitude":14.53333,
+    "gn:longitude":-90.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pe\u00f1a Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681,
+        1108695529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591453
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9b0b76a1395f01dd9641b294718c4718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695529,
+            "locality_id":1243168907,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1243168907,
+    "wof:lastmodified":1536709043,
+    "wof:name":"Pena Blanca",
+    "wof:parent_id":1108695529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.33333,
+    14.53333,
+    -90.33333,
+    14.53333
+],
+  "geometry": {"coordinates":[-90.33333,14.53333],"type":"Point"}
+}

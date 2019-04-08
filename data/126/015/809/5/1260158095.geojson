@@ -1,0 +1,67 @@
+{
+  "id": 1260158095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.32306,16.17361,-89.32306,16.17361",
+    "geom:latitude":16.17361,
+    "geom:longitude":-89.32306,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chichija",
+    "gn:country_code":"GT",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759549,
+    "gn:latitude":16.17361,
+    "gn:longitude":-89.32306,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Chichij\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421182715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759549
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7b52ad5f69dfa64254005557061b2eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421182715,
+            "locality_id":1260158095,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1260158095,
+    "wof:lastmodified":1536882194,
+    "wof:name":"Chichija",
+    "wof:parent_id":421182715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.32306,
+    16.17361,
+    -89.32306,
+    16.17361
+],
+  "geometry": {"coordinates":[-89.32306,16.17361],"type":"Point"}
+}

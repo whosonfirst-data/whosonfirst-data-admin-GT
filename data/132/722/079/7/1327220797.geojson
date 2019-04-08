@@ -1,0 +1,70 @@
+{
+  "id": 1327220797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.00679,16.42643,-90.00679,16.42643",
+    "geom:latitude":16.42643,
+    "geom:longitude":-90.00679,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Santa Monica",
+    "gn:country_code":"GT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507912,
+    "gn:latitude":16.42643,
+    "gn:longitude":-90.00679,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Santa M\u00f3nica",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa M\u00f3nica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421179171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507912
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5bd249b318e5ab7c5959b0e2ad87f4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421179171,
+            "locality_id":1327220797,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1327220797,
+    "wof:lastmodified":1537625378,
+    "wof:name":"Santa Monica",
+    "wof:parent_id":421179171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.00679000000002,
+    16.42643,
+    -90.00679000000002,
+    16.42643
+],
+  "geometry": {"coordinates":[-90.00679000000002,16.42643],"type":"Point"}
+}

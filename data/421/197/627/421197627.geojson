@@ -1,0 +1,110 @@
+{
+  "id": 421197627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.48056,14.96417,-90.48056,14.96417",
+    "geom:latitude":14.96417,
+    "geom:longitude":-90.48056,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u57c3\u723e\u55ac\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Cruz El Chol"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Cruz El Chol"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Cruz El Chol"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Cruz El Chol"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Cruz el Chol"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Cruz el Chol"
+    ],
+    "name:por_x_preferred":[
+        "Santa Cruz el Chol"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Cruz el Chol"
+    ],
+    "name:unk_x_variant":[
+        "Santa Cruz El Chol"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3597301,
+    "qs:gn_pop":2391,
+    "qs:name":"El Chol",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Baja Verapaz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149207,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":82300,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671635,
+        1108695323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597301,
+        "gp:id":82300,
+        "qs:id":149207,
+        "wd:id":"Q1727528"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009919,
+    "wof:geomhash":"742b02a394d8687e1852a1f2812173c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695323,
+            "locality_id":421197627,
+            "region_id":85671635
+        }
+    ],
+    "wof:id":421197627,
+    "wof:lastmodified":1514444437,
+    "wof:name":"El Chol",
+    "wof:parent_id":1108695323,
+    "wof:placetype":"locality",
+    "wof:population":2391,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.48056,
+    14.96417,
+    -90.48056,
+    14.96417
+],
+  "geometry": {"coordinates":[-90.48056,14.96417],"type":"Point"}
+}

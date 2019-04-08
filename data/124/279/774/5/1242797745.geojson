@@ -1,0 +1,70 @@
+{
+  "id": 1242797745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.54993,15.62987,-91.54993,15.62987",
+    "geom:latitude":15.62987,
+    "geom:longitude":-91.54993,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Cotzancanalaj",
+    "gn:country_code":"GT",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476939,
+    "gn:latitude":15.62987,
+    "gn:longitude":-91.54993,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Cotzancanalaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cotzancanalaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476939
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"08993d0b7a32478d04bb60b62c0a2708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":1242797745,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1242797745,
+    "wof:lastmodified":1537625326,
+    "wof:name":"Cotzancanalaj",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.54993,
+    15.62987,
+    -91.54993,
+    15.62987
+],
+  "geometry": {"coordinates":[-91.54993,15.62987],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360204675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20194,15.34049,-91.20194,15.34049",
+    "geom:latitude":15.34049,
+    "geom:longitude":-91.20194,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pichiquil",
+    "gn:country_code":"GT",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591385,
+    "gn:latitude":15.34049,
+    "gn:longitude":-91.20194,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pichiquil",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pichiquil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591385
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"778b5fa10bc9a9eb0106718d9ce93679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1360204675,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1360204675,
+    "wof:lastmodified":1537625158,
+    "wof:name":"Pichiquil",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20194,
+    15.34049,
+    -91.20194,
+    15.34049
+],
+  "geometry": {"coordinates":[-91.20193999999999,15.34049],"type":"Point"}
+}

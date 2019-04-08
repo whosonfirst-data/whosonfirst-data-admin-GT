@@ -1,0 +1,73 @@
+{
+  "id": 1327312085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.88333,14.43333,-89.88333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-89.88333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Terrero",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3596025,
+    "gn:latitude":14.43333,
+    "gn:longitude":-89.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Terrero",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terrero",
+        "Terreno",
+        "El Terrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3596025
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"eba41297a02bd7f6aa858c5c7f602c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695329,
+            "locality_id":1327312085,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1327312085,
+    "wof:lastmodified":1537625197,
+    "wof:name":"El Terrero",
+    "wof:parent_id":1108695329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.88333,
+    14.43333,
+    -89.88333,
+    14.43333
+],
+  "geometry": {"coordinates":[-89.88333,14.43333],"type":"Point"}
+}

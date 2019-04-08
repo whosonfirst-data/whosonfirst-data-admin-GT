@@ -1,0 +1,67 @@
+{
+  "id": 1209803781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.6,14.46667,-89.6,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-89.6,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chaguitillo Segundo",
+    "gn:country_code":"GT",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598833,
+    "gn:latitude":14.46667,
+    "gn:longitude":-89.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Chag\u00fcitillo Segundo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598833
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e4a65e401011810de84b5226036ecad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":1209803781,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1209803781,
+    "wof:lastmodified":1536389529,
+    "wof:name":"Chaguitillo Segundo",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.6,
+    14.46667,
+    -89.6,
+    14.46667
+],
+  "geometry": {"coordinates":[-89.59999999999999,14.46667],"type":"Point"}
+}

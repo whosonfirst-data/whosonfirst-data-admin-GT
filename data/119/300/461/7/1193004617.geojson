@@ -1,0 +1,70 @@
+{
+  "id": 1193004617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.60051,15.15526,-91.60051,15.15526",
+    "geom:latitude":15.15526,
+    "geom:longitude":-91.60051,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lena Vieja",
+    "gn:country_code":"GT",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457529,
+    "gn:latitude":15.15526,
+    "gn:longitude":-91.60051,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Le\u00f1a Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Le\u00f1a Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457529
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"794c3b3ed1853610553589c66b88769b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695493,
+            "locality_id":1193004617,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1193004617,
+    "wof:lastmodified":1537625300,
+    "wof:name":"Lena Vieja",
+    "wof:parent_id":1108695493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.60051,
+    15.15526,
+    -91.60051,
+    15.15526
+],
+  "geometry": {"coordinates":[-91.60051,15.15526],"type":"Point"}
+}

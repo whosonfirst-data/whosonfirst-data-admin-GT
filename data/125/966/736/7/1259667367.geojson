@@ -1,0 +1,70 @@
+{
+  "id": 1259667367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.14833,15.1983,-91.14833,15.1983",
+    "geom:latitude":15.1983,
+    "geom:longitude":-91.14833,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Patulop",
+    "gn:country_code":"GT",
+    "gn:dem":2209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483913,
+    "gn:latitude":15.1983,
+    "gn:longitude":-91.14833,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Patulop",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patulop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483913
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"9c7341465edc80c591fb5a996054261d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1259667367,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1259667367,
+    "wof:lastmodified":1537625352,
+    "wof:name":"Patulop",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.14833,
+    15.1983,
+    -91.14833,
+    15.1983
+],
+  "geometry": {"coordinates":[-91.14833,15.1983],"type":"Point"}
+}

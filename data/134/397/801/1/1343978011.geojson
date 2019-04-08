@@ -1,0 +1,70 @@
+{
+  "id": 1343978011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.56502,15.70259,-91.56502,15.70259",
+    "geom:latitude":15.70259,
+    "geom:longitude":-91.56502,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chala",
+    "gn:country_code":"GT",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477115,
+    "gn:latitude":15.70259,
+    "gn:longitude":-91.56502,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chal\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chal\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477115
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"e89cbc54c88b22d9681888646690bb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695561,
+            "locality_id":1343978011,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1343978011,
+    "wof:lastmodified":1537625329,
+    "wof:name":"Chala",
+    "wof:parent_id":1108695561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.56502,
+    15.70259,
+    -91.56502,
+    15.70259
+],
+  "geometry": {"coordinates":[-91.56502,15.70259],"type":"Point"}
+}

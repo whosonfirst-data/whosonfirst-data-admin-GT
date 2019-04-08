@@ -1,0 +1,67 @@
+{
+  "id": 1309886051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.4975,16.33167,-89.4975,16.33167",
+    "geom:latitude":16.33167,
+    "geom:longitude":-89.4975,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chito",
+    "gn:country_code":"GT",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759496,
+    "gn:latitude":16.33167,
+    "gn:longitude":-89.4975,
+    "gn:modification_date":"1997-02-26",
+    "gn:name":"Chit\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        421203225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759496
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"cbb5d68019c1769e136a6c99f1343667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421203225,
+            "locality_id":1309886051,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1309886051,
+    "wof:lastmodified":1536814772,
+    "wof:name":"Chito",
+    "wof:parent_id":421203225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.4975,
+    16.33167000000001,
+    -89.4975,
+    16.33167000000001
+],
+  "geometry": {"coordinates":[-89.4975,16.33167000000001],"type":"Point"}
+}

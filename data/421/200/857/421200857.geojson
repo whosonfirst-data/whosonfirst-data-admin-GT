@@ -1,0 +1,120 @@
+{
+  "id": 421200857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.84417,14.62,-90.84417,14.62",
+    "geom:latitude":14.62,
+    "geom:longitude":-90.84417,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u70c8\u65af\u4f0a\u5bdf\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:pol_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
+    "name:unk_x_variant":[
+        "Itzapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u70c8\u65af\u4f0a\u5bdf\u5e15"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3590529,
+    "qs:gn_pop":18647,
+    "qs:name":"San Andr\u00e9s Itzapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chimaltenango",
+    "qs:photos":77,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":77,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":898385,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85496,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.616667,
+    "wd:longitude":-90.85,
+    "wd:wordcount":570,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        421188897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3590529,
+        "gp:id":85496,
+        "qs:id":898385,
+        "wd:id":"Q1573465",
+        "wk:page":"San Andr\u00e9s Itzapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1459010044,
+    "wof:geomhash":"9b01ff583295bfac70c6c96178f6e8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188897,
+            "locality_id":421200857,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":421200857,
+    "wof:lastmodified":1527716423,
+    "wof:name":"San Andr\u00e9s Itzapa",
+    "wof:parent_id":421188897,
+    "wof:placetype":"locality",
+    "wof:population":18647,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.84417,
+    14.62,
+    -90.84417,
+    14.62
+],
+  "geometry": {"coordinates":[-90.84417000000001,14.62],"type":"Point"}
+}

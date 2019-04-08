@@ -1,0 +1,71 @@
+{
+  "id": 1259354451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.88201,15.11805,-91.88201,15.11805",
+    "geom:latitude":15.11805,
+    "geom:longitude":-91.88201,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tuinima",
+    "gn:country_code":"GT",
+    "gn:dem":2878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588194,
+    "gn:latitude":15.11805,
+    "gn:longitude":-91.88201,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tuinim\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuinim\u00e1",
+        "Tuinim\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588194
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"7703c063f3b4293f03060c3c544d7ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695661,
+            "locality_id":1259354451,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1259354451,
+    "wof:lastmodified":1537625130,
+    "wof:name":"Tuinima",
+    "wof:parent_id":1108695661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.88201,
+    15.11805,
+    -91.88201,
+    15.11805
+],
+  "geometry": {"coordinates":[-91.88200999999999,15.11805],"type":"Point"}
+}

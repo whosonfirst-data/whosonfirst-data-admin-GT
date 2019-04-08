@@ -1,0 +1,70 @@
+{
+  "id": 1193261927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.02909,15.06557,-91.02909,15.06557",
+    "geom:latitude":15.06557,
+    "geom:longitude":-91.02909,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Madron",
+    "gn:country_code":"GT",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11486104,
+    "gn:latitude":15.06557,
+    "gn:longitude":-91.02909,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"El Madr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Madr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11486104
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"bc7768843766141fef9dca00635a8025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695293,
+            "locality_id":1193261927,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1193261927,
+    "wof:lastmodified":1537625358,
+    "wof:name":"El Madron",
+    "wof:parent_id":1108695293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.02909,
+    15.06557,
+    -91.02909,
+    15.06557
+],
+  "geometry": {"coordinates":[-91.02909,15.06557],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276625685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.13929,15.0951,-91.13929,15.0951",
+    "geom:latitude":15.0951,
+    "geom:longitude":-91.13929,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pacolaj",
+    "gn:country_code":"GT",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485240,
+    "gn:latitude":15.0951,
+    "gn:longitude":-91.13929,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pacolaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pacolaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421201597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485240
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c5779e8b814d9c6f1599bc757d858473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421201597,
+            "locality_id":1276625685,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1276625685,
+    "wof:lastmodified":1537625358,
+    "wof:name":"Pacolaj",
+    "wof:parent_id":421201597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.13929,
+    15.0951,
+    -91.13929,
+    15.0951
+],
+  "geometry": {"coordinates":[-91.13929,15.0951],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890442905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.720977,13.925237,-90.720977,13.925237",
+    "geom:latitude":13.925237,
+    "geom:longitude":-90.720977,
+    "gn:country":"GT",
+    "gp:adm0":23424834,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Iztapa",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Escuintla",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":212,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":341,
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26806980,
+        "qs:id":368904,
+        "wd:id":"Q2401869",
+        "wk:page":"Iztapa"
+    },
+    "wof:country":"GT",
+    "wof:created":1469052386,
+    "wof:geomhash":"3fd71666b920df73b6749d9747286d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "county_id":890442905
+        }
+    ],
+    "wof:id":890442905,
+    "wof:lastmodified":1527792857,
+    "wof:name":"Iztapa",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.720977,
+    13.925237,
+    -90.720977,
+    13.925237
+],
+  "geometry": {"coordinates":[-90.720977,13.925237],"type":"Point"}
+}

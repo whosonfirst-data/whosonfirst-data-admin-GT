@@ -1,0 +1,67 @@
+{
+  "id": 1226220445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.58333,14.45,-89.58333,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":-89.58333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dorador",
+    "gn:country_code":"GT",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3597702,
+    "gn:latitude":14.45,
+    "gn:longitude":-89.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dorador",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3597702
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5503514a970dc0eb4ed4a70e0f60e569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695255,
+            "locality_id":1226220445,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1226220445,
+    "wof:lastmodified":1536969853,
+    "wof:name":"Dorador",
+    "wof:parent_id":1108695255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.58333,
+    14.45,
+    -89.58333,
+    14.45
+],
+  "geometry": {"coordinates":[-89.58333,14.45],"type":"Point"}
+}

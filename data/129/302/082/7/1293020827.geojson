@@ -1,0 +1,70 @@
+{
+  "id": 1293020827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.78234,15.62493,-91.78234,15.62493",
+    "geom:latitude":15.62493,
+    "geom:longitude":-91.78234,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rancho Viejo",
+    "gn:country_code":"GT",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637581,
+    "gn:latitude":15.62493,
+    "gn:longitude":-91.78234,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Rancho Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancho Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637581
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"146aa0938a640c94ce63e1b505ad1bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695473,
+            "locality_id":1293020827,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1293020827,
+    "wof:lastmodified":1537625265,
+    "wof:name":"Rancho Viejo",
+    "wof:parent_id":1108695473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.78234,
+    15.62493,
+    -91.78234,
+    15.62493
+],
+  "geometry": {"coordinates":[-91.78234,15.62493],"type":"Point"}
+}

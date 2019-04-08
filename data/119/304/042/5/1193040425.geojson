@@ -1,0 +1,70 @@
+{
+  "id": 1193040425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.59655,15.81294,-91.59655,15.81294",
+    "geom:latitude":15.81294,
+    "geom:longitude":-91.59655,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Namtetac",
+    "gn:country_code":"GT",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481908,
+    "gn:latitude":15.81294,
+    "gn:longitude":-91.59655,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Namtetac",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Namtetac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481908
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"4a45bc5f1c574601ce1b09266d98a7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695597,
+            "locality_id":1193040425,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1193040425,
+    "wof:lastmodified":1537625344,
+    "wof:name":"Namtetac",
+    "wof:parent_id":1108695597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.59655,
+    15.81294,
+    -91.59655,
+    15.81294
+],
+  "geometry": {"coordinates":[-91.59654999999999,15.81294],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309685861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.26481,15.17108,-91.26481,15.17108",
+    "geom:latitude":15.17108,
+    "geom:longitude":-91.26481,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chicacasiguan",
+    "gn:country_code":"GT",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477851,
+    "gn:latitude":15.17108,
+    "gn:longitude":-91.26481,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chicacasigu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chicacasigu\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        1108695579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477851
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3a767b906054489094ad26d261e2662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695579,
+            "locality_id":1309685861,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1309685861,
+    "wof:lastmodified":1537625332,
+    "wof:name":"Chicacasiguan",
+    "wof:parent_id":1108695579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.26481,
+    15.17108,
+    -91.26481,
+    15.17108
+],
+  "geometry": {"coordinates":[-91.26481,15.17108],"type":"Point"}
+}

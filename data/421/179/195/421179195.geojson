@@ -1,0 +1,117 @@
+{
+  "id": 421179195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.21667,14.96667,-91.21667,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-91.21667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e15\u7279\u897f\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:nah_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Patzit\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7279\u897f\u7279"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3591517,
+    "qs:gn_pop":1003,
+    "qs:name":"Patzit\u00e9",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Quiche",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149173,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":84952,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421196995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591517,
+        "gp:id":84952,
+        "qs:id":149173,
+        "wd:id":"Q2402369",
+        "wk:page":"Patzit\u00e9"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009207,
+    "wof:geomhash":"58d51ca95af59f0804059ea6567788e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421196995,
+            "locality_id":421179195,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":421179195,
+    "wof:lastmodified":1514444496,
+    "wof:name":"Patzit\u00e9",
+    "wof:parent_id":421196995,
+    "wof:placetype":"locality",
+    "wof:population":1003,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.21667,
+    14.96667,
+    -91.21667,
+    14.96667
+],
+  "geometry": {"coordinates":[-91.21666999999999,14.96667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260166839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28741,15.33822,-91.28741,15.33822",
+    "geom:latitude":15.33822,
+    "geom:longitude":-91.28741,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chichoche",
+    "gn:country_code":"GT",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3598642,
+    "gn:latitude":15.33822,
+    "gn:longitude":-91.28741,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chichoche",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chichoche"
+    ],
+    "name:und_x_variant":[
+        "Chichoque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3598642
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c5c971c8097054ec4c150fecfa27645a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1260166839,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1260166839,
+    "wof:lastmodified":1537625224,
+    "wof:name":"Chichoche",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28741,
+    15.33822,
+    -91.28741,
+    15.33822
+],
+  "geometry": {"coordinates":[-91.28740999999999,15.33822],"type":"Point"}
+}

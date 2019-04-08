@@ -1,0 +1,67 @@
+{
+  "id": 1343251671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.41667,15.75,-89.41667,15.75",
+    "geom:latitude":15.75,
+    "geom:longitude":-89.41667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sesacar",
+    "gn:country_code":"GT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588817,
+    "gn:latitude":15.75,
+    "gn:longitude":-89.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sesacar",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        1108695389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588817
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"63c9f7169ac82782775018a61f20d320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695389,
+            "locality_id":1343251671,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1343251671,
+    "wof:lastmodified":1537045730,
+    "wof:name":"Sesacar",
+    "wof:parent_id":1108695389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.41667,
+    15.75,
+    -89.41667,
+    15.75
+],
+  "geometry": {"coordinates":[-89.41667,15.75],"type":"Point"}
+}

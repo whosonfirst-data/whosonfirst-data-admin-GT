@@ -1,0 +1,72 @@
+{
+  "id": 1226107117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.53333,14.28333,-91.53333,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":-91.53333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Vado Hondo",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3588028,
+    "gn:latitude":14.28333,
+    "gn:longitude":-91.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vado Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Vado Hondo",
+        "Vado Hondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671683,
+        1108695317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588028
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"31333608b2f47cbcb946f5b0cb5041d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695317,
+            "locality_id":1226107117,
+            "region_id":85671683
+        }
+    ],
+    "wof:id":1226107117,
+    "wof:lastmodified":1537625128,
+    "wof:name":"Vado Hondo",
+    "wof:parent_id":1108695317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.53333,
+    14.28333,
+    -91.53333,
+    14.28333
+],
+  "geometry": {"coordinates":[-91.53333000000001,14.28333],"type":"Point"}
+}

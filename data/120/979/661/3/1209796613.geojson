@@ -1,0 +1,72 @@
+{
+  "id": 1209796613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.01667,14.03333,-90.01667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-90.01667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Palo Blanco",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591814,
+    "gn:latitude":14.03333,
+    "gn:longitude":-90.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agua Blanca",
+        "Palo Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671723,
+        1108695311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591814
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"c4f41b37a97fd935220f2579f545e9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695311,
+            "locality_id":1209796613,
+            "region_id":85671723
+        }
+    ],
+    "wof:id":1209796613,
+    "wof:lastmodified":1537625162,
+    "wof:name":"Palo Blanco",
+    "wof:parent_id":1108695311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.01666999999998,
+    14.03333,
+    -90.01666999999998,
+    14.03333
+],
+  "geometry": {"coordinates":[-90.01666999999998,14.03333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193108585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.6884,15.11284,-91.6884,15.11284",
+    "geom:latitude":15.11284,
+    "geom:longitude":-91.6884,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Flor de La Pena",
+    "gn:country_code":"GT",
+    "gn:dem":2314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458482,
+    "gn:latitude":15.11284,
+    "gn:longitude":-91.6884,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Flor de La Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Flor de La Pe\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671651,
+        1108695275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458482
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"047cb52e51e72713d1c116c083a2fc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695275,
+            "locality_id":1193108585,
+            "region_id":85671651
+        }
+    ],
+    "wof:id":1193108585,
+    "wof:lastmodified":1537625302,
+    "wof:name":"Flor de La Pena",
+    "wof:parent_id":1108695275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.6884,
+    15.11284,
+    -91.6884,
+    15.11284
+],
+  "geometry": {"coordinates":[-91.6884,15.11284],"type":"Point"}
+}

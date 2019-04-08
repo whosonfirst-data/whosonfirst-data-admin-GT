@@ -1,0 +1,70 @@
+{
+  "id": 1293666203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.75194,17.51397,-90.75194,17.51397",
+    "geom:latitude":17.51397,
+    "geom:longitude":-90.75194,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Laguna Vista Hermosa",
+    "gn:country_code":"GT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10179843,
+    "gn:latitude":17.51397,
+    "gn:longitude":-90.75194,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Laguna Vista Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laguna Vista Hermosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671647,
+        1108695467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179843
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"179ea8c388b6a17727f13e7d286f8439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695467,
+            "locality_id":1293666203,
+            "region_id":85671647
+        }
+    ],
+    "wof:id":1293666203,
+    "wof:lastmodified":1537625280,
+    "wof:name":"Laguna Vista Hermosa",
+    "wof:parent_id":1108695467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.75194,
+    17.51397,
+    -90.75194,
+    17.51397
+],
+  "geometry": {"coordinates":[-90.75194,17.51397],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293868401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.79231,15.4061,-88.79231,15.4061",
+    "geom:latitude":15.4061,
+    "geom:longitude":-88.79231,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"GT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593164,
+    "gn:latitude":15.4061,
+    "gn:longitude":-88.79231,
+    "gn:modification_date":"2014-07-04",
+    "gn:name":"Los Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671709,
+        421184719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593164
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"5fe0f3d8ddfb45d61fcd5c2199d5e166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184719,
+            "locality_id":1293868401,
+            "region_id":85671709
+        }
+    ],
+    "wof:id":1293868401,
+    "wof:lastmodified":1536735245,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":421184719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.79231,
+    15.4061,
+    -88.79231,
+    15.4061
+],
+  "geometry": {"coordinates":[-88.79231,15.4061],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1108695583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001947,
+    "geom:area_square_m":23295291.431568,
+    "geom:bbox":"-90.6729162154,14.6534627281,-90.5906797139,14.6981697302",
+    "geom:latitude":14.676044,
+    "geom:longitude":-90.636815,
+    "iso:country":"GT",
+    "lbl:latitude":14.676297,
+    "lbl:longitude":-90.643643,
+    "meso:admin_1":"Guatemala",
+    "meso:diss_me":"SAN PEDRO SACATEPEQUEZGUATEMALA",
+    "meso:gadm_admin":"San Pedro Sacatep\u00e9quez",
+    "meso:gaul_admin":"San Pedro Sacatep\u00e9quez",
+    "meso:mps_x":-90.643643,
+    "meso:mps_y":14.676297,
+    "meso:name_en":"San Pedro Sacatepequez",
+    "meso:source":"AOTM",
+    "mps:latitude":14.676297,
+    "mps:longitude":-90.643643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "name:eng_x_variant":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.GU",
+    "statoids:name":"San Pedro Sacatep\u00e9quez",
+    "statoids:population":"31503",
+    "statoids:statoid":"GT.GU.PS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"GT",
+    "wof:created":1474493909,
+    "wof:geomhash":"4a1eef5aa5918e76b832c58414ef04f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695583,
+            "region_id":85671681
+        }
+    ],
+    "wof:id":1108695583,
+    "wof:lastmodified":1505431502,
+    "wof:name":"San Pedro Sacatepequez",
+    "wof:parent_id":85671681,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":31503,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.67291621544439,
+    14.65346272814906,
+    -90.59067971394623,
+    14.69816973015335
+],
+  "geometry": {"coordinates":[[[-90.67069693323538,14.67979283988045],[-90.6686329333226,14.68013708530379],[-90.65849372160106,14.68964379110508],[-90.65859256361485,14.69034991080883],[-90.65327039390426,14.69726808060306],[-90.64506386410564,14.69816973015335],[-90.64197104939549,14.69253739580627],[-90.63512956840627,14.69097018865205],[-90.62892732043501,14.69646673997609],[-90.62442397835267,14.69466184075311],[-90.61971594478716,14.6861776780403],[-90.61952156906783,14.68597280158658],[-90.61618983469758,14.68562588683694],[-90.61019205454977,14.6766766570199],[-90.60407290000131,14.67865933125881],[-90.59854786791261,14.68127600351445],[-90.59067971394623,14.6741834819457],[-90.59294487429608,14.66738635562754],[-90.6010020055859,14.6662915825964],[-90.60545569088525,14.66507689174846],[-90.61065630640284,14.66588647890366],[-90.61314127008635,14.66710955017635],[-90.61513213465241,14.66641871154664],[-90.61860927278258,14.66765952927168],[-90.63107523760185,14.66526893018902],[-90.63107402392876,14.65691490012263],[-90.63854759110536,14.65346272814906],[-90.64887980634771,14.66065664947695],[-90.6489873428455,14.66074430087264],[-90.65649530828327,14.66054384619065],[-90.65667345443636,14.66039078349136],[-90.67206569404385,14.66866462543778],[-90.67291621544439,14.67459544332818],[-90.67176446743822,14.67782114664584],[-90.67069693323538,14.67979283988045]]],"type":"Polygon"}
+}

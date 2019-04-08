@@ -1,0 +1,61 @@
+{
+  "id": 1209477641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.28333,14.78333,-91.28333,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-91.28333,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pajaj",
+    "gn:country_code":"GT",
+    "gn:dem":2477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3591893,
+    "gn:latitude":14.78333,
+    "gn:longitude":-91.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pajaj",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3591893
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6394d43e806fad3ef94a54c5045ea419",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209477641
+        }
+    ],
+    "wof:id":1209477641,
+    "wof:lastmodified":1536285885,
+    "wof:name":"Pajaj",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.28333,
+    14.78333,
+    -91.28333,
+    14.78333
+],
+  "geometry": {"coordinates":[-91.28333000000001,14.78333],"type":"Point"}
+}

@@ -1,0 +1,148 @@
+{
+  "id": 421189123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000284,
+    "geom:area_square_m":3401541.235221,
+    "geom:bbox":"-91.1400670199,14.71084491,-91.1200002283,14.7321000534",
+    "geom:latitude":14.722679,
+    "geom:longitude":-91.129233,
+    "iso:country":"GT",
+    "lbl:latitude":14.723555,
+    "lbl:longitude":-91.129042,
+    "meso:admin_1":"Solola",
+    "meso:diss_me":"SANTA CATARINA PALOPOSOLOLA",
+    "meso:gadm_admin":"Santa Catarina Palop\u00f3",
+    "meso:gaul_admin":"Santa Catarina Palap\u00f3",
+    "meso:mps_x":-91.129042,
+    "meso:mps_y":14.723555,
+    "meso:name_en":"Santa Catarina Palopo",
+    "meso:source":"AOTM",
+    "mps:latitude":14.723555,
+    "mps:longitude":-91.129042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u7d0d\u5e15\u6d1b\u6ce2"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:eng_x_variant":[
+        "Santa Catarina Palap\u00f3",
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30d1\u30ed\u30dd"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Katarina Palopo"
+    ],
+    "name:nah_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Catarina Palopo",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Solola",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":617,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110196,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":26807199,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SO",
+    "statoids:name":"Santa Catarina Palop\u00f3",
+    "statoids:population":"2869",
+    "statoids:statoid":"GT.SO.CP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26807199,
+        "hasc:id":"GT.SO.CP",
+        "qs:id":1110196,
+        "wd:id":"Q2608981"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009605,
+    "wof:geomhash":"8b78487205a03b8914d8b576851da979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421189123,
+            "region_id":85671695
+        }
+    ],
+    "wof:id":421189123,
+    "wof:lastmodified":1536616075,
+    "wof:name":"Santa Catarina Palopo",
+    "wof:parent_id":85671695,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":2869,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:shortcode":"CP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.1400670199136,
+    14.71084491000855,
+    -91.12000022827952,
+    14.73210005343431
+],
+  "geometry": {"coordinates":[[[-91.13842600274441,14.73067346395015],[-91.1374398587818,14.73156938588584],[-91.13100891865996,14.73210005343431],[-91.12617309230953,14.73076212646973],[-91.12193960081109,14.72823070373611],[-91.12165163295477,14.72779780369162],[-91.12000022827952,14.71684781155884],[-91.12397045942888,14.71084491000855],[-91.13192255627932,14.71463308953663],[-91.1400670199136,14.72524569326555],[-91.13842600274441,14.73067346395015]]],"type":"Polygon"}
+}

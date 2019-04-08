@@ -1,0 +1,70 @@
+{
+  "id": 1243237435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.16847,15.30337,-91.16847,15.30337",
+    "geom:latitude":15.30337,
+    "geom:longitude":-91.16847,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pie del Aguila",
+    "gn:country_code":"GT",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482598,
+    "gn:latitude":15.30337,
+    "gn:longitude":-91.16847,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pie del Aguila",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pie del Aguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482598
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"3ecc2ac88521ffc7664146dc2e5059a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169961,
+            "locality_id":1243237435,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1243237435,
+    "wof:lastmodified":1537625346,
+    "wof:name":"Pie del Aguila",
+    "wof:parent_id":421169961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.16847,
+    15.30337,
+    -91.16847,
+    15.30337
+],
+  "geometry": {"coordinates":[-91.16847,15.30337],"type":"Point"}
+}

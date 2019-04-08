@@ -1,0 +1,118 @@
+{
+  "id": 421198249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.66451,15.40487,-91.66451,15.40487",
+    "geom:latitude":15.40487,
+    "geom:longitude":-91.66451,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u4f69\u7279\u85a9\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:fra_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:fre_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:por_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael P\u00e9tzal"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:unk_x_variant":[
+        "San Rafael"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u4f69\u7279\u85a9\u723e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":3589579,
+    "qs:gn_pop":1525,
+    "qs:name":"San Rafael Petzal",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1116124,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85884,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589579,
+        "gp:id":85884,
+        "qs:id":1116124,
+        "wd:id":"Q2402524",
+        "wk:page":"San Rafael Petzal"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009941,
+    "wof:geomhash":"76729c82540a3f5fa75c8b0ab94e4a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695593,
+            "locality_id":421198249,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421198249,
+    "wof:lastmodified":1527716356,
+    "wof:name":"San Rafael Petzal",
+    "wof:parent_id":1108695593,
+    "wof:placetype":"locality",
+    "wof:population":1525,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.66451,
+    15.40487,
+    -91.66451,
+    15.40487
+],
+  "geometry": {"coordinates":[-91.66451000000001,15.40487],"type":"Point"}
+}

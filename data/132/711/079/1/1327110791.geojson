@@ -1,0 +1,70 @@
+{
+  "id": 1327110791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.19528,14.55111,-92.19528,14.55111",
+    "geom:latitude":14.55111,
+    "geom:longitude":-92.19528,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"GT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594784,
+    "gn:latitude":14.55111,
+    "gn:longitude":-92.19528,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cuchilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594784
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"d2b37f65e7b66076a244fc3678c6e12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695415,
+            "locality_id":1327110791,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1327110791,
+    "wof:lastmodified":1537625186,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":1108695415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.19528,
+    14.55111,
+    -92.19528,
+    14.55111
+],
+  "geometry": {"coordinates":[-92.19528,14.55111],"type":"Point"}
+}

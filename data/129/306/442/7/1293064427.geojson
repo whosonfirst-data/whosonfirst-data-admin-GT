@@ -1,0 +1,72 @@
+{
+  "id": 1293064427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.28333,14.25,-90.28333,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":-90.28333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Los Esclavos",
+    "gn:cc2":"GT",
+    "gn:country_code":"GT",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3593073,
+    "gn:latitude":14.25,
+    "gn:longitude":-90.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Esclavos",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esclavos",
+        "Los Esclavos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671705,
+        421191201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3593073
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"39802820e9526a29ced382278a672816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421191201,
+            "locality_id":1293064427,
+            "region_id":85671705
+        }
+    ],
+    "wof:id":1293064427,
+    "wof:lastmodified":1537625171,
+    "wof:name":"Los Esclavos",
+    "wof:parent_id":421191201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.28333,
+    14.25,
+    -90.28333,
+    14.25
+],
+  "geometry": {"coordinates":[-90.28333000000001,14.25],"type":"Point"}
+}

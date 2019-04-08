@@ -1,0 +1,114 @@
+{
+  "id": 1108695641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002087,
+    "geom:area_square_m":24958171.197148,
+    "geom:bbox":"-90.7345067419,14.6580666105,-90.6706969332,14.7056806292",
+    "geom:latitude":14.679846,
+    "geom:longitude":-90.701416,
+    "iso:country":"GT",
+    "lbl:latitude":14.67776,
+    "lbl:longitude":-90.697627,
+    "meso:admin_1":"Sacatepequez",
+    "meso:diss_me":"SANTO DOMINGO XENACOJSACATEPEQUEZ",
+    "meso:gadm_admin":"Santo Domingo Xenacoj",
+    "meso:gaul_admin":"Santo Domingo Xenacoj",
+    "meso:mps_x":-90.697627,
+    "meso:mps_y":14.67776,
+    "meso:name_en":"Santo Domingo Xenacoj",
+    "meso:source":"AOTM",
+    "mps:latitude":14.67776,
+    "mps:longitude":-90.697627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u591a\u660e\u6208\u514b\u585e\u7d0d\u79d1\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\u30fb\u30c9\u30df\u30f3\u30b4\u30fb\u30d8\u30ca\u30b3\u30d2"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:por_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:sco_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Domingo Xenacoj"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-11-24",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-11-24",
+    "statoids:capital":"",
+    "statoids:country":"GT",
+    "statoids:hasc":"GT.SA",
+    "statoids:name":"Santo Domingo Xenacoj",
+    "statoids:population":"7940",
+    "statoids:statoid":"GT.SA.DX",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2401045"
+    },
+    "wof:country":"GT",
+    "wof:created":1474493968,
+    "wof:geomhash":"91ace65120e60aefbc56b895a77f4995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695641,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":1108695641,
+    "wof:lastmodified":1514444574,
+    "wof:name":"Santo Domingo Xenacoj",
+    "wof:parent_id":85671687,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":7940,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.73450674187511,
+    14.65806661045976,
+    -90.67069693323538,
+    14.70568062922908
+],
+  "geometry": {"coordinates":[[[-90.73264351483604,14.69279985135995],[-90.72353204833612,14.69854856985468],[-90.72207514293071,14.6980287963079],[-90.71654817992082,14.6910422445982],[-90.70465889739344,14.69279432078257],[-90.7000846361816,14.69730087945701],[-90.70000590318847,14.69942958049406],[-90.6884875369292,14.70548933431168],[-90.68752805163294,14.70568062922908],[-90.68403940735223,14.70262856227203],[-90.67691670440766,14.70188833979384],[-90.67265562984747,14.69564397319019],[-90.67698955171993,14.68825790588837],[-90.67069693323538,14.67979283988045],[-90.67176446743822,14.67782114664584],[-90.67291621544439,14.67459544332818],[-90.67206569404385,14.66866462543778],[-90.67813531941333,14.66312358320063],[-90.68134866045757,14.66258908576753],[-90.68601026018091,14.6632419116122],[-90.6883171815484,14.66240795270636],[-90.68875192701188,14.66207111862418],[-90.70705149265844,14.66185131837939],[-90.7078061585366,14.66084742037491],[-90.71200069452038,14.66137463329969],[-90.72800287058087,14.65806661045976],[-90.73147781428047,14.66099480695383],[-90.73450674187511,14.6695191688691],[-90.72816940181976,14.67395877610419],[-90.72584399632244,14.67831986943225],[-90.72873104772071,14.68246459224774],[-90.73326106187625,14.6905404082811],[-90.73264351483604,14.69279985135995]]],"type":"Polygon"}
+}

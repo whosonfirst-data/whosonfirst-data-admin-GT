@@ -1,0 +1,120 @@
+{
+  "id": 421179139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.61667,15.51667,-91.61667,15.51667",
+    "geom:latitude":15.51667,
+    "geom:longitude":-91.61667,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6258\u591a\u65af\u6851\u6258\u65af\u5eab\u4e18\u99ac\u5766"
+    ],
+    "name:dut_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:lit_x_preferred":[
+        "Todos Santos Ku\u010dumatanas"
+    ],
+    "name:pol_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Cuchumatan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u591a\u65af\u6851\u6258\u65af\u5eab\u4e18\u99ac\u5766"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3588308,
+    "qs:gn_pop":3289,
+    "qs:name":"Todos Santos Cuchumat\u00e1n",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Huehuetenango",
+    "qs:photos":351,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":351,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149107,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":86492,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        421190493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588308,
+        "gp:id":86492,
+        "qs:id":149107,
+        "wd:id":"Q2608975",
+        "wk:page":"Todos Santos Cuchumat\u00e1n"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009205,
+    "wof:geomhash":"6792633645ede4bdfbd8b0f157856d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421190493,
+            "locality_id":421179139,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":421179139,
+    "wof:lastmodified":1514444587,
+    "wof:name":"Todos Santos Cuchumat\u00e1n",
+    "wof:parent_id":421190493,
+    "wof:placetype":"locality",
+    "wof:population":3289,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.61667,
+    15.51667,
+    -91.61667,
+    15.51667
+],
+  "geometry": {"coordinates":[-91.61667,15.51667],"type":"Point"}
+}

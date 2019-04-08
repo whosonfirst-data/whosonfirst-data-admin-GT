@@ -1,0 +1,102 @@
+{
+  "id": 890429633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.83333,15.4,-89.83333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-89.83333,
+    "gn:country":"GT",
+    "gn:fcode":"PPL",
+    "gn:pop":5633,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u585e\u7d0d\u70cf"
+    ],
+    "name:dut_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:eng_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:ger_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:ita_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:nah_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:pol_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:por_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Senah\u00fa"
+    ],
+    "qs:name":"Senah\u00fa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":511,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671665,
+        1108695647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3588858,
+        "gp:id":86194,
+        "qs:id":149125,
+        "wd:id":"Q332072",
+        "wk:page":"Senah\u00fa"
+    },
+    "wof:country":"GT",
+    "wof:created":1469051823,
+    "wof:geomhash":"cb61dc4d71866fd3e858abcfb9ca1184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695647,
+            "locality_id":890429633,
+            "region_id":85671665
+        }
+    ],
+    "wof:id":890429633,
+    "wof:lastmodified":1527792789,
+    "wof:name":"Senah\u00fa",
+    "wof:parent_id":1108695647,
+    "wof:placetype":"locality",
+    "wof:population":5633,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.83333,
+    15.4,
+    -89.83333,
+    15.4
+],
+  "geometry": {"coordinates":[-89.83333,15.4],"type":"Point"}
+}

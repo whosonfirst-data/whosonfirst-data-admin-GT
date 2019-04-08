@@ -1,0 +1,124 @@
+{
+  "id": 421179159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.78833,14.54889,-90.78833,14.54889",
+    "geom:latitude":14.54889,
+    "geom:longitude":-90.78833,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u5a1c\u5df4\u62c9\u5967\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30d0\u30e9\u30aa\u30ca"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Catarina Barahona"
+    ],
+    "name:unk_x_variant":[
+        "Santa Catalina"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u5a1c\u5df4\u62c9\u5967\u7d0d"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589460,
+    "qs:gn_pop":3214,
+    "qs:name":"Santa Catarina Barahona",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Sacatepequez",
+    "qs:photos":116,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":116,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149140,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85955,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671687,
+        421184399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589460,
+        "gp:id":85955,
+        "qs:id":149140,
+        "wd:id":"Q2400778",
+        "wk:page":"Santa Catarina Barahona"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009206,
+    "wof:geomhash":"cbd8eccc3b9d6ccc64ef03294938dfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421184399,
+            "locality_id":421179159,
+            "region_id":85671687
+        }
+    ],
+    "wof:id":421179159,
+    "wof:lastmodified":1527717702,
+    "wof:name":"Santa Catarina Barahona",
+    "wof:parent_id":421184399,
+    "wof:placetype":"locality",
+    "wof:population":3214,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.78833,
+    14.54889,
+    -90.78833,
+    14.54889
+],
+  "geometry": {"coordinates":[-90.78833,14.54889],"type":"Point"}
+}

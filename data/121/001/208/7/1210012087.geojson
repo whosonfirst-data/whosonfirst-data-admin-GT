@@ -1,0 +1,70 @@
+{
+  "id": 1210012087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.25906,15.36786,-91.25906,15.36786",
+    "geom:latitude":15.36786,
+    "geom:longitude":-91.25906,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Laguna I",
+    "gn:country_code":"GT",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491341,
+    "gn:latitude":15.36786,
+    "gn:longitude":-91.25906,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"La Laguna I",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Laguna I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491341
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"8ca349ba34500faba42897acb1d4d62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695257,
+            "locality_id":1210012087,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1210012087,
+    "wof:lastmodified":1537625365,
+    "wof:name":"La Laguna I",
+    "wof:parent_id":1108695257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.25906,
+    15.36786,
+    -91.25906,
+    15.36786
+],
+  "geometry": {"coordinates":[-91.25906000000001,15.36786],"type":"Point"}
+}

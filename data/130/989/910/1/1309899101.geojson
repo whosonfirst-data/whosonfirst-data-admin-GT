@@ -1,0 +1,70 @@
+{
+  "id": 1309899101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.4476,15.56865,-91.4476,15.56865",
+    "geom:latitude":15.56865,
+    "geom:longitude":-91.4476,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yulhuitz",
+    "gn:country_code":"GT",
+    "gn:dem":2745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734045,
+    "gn:latitude":15.56865,
+    "gn:longitude":-91.4476,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Yulhuitz",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yulhuitz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671641,
+        1108695289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734045
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"2c8a589588dfd820ead8c6df1411d0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695289,
+            "locality_id":1309899101,
+            "region_id":85671641
+        }
+    ],
+    "wof:id":1309899101,
+    "wof:lastmodified":1537625239,
+    "wof:name":"Yulhuitz",
+    "wof:parent_id":1108695289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.4476,
+    15.56865,
+    -91.4476,
+    15.56865
+],
+  "geometry": {"coordinates":[-91.44759999999999,15.56865],"type":"Point"}
+}

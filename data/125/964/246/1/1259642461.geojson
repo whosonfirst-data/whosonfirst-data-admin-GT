@@ -1,0 +1,70 @@
+{
+  "id": 1259642461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.48288,15.09072,-91.48288,15.09072",
+    "geom:latitude":15.09072,
+    "geom:longitude":-91.48288,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Chipuerta",
+    "gn:country_code":"GT",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11478348,
+    "gn:latitude":15.09072,
+    "gn:longitude":-91.48288,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chipuerta",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chipuerta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671697,
+        1108695399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478348
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"6d24c3baee60f86882c6b43e2a6290ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695399,
+            "locality_id":1259642461,
+            "region_id":85671697
+        }
+    ],
+    "wof:id":1259642461,
+    "wof:lastmodified":1537625339,
+    "wof:name":"Chipuerta",
+    "wof:parent_id":1108695399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.48288,
+    15.09072,
+    -91.48288,
+    15.09072
+],
+  "geometry": {"coordinates":[-91.48287999999999,15.09072],"type":"Point"}
+}

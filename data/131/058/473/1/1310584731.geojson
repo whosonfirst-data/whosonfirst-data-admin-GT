@@ -1,0 +1,73 @@
+{
+  "id": 1310584731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-91.20443,15.40237,-91.20443,15.40237",
+    "geom:latitude":15.40237,
+    "geom:longitude":-91.20443,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tujuchuch",
+    "gn:country_code":"GT",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734021,
+    "gn:latitude":15.40237,
+    "gn:longitude":-91.20443,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Tujuchuch",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tujuchuch"
+    ],
+    "name:und_x_variant":[
+        "Tajuchuch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671733,
+        421169903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734021
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"20ddafef177ff22d2a44810fc382e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421169903,
+            "locality_id":1310584731,
+            "region_id":85671733
+        }
+    ],
+    "wof:id":1310584731,
+    "wof:lastmodified":1537625238,
+    "wof:name":"Tujuchuch",
+    "wof:parent_id":421169903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.20443,
+    15.40237,
+    -91.20443,
+    15.40237
+],
+  "geometry": {"coordinates":[-91.20443,15.40237],"type":"Point"}
+}

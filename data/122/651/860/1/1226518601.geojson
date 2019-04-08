@@ -1,0 +1,73 @@
+{
+  "id": 1226518601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-92.06271,14.70708,-92.06271,14.70708",
+    "geom:latitude":14.70708,
+    "geom:longitude":-92.06271,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Parada",
+    "gn:country_code":"GT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3594281,
+    "gn:latitude":14.70708,
+    "gn:longitude":-92.06271,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"La Parada",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Parada"
+    ],
+    "name:spa_x_variant":[
+        "La Parada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671661,
+        1108695425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3594281
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"efa8a33c4c4df02a8e86a2a371d33298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695425,
+            "locality_id":1226518601,
+            "region_id":85671661
+        }
+    ],
+    "wof:id":1226518601,
+    "wof:lastmodified":1537625181,
+    "wof:name":"La Parada",
+    "wof:parent_id":1108695425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.06271,
+    14.70708,
+    -92.06271,
+    14.70708
+],
+  "geometry": {"coordinates":[-92.06271,14.70708],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209406667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.65,14.81667,-90.65,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-90.65,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Patzanes",
+    "gn:country_code":"GT",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3592953,
+    "gn:latitude":14.81667,
+    "gn:longitude":-90.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Patzanes",
+    "gn:population":0,
+    "gn:timezone":"America/Guatemala",
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3592953
+    },
+    "wof:country":"GT",
+    "wof:geomhash":"650c26257a92461567037859c782fb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632385,
+            "locality_id":1209406667
+        }
+    ],
+    "wof:id":1209406667,
+    "wof:lastmodified":1536287974,
+    "wof:name":"Los Patzanes",
+    "wof:parent_id":85632385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.65,
+    14.816670000000002,
+    -90.65,
+    14.816670000000002
+],
+  "geometry": {"coordinates":[-90.65000000000001,14.81667],"type":"Point"}
+}

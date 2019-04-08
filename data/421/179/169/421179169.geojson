@@ -1,0 +1,121 @@
+{
+  "id": 421179169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.90639,14.81972,-90.90639,14.81972",
+    "geom:latitude":14.81972,
+    "geom:longitude":-90.90639,
+    "iso:country":"GT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u6ce2\u963f\u57fa\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:nah_x_preferred":[
+        "San Jos\u00e9 Poaqu\u00edl"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Poaqu\u00edl"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:sco_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Poaqu\u00edl"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u6ce2\u963f\u57fa\u723e"
+    ],
+    "qs:gn_country":"GT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3589975,
+    "qs:gn_pop":5987,
+    "qs:name":"San Jos\u00e9 Poaquil",
+    "qs:name_adm0":"Guatemala",
+    "qs:name_adm1":"Chimaltenango",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":97,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149146,
+    "qs:woe_adm0":23424834,
+    "qs:woe_id":85711,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671671,
+        1108695531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3589975,
+        "gp:id":85711,
+        "qs:id":149146,
+        "wd:id":"Q1254233",
+        "wk:page":"San Jos\u00e9 Poaquil"
+    },
+    "wof:country":"GT",
+    "wof:created":1459009206,
+    "wof:geomhash":"27c22e5cf7679d6c0c7181b769db7194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":1108695531,
+            "locality_id":421179169,
+            "region_id":85671671
+        }
+    ],
+    "wof:id":421179169,
+    "wof:lastmodified":1527717702,
+    "wof:name":"San Jos\u00e9 Poaquil",
+    "wof:parent_id":1108695531,
+    "wof:placetype":"locality",
+    "wof:population":5987,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.90639,
+    14.81972,
+    -90.90639,
+    14.81972
+],
+  "geometry": {"coordinates":[-90.90639,14.81972],"type":"Point"}
+}

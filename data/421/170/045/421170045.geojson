@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042194,
-    "geom:area_square_m":504049743.017932,
+    "geom:area_square_m":504049743.017913,
     "geom:bbox":"-89.6540754736,14.8556060932,-89.3210696864,15.083281491",
     "geom:latitude":14.963449,
     "geom:longitude":-89.485421,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Zacapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.984204,
     "lbl:longitude":-89.468942,
     "meso:admin_1":"Zacapa",
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":421170045,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1555037165,
     "wof:name":"Zacapa",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007359,
-    "geom:area_square_m":87848978.672337,
+    "geom:area_square_m":87848978.672358,
     "geom:bbox":"-91.7052043846,15.0560504244,-91.5900409636,15.1531670817",
     "geom:latitude":15.103363,
     "geom:longitude":-91.649087,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cabrican Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.104139,
     "lbl:longitude":-91.653728,
     "meso:admin_1":"Quetzaltenango",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695275,
-    "wof:lastmodified":1514444414,
+    "wof:lastmodified":1553718275,
     "wof:name":"Cabrican",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

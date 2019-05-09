@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001947,
-    "geom:area_square_m":23295291.431568,
+    "geom:area_square_m":23295291.431563,
     "geom:bbox":"-90.6729162154,14.6534627281,-90.5906797139,14.6981697302",
     "geom:latitude":14.676044,
     "geom:longitude":-90.636815,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Sacatepequez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.676297,
     "lbl:longitude":-90.643643,
     "meso:admin_1":"Guatemala",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695583,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Pedro Sacatepequez",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

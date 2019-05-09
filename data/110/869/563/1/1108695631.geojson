@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":9142042.080725,
+    "geom:area_square_m":9142042.08073,
     "geom:bbox":"-90.6956991505,14.5529306138,-90.6546740557,14.5856762269",
     "geom:latitude":14.568502,
     "geom:longitude":-90.676739,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia Milpas Altas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.568705,
     "lbl:longitude":-90.677049,
     "meso:admin_1":"Sacatepequez",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695631,
-    "wof:lastmodified":1514444567,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santa Lucia Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004416,
-    "geom:area_square_m":52560654.162706,
+    "geom:area_square_m":52560654.162722,
     "geom:bbox":"-91.564004211,15.6844226637,-91.4642757755,15.768588761",
     "geom:latitude":15.728533,
     "geom:longitude":-91.521618,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Independencia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.729359,
     "lbl:longitude":-91.522365,
     "meso:admin_1":"Huehuetenango",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695587,
-    "wof:lastmodified":1514444557,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Rafael Independencia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.733188,
     "geom:longitude":-89.576082,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chahal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.727319,
     "lbl:longitude":-89.573744,
     "meso:admin_1":"Alta Verapaz",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421188895,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1553717479,
     "wof:name":"Chahal",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

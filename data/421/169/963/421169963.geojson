@@ -10,6 +10,12 @@
     "geom:latitude":14.742897,
     "geom:longitude":-91.496882,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Zunil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.755347,
     "lbl:longitude":-91.482627,
     "meso:admin_1":"Quetzaltenango",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421169963,
-    "wof:lastmodified":1536615902,
+    "wof:lastmodified":1553717307,
     "wof:name":"Zunil",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

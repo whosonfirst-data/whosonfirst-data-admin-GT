@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002759,
-    "geom:area_square_m":32964843.862909,
+    "geom:area_square_m":32964843.862903,
     "geom:bbox":"-91.5774854521,14.8633125107,-91.4959809733,14.9188573186",
     "geom:latitude":14.893609,
     "geom:longitude":-91.536268,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Olintepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.891926,
     "lbl:longitude":-91.532971,
     "meso:admin_1":"Quetzaltenango",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695417,
-    "wof:lastmodified":1514444490,
+    "wof:lastmodified":1553718278,
     "wof:name":"Olintepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

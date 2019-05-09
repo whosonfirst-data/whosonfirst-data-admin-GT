@@ -10,6 +10,12 @@
     "geom:latitude":16.633687,
     "geom:longitude":-89.944251,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.670686,
     "lbl:longitude":-89.939142,
     "meso:admin_1":"Peten",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421179171,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1553717372,
     "wof:name":"San Francisco",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

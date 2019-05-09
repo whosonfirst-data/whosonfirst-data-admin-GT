@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007612,
-    "geom:area_square_m":91142599.583467,
+    "geom:area_square_m":91142599.583447,
     "geom:bbox":"-90.2225421224,14.405812503,-90.0942768476,14.4986962807",
     "geom:latitude":14.451539,
     "geom:longitude":-90.160305,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Las Flores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.451328,
     "lbl:longitude":-90.159085,
     "meso:admin_1":"Santa Rosa",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108695589,
-    "wof:lastmodified":1514444557,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Rafael Las Flores",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

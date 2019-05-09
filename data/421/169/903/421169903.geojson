@@ -10,6 +10,12 @@
     "geom:latitude":15.563024,
     "geom:longitude":-91.171961,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Nebaj Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.546923,
     "lbl:longitude":-91.174223,
     "meso:admin_1":"Quiche",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421169903,
-    "wof:lastmodified":1536615902,
+    "wof:lastmodified":1553717307,
     "wof:name":"Nebaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001152,
-    "geom:area_square_m":13767417.741922,
+    "geom:area_square_m":13767417.741926,
     "geom:bbox":"-91.5052582794,14.7886462037,-91.4635641201,14.8310242599",
     "geom:latitude":14.811167,
     "geom:longitude":-91.484369,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Almolonga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.811736,
     "lbl:longitude":-91.48475,
     "meso:admin_1":"Quetzaltenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695259,
-    "wof:lastmodified":1514444405,
+    "wof:lastmodified":1553718275,
     "wof:name":"Almolonga",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

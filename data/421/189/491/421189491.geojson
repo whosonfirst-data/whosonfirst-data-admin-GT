@@ -10,6 +10,12 @@
     "geom:latitude":14.311777,
     "geom:longitude":-89.930102,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Jutiapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.319306,
     "lbl:longitude":-89.932432,
     "meso:admin_1":"Jutiapa",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421189491,
-    "wof:lastmodified":1536616076,
+    "wof:lastmodified":1553717486,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.646108,
     "geom:longitude":-91.033089,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Patzun Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.656927,
     "lbl:longitude":-91.03974,
     "meso:admin_1":"Chimaltenango",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421178903,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717372,
     "wof:name":"Patzun",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009785,
-    "geom:area_square_m":116937188.251545,
+    "geom:area_square_m":116937188.251578,
     "geom:bbox":"-90.0022882221,14.8365482173,-89.8097660677,14.9433646097",
     "geom:latitude":14.887925,
     "geom:longitude":-89.914272,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Jicaro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.879747,
     "lbl:longitude":-89.931695,
     "meso:admin_1":"El Progreso",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695325,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037535,
     "wof:name":"El Jicaro",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

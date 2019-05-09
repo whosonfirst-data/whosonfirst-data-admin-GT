@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026609,
-    "geom:area_square_m":319081563.609354,
+    "geom:area_square_m":319081563.609314,
     "geom:bbox":"-90.2589339129,13.9694967201,-90.0627962673,14.261159439",
     "geom:latitude":14.120033,
     "geom:longitude":-90.157134,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Oratorio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.158884,
     "lbl:longitude":-90.147497,
     "meso:admin_1":"Santa Rosa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695421,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037523,
     "wof:name":"Oratorio",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

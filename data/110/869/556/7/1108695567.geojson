@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002482,
-    "geom:area_square_m":29715750.478033,
+    "geom:area_square_m":29715750.478003,
     "geom:bbox":"-91.3894167734,14.469725265,-91.3232714803,14.5410334227",
     "geom:latitude":14.506979,
     "geom:longitude":-91.358385,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Panna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.504146,
     "lbl:longitude":-91.35886,
     "meso:admin_1":"Suchitepequez",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695567,
-    "wof:lastmodified":1514444553,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Miguel Panna",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

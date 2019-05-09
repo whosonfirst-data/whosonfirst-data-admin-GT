@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007123,
-    "geom:area_square_m":85171369.604985,
+    "geom:area_square_m":85171369.605003,
     "geom:bbox":"-90.9435462641,14.6935776951,-90.8477750299,14.8128904398",
     "geom:latitude":14.74835,
     "geom:longitude":-90.897531,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Comalapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.744707,
     "lbl:longitude":-90.901397,
     "meso:admin_1":"Chimaltenango",
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421175579,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1555037137,
     "wof:name":"Comalapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

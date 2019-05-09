@@ -10,6 +10,12 @@
     "geom:latitude":14.533476,
     "geom:longitude":-91.074423,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Pochuta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.5325,
     "lbl:longitude":-91.079829,
     "meso:admin_1":"Chimaltenango",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421203223,
-    "wof:lastmodified":1536616150,
+    "wof:lastmodified":1553717566,
     "wof:name":"Pochuta",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

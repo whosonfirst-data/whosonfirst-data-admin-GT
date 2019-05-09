@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016776,
-    "geom:area_square_m":200777751.851935,
+    "geom:area_square_m":200777751.851956,
     "geom:bbox":"-90.4344086843,14.4782218451,-90.2383671915,14.619724022",
     "geom:latitude":14.55523,
     "geom:longitude":-90.34453,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Jose Pinula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.544209,
     "lbl:longitude":-90.33663,
     "meso:admin_1":"Guatemala",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108695529,
-    "wof:lastmodified":1514444539,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Jose Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

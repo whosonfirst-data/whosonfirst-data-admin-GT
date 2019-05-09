@@ -10,6 +10,12 @@
     "geom:latitude":15.245263,
     "geom:longitude":-91.48323,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Malacatancito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.246237,
     "lbl:longitude":-91.459161,
     "meso:admin_1":"Huehuetenango",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421191463,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1553717506,
     "wof:name":"Malacatancito",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

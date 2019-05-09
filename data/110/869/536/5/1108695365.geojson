@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008868,
-    "geom:area_square_m":105849331.838479,
+    "geom:area_square_m":105849331.838523,
     "geom:bbox":"-92.0102764725,15.0606567175,-91.8327463334,15.1994821836",
     "geom:latitude":15.142669,
     "geom:longitude":-91.915556,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Ixchiguan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.148461,
     "lbl:longitude":-91.929007,
     "meso:admin_1":"San Marcos",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108695365,
-    "wof:lastmodified":1514444458,
+    "wof:lastmodified":1553718277,
     "wof:name":"Ixchiguan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.567683,
     "geom:longitude":-89.988798,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Lanquin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.567392,
     "lbl:longitude":-89.990319,
     "meso:admin_1":"Alta Verapaz",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421182335,
-    "wof:lastmodified":1536615984,
+    "wof:lastmodified":1553717385,
     "wof:name":"Lanquin",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

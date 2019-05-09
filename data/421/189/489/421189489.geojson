@@ -10,6 +10,12 @@
     "geom:latitude":15.648978,
     "geom:longitude":-91.387123,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Ixcoy Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.642979,
     "lbl:longitude":-91.384732,
     "meso:admin_1":"Huehuetenango",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421189489,
-    "wof:lastmodified":1536616076,
+    "wof:lastmodified":1553717486,
     "wof:name":"San Juan Ixcoy",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

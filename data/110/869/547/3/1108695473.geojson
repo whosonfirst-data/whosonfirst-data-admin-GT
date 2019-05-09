@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00929,
-    "geom:area_square_m":110606519.934836,
+    "geom:area_square_m":110606519.934815,
     "geom:bbox":"-91.8234999571,15.5709872795,-91.7174649917,15.7462612114",
     "geom:latitude":15.663534,
     "geom:longitude":-91.773007,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Huista Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.649677,
     "lbl:longitude":-91.782635,
     "meso:admin_1":"Huehuetenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695473,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037519,
     "wof:name":"San Antonio Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

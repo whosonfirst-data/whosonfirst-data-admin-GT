@@ -10,6 +10,12 @@
     "geom:latitude":14.695196,
     "geom:longitude":-90.933556,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Balanya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.691664,
     "lbl:longitude":-90.928329,
     "meso:admin_1":"Chimaltenango",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421182885,
-    "wof:lastmodified":1536615990,
+    "wof:lastmodified":1553717389,
     "wof:name":"Santa Cruz Balanya",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

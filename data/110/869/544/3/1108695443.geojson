@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020911,
-    "geom:area_square_m":250644077.776742,
+    "geom:area_square_m":250644077.77677,
     "geom:bbox":"-90.606694141,14.1315562943,-90.3407132573,14.320569376",
     "geom:latitude":14.217669,
     "geom:longitude":-90.498303,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Nuevo Vinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.245885,
     "lbl:longitude":-90.492816,
     "meso:admin_1":"Santa Rosa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695443,
-    "wof:lastmodified":1514444508,
+    "wof:lastmodified":1553718278,
     "wof:name":"Pueblo Nuevo Vinas",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

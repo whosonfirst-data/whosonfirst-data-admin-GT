@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01121,
-    "geom:area_square_m":134485810.289191,
+    "geom:area_square_m":134485810.289205,
     "geom:bbox":"-90.0731758986,13.9283127915,-89.9494103709,14.0853769606",
     "geom:latitude":14.011843,
     "geom:longitude":-90.01546,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Conguago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.011235,
     "lbl:longitude":-90.01546,
     "meso:admin_1":"Jutiapa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695311,
-    "wof:lastmodified":1514444434,
+    "wof:lastmodified":1553718276,
     "wof:name":"Conguago",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004133,
-    "geom:area_square_m":49566570.012946,
+    "geom:area_square_m":49566570.012969,
     "geom:bbox":"-89.8057987161,14.031841833,-89.7221674827,14.1286971707",
     "geom:latitude":14.076049,
     "geom:longitude":-89.761752,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Jerez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.07611,
     "lbl:longitude":-89.761105,
     "meso:admin_1":"Jutiapa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695371,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037529,
     "wof:name":"Jerez",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

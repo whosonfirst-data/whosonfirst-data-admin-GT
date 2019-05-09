@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003195,
-    "geom:area_square_m":38090348.528768,
+    "geom:area_square_m":38090348.528789,
     "geom:bbox":"-91.7022683355,15.3593980954,-91.6422502104,15.4653931564",
     "geom:latitude":15.40762,
     "geom:longitude":-91.671204,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Petzal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.398918,
     "lbl:longitude":-91.673706,
     "meso:admin_1":"Huehuetenango",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695593,
-    "wof:lastmodified":1514444558,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.425525,
     "geom:longitude":-91.019913,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Cotzal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.427678,
     "lbl:longitude":-91.042604,
     "meso:admin_1":"Quiche",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421200685,
-    "wof:lastmodified":1536616135,
+    "wof:lastmodified":1553717550,
     "wof:name":"San Juan Cotzal",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

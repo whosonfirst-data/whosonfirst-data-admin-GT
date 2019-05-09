@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010623,
-    "geom:area_square_m":126991316.590075,
+    "geom:area_square_m":126991316.590067,
     "geom:bbox":"-91.5883260694,14.7369239564,-91.4584166209,14.8860899644",
     "geom:latitude":14.815317,
     "geom:longitude":-91.533158,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Quetzaltenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.816622,
     "lbl:longitude":-91.539555,
     "meso:admin_1":"Quetzaltenango",
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":421171685,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037149,
     "wof:name":"Quetzaltenango",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

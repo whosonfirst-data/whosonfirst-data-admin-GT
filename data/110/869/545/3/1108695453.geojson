@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020317,
-    "geom:area_square_m":243088116.009058,
+    "geom:area_square_m":243088116.00904,
     "geom:bbox":"-89.565376933,14.5226726185,-89.3603902954,14.700457724",
     "geom:latitude":14.61704,
     "geom:longitude":-89.45725,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Quetzaltepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.617725,
     "lbl:longitude":-89.455739,
     "meso:admin_1":"Chiquimula",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695453,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037521,
     "wof:name":"Quetzaltepeque",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

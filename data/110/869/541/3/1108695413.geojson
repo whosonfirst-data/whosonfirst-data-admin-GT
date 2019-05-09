@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00715,
-    "geom:area_square_m":85541783.384128,
+    "geom:area_square_m":85541783.384135,
     "geom:bbox":"-91.7283637962,14.5455969169,-91.6502144001,14.7133287387",
     "geom:latitude":14.626496,
     "geom:longitude":-91.692162,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Nuevo San Carlos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.620773,
     "lbl:longitude":-91.692758,
     "meso:admin_1":"Retalhuleu",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108695413,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037525,
     "wof:name":"Nuevo San Carlos",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

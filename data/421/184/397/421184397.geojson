@@ -10,6 +10,12 @@
     "geom:latitude":14.760578,
     "geom:longitude":-91.390807,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Nahuala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.711471,
     "lbl:longitude":-91.447442,
     "meso:admin_1":"Solola",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421184397,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717426,
     "wof:name":"Nahuala",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

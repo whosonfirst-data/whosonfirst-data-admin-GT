@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009832,
-    "geom:area_square_m":117583377.727356,
+    "geom:area_square_m":117583377.72736,
     "geom:bbox":"-89.6762064214,14.6525559826,-89.5363556905,14.766944523",
     "geom:latitude":14.715561,
     "geom:longitude":-89.606172,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Jose La Arada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.721384,
     "lbl:longitude":-89.606176,
     "meso:admin_1":"Chiquimula",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695525,
-    "wof:lastmodified":1514444538,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Jose La Arada",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

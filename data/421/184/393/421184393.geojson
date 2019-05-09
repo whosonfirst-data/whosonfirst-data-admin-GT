@@ -10,6 +10,12 @@
     "geom:latitude":14.918702,
     "geom:longitude":-92.106364,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Malacatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.945209,
     "lbl:longitude":-92.093672,
     "meso:admin_1":"San Marcos",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421184393,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717426,
     "wof:name":"Malacatan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

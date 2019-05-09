@@ -10,6 +10,12 @@
     "geom:latitude":15.504836,
     "geom:longitude":-90.819286,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Uspantan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.610201,
     "lbl:longitude":-90.831425,
     "meso:admin_1":"Quiche",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421196545,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1553717537,
     "wof:name":"Uspantan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012154,
-    "geom:area_square_m":145869603.569456,
+    "geom:area_square_m":145869603.569436,
     "geom:bbox":"-90.2962580718,13.7823291553,-90.1592817137,14.0141203551",
     "geom:latitude":13.932887,
     "geom:longitude":-90.226091,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Pasaco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.960771,
     "lbl:longitude":-90.221402,
     "meso:admin_1":"Jutiapa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695437,
-    "wof:lastmodified":1514444494,
+    "wof:lastmodified":1553718278,
     "wof:name":"Pasaco",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

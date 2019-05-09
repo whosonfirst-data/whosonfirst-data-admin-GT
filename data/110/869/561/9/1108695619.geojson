@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016565,
-    "geom:area_square_m":198353118.260825,
+    "geom:area_square_m":198353118.260842,
     "geom:bbox":"-89.8628377539,14.3608090961,-89.6758136508,14.5142775882",
     "geom:latitude":14.440269,
     "geom:longitude":-89.771799,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Catarina Mita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.439199,
     "lbl:longitude":-89.770357,
     "meso:admin_1":"Jutiapa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695619,
-    "wof:lastmodified":1514444563,
+    "wof:lastmodified":1553718281,
     "wof:name":"Santa Catarina Mita",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

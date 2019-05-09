@@ -10,6 +10,12 @@
     "geom:latitude":15.040649,
     "geom:longitude":-91.122072,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Del Quiche Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.051113,
     "lbl:longitude":-91.125666,
     "meso:admin_1":"Quiche",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421201597,
-    "wof:lastmodified":1536616140,
+    "wof:lastmodified":1553717555,
     "wof:name":"Santa Cruz Del Quiche",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

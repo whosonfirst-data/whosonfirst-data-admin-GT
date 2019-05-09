@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091896,
-    "geom:area_square_m":1090451486.377786,
+    "geom:area_square_m":1090451486.377804,
     "geom:bbox":"-89.9536574911,16.2363006729,-89.1917339045,16.4415091579",
     "geom:latitude":16.333442,
     "geom:longitude":-89.546634,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Poptun Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.348425,
     "lbl:longitude":-89.699593,
     "meso:admin_1":"Peten",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421203225,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037052,
     "wof:name":"Poptun",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

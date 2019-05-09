@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004234,
-    "geom:area_square_m":50591869.460705,
+    "geom:area_square_m":50591869.460711,
     "geom:bbox":"-91.8896351326,14.8856149777,-91.8016618252,14.9646827419",
     "geom:latitude":14.924741,
     "geom:longitude":-91.846753,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Esquipulas Palo Gordo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.927367,
     "lbl:longitude":-91.845895,
     "meso:admin_1":"San Marcos",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695341,
-    "wof:lastmodified":1514444447,
+    "wof:lastmodified":1553718277,
     "wof:name":"Esquipulas Palo Gordo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

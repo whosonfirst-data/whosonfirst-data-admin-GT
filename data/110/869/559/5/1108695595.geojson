@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003808,
-    "geom:area_square_m":45499151.310771,
+    "geom:area_square_m":45499151.310772,
     "geom:bbox":"-91.9515086451,14.8916038576,-91.8728840825,14.9737789582",
     "geom:latitude":14.927413,
     "geom:longitude":-91.911634,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Pie De La Cuesta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.924427,
     "lbl:longitude":-91.912371,
     "meso:admin_1":"San Marcos",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695595,
-    "wof:lastmodified":1514444558,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Rafael Pie De La Cuesta",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

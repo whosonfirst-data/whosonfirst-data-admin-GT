@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005443,
-    "geom:area_square_m":64994225.475515,
+    "geom:area_square_m":64994225.47549,
     "geom:bbox":"-91.07222791,15.0286964737,-90.9702381626,15.1052933275",
     "geom:latitude":15.071392,
     "geom:longitude":-91.020153,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chinique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.068469,
     "lbl:longitude":-91.016045,
     "meso:admin_1":"Quiche",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695293,
-    "wof:lastmodified":1514444420,
+    "wof:lastmodified":1553718276,
     "wof:name":"Chinique",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

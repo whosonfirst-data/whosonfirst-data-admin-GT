@@ -10,6 +10,12 @@
     "geom:latitude":14.986756,
     "geom:longitude":-90.821739,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Joyabaj Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.994174,
     "lbl:longitude":-90.771946,
     "meso:admin_1":"Quiche",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421186001,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717445,
     "wof:name":"Joyabaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

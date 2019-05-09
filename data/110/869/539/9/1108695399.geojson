@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030559,
-    "geom:area_square_m":364845467.797746,
+    "geom:area_square_m":364845467.797765,
     "geom:bbox":"-91.5509266829,14.9686719629,-91.2852996768,15.245909609",
     "geom:latitude":15.088862,
     "geom:longitude":-91.417158,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Momostenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.081407,
     "lbl:longitude":-91.39303,
     "meso:admin_1":"Totonicapan",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695399,
-    "wof:lastmodified":1514444484,
+    "wof:lastmodified":1553718278,
     "wof:name":"Momostenango",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

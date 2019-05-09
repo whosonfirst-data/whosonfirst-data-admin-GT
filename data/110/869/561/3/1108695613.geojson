@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014933,
-    "geom:area_square_m":178782472.30416,
+    "geom:area_square_m":178782472.304155,
     "geom:bbox":"-91.3210338553,14.3622998383,-91.1834927187,14.5816260432",
     "geom:latitude":14.474739,
     "geom:longitude":-91.246831,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.473874,
     "lbl:longitude":-91.251614,
     "meso:admin_1":"Suchitepequez",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695613,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718281,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

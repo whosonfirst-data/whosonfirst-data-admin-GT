@@ -10,6 +10,12 @@
     "geom:latitude":15.752441,
     "geom:longitude":-91.731563,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Jacaltenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.760351,
     "lbl:longitude":-91.723223,
     "meso:admin_1":"Huehuetenango",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421178135,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1553717370,
     "wof:name":"Jacaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

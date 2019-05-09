@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015983,
-    "geom:area_square_m":191400195.834447,
+    "geom:area_square_m":191400195.834513,
     "geom:bbox":"-91.70131666,14.3040031666,-91.5428129518,14.6354191538",
     "geom:latitude":14.423742,
     "geom:longitude":-91.62033,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Andrez Villa Seca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.370627,
     "lbl:longitude":-91.634733,
     "meso:admin_1":"Retalhuleu",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695469,
-    "wof:lastmodified":1514444529,
+    "wof:lastmodified":1553718279,
     "wof:name":"San Andrez Villa Seca",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

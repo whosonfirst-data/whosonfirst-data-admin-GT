@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009003,
-    "geom:area_square_m":107645333.882723,
+    "geom:area_square_m":107645333.882698,
     "geom:bbox":"-90.4956747152,14.7060623852,-90.3836672692,14.826840885",
     "geom:latitude":14.772709,
     "geom:longitude":-90.441953,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Ayampuc Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.781326,
     "lbl:longitude":-90.44301,
     "meso:admin_1":"Guatemala",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1108695577,
-    "wof:lastmodified":1514444554,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

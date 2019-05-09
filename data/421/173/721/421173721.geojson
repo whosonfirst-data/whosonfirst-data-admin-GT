@@ -10,6 +10,12 @@
     "geom:latitude":15.474229,
     "geom:longitude":-91.625213,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Atitan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.481961,
     "lbl:longitude":-91.622037,
     "meso:admin_1":"Huehuetenango",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421173721,
-    "wof:lastmodified":1536615945,
+    "wof:lastmodified":1553717353,
     "wof:name":"San Juan Atitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

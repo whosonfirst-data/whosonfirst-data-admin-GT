@@ -10,6 +10,12 @@
     "geom:latitude":15.932582,
     "geom:longitude":-91.2215,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Barillas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.934126,
     "lbl:longitude":-91.218077,
     "meso:admin_1":"Huehuetenango",
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":421185569,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717440,
     "wof:name":"Barillas",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

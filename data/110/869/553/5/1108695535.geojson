@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002763,
-    "geom:area_square_m":33087495.845787,
+    "geom:area_square_m":33087495.845799,
     "geom:bbox":"-91.2440996813,14.3888448242,-91.1638782269,14.4664305639",
     "geom:latitude":14.424232,
     "geom:longitude":-91.201686,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Bautista Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.420143,
     "lbl:longitude":-91.202294,
     "meso:admin_1":"Suchitepequez",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695535,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037515,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

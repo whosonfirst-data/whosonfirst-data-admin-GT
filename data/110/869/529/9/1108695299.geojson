@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014943,
-    "geom:area_square_m":179197425.504538,
+    "geom:area_square_m":179197425.504499,
     "geom:bbox":"-89.9874626669,14.0331576342,-89.8286287229,14.2056989573",
     "geom:latitude":14.116336,
     "geom:longitude":-89.910946,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Comapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.108247,
     "lbl:longitude":-89.8989,
     "meso:admin_1":"Jutiapa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695299,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037537,
     "wof:name":"Comapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

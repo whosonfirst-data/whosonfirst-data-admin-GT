@@ -10,6 +10,12 @@
     "geom:latitude":15.215476,
     "geom:longitude":-90.038653,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Purula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.2046,
     "lbl:longitude":-90.018827,
     "meso:admin_1":"Baja Verapaz",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421203475,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1553717571,
     "wof:name":"Purula",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

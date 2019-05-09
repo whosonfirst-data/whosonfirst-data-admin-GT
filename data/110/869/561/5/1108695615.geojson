@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016797,
-    "geom:area_square_m":200383953.907046,
+    "geom:area_square_m":200383953.907032,
     "geom:bbox":"-89.9490201132,15.1606066206,-89.7444191474,15.3436309472",
     "geom:latitude":15.254347,
     "geom:longitude":-89.834111,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Catalina La Tinta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.221746,
     "lbl:longitude":-89.832578,
     "meso:admin_1":"Alta Verapaz",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108695615,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718281,
     "wof:name":"Santa Catalina La Tinta",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

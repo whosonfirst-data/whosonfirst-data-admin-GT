@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006488,
-    "geom:area_square_m":77501371.859325,
+    "geom:area_square_m":77501371.859385,
     "geom:bbox":"-91.8174981182,14.8922502692,-91.7049137593,15.0233558661",
     "geom:latitude":14.965279,
     "geom:longitude":-91.761084,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Sacatepequez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.97363,
     "lbl:longitude":-91.769583,
     "meso:admin_1":"San Marcos",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695585,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Pedro Sacatepequez",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

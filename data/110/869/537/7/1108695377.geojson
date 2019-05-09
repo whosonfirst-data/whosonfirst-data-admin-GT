@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572703,
-    "geom:area_square_m":6773696695.070316,
+    "geom:area_square_m":6773696695.072527,
     "geom:bbox":"-91.439715,16.469574,-90.0260878281,17.3121893553",
     "geom:latitude":16.956064,
     "geom:longitude":-90.639402,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "La Libertad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.946235,
     "lbl:longitude":-90.568161,
     "meso:admin_1":"Peten",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695377,
-    "wof:lastmodified":1505431500,
+    "wof:lastmodified":1553718279,
     "wof:name":"La Libertad",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

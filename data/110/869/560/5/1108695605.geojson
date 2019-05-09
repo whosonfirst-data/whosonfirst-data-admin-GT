@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035023,
-    "geom:area_square_m":418705794.200703,
+    "geom:area_square_m":418705794.200802,
     "geom:bbox":"-90.4068893262,14.6662532081,-90.0045678261,14.8870409245",
     "geom:latitude":14.794461,
     "geom:longitude":-90.189931,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Sanarate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.780916,
     "lbl:longitude":-90.176322,
     "meso:admin_1":"El Progreso",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695605,
-    "wof:lastmodified":1514444561,
+    "wof:lastmodified":1553718281,
     "wof:name":"Sanarate",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046384,
-    "geom:area_square_m":552678993.736018,
+    "geom:area_square_m":552678993.735907,
     "geom:bbox":"-91.5241134449,15.3508197173,-91.2320728859,15.6502921124",
     "geom:latitude":15.50322,
     "geom:longitude":-91.407117,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chiantla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.506472,
     "lbl:longitude":-91.421434,
     "meso:admin_1":"Huehuetenango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695289,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Chiantla",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

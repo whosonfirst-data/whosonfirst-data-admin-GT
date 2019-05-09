@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030362,
-    "geom:area_square_m":362183557.28234,
+    "geom:area_square_m":362183557.282376,
     "geom:bbox":"-92.2105,15.1603868955,-91.9594616237,15.4219599954",
     "geom:latitude":15.262944,
     "geom:longitude":-92.101204,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Tacana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.258927,
     "lbl:longitude":-92.132323,
     "meso:admin_1":"San Marcos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695659,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037509,
     "wof:name":"Tacana",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

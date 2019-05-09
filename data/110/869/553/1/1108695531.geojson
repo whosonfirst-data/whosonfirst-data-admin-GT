@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008229,
-    "geom:area_square_m":98353493.974924,
+    "geom:area_square_m":98353493.974926,
     "geom:bbox":"-90.9550313585,14.7909104961,-90.8513458979,14.9295236314",
     "geom:latitude":14.856046,
     "geom:longitude":-90.908297,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Jose Poaquil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.854959,
     "lbl:longitude":-90.911852,
     "meso:admin_1":"Chimaltenango",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695531,
-    "wof:lastmodified":1514444539,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Jose Poaquil",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

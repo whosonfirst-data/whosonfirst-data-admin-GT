@@ -10,6 +10,12 @@
     "geom:latitude":15.15151,
     "geom:longitude":-91.278477,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia La Reforma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.147281,
     "lbl:longitude":-91.272355,
     "meso:admin_1":"Totonicapan",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421195541,
-    "wof:lastmodified":1536616120,
+    "wof:lastmodified":1553717535,
     "wof:name":"Santa Lucia La Reforma",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

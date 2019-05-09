@@ -10,6 +10,12 @@
     "geom:latitude":15.452768,
     "geom:longitude":-89.401407,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Estor Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.559869,
     "lbl:longitude":-89.462188,
     "meso:admin_1":"Izabal",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421194695,
-    "wof:lastmodified":1536616116,
+    "wof:lastmodified":1553717530,
     "wof:name":"El Estor",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

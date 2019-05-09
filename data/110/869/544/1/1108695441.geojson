@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135896,
-    "geom:area_square_m":1615851690.760037,
+    "geom:area_square_m":1615851690.759675,
     "geom:bbox":"-91.1317307144,15.684202942,-90.4221436143,16.0773454677",
     "geom:latitude":15.930061,
     "geom:longitude":-90.864788,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Playa Grande Ixcan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.924833,
     "lbl:longitude":-90.89957,
     "meso:admin_1":"Quiche",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695441,
-    "wof:lastmodified":1514444507,
+    "wof:lastmodified":1553718279,
     "wof:name":"Playa Grande Ixcan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

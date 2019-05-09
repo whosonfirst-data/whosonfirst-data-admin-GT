@@ -10,6 +10,12 @@
     "geom:latitude":14.909661,
     "geom:longitude":-91.496526,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Andres Xecul Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.909073,
     "lbl:longitude":-91.496196,
     "meso:admin_1":"Totonicapan",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421184605,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1553717430,
     "wof:name":"San Andres Xecul",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

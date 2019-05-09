@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01784,
-    "geom:area_square_m":213123475.518275,
+    "geom:area_square_m":213123475.518289,
     "geom:bbox":"-89.4078017647,14.8933217121,-89.157452,15.019595709",
     "geom:latitude":14.955395,
     "geom:longitude":-89.277417,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "La Union Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.953913,
     "lbl:longitude":-89.285841,
     "meso:admin_1":"Zacapa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695381,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037528,
     "wof:name":"La Union",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

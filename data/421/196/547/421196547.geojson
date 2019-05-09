@@ -10,6 +10,12 @@
     "geom:latitude":14.519059,
     "geom:longitude":-91.349622,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chicacao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.57705,
     "lbl:longitude":-91.341773,
     "meso:admin_1":"Suchitepequez",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421196547,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1553717537,
     "wof:name":"Chicacao",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.637048,
     "geom:longitude":-90.941385,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Patzicia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.633364,
     "lbl:longitude":-90.93638,
     "meso:admin_1":"Chimaltenango",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421179197,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1553717372,
     "wof:name":"Patzicia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

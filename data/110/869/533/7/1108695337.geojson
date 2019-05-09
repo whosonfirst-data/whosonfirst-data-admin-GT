@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013944,
-    "geom:area_square_m":166660942.034293,
+    "geom:area_square_m":166660942.034333,
     "geom:bbox":"-92.0512581657,14.7698627848,-91.8274491458,14.9249528713",
     "geom:latitude":14.847709,
     "geom:longitude":-91.94561,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Tumbador Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.85472,
     "lbl:longitude":-91.953338,
     "meso:admin_1":"San Marcos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695337,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037532,
     "wof:name":"El Tumbador",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

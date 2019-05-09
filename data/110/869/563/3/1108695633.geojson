@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013923,
-    "geom:area_square_m":166935603.9364,
+    "geom:area_square_m":166935603.93635,
     "geom:bbox":"-90.3419885249,14.0536571463,-90.1655564328,14.2403915808",
     "geom:latitude":14.145109,
     "geom:longitude":-90.257612,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Ixtahuatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.140746,
     "lbl:longitude":-90.266329,
     "meso:admin_1":"Santa Rosa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695633,
-    "wof:lastmodified":1514444569,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santa Maria Ixtahuatan",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

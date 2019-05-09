@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01243,
-    "geom:area_square_m":148506410.055205,
+    "geom:area_square_m":148506410.055262,
     "geom:bbox":"-90.6521601581,14.8697793579,-90.4979868385,15.0105095419",
     "geom:latitude":14.935696,
     "geom:longitude":-90.576022,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Granados Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.93136,
     "lbl:longitude":-90.576038,
     "meso:admin_1":"Baja Verapaz",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695353,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037530,
     "wof:name":"Granados",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

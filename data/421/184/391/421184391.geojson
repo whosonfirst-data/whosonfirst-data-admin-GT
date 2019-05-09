@@ -10,6 +10,12 @@
     "geom:latitude":15.39677,
     "geom:longitude":-90.565266,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal Verapaz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.40452,
     "lbl:longitude":-90.567465,
     "meso:admin_1":"Alta Verapaz",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421184391,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717427,
     "wof:name":"San Cristobal Verapaz",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

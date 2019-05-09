@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010984,
-    "geom:area_square_m":131510329.099737,
+    "geom:area_square_m":131510329.099793,
     "geom:bbox":"-91.737521445,14.2990859107,-91.5864308872,14.6080120893",
     "geom:latitude":14.464273,
     "geom:longitude":-91.655425,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Mulua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.509518,
     "lbl:longitude":-91.637038,
     "meso:admin_1":"Retalhuleu",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695623,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santa Cruz Mulua",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

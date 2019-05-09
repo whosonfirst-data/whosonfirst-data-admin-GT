@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037467,
-    "geom:area_square_m":446510204.623016,
+    "geom:area_square_m":446510204.622925,
     "geom:bbox":"-92.0930041163,15.2973713074,-91.863495143,15.6171022326",
     "geom:latitude":15.464676,
     "geom:longitude":-91.961814,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cuilco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.49127,
     "lbl:longitude":-91.961784,
     "meso:admin_1":"Huehuetenango",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695315,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037535,
     "wof:name":"Cuilco",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

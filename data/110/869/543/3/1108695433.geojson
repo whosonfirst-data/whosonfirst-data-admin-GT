@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061615,
-    "geom:area_square_m":734842355.28791,
+    "geom:area_square_m":734842355.287991,
     "geom:bbox":"-89.8051663169,15.1170251241,-89.5109944503,15.5266962967",
     "geom:latitude":15.310254,
     "geom:longitude":-89.655943,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Panzos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.280912,
     "lbl:longitude":-89.668169,
     "meso:admin_1":"Alta Verapaz",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695433,
-    "wof:lastmodified":1514444493,
+    "wof:lastmodified":1553718278,
     "wof:name":"Panzos",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

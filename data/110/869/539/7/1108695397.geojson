@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005232,
-    "geom:area_square_m":62631743.857113,
+    "geom:area_square_m":62631743.85708,
     "geom:bbox":"-91.5603189637,14.4211604562,-91.4686141011,14.5728826912",
     "geom:latitude":14.511068,
     "geom:longitude":-91.520509,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Mazatenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.542004,
     "lbl:longitude":-91.504574,
     "meso:admin_1":"Suchitepequez",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1108695397,
-    "wof:lastmodified":1514444482,
+    "wof:lastmodified":1553718278,
     "wof:name":"Mazatenango",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

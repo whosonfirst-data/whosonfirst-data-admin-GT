@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009139,
-    "geom:area_square_m":109157093.929325,
+    "geom:area_square_m":109157093.929312,
     "geom:bbox":"-89.8694718459,14.9396632241,-89.7416421793,15.0721756141",
     "geom:latitude":14.99578,
     "geom:longitude":-89.800186,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Usumatlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.978057,
     "lbl:longitude":-89.789542,
     "meso:admin_1":"Zacapa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695677,
-    "wof:lastmodified":1514444591,
+    "wof:lastmodified":1553718282,
     "wof:name":"Usumatlan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

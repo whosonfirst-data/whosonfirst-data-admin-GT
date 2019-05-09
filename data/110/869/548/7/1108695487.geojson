@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00472,
-    "geom:area_square_m":56346412.954659,
+    "geom:area_square_m":56346412.95466,
     "geom:bbox":"-91.5186925755,15.0703835877,-91.394385874,15.1485135227",
     "geom:latitude":15.116255,
     "geom:longitude":-91.461609,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Bartolo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.115709,
     "lbl:longitude":-91.45649,
     "meso:admin_1":"Totonicapan",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108695487,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037518,
     "wof:name":"San Bartolo",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

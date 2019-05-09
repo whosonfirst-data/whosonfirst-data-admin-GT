@@ -10,6 +10,12 @@
     "geom:latitude":14.34929,
     "geom:longitude":-91.884976,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Champerico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.352477,
     "lbl:longitude":-91.876237,
     "meso:admin_1":"Retalhuleu",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421203203,
-    "wof:lastmodified":1536616150,
+    "wof:lastmodified":1553717566,
     "wof:name":"Champerico",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

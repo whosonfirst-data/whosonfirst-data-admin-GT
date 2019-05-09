@@ -10,6 +10,12 @@
     "geom:latitude":15.339859,
     "geom:longitude":-91.626097,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.3511,
     "lbl:longitude":-91.633452,
     "meso:admin_1":"Huehuetenango",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421170799,
-    "wof:lastmodified":1536615922,
+    "wof:lastmodified":1553717320,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

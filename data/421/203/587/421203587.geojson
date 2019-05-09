@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049842,
-    "geom:area_square_m":598064983.101707,
+    "geom:area_square_m":598064983.101914,
     "geom:bbox":"-90.45076329,13.7916752924,-90.2031149529,14.1908451349",
     "geom:latitude":13.973624,
     "geom:longitude":-90.334701,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chiquimulilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.954378,
     "lbl:longitude":-90.353424,
     "meso:admin_1":"Santa Rosa",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421203587,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037050,
     "wof:name":"Chiquimulilla",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

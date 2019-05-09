@@ -10,6 +10,12 @@
     "geom:latitude":16.305048,
     "geom:longitude":-90.247366,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Sayaxche Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.3108,
     "lbl:longitude":-90.226314,
     "meso:admin_1":"Peten",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421187939,
-    "wof:lastmodified":1536616044,
+    "wof:lastmodified":1553717457,
     "wof:name":"Sayaxche",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

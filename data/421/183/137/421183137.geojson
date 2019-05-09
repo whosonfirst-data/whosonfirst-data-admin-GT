@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057346,
-    "geom:area_square_m":686095630.291767,
+    "geom:area_square_m":686095630.291578,
     "geom:bbox":"-90.1923406069,14.4277442173,-89.9216331667,14.82156804",
     "geom:latitude":14.630532,
     "geom:longitude":-90.032355,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Jalapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.611219,
     "lbl:longitude":-90.041694,
     "meso:admin_1":"Jalapa",
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421183137,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1555037119,
     "wof:name":"Jalapa",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

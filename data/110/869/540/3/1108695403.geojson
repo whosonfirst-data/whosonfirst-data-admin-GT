@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029299,
-    "geom:area_square_m":350000864.917327,
+    "geom:area_square_m":350000864.917276,
     "geom:bbox":"-90.3224982069,14.8745042569,-90.011281642,15.1070077843",
     "geom:latitude":14.965759,
     "geom:longitude":-90.160835,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Morazan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.97027,
     "lbl:longitude":-90.135121,
     "meso:admin_1":"El Progreso",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695403,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037526,
     "wof:name":"Morazan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

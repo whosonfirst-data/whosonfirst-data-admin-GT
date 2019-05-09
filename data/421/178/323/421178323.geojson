@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001403,
-    "geom:area_square_m":16779306.163785,
+    "geom:area_square_m":16779306.163779,
     "geom:bbox":"-91.158311803,14.758248694,-91.106420628,14.8091427472",
     "geom:latitude":14.781245,
     "geom:longitude":-91.13459,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Concepcion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.780036,
     "lbl:longitude":-91.134191,
     "meso:admin_1":"Solola",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421178323,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1555037132,
     "wof:name":"Concepcion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

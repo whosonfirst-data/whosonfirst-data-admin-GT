@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009472,
-    "geom:area_square_m":113293375.200283,
+    "geom:area_square_m":113293375.200284,
     "geom:bbox":"-89.3842508699,14.6434597741,-89.2315428962,14.7512404868",
     "geom:latitude":14.699579,
     "geom:longitude":-89.315845,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Olopa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.6911,
     "lbl:longitude":-89.327332,
     "meso:admin_1":"Chiquimula",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695419,
-    "wof:lastmodified":1514444490,
+    "wof:lastmodified":1553718278,
     "wof:name":"Olopa",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

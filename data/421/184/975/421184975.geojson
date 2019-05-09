@@ -10,6 +10,12 @@
     "geom:latitude":14.924857,
     "geom:longitude":-91.470028,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal Totonicapan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.91323,
     "lbl:longitude":-91.459239,
     "meso:admin_1":"Totonicapan",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421184975,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1553717433,
     "wof:name":"San Cristobal Totonicapan",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

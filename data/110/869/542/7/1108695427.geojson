@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018577,
-    "geom:area_square_m":222227118.532895,
+    "geom:area_square_m":222227118.532959,
     "geom:bbox":"-90.4153972102,14.5957951747,-90.2155022791,14.7589605395",
     "geom:latitude":14.667335,
     "geom:longitude":-90.3206,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Palencia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.6594,
     "lbl:longitude":-90.329,
     "meso:admin_1":"Guatemala",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695427,
-    "wof:lastmodified":1514444492,
+    "wof:lastmodified":1553718278,
     "wof:name":"Palencia",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

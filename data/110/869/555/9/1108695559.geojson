@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00091,
-    "geom:area_square_m":10881545.484958,
+    "geom:area_square_m":10881545.484951,
     "geom:bbox":"-91.6018039655,14.8190065306,-91.5715707401,14.871014159",
     "geom:latitude":14.845513,
     "geom:longitude":-91.58553,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Mateo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.84809,
     "lbl:longitude":-91.585759,
     "meso:admin_1":"Quetzaltenango",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695559,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037514,
     "wof:name":"San Mateo",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

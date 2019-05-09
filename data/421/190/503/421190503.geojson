@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012473,
-    "geom:area_square_m":149093057.228611,
+    "geom:area_square_m":149093057.228621,
     "geom:bbox":"-91.2637848679,14.737214649,-91.0991388388,14.8969217473",
     "geom:latitude":14.823345,
     "geom:longitude":-91.180381,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Solola Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.827736,
     "lbl:longitude":-91.186055,
     "meso:admin_1":"Solola",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421190503,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1555037082,
     "wof:name":"Solola",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020911,
-    "geom:area_square_m":249692040.038275,
+    "geom:area_square_m":249692040.038265,
     "geom:bbox":"-92.0871982495,14.97574062,-91.8684909393,15.1444506426",
     "geom:latitude":15.06121,
     "geom:longitude":-91.970883,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Tajumulco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.062429,
     "lbl:longitude":-91.951072,
     "meso:admin_1":"San Marcos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695661,
-    "wof:lastmodified":1514444584,
+    "wof:lastmodified":1553718282,
     "wof:name":"Tajumulco",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

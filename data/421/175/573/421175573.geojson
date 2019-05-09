@@ -10,6 +10,12 @@
     "geom:latitude":15.069352,
     "geom:longitude":-90.286863,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Salama Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.154415,
     "lbl:longitude":-90.27168,
     "meso:admin_1":"Baja Verapaz",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421175573,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1553717362,
     "wof:name":"Salama",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

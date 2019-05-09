@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00491,
-    "geom:area_square_m":58812955.403814,
+    "geom:area_square_m":58812955.403832,
     "geom:bbox":"-90.4246630379,14.332674629,-90.3313044515,14.4359697838",
     "geom:latitude":14.381799,
     "geom:longitude":-90.375864,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Naranjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.390307,
     "lbl:longitude":-90.37515,
     "meso:admin_1":"Santa Rosa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695625,
-    "wof:lastmodified":1514444565,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

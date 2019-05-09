@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038228,
-    "geom:area_square_m":456378766.591775,
+    "geom:area_square_m":456378766.591786,
     "geom:bbox":"-89.7577748094,14.9873757818,-89.4381457391,15.1966506344",
     "geom:latitude":15.098303,
     "geom:longitude":-89.600178,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Rio Hondo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.101633,
     "lbl:longitude":-89.597806,
     "meso:admin_1":"Zacapa",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421182433,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1555037120,
     "wof:name":"Rio Hondo",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003938,
-    "geom:area_square_m":47107410.803775,
+    "geom:area_square_m":47107410.803757,
     "geom:bbox":"-90.870254687,14.6279971909,-90.7726545774,14.7443004441",
     "geom:latitude":14.683237,
     "geom:longitude":-90.824937,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chimaltenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.672971,
     "lbl:longitude":-90.836282,
     "meso:admin_1":"Chimaltenango",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":421172513,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1555037141,
     "wof:name":"Chimaltenango",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

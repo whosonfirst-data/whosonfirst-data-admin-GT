@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024344,
-    "geom:area_square_m":291790083.315119,
+    "geom:area_square_m":291790083.315157,
     "geom:bbox":"-91.6658084991,14.0613489855,-91.4853791866,14.4957154462",
     "geom:latitude":14.219636,
     "geom:longitude":-91.556636,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.19087,
     "lbl:longitude":-91.547753,
     "meso:admin_1":"Suchitepequez",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108695543,
-    "wof:lastmodified":1505431501,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

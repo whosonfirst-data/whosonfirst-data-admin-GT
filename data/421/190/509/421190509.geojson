@@ -10,6 +10,12 @@
     "geom:latitude":14.594755,
     "geom:longitude":-91.145722,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Lucas Toliman Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.601867,
     "lbl:longitude":-91.148501,
     "meso:admin_1":"Solola",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421190509,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1553717490,
     "wof:name":"San Lucas Toliman",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

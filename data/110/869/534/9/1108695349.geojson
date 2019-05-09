@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102619,
-    "geom:area_square_m":1220547957.17086,
+    "geom:area_square_m":1220547957.170843,
     "geom:bbox":"-90.0125972544,15.716936529,-89.4919883084,16.0528402258",
     "geom:latitude":15.868066,
     "geom:longitude":-89.736624,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Fray Bartolome de las Casas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.82649,
     "lbl:longitude":-89.754468,
     "meso:admin_1":"Alta Verapaz",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695349,
-    "wof:lastmodified":1514444450,
+    "wof:lastmodified":1555092027,
     "wof:name":"Fray Bartolome De Las Casas",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

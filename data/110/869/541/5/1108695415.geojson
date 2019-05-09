@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012766,
-    "geom:area_square_m":152787809.0014,
+    "geom:area_square_m":152787809.001459,
     "geom:bbox":"-92.231153152,14.4899572676,-92.0500382982,14.6166490801",
     "geom:latitude":14.554534,
     "geom:longitude":-92.14095,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Ocos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.5557,
     "lbl:longitude":-92.142297,
     "meso:admin_1":"San Marcos",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695415,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037524,
     "wof:name":"Ocos",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

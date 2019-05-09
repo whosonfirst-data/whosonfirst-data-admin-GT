@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028593,
-    "geom:area_square_m":342476662.920408,
+    "geom:area_square_m":342476662.920359,
     "geom:bbox":"-91.2761550308,14.1988294004,-91.0891618784,14.5723945707",
     "geom:latitude":14.379857,
     "geom:longitude":-91.175952,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Patulul Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.344596,
     "lbl:longitude":-91.18372,
     "meso:admin_1":"Suchitepequez",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695439,
-    "wof:lastmodified":1514444495,
+    "wof:lastmodified":1553718278,
     "wof:name":"Patulul",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

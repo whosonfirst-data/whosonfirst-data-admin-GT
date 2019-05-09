@@ -10,6 +10,12 @@
     "geom:latitude":14.815605,
     "geom:longitude":-91.439086,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cantel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.814481,
     "lbl:longitude":-91.435085,
     "meso:admin_1":"Quetzaltenango",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421195013,
-    "wof:lastmodified":1536616119,
+    "wof:lastmodified":1553717533,
     "wof:name":"Cantel",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

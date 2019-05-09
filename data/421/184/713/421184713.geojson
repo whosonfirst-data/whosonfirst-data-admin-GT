@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035727,
-    "geom:area_square_m":426683191.180162,
+    "geom:area_square_m":426683191.180081,
     "geom:bbox":"-90.0915323434,14.8801846179,-89.8610593506,15.1547971067",
     "geom:latitude":15.020228,
     "geom:longitude":-89.985401,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Agustin Acasaguastlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.002143,
     "lbl:longitude":-89.99324,
     "meso:admin_1":"El Progreso",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421184713,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1555037110,
     "wof:name":"San Agustin Acasaguastlan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

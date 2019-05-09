@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02362,
-    "geom:area_square_m":282894074.50441,
+    "geom:area_square_m":282894074.504424,
     "geom:bbox":"-90.6151562685,14.2490844344,-90.4570280299,14.5656253581",
     "geom:latitude":14.392358,
     "geom:longitude":-90.532181,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Villa Canales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.344076,
     "lbl:longitude":-90.55074,
     "meso:admin_1":"Guatemala",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108695679,
-    "wof:lastmodified":1514444591,
+    "wof:lastmodified":1553718282,
     "wof:name":"Villa Canales",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

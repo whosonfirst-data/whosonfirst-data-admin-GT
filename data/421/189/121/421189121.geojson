@@ -10,6 +10,12 @@
     "geom:latitude":14.475958,
     "geom:longitude":-90.698746,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria De Jesus Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.476544,
     "lbl:longitude":-90.703405,
     "meso:admin_1":"Sacatepequez",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":421189121,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1553717484,
     "wof:name":"Santa Maria De Jesus",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

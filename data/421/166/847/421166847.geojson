@@ -10,6 +10,12 @@
     "geom:latitude":14.653473,
     "geom:longitude":-91.276127,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro La Laguna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.652882,
     "lbl:longitude":-91.264393,
     "meso:admin_1":"Solola",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421166847,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1553717299,
     "wof:name":"San Pedro La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008199,
-    "geom:area_square_m":98168268.142704,
+    "geom:area_square_m":98168268.142717,
     "geom:bbox":"-90.6732603223,14.3814891227,-90.545250454,14.5291835397",
     "geom:latitude":14.453935,
     "geom:longitude":-90.610687,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Amatitlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.456271,
     "lbl:longitude":-90.611681,
     "meso:admin_1":"Guatemala",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1108695261,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037540,
     "wof:name":"Amatitlan",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

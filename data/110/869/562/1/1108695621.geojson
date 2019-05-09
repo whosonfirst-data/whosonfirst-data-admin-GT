@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005758,
-    "geom:area_square_m":68912803.562318,
+    "geom:area_square_m":68912803.562333,
     "geom:bbox":"-90.5295040455,14.5193367535,-90.4098445837,14.6180878992",
     "geom:latitude":14.565438,
     "geom:longitude":-90.464468,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Catarina Pinula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.559179,
     "lbl:longitude":-90.463584,
     "meso:admin_1":"Guatemala",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695621,
-    "wof:lastmodified":1514444564,
+    "wof:lastmodified":1553718281,
     "wof:name":"Santa Catarina Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

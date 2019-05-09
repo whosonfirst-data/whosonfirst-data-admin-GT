@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043946,
-    "geom:area_square_m":523410262.490264,
+    "geom:area_square_m":523410262.49041,
     "geom:bbox":"-91.1253101788,15.4419538825,-90.8611680269,15.7866285754",
     "geom:latitude":15.589984,
     "geom:longitude":-90.991821,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chajul Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.573183,
     "lbl:longitude":-90.96778,
     "meso:admin_1":"Quiche",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695287,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Chajul",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

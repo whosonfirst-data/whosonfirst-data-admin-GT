@@ -10,6 +10,12 @@
     "geom:latitude":15.579459,
     "geom:longitude":-90.153023,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Carcha Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.58919,
     "lbl:longitude":-90.192354,
     "meso:admin_1":"Alta Verapaz",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421184389,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717426,
     "wof:name":"San Pedro Carcha",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

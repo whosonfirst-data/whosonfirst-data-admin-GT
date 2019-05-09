@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009071,
-    "geom:area_square_m":108445908.647289,
+    "geom:area_square_m":108445908.647284,
     "geom:bbox":"-89.8274565363,14.7390068456,-89.7028803088,14.8495375587",
     "geom:latitude":14.797226,
     "geom:longitude":-89.760249,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Diego Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.795077,
     "lbl:longitude":-89.755219,
     "meso:admin_1":"Zacapa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695499,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037517,
     "wof:name":"San Diego",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002968,
-    "geom:area_square_m":35528375.390781,
+    "geom:area_square_m":35528375.390796,
     "geom:bbox":"-90.8189894916,14.4641788595,-90.7434786332,14.5474176411",
     "geom:latitude":14.507917,
     "geom:longitude":-90.771626,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Ciudad Vieja Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.507123,
     "lbl:longitude":-90.76848,
     "meso:admin_1":"Sacatepequez",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421171693,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037148,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

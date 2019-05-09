@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016472,
-    "geom:area_square_m":196501108.461999,
+    "geom:area_square_m":196501108.461945,
     "geom:bbox":"-91.8340415031,15.1899069078,-91.632245944,15.3514826956",
     "geom:latitude":15.26251,
     "geom:longitude":-91.734561,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Ixtahuacan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.271376,
     "lbl:longitude":-91.726132,
     "meso:admin_1":"San Marcos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695565,
-    "wof:lastmodified":1514444553,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Miguel Ixtahuacan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

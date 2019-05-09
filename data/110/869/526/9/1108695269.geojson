@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010183,
-    "geom:area_square_m":121777324.097176,
+    "geom:area_square_m":121777324.09696,
     "geom:bbox":"-92.18258,14.6046238818,-92.0719388469,14.8097870888",
     "geom:latitude":14.730178,
     "geom:longitude":-92.129745,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Ayutla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.766923,
     "lbl:longitude":-92.12976,
     "meso:admin_1":"San Marcos",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695269,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037539,
     "wof:name":"Ayutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

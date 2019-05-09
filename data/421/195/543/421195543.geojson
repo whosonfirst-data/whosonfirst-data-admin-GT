@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011206,
-    "geom:area_square_m":134233072.455857,
+    "geom:area_square_m":134233072.45587,
     "geom:bbox":"-90.3406814279,14.3000511002,-90.2139472536,14.478544389",
     "geom:latitude":14.371642,
     "geom:longitude":-90.272281,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Nueva Santa Rosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.350201,
     "lbl:longitude":-90.266045,
     "meso:admin_1":"Santa Rosa",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421195543,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1555037066,
     "wof:name":"Nueva Santa Rosa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

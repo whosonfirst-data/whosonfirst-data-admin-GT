@@ -10,6 +10,12 @@
     "geom:latitude":14.971729,
     "geom:longitude":-91.194158,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Patzite Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.971166,
     "lbl:longitude":-91.195093,
     "meso:admin_1":"Quiche",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421196995,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1553717538,
     "wof:name":"Patzite",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

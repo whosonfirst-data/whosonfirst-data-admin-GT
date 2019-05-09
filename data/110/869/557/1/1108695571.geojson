@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002103,
-    "geom:area_square_m":25166864.705851,
+    "geom:area_square_m":25166864.705853,
     "geom:bbox":"-91.4591319628,14.5623763076,-91.3949475193,14.6283482645",
     "geom:latitude":14.591667,
     "geom:longitude":-91.429954,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pablo Jocopitas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.590344,
     "lbl:longitude":-91.43045,
     "meso:admin_1":"Suchitepequez",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695571,
-    "wof:lastmodified":1514444554,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Pablo Jocopitas",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001519,
-    "geom:area_square_m":18149067.995202,
+    "geom:area_square_m":18149067.995216,
     "geom:bbox":"-91.6285207783,14.8776077454,-91.5732264753,14.9231061519",
     "geom:latitude":14.902749,
     "geom:longitude":-91.602011,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Siguila Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.900898,
     "lbl:longitude":-91.605315,
     "meso:admin_1":"Quetzaltenango",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695569,
-    "wof:lastmodified":1514444553,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Miguel Siguila",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

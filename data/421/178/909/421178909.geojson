@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043987,
-    "geom:area_square_m":527474367.096977,
+    "geom:area_square_m":527474367.096601,
     "geom:bbox":"-91.4346324295,13.9529114061,-91.1698717782,14.3077487498",
     "geom:latitude":14.121722,
     "geom:longitude":-91.300859,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Nueva Concepcion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.118442,
     "lbl:longitude":-91.291937,
     "meso:admin_1":"Escuintla",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421178909,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1555037131,
     "wof:name":"Nueva Concepcion",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

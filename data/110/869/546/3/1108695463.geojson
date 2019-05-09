@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014256,
-    "geom:area_square_m":170078114.938698,
+    "geom:area_square_m":170078114.938837,
     "geom:bbox":"-91.011036919,15.1022595503,-90.8865044329,15.3439234202",
     "geom:latitude":15.244158,
     "geom:longitude":-90.939833,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Andres Sajcabaja Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.236694,
     "lbl:longitude":-90.920039,
     "meso:admin_1":"Quiche",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695463,
-    "wof:lastmodified":1514444528,
+    "wof:lastmodified":1553718279,
     "wof:name":"San Andres Sajcabaja",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

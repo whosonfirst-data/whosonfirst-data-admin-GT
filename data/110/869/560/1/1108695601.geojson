@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010063,
-    "geom:area_square_m":120410895.28423,
+    "geom:area_square_m":120410895.284253,
     "geom:bbox":"-91.2969478604,14.5313148776,-91.1557194015,14.6758191009",
     "geom:latitude":14.605288,
     "geom:longitude":-91.227355,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Tiago Atitlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.606054,
     "lbl:longitude":-91.220465,
     "meso:admin_1":"Solola",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108695601,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037512,
     "wof:name":"San Tiago Atitlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

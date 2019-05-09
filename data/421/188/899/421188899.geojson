@@ -10,6 +10,12 @@
     "geom:latitude":14.5979,
     "geom:longitude":-90.647618,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Lucas Sacatepequez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.600095,
     "lbl:longitude":-90.652657,
     "meso:admin_1":"Sacatepequez",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421188899,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1553717480,
     "wof:name":"San Lucas Sacatepequez",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

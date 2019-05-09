@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035221,
-    "geom:area_square_m":421376574.738192,
+    "geom:area_square_m":421376574.738263,
     "geom:bbox":"-92.1414457164,14.5311552983,-91.8049817203,14.7313094031",
     "geom:latitude":14.640872,
     "geom:longitude":-91.97894,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Coatepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.637968,
     "lbl:longitude":-91.981533,
     "meso:admin_1":"Quetzaltenango",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108695297,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037537,
     "wof:name":"Coatepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

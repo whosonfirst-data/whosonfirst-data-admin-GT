@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002087,
-    "geom:area_square_m":24958171.197148,
+    "geom:area_square_m":24958171.197147,
     "geom:bbox":"-90.7345067419,14.6580666105,-90.6706969332,14.7056806292",
     "geom:latitude":14.679846,
     "geom:longitude":-90.701416,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Xenacoj Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.67776,
     "lbl:longitude":-90.697627,
     "meso:admin_1":"Sacatepequez",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695641,
-    "wof:lastmodified":1514444574,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santo Domingo Xenacoj",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

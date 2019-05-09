@@ -10,6 +10,12 @@
     "geom:latitude":13.958653,
     "geom:longitude":-90.883222,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Jose Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.95966,
     "lbl:longitude":-90.883349,
     "meso:admin_1":"Escuintla",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421202281,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1553717560,
     "wof:name":"San Jose",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

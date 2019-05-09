@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010445,
-    "geom:area_square_m":124313656.477052,
+    "geom:area_square_m":124313656.476969,
     "geom:bbox":"-91.7288069225,15.6701161617,-91.5304320358,15.8285232243",
     "geom:latitude":15.745552,
     "geom:longitude":-91.625545,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Acatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.749705,
     "lbl:longitude":-91.623968,
     "meso:admin_1":"Huehuetenango",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108695561,
-    "wof:lastmodified":1505431501,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Miguel Acatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

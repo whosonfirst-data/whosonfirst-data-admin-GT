@@ -10,6 +10,12 @@
     "geom:latitude":14.80128,
     "geom:longitude":-89.578083,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chiquimula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.804496,
     "lbl:longitude":-89.553223,
     "meso:admin_1":"Chiquimula",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421204021,
-    "wof:lastmodified":1536616161,
+    "wof:lastmodified":1553717576,
     "wof:name":"Chiquimula",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

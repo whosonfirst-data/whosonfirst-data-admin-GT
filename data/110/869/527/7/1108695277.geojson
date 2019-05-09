@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00173,
-    "geom:area_square_m":20674453.182271,
+    "geom:area_square_m":20674453.182265,
     "geom:bbox":"-91.6457793474,14.9159675327,-91.5741518157,14.9576368356",
     "geom:latitude":14.935333,
     "geom:longitude":-91.613071,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cajola Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.934654,
     "lbl:longitude":-91.616596,
     "meso:admin_1":"Quetzaltenango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695277,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Cajola",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

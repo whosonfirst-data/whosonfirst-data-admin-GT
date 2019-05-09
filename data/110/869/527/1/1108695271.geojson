@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01892,
-    "geom:area_square_m":226699278.149749,
+    "geom:area_square_m":226699278.149792,
     "geom:bbox":"-90.5136138158,14.1933084599,-90.3224005626,14.414458637",
     "geom:latitude":14.304947,
     "geom:longitude":-90.414512,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Barberena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.293625,
     "lbl:longitude":-90.398546,
     "meso:admin_1":"Santa Rosa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695271,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037538,
     "wof:name":"Barberena",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

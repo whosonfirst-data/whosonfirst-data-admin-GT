@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
-    "geom:area_square_m":16860667.066573,
+    "geom:area_square_m":16860667.066559,
     "geom:bbox":"-91.5560827413,14.629250745,-91.512122549,14.6824907866",
     "geom:latitude":14.656767,
     "geom:longitude":-91.534217,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Nuevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.659182,
     "lbl:longitude":-91.531598,
     "meso:admin_1":"Suchitepequez",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695445,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037522,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

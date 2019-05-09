@@ -10,6 +10,12 @@
     "geom:latitude":15.891763,
     "geom:longitude":-90.222195,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chisec Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.901587,
     "lbl:longitude":-90.274799,
     "meso:admin_1":"Alta Verapaz",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421204557,
-    "wof:lastmodified":1536616166,
+    "wof:lastmodified":1553717583,
     "wof:name":"Chisec",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

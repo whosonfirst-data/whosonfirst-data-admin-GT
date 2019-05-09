@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003795,
-    "geom:area_square_m":45197085.143953,
+    "geom:area_square_m":45197085.143958,
     "geom:bbox":"-91.7835526643,15.552489972,-91.6885768042,15.620361907",
     "geom:latitude":15.588706,
     "geom:longitude":-91.736801,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Union Cantinil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.585864,
     "lbl:longitude":-91.735919,
     "meso:admin_1":"Huehuetenango",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1108695675,
-    "wof:lastmodified":1505431502,
+    "wof:lastmodified":1553718282,
     "wof:name":"Union Cantinil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

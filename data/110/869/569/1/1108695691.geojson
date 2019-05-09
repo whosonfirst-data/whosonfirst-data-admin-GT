@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":12995397.972586,
+    "geom:area_square_m":12995397.972571,
     "geom:bbox":"-91.5157292366,14.5985215498,-91.4802254326,14.664268038",
     "geom:latitude":14.631439,
     "geom:longitude":-91.497035,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Zunilito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.633139,
     "lbl:longitude":-91.497304,
     "meso:admin_1":"Suchitepequez",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695691,
-    "wof:lastmodified":1514444598,
+    "wof:lastmodified":1553718283,
     "wof:name":"Zunilito",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

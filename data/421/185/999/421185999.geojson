@@ -10,6 +10,12 @@
     "geom:latitude":14.46936,
     "geom:longitude":-90.441676,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Fraijanes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.473928,
     "lbl:longitude":-90.445837,
     "meso:admin_1":"Guatemala",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421185999,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717445,
     "wof:name":"Fraijanes",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.77954,
     "geom:longitude":-91.275243,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia Utatlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.781669,
     "lbl:longitude":-91.270514,
     "meso:admin_1":"Solola",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421170143,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1553717311,
     "wof:name":"Santa Lucia Utatlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

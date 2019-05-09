@@ -10,6 +10,12 @@
     "geom:latitude":14.666464,
     "geom:longitude":-91.314279,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan La Laguna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.669547,
     "lbl:longitude":-91.308425,
     "meso:admin_1":"Solola",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421171697,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1553717331,
     "wof:name":"San Juan La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

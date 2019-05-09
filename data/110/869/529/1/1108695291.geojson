@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048465,
-    "geom:area_square_m":577728643.186273,
+    "geom:area_square_m":577728643.186387,
     "geom:bbox":"-90.8643071302,15.2089015916,-90.4778986059,15.5927865232",
     "geom:latitude":15.413634,
     "geom:longitude":-90.676824,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chicaman Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.506619,
     "lbl:longitude":-90.695868,
     "meso:admin_1":"Quiche",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108695291,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Chicaman",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

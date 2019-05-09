@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020214,
-    "geom:area_square_m":241546234.964647,
+    "geom:area_square_m":241546234.964656,
     "geom:bbox":"-91.4462259871,14.823753928,-91.1790018966,14.9615188246",
     "geom:latitude":14.897033,
     "geom:longitude":-91.321388,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Totonicapan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.903182,
     "lbl:longitude":-91.36388,
     "meso:admin_1":"Totonicapan",
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421204771,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037048,
     "wof:name":"Totonicapan",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

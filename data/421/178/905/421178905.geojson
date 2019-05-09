@@ -10,6 +10,12 @@
     "geom:latitude":14.509277,
     "geom:longitude":-90.554064,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Petapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.514327,
     "lbl:longitude":-90.555767,
     "meso:admin_1":"Guatemala",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421178905,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717372,
     "wof:name":"Petapa",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013564,
-    "geom:area_square_m":162466705.543879,
+    "geom:area_square_m":162466705.543912,
     "geom:bbox":"-91.4255558182,14.2886408382,-91.2480423337,14.4804596285",
     "geom:latitude":14.376477,
     "geom:longitude":-91.333541,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Rio Bravo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.372793,
     "lbl:longitude":-91.334898,
     "meso:admin_1":"Suchitepequez",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695459,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037520,
     "wof:name":"Rio Bravo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

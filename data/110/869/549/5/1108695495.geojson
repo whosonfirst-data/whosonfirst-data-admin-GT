@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013976,
-    "geom:area_square_m":166927672.679103,
+    "geom:area_square_m":166927672.679171,
     "geom:bbox":"-89.9306328188,14.9140468315,-89.7896644846,15.097046349",
     "geom:latitude":15.004296,
     "geom:longitude":-89.873398,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Cristobal Acasaguastlan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.971994,
     "lbl:longitude":-89.884065,
     "meso:admin_1":"El Progreso",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108695495,
-    "wof:lastmodified":1514444534,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Cristobal Acasaguastlan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

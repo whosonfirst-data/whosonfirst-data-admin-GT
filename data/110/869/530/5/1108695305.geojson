@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":22381076.91609,
+    "geom:area_square_m":22381076.916087,
     "geom:bbox":"-91.6530332719,14.819770727,-91.5865967076,14.8683152671",
     "geom:latitude":14.843836,
     "geom:longitude":-91.620209,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Concepcion Chiquirichapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.841061,
     "lbl:longitude":-91.619721,
     "meso:admin_1":"Quetzaltenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695305,
-    "wof:lastmodified":1514444433,
+    "wof:lastmodified":1553718276,
     "wof:name":"Concepcion Chiquirichapa",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

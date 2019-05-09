@@ -10,6 +10,12 @@
     "geom:latitude":15.146919,
     "geom:longitude":-89.302081,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Gualan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.149321,
     "lbl:longitude":-89.31505,
     "meso:admin_1":"Zacapa",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421166783,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1553717298,
     "wof:name":"Gualan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

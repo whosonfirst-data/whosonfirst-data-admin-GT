@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001748,
-    "geom:area_square_m":20907185.356169,
+    "geom:area_square_m":20907185.356151,
     "geom:bbox":"-91.3553568304,14.6609945742,-91.3063362526,14.741829965",
     "geom:latitude":14.702956,
     "geom:longitude":-91.331475,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Visitacion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.720987,
     "lbl:longitude":-91.323676,
     "meso:admin_1":"Solola",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695635,
-    "wof:lastmodified":1514444569,
+    "wof:lastmodified":1553718282,
     "wof:name":"Santa Maria Visitacion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

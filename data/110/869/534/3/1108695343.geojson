@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007741,
-    "geom:area_square_m":92461131.255959,
+    "geom:area_square_m":92461131.255987,
     "geom:bbox":"-89.6675955146,14.9261673206,-89.5499936144,15.0399535726",
     "geom:latitude":14.983004,
     "geom:longitude":-89.60816,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Estanzuela Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.983381,
     "lbl:longitude":-89.602394,
     "meso:admin_1":"Zacapa",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695343,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037531,
     "wof:name":"Estanzuela",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01662,
-    "geom:area_square_m":199067093.638462,
+    "geom:area_square_m":199067093.638435,
     "geom:bbox":"-90.2685755777,14.2925830408,-90.0576325134,14.4859241619",
     "geom:latitude":14.390237,
     "geom:longitude":-90.164812,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Casillas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.374234,
     "lbl:longitude":-90.175188,
     "meso:admin_1":"Santa Rosa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695281,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Casillas",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

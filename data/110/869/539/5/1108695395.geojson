@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040018,
-    "geom:area_square_m":479943273.004052,
+    "geom:area_square_m":479943273.004013,
     "geom:bbox":"-90.9249386889,13.9505833852,-90.7000927604,14.2486073342",
     "geom:latitude":14.087242,
     "geom:longitude":-90.809297,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Masagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.082488,
     "lbl:longitude":-90.82271,
     "meso:admin_1":"Escuintla",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695395,
-    "wof:lastmodified":1514444481,
+    "wof:lastmodified":1553718278,
     "wof:name":"Masagua",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

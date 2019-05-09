@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058103,
-    "geom:area_square_m":693472461.052003,
+    "geom:area_square_m":693472461.052071,
     "geom:bbox":"-90.8155585362,14.9565893248,-90.5463403107,15.350618754",
     "geom:latitude":15.155402,
     "geom:longitude":-90.670606,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cubulco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.15801,
     "lbl:longitude":-90.683865,
     "meso:admin_1":"Baja Verapaz",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695313,
-    "wof:lastmodified":1514444434,
+    "wof:lastmodified":1553718276,
     "wof:name":"Cubulco",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

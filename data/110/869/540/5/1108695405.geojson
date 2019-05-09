@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034412,
-    "geom:area_square_m":413037224.717337,
+    "geom:area_square_m":413037224.717318,
     "geom:bbox":"-90.2193334838,13.740028,-90.027685,14.0809618814",
     "geom:latitude":13.910316,
     "geom:longitude":-90.125254,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Moyuta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.91711,
     "lbl:longitude":-90.126659,
     "meso:admin_1":"Jutiapa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695405,
-    "wof:lastmodified":1514444488,
+    "wof:lastmodified":1553718278,
     "wof:name":"Moyuta",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

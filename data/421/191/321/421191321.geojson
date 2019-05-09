@@ -10,6 +10,12 @@
     "geom:latitude":15.012619,
     "geom:longitude":-91.316572,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Chiquimula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.001448,
     "lbl:longitude":-91.324625,
     "meso:admin_1":"Totonicapan",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421191321,
-    "wof:lastmodified":1536616089,
+    "wof:lastmodified":1553717501,
     "wof:name":"Santa Maria Chiquimula",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

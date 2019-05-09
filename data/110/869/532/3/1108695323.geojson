@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010093,
-    "geom:area_square_m":120578415.581168,
+    "geom:area_square_m":120578415.581243,
     "geom:bbox":"-90.5507775749,14.8794947626,-90.4319537344,15.0216316973",
     "geom:latitude":14.954657,
     "geom:longitude":-90.487955,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Chol Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.971185,
     "lbl:longitude":-90.486824,
     "meso:admin_1":"Baja Verapaz",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108695323,
-    "wof:lastmodified":1514444437,
+    "wof:lastmodified":1553718276,
     "wof:name":"El Chol",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

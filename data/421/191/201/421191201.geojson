@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017798,
-    "geom:area_square_m":213310100.220727,
+    "geom:area_square_m":213310100.220751,
     "geom:bbox":"-90.403148569,14.1627491138,-90.193627952,14.3336031878",
     "geom:latitude":14.249581,
     "geom:longitude":-90.28395,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Cuilapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.270795,
     "lbl:longitude":-90.291134,
     "meso:admin_1":"Santa Rosa",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":421191201,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1555037080,
     "wof:name":"Cuilapa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

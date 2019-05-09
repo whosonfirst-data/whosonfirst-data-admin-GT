@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006402,
-    "geom:area_square_m":76270675.498365,
+    "geom:area_square_m":76270675.498377,
     "geom:bbox":"-91.8018973124,15.4768059668,-91.705041572,15.5831379728",
     "geom:latitude":15.527321,
     "geom:longitude":-91.755385,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Necta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.522227,
     "lbl:longitude":-91.754446,
     "meso:admin_1":"Huehuetenango",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695581,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037513,
     "wof:name":"San Pedro Necta",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

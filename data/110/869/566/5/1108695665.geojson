@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006027,
-    "geom:area_square_m":71882297.371499,
+    "geom:area_square_m":71882297.37149,
     "geom:bbox":"-90.2961796443,15.2609046856,-90.1960864426,15.3532568901",
     "geom:latitude":15.303132,
     "geom:longitude":-90.242693,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Tamahu Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.302437,
     "lbl:longitude":-90.24363,
     "meso:admin_1":"Alta Verapaz",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695665,
-    "wof:lastmodified":1514444584,
+    "wof:lastmodified":1553718282,
     "wof:name":"Tamahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

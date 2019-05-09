@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065512,
-    "geom:area_square_m":785879702.07713,
+    "geom:area_square_m":785879702.077057,
     "geom:bbox":"-91.3154677845,13.913027763,-90.9674712397,14.1940808823",
     "geom:latitude":14.03828,
     "geom:longitude":-91.124216,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "La Gomera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.032413,
     "lbl:longitude":-91.127557,
     "meso:admin_1":"Escuintla",
@@ -244,7 +250,7 @@
         }
     ],
     "wof:id":421171417,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037150,
     "wof:name":"La Gomera",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

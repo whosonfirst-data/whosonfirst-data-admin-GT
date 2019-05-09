@@ -10,6 +10,12 @@
     "geom:latitude":15.02505,
     "geom:longitude":-91.744629,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.024598,
     "lbl:longitude":-91.743917,
     "meso:admin_1":"San Marcos",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421170801,
-    "wof:lastmodified":1536615922,
+    "wof:lastmodified":1553717321,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

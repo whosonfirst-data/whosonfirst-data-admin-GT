@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019536,
-    "geom:area_square_m":233490078.640347,
+    "geom:area_square_m":233490078.640229,
     "geom:bbox":"-89.3827459169,14.7805629677,-89.1782661493,14.952305439",
     "geom:latitude":14.854315,
     "geom:longitude":-89.282532,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Camotan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.843316,
     "lbl:longitude":-89.282613,
     "meso:admin_1":"Chiquimula",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695279,
-    "wof:lastmodified":1505431499,
+    "wof:lastmodified":1553718276,
     "wof:name":"Camotan",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

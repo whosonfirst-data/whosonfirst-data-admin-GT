@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017356,
-    "geom:area_square_m":206935948.939507,
+    "geom:area_square_m":206935948.939587,
     "geom:bbox":"-92.1158946741,15.2648349767,-91.9736128251,15.4609776013",
     "geom:latitude":15.364726,
     "geom:longitude":-92.03914,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Tectitan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.367972,
     "lbl:longitude":-92.03205,
     "meso:admin_1":"Huehuetenango",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695667,
-    "wof:lastmodified":1514444585,
+    "wof:lastmodified":1553718282,
     "wof:name":"Tectitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

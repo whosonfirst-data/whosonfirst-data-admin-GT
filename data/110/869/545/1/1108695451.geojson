@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012115,
-    "geom:area_square_m":145173983.948341,
+    "geom:area_square_m":145173983.94834,
     "geom:bbox":"-90.1340469481,14.2086019594,-89.9759957081,14.3537942379",
     "geom:latitude":14.28436,
     "geom:longitude":-90.059755,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Quesada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.291282,
     "lbl:longitude":-90.074129,
     "meso:admin_1":"Jutiapa",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108695451,
-    "wof:lastmodified":1514444512,
+    "wof:lastmodified":1553718279,
     "wof:name":"Quesada",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

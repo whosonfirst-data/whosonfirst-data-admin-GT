@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005568,
-    "geom:area_square_m":66640044.7989,
+    "geom:area_square_m":66640044.798857,
     "geom:bbox":"-90.7767795031,14.4758238899,-90.6873277168,14.6121101285",
     "geom:latitude":14.546206,
     "geom:longitude":-90.724219,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Antigua Guatemala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.546052,
     "lbl:longitude":-90.727263,
     "meso:admin_1":"Sacatepequez",
@@ -252,7 +258,7 @@
         }
     ],
     "wof:id":421201599,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1555037058,
     "wof:name":"Antigua Guatemala",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

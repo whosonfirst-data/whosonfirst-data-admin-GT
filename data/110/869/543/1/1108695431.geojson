@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003132,
-    "geom:area_square_m":37419713.254003,
+    "geom:area_square_m":37419713.254012,
     "geom:bbox":"-91.7260455972,14.9005553565,-91.6398570103,14.9719380081",
     "geom:latitude":14.931476,
     "geom:longitude":-91.675687,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Palestina De Los Altos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.929175,
     "lbl:longitude":-91.672749,
     "meso:admin_1":"Quetzaltenango",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108695431,
-    "wof:lastmodified":1514444492,
+    "wof:lastmodified":1553718278,
     "wof:name":"Palestina De Los Altos",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

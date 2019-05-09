@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010072,
-    "geom:area_square_m":120300652.943012,
+    "geom:area_square_m":120300652.942951,
     "geom:bbox":"-91.9002668752,14.9034097481,-91.7683124074,15.0819478753",
     "geom:latitude":15.000674,
     "geom:longitude":-91.834513,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Marcos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.038079,
     "lbl:longitude":-91.833616,
     "meso:admin_1":"San Marcos",
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421190499,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1555037083,
     "wof:name":"San Marcos",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

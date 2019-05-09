@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007374,
-    "geom:area_square_m":88289082.598687,
+    "geom:area_square_m":88289082.598679,
     "geom:bbox":"-90.1325352266,14.4168567196,-90.0226488665,14.5314130096",
     "geom:latitude":14.479046,
     "geom:longitude":-90.074724,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Alzatate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.481283,
     "lbl:longitude":-90.070982,
     "meso:admin_1":"Jalapa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695491,
-    "wof:lastmodified":1514444533,
+    "wof:lastmodified":1553718279,
     "wof:name":"San Carlos Alzatate",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.734249,
     "geom:longitude":-89.426454,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Ermita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.730952,
     "lbl:longitude":-89.427402,
     "meso:admin_1":"Chiquimula",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421205243,
-    "wof:lastmodified":1536616171,
+    "wof:lastmodified":1553717586,
     "wof:name":"San Juan Ermita",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

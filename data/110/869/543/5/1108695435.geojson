@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002489,
-    "geom:area_square_m":29779046.024109,
+    "geom:area_square_m":29779046.02409,
     "geom:bbox":"-90.8641709468,14.5578376995,-90.7904999913,14.6312791395",
     "geom:latitude":14.589512,
     "geom:longitude":-90.822605,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Parramos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.584785,
     "lbl:longitude":-90.818986,
     "meso:admin_1":"Chimaltenango",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695435,
-    "wof:lastmodified":1514444494,
+    "wof:lastmodified":1553718278,
     "wof:name":"Parramos",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

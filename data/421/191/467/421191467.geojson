@@ -10,6 +10,12 @@
     "geom:latitude":14.657429,
     "geom:longitude":-90.745369,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Sumpango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.656321,
     "lbl:longitude":-90.745963,
     "meso:admin_1":"Sacatepequez",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421191467,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1553717508,
     "wof:name":"Sumpango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

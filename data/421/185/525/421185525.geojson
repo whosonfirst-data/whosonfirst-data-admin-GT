@@ -10,6 +10,12 @@
     "geom:latitude":14.587026,
     "geom:longitude":-89.60729,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Ipala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.606623,
     "lbl:longitude":-89.615195,
     "meso:admin_1":"Chiquimula",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421185525,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1553717438,
     "wof:name":"Ipala",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

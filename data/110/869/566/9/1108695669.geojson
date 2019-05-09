@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01785,
-    "geom:area_square_m":213117716.96302,
+    "geom:area_square_m":213117716.963036,
     "geom:bbox":"-89.89911791,14.9547010582,-89.6551677497,15.1716431632",
     "geom:latitude":15.077889,
     "geom:longitude":-89.780487,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Teculutan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.117482,
     "lbl:longitude":-89.81094,
     "meso:admin_1":"Zacapa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695669,
-    "wof:lastmodified":1514444586,
+    "wof:lastmodified":1553718282,
     "wof:name":"Teculutan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

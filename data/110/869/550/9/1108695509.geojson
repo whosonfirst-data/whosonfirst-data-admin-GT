@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002317,
-    "geom:area_square_m":27630370.788317,
+    "geom:area_square_m":27630370.788325,
     "geom:bbox":"-91.7502003323,15.3320050373,-91.6906049531,15.4171993009",
     "geom:latitude":15.377213,
     "geom:longitude":-91.717212,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Gaspar Ixchil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.384962,
     "lbl:longitude":-91.714277,
     "meso:admin_1":"Huehuetenango",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108695509,
-    "wof:lastmodified":1505431501,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Gaspar Ixchil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

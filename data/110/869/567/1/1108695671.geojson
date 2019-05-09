@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012253,
-    "geom:area_square_m":146241200.31578,
+    "geom:area_square_m":146241200.315769,
     "geom:bbox":"-91.9157743853,15.0752328055,-91.7679512271,15.2371005162",
     "geom:latitude":15.15763,
     "geom:longitude":-91.829892,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Tejutla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.152546,
     "lbl:longitude":-91.824871,
     "meso:admin_1":"San Marcos",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695671,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037508,
     "wof:name":"Tejutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

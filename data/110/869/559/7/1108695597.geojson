@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014479,
-    "geom:area_square_m":172256922.76344,
+    "geom:area_square_m":172256922.763498,
     "geom:bbox":"-91.6872884829,15.7307384851,-91.4855828579,15.8723649702",
     "geom:latitude":15.813297,
     "geom:longitude":-91.584039,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Sebastian Coatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.81027,
     "lbl:longitude":-91.577119,
     "meso:admin_1":"Huehuetenango",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695597,
-    "wof:lastmodified":1514444559,
+    "wof:lastmodified":1553718281,
     "wof:name":"San Sebastian Coatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

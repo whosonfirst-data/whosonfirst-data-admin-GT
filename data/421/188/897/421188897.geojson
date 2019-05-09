@@ -10,6 +10,12 @@
     "geom:latitude":14.608293,
     "geom:longitude":-90.863315,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Andres Iztapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.61154,
     "lbl:longitude":-90.870458,
     "meso:admin_1":"Chimaltenango",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421188897,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1553717479,
     "wof:name":"San Andres Iztapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

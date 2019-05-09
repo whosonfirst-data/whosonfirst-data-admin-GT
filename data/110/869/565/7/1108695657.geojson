@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011048,
-    "geom:area_square_m":131518867.607911,
+    "geom:area_square_m":131518867.607914,
     "geom:bbox":"-91.5321576543,15.6527265487,-91.3323307931,15.7431888098",
     "geom:latitude":15.700312,
     "geom:longitude":-91.430036,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Soloma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.702595,
     "lbl:longitude":-91.431942,
     "meso:admin_1":"Huehuetenango",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108695657,
-    "wof:lastmodified":1514444580,
+    "wof:lastmodified":1553718282,
     "wof:name":"Soloma",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

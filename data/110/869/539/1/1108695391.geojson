@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":13418169.601244,
+    "geom:area_square_m":13418169.601243,
     "geom:bbox":"-90.7018566748,14.5217718349,-90.6559053282,14.560468275",
     "geom:latitude":14.542789,
     "geom:longitude":-90.677998,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Magdalena Milpas Altas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.541571,
     "lbl:longitude":-90.676138,
     "meso:admin_1":"Sacatepequez",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695391,
-    "wof:lastmodified":1514444480,
+    "wof:lastmodified":1553718278,
     "wof:name":"Magdalena Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.710176,
     "geom:longitude":-90.541307,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Coban Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.701536,
     "lbl:longitude":-90.522131,
     "meso:admin_1":"Alta Verapaz",
@@ -229,7 +235,7 @@
         }
     ],
     "wof:id":421190247,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1553717488,
     "wof:name":"Coban",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

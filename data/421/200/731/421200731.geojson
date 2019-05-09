@@ -10,6 +10,12 @@
     "geom:latitude":16.930285,
     "geom:longitude":-90.072747,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Benito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.919012,
     "lbl:longitude":-90.085172,
     "meso:admin_1":"Peten",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421200731,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1553717551,
     "wof:name":"San Benito",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

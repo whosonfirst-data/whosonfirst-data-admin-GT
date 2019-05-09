@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002946,
-    "geom:area_square_m":35184667.787146,
+    "geom:area_square_m":35184667.787144,
     "geom:bbox":"-91.6674283467,15.0125499711,-91.5740056779,15.0803750297",
     "geom:latitude":15.044728,
     "geom:longitude":-91.628113,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Huitan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.041429,
     "lbl:longitude":-91.639775,
     "meso:admin_1":"Quetzaltenango",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695361,
-    "wof:lastmodified":1514444457,
+    "wof:lastmodified":1553718277,
     "wof:name":"Huitan",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

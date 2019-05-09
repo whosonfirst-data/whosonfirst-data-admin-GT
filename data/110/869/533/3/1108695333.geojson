@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004046,
-    "geom:area_square_m":48353288.516692,
+    "geom:area_square_m":48353288.51673,
     "geom:bbox":"-92.039659595,14.8356975349,-91.9387903659,14.9417761801",
     "geom:latitude":14.887483,
     "geom:longitude":-91.998254,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Rodeo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.88538,
     "lbl:longitude":-92.000914,
     "meso:admin_1":"San Marcos",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108695333,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037533,
     "wof:name":"El Rodeo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

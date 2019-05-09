@@ -10,6 +10,12 @@
     "geom:latitude":14.528139,
     "geom:longitude":-90.83076,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Duenas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.527332,
     "lbl:longitude":-90.835253,
     "meso:admin_1":"Sacatepequez",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421203515,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1553717571,
     "wof:name":"San Miguel Duenas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

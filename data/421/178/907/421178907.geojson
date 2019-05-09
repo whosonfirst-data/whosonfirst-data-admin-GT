@@ -10,6 +10,12 @@
     "geom:latitude":14.851285,
     "geom:longitude":-90.062549,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Guastatoya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.859705,
     "lbl:longitude":-90.072766,
     "meso:admin_1":"El Progreso",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421178907,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717372,
     "wof:name":"Guastatoya",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

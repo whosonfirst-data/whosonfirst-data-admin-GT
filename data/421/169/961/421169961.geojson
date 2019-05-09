@@ -10,6 +10,12 @@
     "geom:latitude":15.263658,
     "geom:longitude":-91.11411,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Sacapulas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.270774,
     "lbl:longitude":-91.11062,
     "meso:admin_1":"Quiche",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421169961,
-    "wof:lastmodified":1536615902,
+    "wof:lastmodified":1553717307,
     "wof:name":"Sacapulas",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

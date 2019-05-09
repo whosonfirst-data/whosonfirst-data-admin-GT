@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008324,
-    "geom:area_square_m":99702095.495573,
+    "geom:area_square_m":99702095.495569,
     "geom:bbox":"-89.8960434997,14.2939173124,-89.797065043,14.46733945",
     "geom:latitude":14.378714,
     "geom:longitude":-89.849591,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Progreso Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.361709,
     "lbl:longitude":-89.846194,
     "meso:admin_1":"Jutiapa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695329,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037534,
     "wof:name":"El Progreso",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

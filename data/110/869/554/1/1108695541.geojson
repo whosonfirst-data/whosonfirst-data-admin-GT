@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002911,
-    "geom:area_square_m":34909142.834762,
+    "geom:area_square_m":34909142.834764,
     "geom:bbox":"-90.3030644074,14.0389893641,-90.2312519685,14.1105386204",
     "geom:latitude":14.071461,
     "geom:longitude":-90.269206,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Juan Tecuaco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.071408,
     "lbl:longitude":-90.268666,
     "meso:admin_1":"Santa Rosa",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695541,
-    "wof:lastmodified":1505431501,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Juan Tecuaco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

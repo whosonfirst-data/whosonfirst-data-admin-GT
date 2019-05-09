@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008748,
-    "geom:area_square_m":104390253.441729,
+    "geom:area_square_m":104390253.441791,
     "geom:bbox":"-91.1414775798,15.1358668619,-90.9578269715,15.230134196",
     "geom:latitude":15.184965,
     "geom:longitude":-91.032406,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Bartolome Jocotenango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.176304,
     "lbl:longitude":-91.024662,
     "meso:admin_1":"Quiche",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695481,
-    "wof:lastmodified":1514444532,
+    "wof:lastmodified":1553718279,
     "wof:name":"San Bartolome Jocotenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

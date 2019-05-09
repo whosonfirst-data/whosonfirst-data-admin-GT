@@ -10,6 +10,12 @@
     "geom:latitude":14.77242,
     "geom:longitude":-91.226107,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Jose Chacaya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.770868,
     "lbl:longitude":-91.226466,
     "meso:admin_1":"Solola",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421183939,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717421,
     "wof:name":"San Jose Chacaya",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

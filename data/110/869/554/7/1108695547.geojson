@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010729,
-    "geom:area_square_m":128427581.305905,
+    "geom:area_square_m":128427581.305931,
     "geom:bbox":"-89.8409569512,14.4802037442,-89.681028912,14.5877711986",
     "geom:latitude":14.526507,
     "geom:longitude":-89.760023,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Manuel Chaparron Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.52235,
     "lbl:longitude":-89.769514,
     "meso:admin_1":"Jalapa",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695547,
-    "wof:lastmodified":1514444545,
+    "wof:lastmodified":1553718280,
     "wof:name":"San Manuel Chaparron",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

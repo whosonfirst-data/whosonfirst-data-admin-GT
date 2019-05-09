@@ -10,6 +10,12 @@
     "geom:latitude":14.635034,
     "geom:longitude":-90.480256,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Guatemala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.632929,
     "lbl:longitude":-90.490151,
     "meso:admin_1":"Guatemala",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421191461,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1553717506,
     "wof:name":"Guatemala",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

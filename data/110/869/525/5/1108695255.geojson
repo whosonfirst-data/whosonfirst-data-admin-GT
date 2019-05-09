@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020409,
-    "geom:area_square_m":244365522.14741,
+    "geom:area_square_m":244365522.147379,
     "geom:bbox":"-89.6923906649,14.3625330425,-89.4948356828,14.5592840457",
     "geom:latitude":14.459154,
     "geom:longitude":-89.601055,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Agua Blanca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.47233,
     "lbl:longitude":-89.632482,
     "meso:admin_1":"Jutiapa",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695255,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037540,
     "wof:name":"Agua Blanca",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

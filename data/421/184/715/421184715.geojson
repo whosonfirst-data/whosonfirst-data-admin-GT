@@ -10,6 +10,12 @@
     "geom:latitude":14.286483,
     "geom:longitude":-91.070771,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia Cotzumalguapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.262897,
     "lbl:longitude":-91.078884,
     "meso:admin_1":"Escuintla",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421184715,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1553717432,
     "wof:name":"Santa Lucia Cotzumalguapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

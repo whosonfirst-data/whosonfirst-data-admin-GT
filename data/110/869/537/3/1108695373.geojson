@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020876,
-    "geom:area_square_m":248592829.732338,
+    "geom:area_square_m":248592829.732368,
     "geom:bbox":"-91.9883778159,15.499592301,-91.7874658053,15.7406865156",
     "geom:latitude":15.62316,
     "geom:longitude":-91.876548,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "La Democracia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.637471,
     "lbl:longitude":-91.869618,
     "meso:admin_1":"Huehuetenango",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108695373,
-    "wof:lastmodified":1505431500,
+    "wof:lastmodified":1553718277,
     "wof:name":"La Democracia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

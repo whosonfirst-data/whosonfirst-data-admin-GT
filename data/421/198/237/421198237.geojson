@@ -10,6 +10,12 @@
     "geom:latitude":14.702389,
     "geom:longitude":-89.85409,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Pinula Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.709853,
     "lbl:longitude":-89.846063,
     "meso:admin_1":"Jalapa",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421198237,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1553717541,
     "wof:name":"San Pedro Pinula",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

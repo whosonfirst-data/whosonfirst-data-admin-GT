@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087794,
-    "geom:area_square_m":1047270071.686483,
+    "geom:area_square_m":1047270071.686424,
     "geom:bbox":"-89.2232910869,15.0683822602,-88.8691495328,15.5073041416",
     "geom:latitude":15.268958,
     "geom:longitude":-89.060601,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Los Amates Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.270821,
     "lbl:longitude":-89.060685,
     "meso:admin_1":"Izabal",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421196435,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1555037066,
     "wof:name":"Los Amates",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014108,
-    "geom:area_square_m":168838374.153142,
+    "geom:area_square_m":168838374.153203,
     "geom:bbox":"-91.9632924959,14.4915071793,-91.7650013852,14.6815172509",
     "geom:latitude":14.566172,
     "geom:longitude":-91.84631,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Genova Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.545684,
     "lbl:longitude":-91.839572,
     "meso:admin_1":"Quetzaltenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695351,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037530,
     "wof:name":"Genova",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008108,
-    "geom:area_square_m":96999322.516027,
+    "geom:area_square_m":96999322.516016,
     "geom:bbox":"-90.6433433923,14.5696546991,-90.5168866296,14.7148337566",
     "geom:latitude":14.641785,
     "geom:longitude":-90.584846,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Mixco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.632667,
     "lbl:longitude":-90.601612,
     "meso:admin_1":"Guatemala",
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":421171679,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037149,
     "wof:name":"Mixco",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

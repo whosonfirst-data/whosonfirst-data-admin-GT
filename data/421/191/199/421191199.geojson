@@ -10,6 +10,12 @@
     "geom:latitude":14.840711,
     "geom:longitude":-90.781595,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "San Martin Jilotepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.843793,
     "lbl:longitude":-90.779482,
     "meso:admin_1":"Chimaltenango",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421191199,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1553717495,
     "wof:name":"San Martin Jilotepeque",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

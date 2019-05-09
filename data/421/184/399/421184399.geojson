@@ -10,6 +10,12 @@
     "geom:latitude":14.554208,
     "geom:longitude":-90.803872,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Catarina Barahona Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.557831,
     "lbl:longitude":-90.807959,
     "meso:admin_1":"Sacatepequez",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421184399,
-    "wof:lastmodified":1536616020,
+    "wof:lastmodified":1553717426,
     "wof:name":"Santa Catarina Barahona",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

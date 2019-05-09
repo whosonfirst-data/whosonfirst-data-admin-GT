@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014687,
-    "geom:area_square_m":175670461.673026,
+    "geom:area_square_m":175670461.673079,
     "geom:bbox":"-91.6816259826,14.6112468362,-91.5307388035,14.7855403677",
     "geom:latitude":14.698111,
     "geom:longitude":-91.609372,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "El Palmar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.707482,
     "lbl:longitude":-91.609421,
     "meso:admin_1":"Quetzaltenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695327,
-    "wof:lastmodified":1553816464,
+    "wof:lastmodified":1555037534,
     "wof:name":"El Palmar",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

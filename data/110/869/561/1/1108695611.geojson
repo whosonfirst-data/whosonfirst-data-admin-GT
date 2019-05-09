@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003702,
-    "geom:area_square_m":44247860.598358,
+    "geom:area_square_m":44247860.598328,
     "geom:bbox":"-90.9932759706,14.7748919081,-90.9210934848,14.8909515568",
     "geom:latitude":14.818342,
     "geom:longitude":-90.957175,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Santa Apolonia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.807491,
     "lbl:longitude":-90.959611,
     "meso:admin_1":"Chimaltenango",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108695611,
-    "wof:lastmodified":1553816465,
+    "wof:lastmodified":1555037510,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008711,
-    "geom:area_square_m":104502342.583818,
+    "geom:area_square_m":104502342.58372,
     "geom:bbox":"-90.4703799193,13.8987533205,-90.3878869528,14.1357229206",
     "geom:latitude":14.025333,
     "geom:longitude":-90.428216,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Guazacapan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.049523,
     "lbl:longitude":-90.41928,
     "meso:admin_1":"Santa Rosa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108695359,
-    "wof:lastmodified":1514444454,
+    "wof:lastmodified":1553718277,
     "wof:name":"Guazacapan",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

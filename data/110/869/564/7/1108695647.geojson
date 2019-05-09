@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05936,
-    "geom:area_square_m":707582245.63696,
+    "geom:area_square_m":707582245.636919,
     "geom:bbox":"-90.112629127,15.3119194357,-89.6086507828,15.5287104048",
     "geom:latitude":15.419126,
     "geom:longitude":-89.840057,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Senahu Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.420402,
     "lbl:longitude":-89.840012,
     "meso:admin_1":"Alta Verapaz",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108695647,
-    "wof:lastmodified":1514444576,
+    "wof:lastmodified":1553718282,
     "wof:name":"Senahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

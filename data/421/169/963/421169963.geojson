@@ -34,19 +34,13 @@
     "name:bul_x_preferred":[
         "\u0417\u0443\u043d\u0438\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u5c3c\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zunil"
     ],
     "name:eng_x_preferred":[
         "Zunil"
     ],
-    "name:fre_x_preferred":[
-        "Zunil"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zunil"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +51,9 @@
     ],
     "name:lit_x_preferred":[
         "Sunilis"
+    ],
+    "name:nld_x_preferred":[
+        "Zunil"
     ],
     "name:pol_x_preferred":[
         "Zunil"
@@ -69,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Zunil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5c3c\u723e"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":421169963,
-    "wof:lastmodified":1553717307,
+    "wof:lastmodified":1561844754,
     "wof:name":"Zunil",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

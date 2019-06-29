@@ -16,12 +16,6 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0430\u0442\u043e\u0440\u0438\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u6258\u91cc\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Oratorio"
-    ],
     "name:eng_x_preferred":[
         "Oratorio"
     ],
@@ -32,6 +26,9 @@
         "Oratorio"
     ],
     "name:nah_x_preferred":[
+        "Oratorio"
+    ],
+    "name:nld_x_preferred":[
         "Oratorio"
     ],
     "name:pol_x_preferred":[
@@ -100,7 +97,7 @@
         }
     ],
     "wof:id":421179209,
-    "wof:lastmodified":1527717713,
+    "wof:lastmodified":1561844765,
     "wof:name":"Oratorio",
     "wof:parent_id":1108695421,
     "wof:placetype":"locality",

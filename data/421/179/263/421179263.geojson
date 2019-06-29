@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u963f\u74dc\u5e03\u862d\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Agua Blanca"
-    ],
     "name:eng_x_preferred":[
         "Agua Blanca"
     ],
@@ -28,17 +22,14 @@
     "name:fra_x_preferred":[
         "Agua Blanca"
     ],
-    "name:fre_x_preferred":[
-        "Agua Blanca"
-    ],
     "name:hrv_x_preferred":[
         "Agua Blanca"
     ],
     "name:ita_x_preferred":[
         "Agua Blanca"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u0648\u0627 \u0628\u0644\u0644\u0627\u0646\u06a9\u0627\u060c \u062c\u0648\u062a\u06cc\u0627\u067e\u0627"
+    "name:nld_x_preferred":[
+        "Agua Blanca"
     ],
     "name:pol_x_preferred":[
         "Agua Blanca"
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421179263,
-    "wof:lastmodified":1527717715,
+    "wof:lastmodified":1561844765,
     "wof:name":"Agua Blanca",
     "wof:parent_id":1108695255,
     "wof:placetype":"locality",

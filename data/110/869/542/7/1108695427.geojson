@@ -30,22 +30,19 @@
     "mps:longitude":-90.329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e15\u502b\u897f\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Palencia"
     ],
     "name:eng_x_preferred":[
         "Palencia"
     ],
-    "name:fre_x_preferred":[
-        "Palencia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Palencia"
     ],
     "name:ita_x_preferred":[
+        "Palencia"
+    ],
+    "name:nld_x_preferred":[
         "Palencia"
     ],
     "name:pol_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u0646\u0633\u06cc\u0627\u060c \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u502b\u897f\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1108695427,
-    "wof:lastmodified":1553718278,
+    "wof:lastmodified":1561844744,
     "wof:name":"Palencia",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

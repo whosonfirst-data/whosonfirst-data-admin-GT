@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09b8\u09be\u0995\u09be\u09a4\u09c7\u09aa\u09c7\u0995\u09cb\u09af\u09bc\u09c7\u099c"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85\u85a9\u5361\u7279\u4f69\u514b\u65af"
-    ],
     "name:dan_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
     "name:deu_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
-    "name:dut_x_preferred":[
-        "San Pedro Sacatep\u00e9quez"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a0\u03ad\u03b4\u03c1\u03bf \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03c0\u03ad\u03ba\u03b5\u03b6"
     ],
     "name:eng_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
@@ -37,14 +34,8 @@
     "name:fin_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
-    ],
-    "name:ger_x_preferred":[
-        "San Pedro Sacatep\u00e9quez"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a0\u03ad\u03b4\u03c1\u03bf \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03c0\u03ad\u03ba\u03b5\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aaa\u0ac7\u0aa1\u0acd\u0ab0\u0acb \u0ab8\u0ac5\u0a95\u0abe\u0a9f\u0ac7\u0aaa\u0ac7\u0a95\u0acd\u0ab5\u0ac7\u0a9d"
@@ -76,11 +67,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092a\u0947\u0921\u094d\u0930\u094b \u0938\u0948\u0915\u091f\u0947\u092a\u0947\u090f\u0915\u094d\u091d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
     "name:nah_x_preferred":[
         "San Pedro Zacatepec"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
     ],
     "name:nob_x_preferred":[
         "San Pedro Sacatepequez"
@@ -181,7 +175,7 @@
         }
     ],
     "wof:id":421173601,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561844757,
     "wof:name":"San Pedro Sacatep\u00e9quez",
     "wof:parent_id":1108695585,
     "wof:placetype":"locality",

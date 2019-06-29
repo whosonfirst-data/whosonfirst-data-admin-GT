@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179274,
-    "geom:area_square_m":2143316895.92096,
+    "geom:area_square_m":2143316895.920167,
     "geom:bbox":"-92.1414457164,14.4915071793,-91.4038348615,15.2290411459",
     "geom:latitude":14.788018,
     "geom:longitude":-91.713578,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0642\u0633\u0645 \u0643\u0648\u064a\u062a\u0632\u0627\u0644\u062a\u064a\u0646\u0627\u0646\u063a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Quetzaltenango"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09be\u09c7\u099f\u099c\u09be\u09b2\u09c7\u09a8\u09be\u0982 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -43,14 +40,14 @@
     "name:cat_x_preferred":[
         "Departament de Quetzaltenango"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u85a9\u723e\u7279\u5357\u6208\u7701"
-    ],
     "name:dan_x_preferred":[
         "Quetzaltenango Department"
     ],
-    "name:dut_x_preferred":[
-        "Quetzaltenango"
+    "name:deu_x_preferred":[
+        "Departamento Quetzaltenango"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03b5\u03c4\u03b6\u03b1\u03bb\u03c4\u03b5\u03bd\u03ac\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Quezaltenango"
@@ -58,23 +55,20 @@
     "name:epo_x_preferred":[
         "Ketzaltenango"
     ],
+    "name:eus_x_preferred":[
+        "Quetzaltenango"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u062a\u0633\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Quetzaltenangon departementti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Quetzaltenango"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10ea\u10d0\u10da\u10e2\u10d4\u10dc\u10d0\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Quetzaltenango"
     ],
     "name:glg_x_preferred":[
         "Departamento de Quetzaltenango"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03b5\u03c4\u03b6\u03b1\u03bb\u03c4\u03b5\u03bd\u03ac\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0ac7\u0a9f\u0a9d\u0abe\u0ab2\u0acd\u0aa4\u0ac7\u0aa8\u0abe\u0a82\u0a97\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cc6\u0c9f\u0ccd\u0c9d\u0cb2\u0ccd\u0c9f\u0cc6\u0ca8\u0cbe\u0c82\u0c97\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10ea\u10d0\u10da\u10e2\u10d4\u10dc\u10d0\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf00\ud2b8\uc0b4\ud14c\ub0ad\uace0 \uc8fc"
     ],
@@ -112,17 +109,17 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u0947\u091f\u094d\u091d\u0932\u093e\u0924\u0947\u0928\u093e\u0902\u0917\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Quetzaltenango Department"
     ],
     "name:nah_x_preferred":[
         "Quetzalten\u0101nco"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Quetzaltenango"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u062a\u0633\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
+    "name:nob_x_preferred":[
+        "Quetzaltenango"
     ],
     "name:pol_x_preferred":[
         "Quetzaltenango"
@@ -142,7 +139,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0da7\u0dca\u0dc3\u0dbd\u0dca\u0da7\u0dda\u0db1\u0d82\u0d9c\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Quetzaltenango"
     ],
     "name:sme_x_preferred":[
@@ -177,6 +174,9 @@
     ],
     "name:vie_x_preferred":[
         "Quetzaltenango"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u85a9\u723e\u7279\u5357\u6208\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GTM",
@@ -302,7 +302,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1553814772,
+    "wof:lastmodified":1561844729,
     "wof:name":"Quezaltenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

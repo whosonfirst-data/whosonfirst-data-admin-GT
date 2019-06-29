@@ -14,34 +14,28 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Huehuetenango"
-    ],
     "name:bul_x_preferred":[
         "\u0423\u0435\u0443\u0435\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u97cb\u7279\u5357\u6208"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Huehuetenango"
     ],
     "name:dan_x_preferred":[
         "Huehuetenango"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Huehuetenango"
     ],
     "name:eng_x_preferred":[
         "Huehuetenango"
     ],
+    "name:eus_x_preferred":[
+        "Huehuetenango"
+    ],
     "name:fin_x_preferred":[
         "Huehuetenango"
     ],
-    "name:fre_x_preferred":[
-        "Huehuetenango"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Huehuetenango"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +52,9 @@
     ],
     "name:nah_x_preferred":[
         "\u0100hu\u0113hu\u0113ten\u0101nco"
+    ],
+    "name:nld_x_preferred":[
+        "Huehuetenango"
     ],
     "name:nob_x_preferred":[
         "Huehuetenango"
@@ -231,7 +228,7 @@
         }
     ],
     "wof:id":421181341,
-    "wof:lastmodified":1553816370,
+    "wof:lastmodified":1561844758,
     "wof:name":"Huehuetenango",
     "wof:parent_id":421186319,
     "wof:placetype":"locality",

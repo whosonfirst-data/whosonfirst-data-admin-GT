@@ -30,16 +30,10 @@
     "mps:longitude":-89.606176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u62c9\u963f\u62c9\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 La Arada"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 La Arada"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9 La Arada"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     ],
     "name:nah_x_preferred":[
         "San Jos\u00e9 la Arada"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 La Arada"
     ],
     "name:pol_x_preferred":[
         "San Jos\u00e9 La Arada"
@@ -62,6 +59,9 @@
     ],
     "name:swe_x_preferred":[
         "San Jos\u00e9 La Arada"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u62c9\u963f\u62c9\u9054"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108695525,
-    "wof:lastmodified":1553718280,
+    "wof:lastmodified":1561844745,
     "wof:name":"San Jose La Arada",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

@@ -13,23 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u62c9\u70cf\u5c3c\u7fc1"
-    ],
-    "name:dut_x_preferred":[
-        "San Francisco La Uni\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "San Francisco La Uni\u00f3n"
     ],
     "name:fra_x_preferred":[
         "San Francisco La Uni\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "San Francisco La Uni\u00f3n"
-    ],
     "name:ita_x_preferred":[
         "San Francisco la Uni\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco La Uni\u00f3n"
     ],
     "name:pol_x_preferred":[
         "San Francisco La Uni\u00f3n"
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421178237,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561844765,
     "wof:name":"San Francisco la Uni\u00f3n",
     "wof:parent_id":1108695505,
     "wof:placetype":"locality",

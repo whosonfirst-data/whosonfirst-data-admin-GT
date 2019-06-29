@@ -16,10 +16,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0433\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u85a9\u74dc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Masagua"
     ],
     "name:eng_x_preferred":[
@@ -28,17 +25,14 @@
     "name:fra_x_preferred":[
         "Masagua"
     ],
-    "name:fre_x_preferred":[
-        "Masagua"
-    ],
-    "name:ger_x_preferred":[
-        "Masagua"
-    ],
     "name:ita_x_preferred":[
         "Masagua"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b5\u30b0\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Masagua"
     ],
     "name:pol_x_preferred":[
         "Masagua"
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421176225,
-    "wof:lastmodified":1527726475,
+    "wof:lastmodified":1561844766,
     "wof:name":"Masagua",
     "wof:parent_id":1108695395,
     "wof:placetype":"locality",

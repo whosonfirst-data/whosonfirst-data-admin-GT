@@ -16,22 +16,16 @@
     "name:bul_x_preferred":[
         "\u041e\u043b\u043e\u043f\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u6d1b\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Olopa"
-    ],
     "name:eng_x_preferred":[
         "Olopa"
     ],
     "name:fra_x_preferred":[
         "Olopa"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Olopa"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Olopa"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421201717,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1561844762,
     "wof:name":"Olopa",
     "wof:parent_id":1108695419,
     "wof:placetype":"locality",

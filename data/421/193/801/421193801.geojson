@@ -16,22 +16,16 @@
     "name:bul_x_preferred":[
         "\u0417\u0443\u043d\u0438\u043b\u0438\u0442\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u5c3c\u5229\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Zunilito"
-    ],
     "name:eng_x_preferred":[
         "Zunilito"
     ],
     "name:fra_x_preferred":[
         "Zunilito"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Zunilito"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Zunilito"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421193801,
-    "wof:lastmodified":1527716151,
+    "wof:lastmodified":1561844753,
     "wof:name":"Zunilito",
     "wof:parent_id":1108695507,
     "wof:placetype":"locality",

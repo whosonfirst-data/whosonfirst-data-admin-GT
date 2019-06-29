@@ -16,23 +16,17 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0447\u0430\u043b\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u67e5\u76e7\u59c6"
-    ],
-    "name:dut_x_preferred":[
-        "Pachalum"
-    ],
     "name:eng_x_preferred":[
         "Pachalum"
     ],
     "name:fra_x_preferred":[
         "Pachal\u00fam"
     ],
-    "name:fre_x_preferred":[
-        "Pachal\u00fam"
-    ],
     "name:ita_x_preferred":[
         "Pachal\u00fam"
+    ],
+    "name:nld_x_preferred":[
+        "Pachalum"
     ],
     "name:pol_x_preferred":[
         "Pachalum"
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421179205,
-    "wof:lastmodified":1527717706,
+    "wof:lastmodified":1561844764,
     "wof:name":"Pachalum",
     "wof:parent_id":1108695423,
     "wof:placetype":"locality",

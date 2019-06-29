@@ -34,13 +34,7 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0627\u0628\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Cuilapa"
-    ],
-    "name:chi_x_preferred":[
-        "\u594e\u62c9\u5e15"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cuilapa"
     ],
     "name:eng_x_preferred":[
@@ -49,10 +43,10 @@
     "name:epo_x_preferred":[
         "Cuilapa"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Cuilapa"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cuilapa"
     ],
     "name:glg_x_preferred":[
@@ -73,6 +67,9 @@
     "name:nah_x_preferred":[
         "Cuil\u0101pan"
     ],
+    "name:nld_x_preferred":[
+        "Cuilapa"
+    ],
     "name:pol_x_preferred":[
         "Cuilapa"
     ],
@@ -90,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u06cc\u0644\u0627\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u594e\u62c9\u5e15"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":421191201,
-    "wof:lastmodified":1555037080,
+    "wof:lastmodified":1561844760,
     "wof:name":"Cuilapa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

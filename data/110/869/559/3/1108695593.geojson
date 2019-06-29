@@ -30,12 +30,6 @@
     "mps:longitude":-91.673706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u62c9\u6590\u723e\u4f69\u7279\u85a9\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "San Rafael Petzal"
-    ],
     "name:eng_x_preferred":[
         "San Rafael Petzal"
     ],
@@ -43,10 +37,13 @@
         "San Rafael P\u00e9tzal",
         "San Rafael Petzal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Rafael Petzal"
     ],
     "name:ita_x_preferred":[
+        "San Rafael Petzal"
+    ],
+    "name:nld_x_preferred":[
         "San Rafael Petzal"
     ],
     "name:pol_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "San Rafael Petzal"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u4f69\u7279\u85a9\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108695593,
-    "wof:lastmodified":1553718281,
+    "wof:lastmodified":1561844741,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

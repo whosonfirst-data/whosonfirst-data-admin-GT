@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5e15\u502b\u897f\u4e9e"
-    ],
     "name:deu_x_preferred":[
-        "Palencia"
-    ],
-    "name:dut_x_preferred":[
         "Palencia"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +22,10 @@
     "name:fra_x_preferred":[
         "Palencia"
     ],
-    "name:fre_x_preferred":[
-        "Palencia"
-    ],
-    "name:ger_x_preferred":[
-        "Palencia"
-    ],
     "name:ita_x_preferred":[
+        "Palencia"
+    ],
+    "name:nld_x_preferred":[
         "Palencia"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421198149,
-    "wof:lastmodified":1527716359,
+    "wof:lastmodified":1561844759,
     "wof:name":"Palencia",
     "wof:parent_id":1108695427,
     "wof:placetype":"locality",

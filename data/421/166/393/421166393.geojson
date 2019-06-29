@@ -13,22 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u7c73\u683c\u723e\u675c\u57c3\u5c3c\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Miguel Due\u00f1as"
-    ],
     "name:eng_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
     "name:fra_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
     "name:pol_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421166393,
-    "wof:lastmodified":1514444552,
+    "wof:lastmodified":1561844752,
     "wof:name":"San Miguel Due\u00f1as",
     "wof:parent_id":421203515,
     "wof:placetype":"locality",

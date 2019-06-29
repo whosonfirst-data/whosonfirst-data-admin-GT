@@ -18,26 +18,23 @@
     "name:cat_x_preferred":[
         "Chisec"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u585e\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chisec"
     ],
     "name:eng_x_preferred":[
         "Chisec"
     ],
-    "name:fre_x_preferred":[
-        "Chisec"
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u06a9\u060c \u0627\u0644\u062a\u0627 \u0648\u0631\u0627\u067e\u0627\u0632"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chisec"
     ],
     "name:ita_x_preferred":[
         "Chisec"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0633\u06a9\u060c \u0627\u0644\u062a\u0627 \u0648\u0631\u0627\u067e\u0627\u0632"
+    "name:nld_x_preferred":[
+        "Chisec"
     ],
     "name:pol_x_preferred":[
         "Chisec"
@@ -56,6 +53,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0633\u06cc\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u585e\u514b"
     ],
     "qs:name":"Chisec",
     "qs:photos_9r":0,
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":890420433,
-    "wof:lastmodified":1527792812,
+    "wof:lastmodified":1561844767,
     "wof:name":"Chisec",
     "wof:parent_id":421204557,
     "wof:placetype":"locality",

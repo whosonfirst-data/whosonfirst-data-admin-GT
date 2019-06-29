@@ -52,9 +52,6 @@
     "name:ces_x_preferred":[
         "La Gomera"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6208\u6885\u62c9"
-    ],
     "name:cym_x_preferred":[
         "La Gomera"
     ],
@@ -62,9 +59,6 @@
         "La Gomera"
     ],
     "name:deu_x_preferred":[
-        "La Gomera"
-    ],
-    "name:dut_x_preferred":[
         "La Gomera"
     ],
     "name:ell_x_preferred":[
@@ -86,12 +80,6 @@
         "La Gomera"
     ],
     "name:fra_x_preferred":[
-        "La Gomera"
-    ],
-    "name:fre_x_preferred":[
-        "La Gomera"
-    ],
-    "name:ger_x_preferred":[
         "La Gomera"
     ],
     "name:gla_x_preferred":[
@@ -190,6 +178,9 @@
     "name:zho_x_preferred":[
         "\u6208\u6885\u62c9\u5c9b"
     ],
+    "name:zho_x_variant":[
+        "\u62c9\u6208\u6885\u62c9"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -250,7 +241,7 @@
         }
     ],
     "wof:id":421171417,
-    "wof:lastmodified":1555037150,
+    "wof:lastmodified":1561844766,
     "wof:name":"La Gomera",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

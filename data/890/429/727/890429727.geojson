@@ -15,19 +15,16 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u85a9\u5361\u666e\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Sacapulas"
-    ],
     "name:eng_x_preferred":[
         "Sacapulas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sacapulas"
     ],
     "name:ita_x_preferred":[
+        "Sacapulas"
+    ],
+    "name:nld_x_preferred":[
         "Sacapulas"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06a9\u067e\u0644\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5361\u666e\u62c9\u65af"
     ],
     "qs:name":"Sacapulas",
     "qs:photos_9r":0,
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":890429727,
-    "wof:lastmodified":1527792797,
+    "wof:lastmodified":1561844767,
     "wof:name":"Sacapulas",
     "wof:parent_id":421169961,
     "wof:placetype":"locality",

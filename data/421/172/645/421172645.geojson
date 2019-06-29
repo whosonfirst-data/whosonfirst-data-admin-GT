@@ -31,20 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u57c3\u723e\u963f\u723e\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "San Francisco El Alto"
-    ],
     "name:eng_x_preferred":[
         "San Francisco El Alto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Francisco El Alto"
     ],
     "name:ita_x_preferred":[
         "San Francisco el Alto"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco El Alto"
     ],
     "name:pol_x_preferred":[
         "San Francisco El Alto"
@@ -57,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "San Francisco El Alto"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u57c3\u723e\u963f\u723e\u6258"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":421172645,
-    "wof:lastmodified":1553717345,
+    "wof:lastmodified":1561844758,
     "wof:name":"San Francisco El Alto",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

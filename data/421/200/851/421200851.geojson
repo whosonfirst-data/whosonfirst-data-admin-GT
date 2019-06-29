@@ -17,16 +17,7 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0644\u0627\u0628\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Jalapa"
-    ],
-    "name:chi_x_preferred":[
-        "\u54c8\u62c9\u5e15"
-    ],
     "name:deu_x_preferred":[
-        "Jalapa"
-    ],
-    "name:dut_x_preferred":[
         "Jalapa"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +27,6 @@
         "Jalapa"
     ],
     "name:fra_x_preferred":[
-        "Jalapa"
-    ],
-    "name:fre_x_preferred":[
-        "Jalapa"
-    ],
-    "name:ger_x_preferred":[
         "Jalapa"
     ],
     "name:ita_x_preferred":[
@@ -231,7 +216,7 @@
         }
     ],
     "wof:id":421200851,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561844761,
     "wof:name":"Jalapa",
     "wof:parent_id":421183137,
     "wof:placetype":"locality",

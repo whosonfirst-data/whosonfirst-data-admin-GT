@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "Santa Cruz Verapaz"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af\u8c9d\u62c9\u5e15\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Santa Cruz Verapaz"
-    ],
-    "name:dut_x_preferred":[
         "Santa Cruz Verapaz"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Santa Cruz Verapaz"
     ],
-    "name:fre_x_preferred":[
-        "Santa Cruz Verapaz"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Cruz Verapaz"
-    ],
     "name:ita_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
+    "name:nld_x_preferred":[
         "Santa Cruz Verapaz"
     ],
     "name:pol_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421182509,
-    "wof:lastmodified":1514444566,
+    "wof:lastmodified":1561844765,
     "wof:name":"Santa Cruz Verapaz",
     "wof:parent_id":421166811,
     "wof:placetype":"locality",

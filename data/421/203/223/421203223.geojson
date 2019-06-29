@@ -34,16 +34,10 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0447\u0443\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u4e18\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Pochuta"
-    ],
     "name:eng_x_preferred":[
         "Pochuta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pochuta"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:nah_x_preferred":[
         "P\u014dch\u014dtlah"
+    ],
+    "name:nld_x_preferred":[
+        "Pochuta"
     ],
     "name:pol_x_preferred":[
         "Pochuta"
@@ -63,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Pochuta"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u4e18\u5854"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":421203223,
-    "wof:lastmodified":1553717566,
+    "wof:lastmodified":1561844755,
     "wof:name":"Pochuta",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

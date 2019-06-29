@@ -13,19 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u6ce2\u963f\u57fa\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 Poaquil"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 Poaquil"
     ],
     "name:fra_x_preferred":[
-        "San Jos\u00e9 Poaquil"
-    ],
-    "name:fre_x_preferred":[
         "San Jos\u00e9 Poaquil"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +24,9 @@
     ],
     "name:nah_x_preferred":[
         "San Jos\u00e9 Poaqu\u00edl"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 Poaquil"
     ],
     "name:pol_x_preferred":[
         "San Jos\u00e9 Poaqu\u00edl"
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421179169,
-    "wof:lastmodified":1527717702,
+    "wof:lastmodified":1561844763,
     "wof:name":"San Jos\u00e9 Poaquil",
     "wof:parent_id":1108695531,
     "wof:placetype":"locality",

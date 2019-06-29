@@ -13,23 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u57c3\u723e\u4f0a\u591a\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 El Idolo"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 El Idolo"
     ],
     "name:fra_x_preferred":[
         "San Jos\u00e9 El Idolo"
     ],
-    "name:fre_x_preferred":[
-        "San Jos\u00e9 El Idolo"
-    ],
     "name:ita_x_preferred":[
         "San Jos\u00e9 el Idolo"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 El Idolo"
     ],
     "name:pol_x_preferred":[
         "San Jos\u00e9 El Idolo"
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421186237,
-    "wof:lastmodified":1527716318,
+    "wof:lastmodified":1561844758,
     "wof:name":"San Jos\u00e9 El \u00cddolo",
     "wof:parent_id":1108695479,
     "wof:placetype":"locality",

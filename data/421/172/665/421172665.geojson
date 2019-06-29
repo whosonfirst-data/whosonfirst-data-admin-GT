@@ -34,16 +34,10 @@
     "name:cat_x_preferred":[
         "Colomba"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9686\u5df4"
-    ],
-    "name:dut_x_preferred":[
-        "Colomba"
-    ],
     "name:eng_x_preferred":[
         "Colomba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Colomba"
     ],
     "name:glg_x_preferred":[
@@ -55,13 +49,16 @@
     "name:nah_x_preferred":[
         "Colomba"
     ],
+    "name:nld_x_preferred":[
+        "Colomba"
+    ],
     "name:pol_x_preferred":[
         "Colomba"
     ],
     "name:por_x_preferred":[
         "Colomba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Colomba"
     ],
     "name:spa_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u0648\u0645\u0628\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9686\u5df4"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":421172665,
-    "wof:lastmodified":1553717345,
+    "wof:lastmodified":1561844758,
     "wof:name":"Colomba",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

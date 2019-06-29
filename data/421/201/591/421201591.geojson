@@ -34,19 +34,13 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0430\u0443\u0442\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u7459\u7279\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chinautla"
     ],
     "name:eng_x_preferred":[
         "Chinautla"
     ],
-    "name:fre_x_preferred":[
-        "Chinautla"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chinautla"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +51,9 @@
     ],
     "name:lit_x_preferred":[
         "\u010cinautla"
+    ],
+    "name:nld_x_preferred":[
+        "Chinautla"
     ],
     "name:pol_x_preferred":[
         "Chinautla"
@@ -75,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0646\u0627\u0648\u0644\u062a\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u7459\u7279\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":421201591,
-    "wof:lastmodified":1555037058,
+    "wof:lastmodified":1561844761,
     "wof:name":"Chinautla",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

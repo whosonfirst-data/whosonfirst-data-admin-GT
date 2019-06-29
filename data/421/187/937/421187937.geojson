@@ -34,13 +34,7 @@
     "name:ces_x_preferred":[
         "Acatenango"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5361\u7279\u5357\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Acatenango"
-    ],
-    "name:dut_x_preferred":[
         "Acatenango"
     ],
     "name:eng_x_preferred":[
@@ -49,10 +43,10 @@
     "name:fas_x_preferred":[
         "\u0622\u06a9\u0627\u062a\u0646\u0627\u0646\u06af\u0648"
     ],
-    "name:fra_x_preferred":[
-        "Acatenango"
+    "name:fas_x_variant":[
+        "\u0627\u06a9\u0627\u062a\u0646\u0627\u0646\u06af\u0648\u060c \u06a9\u06cc\u0645\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Acatenango"
     ],
     "name:hye_x_preferred":[
@@ -69,9 +63,6 @@
     ],
     "name:nld_x_preferred":[
         "Acatenango"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0627\u062a\u0646\u0627\u0646\u06af\u0648\u060c \u06a9\u06cc\u0645\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
     ],
     "name:pol_x_preferred":[
         "Acatenango"
@@ -93,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5361\u7279\u5357\u6208\u706b\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5361\u7279\u5357\u6208"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -154,7 +148,7 @@
         }
     ],
     "wof:id":421187937,
-    "wof:lastmodified":1553717456,
+    "wof:lastmodified":1561844756,
     "wof:name":"Acatenango",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

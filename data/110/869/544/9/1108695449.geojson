@@ -33,23 +33,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0628\u0627\u0631\u064a\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Puerto Barrios"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09ac\u09cd\u09af\u09be\u09b0\u09bf\u0993\u09b8"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u0411\u0430\u0440\u0438\u043e\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u91cc\u5967\u65af\u6e2f"
-    ],
     "name:dan_x_preferred":[
         "Puerto Barrios"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Barrios"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03c0\u03ac\u03c1\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Puerto Barrios"
@@ -57,20 +54,17 @@
     "name:epo_x_preferred":[
         "Puerto Barrios"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Barrios"
+    ],
     "name:fin_x_preferred":[
         "Puerto Barrios"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Barrios"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Barrios"
     ],
     "name:glg_x_preferred":[
         "Puerto Barrios"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03c0\u03ac\u03c1\u03b9\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe \u0ab8\u0abf\u0a9f\u0ac0"
@@ -108,10 +102,13 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u092c\u0945\u0930\u093f\u0913\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puerto Barrios"
     ],
     "name:nah_x_preferred":[
+        "Puerto Barrios"
+    ],
+    "name:nld_x_preferred":[
         "Puerto Barrios"
     ],
     "name:nob_x_preferred":[
@@ -162,6 +159,9 @@
     "name:vie_x_preferred":[
         "Puerto Barrios"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u5967\u65af\u6e2f"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":1108695449,
-    "wof:lastmodified":1555037522,
+    "wof:lastmodified":1561844743,
     "wof:name":"Puerto Barrios",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

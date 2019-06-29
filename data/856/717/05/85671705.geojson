@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265321,
-    "geom:area_square_m":3181074961.739082,
+    "geom:area_square_m":3181074961.739553,
     "geom:bbox":"-90.6738645363,13.7916752924,-90.0576325134,14.5060481363",
     "geom:latitude":14.158342,
     "geom:longitude":-90.355943,
@@ -28,12 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0632\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0561 \u054c\u0578\u057d\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Santa Rosa"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b0\u09cb\u09b8\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -46,14 +40,14 @@
     "name:cat_x_preferred":[
         "Departament de Santa Rosa"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u7f85\u85a9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Santa Rosa Department"
     ],
-    "name:dut_x_preferred":[
-        "Santa Rosa"
+    "name:deu_x_preferred":[
+        "Departamento Santa Rosa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03cc\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Rosa"
@@ -61,23 +55,20 @@
     "name:epo_x_preferred":[
         "Sankta Roza"
     ],
+    "name:eus_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0633\u0627\u060c \u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Santa Rosan departmentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Santa Rosa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Santa Rosa"
     ],
     "name:glg_x_preferred":[
         "Departamento de Santa Rosa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a1\u03cc\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0ab0\u0acb\u0a9d\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -87,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Santa Rosa megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u054c\u0578\u057d\u0561"
     ],
     "name:ind_x_preferred":[
         "Departemen Santa Rosa"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0cb0\u0ccb\u0cb8\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\ub85c\uc0ac \uc8fc"
     ],
@@ -112,17 +109,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u0930\u094b\u0938\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Rosa Department"
     ],
     "name:nah_x_preferred":[
         "Santa Rosa"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Santa Rosa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0633\u0627\u060c \u06af\u0648\u0627\u062a\u0645\u0627\u0644\u0627"
+    "name:nob_x_preferred":[
+        "Santa Rosa"
     ],
     "name:pol_x_preferred":[
         "Santa Rosa"
@@ -142,7 +139,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0dbb\u0ddd\u0dc3\u0dcf \u0da9\u0dd2\u0db4\u0dcf\u0dbb\u0dca\u0da7\u0dca\u0db8\u0db1\u0dca\u0da7\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Santa Rosa"
     ],
     "name:sme_x_preferred":[
@@ -181,6 +178,9 @@
     ],
     "name:vie_x_preferred":[
         "Santa Rosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u85a9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GTM",
@@ -306,7 +306,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1553814772,
+    "wof:lastmodified":1561844728,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

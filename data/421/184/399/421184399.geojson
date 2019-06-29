@@ -31,16 +31,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5361\u5854\u91cc\u5a1c\u5df4\u62c9\u5967\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Catarina Barahona"
-    ],
     "name:eng_x_preferred":[
         "Santa Catarina Barahona"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Catarina Barahona"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30d0\u30e9\u30aa\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Catarina Barahona"
     ],
     "name:pol_x_preferred":[
         "Santa Catarina Barahona"
@@ -63,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Santa Catarina Barahona"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5854\u91cc\u5a1c\u5df4\u62c9\u5967\u7d0d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":421184399,
-    "wof:lastmodified":1553717426,
+    "wof:lastmodified":1561844762,
     "wof:name":"Santa Catarina Barahona",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

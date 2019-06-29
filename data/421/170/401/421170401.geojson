@@ -16,19 +16,13 @@
     "name:cat_x_preferred":[
         "Esquipulas"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u57fa\u666e\u62c9\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Esquipulas"
     ],
     "name:eng_x_preferred":[
         "Esquipulas"
     ],
-    "name:fre_x_preferred":[
-        "Esquipulas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Esquipulas"
     ],
     "name:ind_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Eskipulasas"
+    ],
+    "name:nld_x_preferred":[
+        "Esquipulas"
     ],
     "name:pol_x_preferred":[
         "Esquipulas"
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":421170401,
-    "wof:lastmodified":1527716460,
+    "wof:lastmodified":1561844762,
     "wof:name":"Esquipulas",
     "wof:parent_id":421188729,
     "wof:placetype":"locality",

@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "San Raymundo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cf4\u8499\u591a"
-    ],
     "name:deu_x_preferred":[
-        "San Raimundo"
-    ],
-    "name:dut_x_preferred":[
         "San Raimundo"
     ],
     "name:eng_x_preferred":[
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "San Raymundo"
-    ],
-    "name:fre_x_preferred":[
-        "San Raymundo"
-    ],
-    "name:ger_x_preferred":[
-        "San Raimundo"
     ],
     "name:glg_x_preferred":[
         "San Raymundo"
@@ -45,6 +33,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30e9\u30a4\u30e0\u30f3\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "San Raimundo"
     ],
     "name:pol_x_preferred":[
         "San Raymundo"
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421182109,
-    "wof:lastmodified":1514444558,
+    "wof:lastmodified":1561844765,
     "wof:name":"San Raimundo",
     "wof:parent_id":421184717,
     "wof:placetype":"locality",

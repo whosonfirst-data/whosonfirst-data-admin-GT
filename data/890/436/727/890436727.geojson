@@ -18,19 +18,16 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u044e\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5c24\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Moyuta"
-    ],
     "name:eng_x_preferred":[
         "Moyuta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moyuta"
     ],
     "name:ita_x_preferred":[
+        "Moyuta"
+    ],
+    "name:nld_x_preferred":[
         "Moyuta"
     ],
     "name:pol_x_preferred":[
@@ -47,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Pueblo Moyuta"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5c24\u5854"
     ],
     "qs:name":"Moyuta",
     "qs:photos_9r":0,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890436727,
-    "wof:lastmodified":1527735407,
+    "wof:lastmodified":1561844767,
     "wof:name":"Moyuta",
     "wof:parent_id":1108695405,
     "wof:placetype":"locality",

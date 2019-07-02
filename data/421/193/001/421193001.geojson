@@ -16,16 +16,7 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Salam\u00e1"
-    ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u99ac"
-    ],
     "name:deu_x_preferred":[
-        "Salam\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Salam\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +26,6 @@
         "Salam\u00e1"
     ],
     "name:fra_x_preferred":[
-        "Salam\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Salam\u00e1"
-    ],
-    "name:ger_x_preferred":[
         "Salam\u00e1"
     ],
     "name:glg_x_preferred":[
@@ -84,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Salam\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u99ac"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -133,7 +121,7 @@
         }
     ],
     "wof:id":421193001,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561844753,
     "wof:name":"Salam\u00e1",
     "wof:parent_id":1108695665,
     "wof:placetype":"locality",

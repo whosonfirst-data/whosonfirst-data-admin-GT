@@ -16,19 +16,13 @@
     "name:cat_x_preferred":[
         "Santa Mar\u00eda de Jes\u00fas"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u746a\u9e97\u4e9e\u5fb7\u8d6b\u8607\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Mar\u00eda de Jes\u00fas"
     ],
     "name:eng_x_preferred":[
         "Santa Mar\u00eda de Jes\u00fas"
     ],
-    "name:fre_x_preferred":[
-        "Santa Mar\u00eda de Jes\u00fas"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Mar\u00eda de Jes\u00fas"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30de\u30ea\u30a2\u30fb\u30c7\u30fb\u30d8\u30b9\u30b9"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Mar\u00eda de Jes\u00fas"
     ],
     "name:oci_x_preferred":[
         "Santa Mar\u00eda de Jes\u00fas"
@@ -57,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Santa Mar\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u9e97\u4e9e\u5fb7\u8d6b\u8607\u65af"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":421173043,
-    "wof:lastmodified":1514444569,
+    "wof:lastmodified":1561844757,
     "wof:name":"Santa Mar\u00eda de Jes\u00fas",
     "wof:parent_id":421201599,
     "wof:placetype":"locality",

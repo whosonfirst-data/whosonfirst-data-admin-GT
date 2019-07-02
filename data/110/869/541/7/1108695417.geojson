@@ -30,19 +30,16 @@
     "mps:longitude":-91.532971,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5967\u6797\u7279\u4f69\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Olintepeque"
-    ],
     "name:eng_x_preferred":[
         "Olintepeque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Olintepeque"
     ],
     "name:ita_x_preferred":[
+        "Olintepeque"
+    ],
+    "name:nld_x_preferred":[
         "Olintepeque"
     ],
     "name:pol_x_preferred":[
@@ -53,6 +50,9 @@
     ],
     "name:spa_x_preferred":[
         "Olintepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6797\u7279\u4f69\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1108695417,
-    "wof:lastmodified":1553718278,
+    "wof:lastmodified":1561844747,
     "wof:name":"Olintepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

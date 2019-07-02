@@ -33,10 +33,7 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0431\u0438\u043d\u0430\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u7dad\u7d0d\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sibinal"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +43,13 @@
         "Sibinal",
         "San Sibinal"
     ],
-    "name:fre_x_preferred":[
-        "Sibinal"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sibinal"
     ],
     "name:ita_x_preferred":[
+        "Sibinal"
+    ],
+    "name:nld_x_preferred":[
         "Sibinal"
     ],
     "name:pol_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Sibinal"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u7dad\u7d0d\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108695651,
-    "wof:lastmodified":1553718282,
+    "wof:lastmodified":1561844746,
     "wof:name":"Sibinal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

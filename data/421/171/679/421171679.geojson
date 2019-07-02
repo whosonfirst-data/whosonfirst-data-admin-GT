@@ -40,17 +40,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u043a\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u65af\u79d1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mixco"
     ],
     "name:dan_x_preferred":[
         "Mixco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mixco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03be\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mixco"
@@ -61,14 +61,8 @@
     "name:fin_x_preferred":[
         "Mixco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mixco"
-    ],
-    "name:ger_x_preferred":[
-        "Mixco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03af\u03be\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a95\u0acd\u0ab8\u0a95\u0acb"
@@ -100,10 +94,13 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0915\u094d\u0938\u0915\u0949"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mixco"
     ],
     "name:nah_x_preferred":[
+        "Mixco"
+    ],
+    "name:nld_x_preferred":[
         "Mixco"
     ],
     "name:nob_x_preferred":[
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Mixco"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u65af\u79d1"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":421171679,
-    "wof:lastmodified":1555037149,
+    "wof:lastmodified":1561844766,
     "wof:name":"Mixco",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

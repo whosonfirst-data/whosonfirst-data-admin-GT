@@ -30,22 +30,19 @@
     "mps:longitude":-90.37515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af\u7d0d\u862d\u970d"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Cruz Naranjo"
-    ],
     "name:eng_x_preferred":[
         "Santa Cruz Naranjo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Cruz Naranjo"
     ],
     "name:ita_x_preferred":[
         "Santa Cruz Naranjo"
     ],
     "name:nah_x_preferred":[
+        "Santa Cruz Naranjo"
+    ],
+    "name:nld_x_preferred":[
         "Santa Cruz Naranjo"
     ],
     "name:pol_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Santa Cruz Naranjo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u7d0d\u862d\u970d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108695625,
-    "wof:lastmodified":1553718282,
+    "wof:lastmodified":1561844746,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

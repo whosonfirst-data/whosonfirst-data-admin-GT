@@ -13,10 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u5fb7\u96f7\u65af\u514b\u585e\u5eab\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Andr\u00e9s Xecul"
     ],
     "name:eng_x_preferred":[
@@ -25,17 +22,14 @@
     "name:fra_x_preferred":[
         "San Andr\u00e9s Xecul"
     ],
-    "name:fre_x_preferred":[
-        "San Andr\u00e9s Xecul"
-    ],
-    "name:ger_x_preferred":[
-        "San Andr\u00e9s Xecul"
-    ],
     "name:ita_x_preferred":[
         "San Andr\u00e9s Xecul"
     ],
     "name:lit_x_preferred":[
         "San Andres \u0160ekulis"
+    ],
+    "name:nld_x_preferred":[
+        "San Andr\u00e9s Xecul"
     ],
     "name:pol_x_preferred":[
         "San Andr\u00e9s Xecul"
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421179185,
-    "wof:lastmodified":1514444529,
+    "wof:lastmodified":1561844765,
     "wof:name":"San Andr\u00e9s Xecul",
     "wof:parent_id":421184605,
     "wof:placetype":"locality",

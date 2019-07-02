@@ -40,10 +40,7 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f\u043d\u0443\u0435\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9e\u52aa\u57c3\u74e6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Villa Nueva"
     ],
     "name:dan_x_preferred":[
@@ -52,8 +49,8 @@
     "name:deu_x_preferred":[
         "Villa Nueva"
     ],
-    "name:dut_x_preferred":[
-        "Villa Nueva"
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b1 \u039d\u03bf\u03c5\u03ad\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Villa Nueva"
@@ -64,14 +61,8 @@
     "name:fin_x_preferred":[
         "Villa Nueva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa Nueva"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Nueva"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03bb\u03b1 \u039d\u03bf\u03c5\u03ad\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe \u0aa8\u0ac1\u0a8f\u0ab5\u0abe"
@@ -109,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u093e \u0928\u0942\u090f\u0935\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Villa Nueva"
     ],
     "name:nld_x_preferred":[
@@ -159,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Villa Nueva"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9e\u52aa\u57c3\u74e6"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -220,7 +214,7 @@
         }
     ],
     "wof:id":421182337,
-    "wof:lastmodified":1555037122,
+    "wof:lastmodified":1561844765,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

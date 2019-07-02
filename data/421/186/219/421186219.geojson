@@ -16,20 +16,17 @@
     "name:cat_x_preferred":[
         "Santa Cruz de Barillas"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af\u5df4\u91cc\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Cruz Barillas"
-    ],
     "name:eng_x_preferred":[
         "Santa Cruz Barillas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Cruz Barillas"
     ],
     "name:ita_x_preferred":[
         "Barillas"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Cruz Barillas"
     ],
     "name:pol_x_preferred":[
         "Santa Cruz Barillas"
@@ -39,6 +36,9 @@
     ],
     "name:spa_x_preferred":[
         "Santa Cruz Barillas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u5df4\u91cc\u4e9e\u65af"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":421186219,
-    "wof:lastmodified":1514444414,
+    "wof:lastmodified":1561844758,
     "wof:name":"Barillas",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

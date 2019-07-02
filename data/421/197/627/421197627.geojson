@@ -13,23 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af\u57c3\u723e\u55ac\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Cruz El Chol"
     ],
     "name:eng_x_preferred":[
         "Santa Cruz El Chol"
     ],
-    "name:fre_x_preferred":[
-        "Santa Cruz El Chol"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Cruz El Chol"
     ],
     "name:ita_x_preferred":[
         "Santa Cruz el Chol"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Cruz El Chol"
     ],
     "name:pol_x_preferred":[
         "Santa Cruz el Chol"
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "Santa Cruz El Chol"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u57c3\u723e\u55ac\u723e"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":421197627,
-    "wof:lastmodified":1514444437,
+    "wof:lastmodified":1561844760,
     "wof:name":"El Chol",
     "wof:parent_id":1108695323,
     "wof:placetype":"locality",

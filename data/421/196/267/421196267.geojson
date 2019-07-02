@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09cb \u09a4\u09cb\u09ae\u09be\u09b8 \u09a6\u09c7 \u0995\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u6258\u99ac\u65af\u5fb7\u5361\u65af\u8482\u5229\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Santo Tomas de Castilla"
     ],
     "name:deu_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
     ],
-    "name:dut_x_preferred":[
-        "Santo Tom\u00e1s de Castilla"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03bd\u03c4\u03b5 \u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
@@ -42,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
-    ],
-    "name:fre_x_preferred":[
-        "Santo Tom\u00e1s de Castilla"
-    ],
-    "name:ger_x_preferred":[
-        "Santo Tom\u00e1s de Castilla"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03bd\u03c4\u03b5 \u039a\u03b1\u03c3\u03c4\u03af\u03b3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0acb \u0a9f\u0acb\u0aae\u0abe\u0ab8 \u0aa6\u0ac7 \u0a95\u0ac7\u0ab8\u0acd\u0a9f\u0abf\u0ab2\u0abe"
@@ -85,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u094d\u0924\u094b \u091f\u0949\u092e\u0938 \u0926\u0947 \u0915\u0945\u0938\u094d\u091f\u093f\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santo Tomas de Castilla"
     ],
     "name:nld_x_preferred":[
@@ -186,7 +174,7 @@
         }
     ],
     "wof:id":421196267,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1561844759,
     "wof:name":"Puerto Santo Tom\u00e1s de Castilla",
     "wof:parent_id":85671709,
     "wof:placetype":"locality",

@@ -40,23 +40,20 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u1014\u103a\u1010\u102e\u1002\u103d\u102b \u1002\u103d\u102b\u1010\u102e\u1019\u102c\u101c\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Antigua Guatemala"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5730\u74dc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Antigua Guatemala"
     ],
     "name:dan_x_preferred":[
         "Antigua Guatemala"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Antigua Guatemala"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u0393\u03bf\u03c5\u03b1\u03c4\u03b5\u03bc\u03ac\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Antigua Guatemala"
@@ -67,20 +64,11 @@
     "name:fin_x_preferred":[
         "Antigua"
     ],
-    "name:fre_x_preferred":[
-        "Antigua Guatemala"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0-\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Antigua Guatemala"
     ],
     "name:glg_x_preferred":[
         "Antiga Guatemala - Antigua Guatemala"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u0393\u03bf\u03c5\u03b1\u03c4\u03b5\u03bc\u03ac\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9f\u0abf\u0a97\u0ac1\u0a86 \u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe"
@@ -109,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0c82\u0c9f\u0cbf\u0c97\u0cc1\u0cb5\u0cbe \u0c97\u0ccd\u0cb5\u0cbe\u0c9f\u0cc6\u0cae\u0cbe\u0cb2\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0-\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430-\u0413\u0443\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
@@ -130,11 +121,17 @@
     "name:mar_x_preferred":[
         "\u0905\u0901\u091f\u093f\u0917\u093e \u0917\u094d\u0935\u093e\u091f\u0947\u092e\u093e\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Antigua Guatemala"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u1014\u103a\u1010\u102e\u1002\u103d\u102b \u1002\u103d\u102b\u1010\u102e\u1019\u102c\u101c\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nah_x_preferred":[
         "Huehc\u0101uh Cuauht\u0113mall\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Antigua Guatemala"
     ],
     "name:nob_x_preferred":[
         "Antigua Guatemala"
@@ -145,7 +142,7 @@
     "name:por_x_preferred":[
         "Antigua Guatemala"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Antigua"
     ],
     "name:rus_x_preferred":[
@@ -157,7 +154,7 @@
     "name:sin_x_preferred":[
         "\u0d87\u0db1\u0dca\u0da7\u0dd2\u0d9c\u0dd4\u0dc0\u0dcf \u0d9c\u0ddd\u0dad\u0db8\u0dcf\u0dbd\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Antigua Guatemala"
     ],
     "name:sme_x_preferred":[
@@ -198,6 +195,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0-\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5730\u74dc"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -258,7 +258,7 @@
         }
     ],
     "wof:id":421201599,
-    "wof:lastmodified":1555037058,
+    "wof:lastmodified":1561844761,
     "wof:name":"Antigua Guatemala",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

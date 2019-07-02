@@ -13,25 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85\u963f\u63da\u666e\u514b"
-    ],
     "name:deu_x_preferred":[
-        "San Pedro Ayampuc"
-    ],
-    "name:dut_x_preferred":[
         "San Pedro Ayampuc"
     ],
     "name:eng_x_preferred":[
         "San Pedro Ayampuc"
     ],
     "name:fra_x_preferred":[
-        "San Pedro Ayampuc"
-    ],
-    "name:fre_x_preferred":[
-        "San Pedro Ayampuc"
-    ],
-    "name:ger_x_preferred":[
         "San Pedro Ayampuc"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +29,9 @@
         "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30a2\u30e4\u30f3\u30d7\u30af"
     ],
     "name:nah_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
+    "name:nld_x_preferred":[
         "San Pedro Ayampuc"
     ],
     "name:pol_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421168423,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561844752,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

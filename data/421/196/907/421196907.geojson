@@ -16,13 +16,7 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f \u041a\u0430\u043d\u0430\u043b\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7d0d\u840a\u65af\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "Villa Canales"
-    ],
-    "name:dut_x_preferred":[
         "Villa Canales"
     ],
     "name:eng_x_preferred":[
@@ -31,11 +25,8 @@
     "name:fra_x_preferred":[
         "Villa Canales"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "villa Canales"
-    ],
-    "name:ger_x_preferred":[
-        "Villa Canales"
     ],
     "name:ita_x_preferred":[
         "Villa Canales"
@@ -48,6 +39,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilja Kanalesas"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Canales"
     ],
     "name:pol_x_preferred":[
         "Villa Canales"
@@ -120,7 +114,7 @@
         }
     ],
     "wof:id":421196907,
-    "wof:lastmodified":1514444591,
+    "wof:lastmodified":1561844759,
     "wof:name":"Villa Canales",
     "wof:parent_id":1108695679,
     "wof:placetype":"locality",

@@ -34,10 +34,7 @@
     "name:cat_x_preferred":[
         "San Raymundo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cf4\u8499\u591a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Raimundo"
     ],
     "name:eng_x_preferred":[
@@ -46,11 +43,8 @@
     "name:eng_x_variant":[
         "San Raymundo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Raymundo"
-    ],
-    "name:ger_x_preferred":[
-        "San Raimundo"
     ],
     "name:glg_x_preferred":[
         "San Raymundo"
@@ -60,6 +54,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30e9\u30a4\u30e0\u30f3\u30c9"
+    ],
+    "name:nld_x_preferred":[
+        "San Raimundo"
     ],
     "name:pol_x_preferred":[
         "San Raymundo"
@@ -75,6 +72,9 @@
     ],
     "name:swe_x_preferred":[
         "San Raimundo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cf4\u8499\u591a"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":421184717,
-    "wof:lastmodified":1553717432,
+    "wof:lastmodified":1561844762,
     "wof:name":"San Raymundo",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

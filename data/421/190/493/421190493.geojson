@@ -31,16 +31,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6258\u591a\u65af\u6851\u6258\u65af\u5eab\u4e18\u99ac\u5766"
-    ],
-    "name:dut_x_preferred":[
-        "Todos Santos Cuchumat\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:lit_x_preferred":[
         "Todos Santos Ku\u010diumatanas"
+    ],
+    "name:nld_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
     ],
     "name:pol_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
@@ -60,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u591a\u65af\u6851\u6258\u65af\u5eab\u4e18\u99ac\u5766"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":421190493,
-    "wof:lastmodified":1553717489,
+    "wof:lastmodified":1561844760,
     "wof:name":"Todos Santos Cuchumatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

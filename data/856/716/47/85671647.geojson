@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u064a\u062a\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Pet\u00e9n"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u099f\u09c7\u09a8"
     ],
@@ -46,20 +43,14 @@
     "name:ces_x_preferred":[
         "Pet\u00e9n"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u767b\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Pet\u00e9n"
-    ],
     "name:dan_x_preferred":[
         "El Pet\u00e9n"
     ],
     "name:deu_x_preferred":[
         "Departamento Pet\u00e9n"
     ],
-    "name:dut_x_preferred":[
-        "Pet\u00e9n"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pet\u00e9n"
@@ -73,20 +64,11 @@
     "name:fin_x_preferred":[
         "Pet\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement du Pet\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10d4\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Pet\u00e9n"
     ],
     "name:glg_x_preferred":[
         "Departamento de El Pet\u00e9n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c4\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9f\u0ac7\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -112,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0c9f\u0cc6\u0ca8\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10d4\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ud150 \uc8fc"
     ],
@@ -124,10 +109,13 @@
     "name:mar_x_preferred":[
         "\u092a\u0947\u091f\u0947\u0928 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Peten Department"
     ],
     "name:nah_x_preferred":[
+        "Pet\u00e9n"
+    ],
+    "name:nld_x_preferred":[
         "Pet\u00e9n"
     ],
     "name:nob_x_preferred":[
@@ -154,7 +142,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dd9\u0da7\u0dda\u0db1\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pet\u00e9n"
     ],
     "name:sme_x_preferred":[
@@ -190,6 +178,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Pet\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u767b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GTM",
@@ -315,7 +306,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1553550343,
+    "wof:lastmodified":1561844729,
     "wof:name":"Pet\u00e9n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

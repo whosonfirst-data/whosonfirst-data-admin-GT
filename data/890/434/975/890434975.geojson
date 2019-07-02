@@ -15,19 +15,16 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u54c8\u723e\u5e15\u5854\u74dc"
-    ],
-    "name:dut_x_preferred":[
-        "Jalpatagua"
-    ],
     "name:eng_x_preferred":[
         "Jalpatagua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jalpatagua"
     ],
     "name:ita_x_preferred":[
+        "Jalpatagua"
+    ],
+    "name:nld_x_preferred":[
         "Jalpatagua"
     ],
     "name:pol_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0644\u067e\u062a\u0627\u06af\u0648\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u723e\u5e15\u5854\u74dc"
     ],
     "qs:name":"Jalpatagua",
     "qs:photos_9r":0,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":890434975,
-    "wof:lastmodified":1527792950,
+    "wof:lastmodified":1561844767,
     "wof:name":"Jalpatagua",
     "wof:parent_id":1108695369,
     "wof:placetype":"locality",

@@ -31,22 +31,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u963f\u99ac\u7279\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los Amates"
     ],
     "name:eng_x_preferred":[
         "Los Amates"
     ],
-    "name:fre_x_preferred":[
-        "Los Amates"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Amates"
     ],
     "name:ita_x_preferred":[
+        "Los Amates"
+    ],
+    "name:nld_x_preferred":[
         "Los Amates"
     ],
     "name:pol_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Los Amates"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u963f\u99ac\u7279\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":421196435,
-    "wof:lastmodified":1555037066,
+    "wof:lastmodified":1561844759,
     "wof:name":"Los Amates",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

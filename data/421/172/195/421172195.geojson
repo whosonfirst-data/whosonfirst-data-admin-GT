@@ -13,19 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u62c9\u963f\u62c9\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9 La Arada"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 La Arada"
     ],
     "name:fra_x_preferred":[
-        "San Jos\u00e9 La Arada"
-    ],
-    "name:fre_x_preferred":[
         "San Jos\u00e9 La Arada"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +24,9 @@
     ],
     "name:nah_x_preferred":[
         "San Jos\u00e9 la Arada"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 La Arada"
     ],
     "name:pol_x_preferred":[
         "San Jos\u00e9 La Arada"
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421172195,
-    "wof:lastmodified":1527716299,
+    "wof:lastmodified":1561844757,
     "wof:name":"San Jos\u00e9 la Arada",
     "wof:parent_id":1108695525,
     "wof:placetype":"locality",

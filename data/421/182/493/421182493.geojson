@@ -16,22 +16,19 @@
     "name:cat_x_preferred":[
         "Chajul"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u80e1\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Chajul"
-    ],
     "name:eng_x_preferred":[
         "Chajul"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chajul"
     ],
     "name:ita_x_preferred":[
         "Chajul"
     ],
     "name:nah_x_preferred":[
+        "Chajul"
+    ],
+    "name:nld_x_preferred":[
         "Chajul"
     ],
     "name:pol_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0648\u0627\u062e\u0648\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u80e1\u723e"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPLA2",
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":421182493,
-    "wof:lastmodified":1527726458,
+    "wof:lastmodified":1561844765,
     "wof:name":"Chajul",
     "wof:parent_id":1108695287,
     "wof:placetype":"locality",

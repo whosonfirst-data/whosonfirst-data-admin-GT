@@ -13,19 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u5fb7\u96f7\u65af\u85a9\u8d6b\u5361\u74e6\u54c8"
-    ],
-    "name:dut_x_preferred":[
-        "San Andr\u00e9s Sajcabaj\u00e1"
-    ],
     "name:eng_x_preferred":[
         "San Andr\u00e9s Sajcabaj\u00e1"
     ],
     "name:fra_x_preferred":[
-        "San Andr\u00e9s Sajcabaj\u00e1"
-    ],
-    "name:fre_x_preferred":[
         "San Andr\u00e9s Sajcabaj\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +88,7 @@
         }
     ],
     "wof:id":421179187,
-    "wof:lastmodified":1527717706,
+    "wof:lastmodified":1561844764,
     "wof:name":"San Andr\u00e9s Sajcabaj\u00e1",
     "wof:parent_id":1108695463,
     "wof:placetype":"locality",

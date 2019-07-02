@@ -18,19 +18,13 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041b\u0443\u0441\u0438\u044f \u041a\u043e\u0446\u0443\u043c\u0430\u043b\u0433\u0443\u0430\u043f\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u76e7\u897f\u4e9e\u79d1\u7279\u8607\u99ac\u723e\u74dc\u5e15"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
-    "name:fre_x_preferred":[
-        "Santa Luc\u00eda Cotzumalguapa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
     "name:ita_x_preferred":[
@@ -38,6 +32,9 @@
     ],
     "name:lit_x_preferred":[
         "Santa Lusija Kocumalguapa"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
     ],
     "name:pol_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
@@ -53,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Santa Luc\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u79d1\u7279\u8607\u99ac\u723e\u74dc\u5e15"
     ],
     "qs:name":"Santa Luc\u00eda Cotzumalguapa",
     "qs:photos_9r":0,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890429637,
-    "wof:lastmodified":1527792795,
+    "wof:lastmodified":1561844767,
     "wof:name":"Santa Luc\u00eda Cotzumalguapa",
     "wof:parent_id":421184715,
     "wof:placetype":"locality",

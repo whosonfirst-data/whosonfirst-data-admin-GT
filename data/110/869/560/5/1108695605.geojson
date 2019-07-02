@@ -33,22 +33,19 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0430\u0440\u0430\u0442\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u7d0d\u62c9\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sanarate"
     ],
     "name:eng_x_preferred":[
         "Sanarate"
     ],
-    "name:fre_x_preferred":[
-        "Sanarate"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanarate"
     ],
     "name:ita_x_preferred":[
+        "Sanarate"
+    ],
+    "name:nld_x_preferred":[
         "Sanarate"
     ],
     "name:pol_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Sanarate"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u7d0d\u62c9\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1108695605,
-    "wof:lastmodified":1553718281,
+    "wof:lastmodified":1561844740,
     "wof:name":"Sanarate",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

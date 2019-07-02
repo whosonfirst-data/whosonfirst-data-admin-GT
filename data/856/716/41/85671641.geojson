@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0647\u064a\u0648\u064a\u062a\u064a\u0646\u0627\u0646\u063a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Huehuetenango"
-    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u0993\u09af\u09bc\u09c7\u09a4\u09c7\u09a8\u09be\u09a8\u0997\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -43,14 +40,14 @@
     "name:cat_x_preferred":[
         "Departament de Huehuetenango"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u97cb\u7279\u5357\u6208\u7701"
-    ],
     "name:dan_x_preferred":[
         "Huehuetenango Department"
     ],
-    "name:dut_x_preferred":[
-        "Huehuetenango"
+    "name:deu_x_preferred":[
+        "Departamento Huehuetenango"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b5\u03c7\u03bf\u03c5\u03b5\u03c4\u03b5\u03bd\u03ac\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Huehuetenango"
@@ -58,23 +55,17 @@
     "name:epo_x_preferred":[
         "Huehuetenango"
     ],
+    "name:eus_x_preferred":[
+        "Huehuetenango"
+    ],
     "name:fin_x_preferred":[
         "Huehuetenangon departmentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Huehuetenango"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d4\u10e3\u10d4\u10e2\u10d4\u10dc\u10d0\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Huehuetenango"
     ],
     "name:glg_x_preferred":[
         "Departamento de Huehuetenango"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03b5\u03c7\u03bf\u03c5\u03b5\u03c4\u03b5\u03bd\u03ac\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a8f\u0ab9\u0ac1\u0a8f\u0a9f\u0ac7\u0aa8\u0abe\u0a82\u0a97\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cb9\u0ccd\u0caf\u0cc1\u0cb9\u0cc6\u0c9f\u0cc6\u0ca8\u0cbe\u0c82\u0c97\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d4\u10e3\u10d4\u10e2\u10d4\u10dc\u10d0\u10dc\u10d2\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc5d0\uc6b0\uc5d0\ud14c\ub0ad\uace0 \uc8fc"
     ],
@@ -109,11 +103,14 @@
     "name:mar_x_preferred":[
         "\u0939\u094d\u0935\u0947\u0939\u0941\u0924\u0947\u0928\u0947\u0902\u0917\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Huehuetenango Department"
     ],
     "name:nah_x_preferred":[
         "\u0100hu\u0113hu\u0113t\u0113nanco"
+    ],
+    "name:nld_x_preferred":[
+        "Huehuetenango"
     ],
     "name:nob_x_preferred":[
         "Huehuetenango"
@@ -136,7 +133,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0dd2\u0dba\u0dd4\u0dc4\u0dd2\u0dba\u0dd4\u0da7\u0dd9\u0db1\u0db1\u0dca\u0d9c\u0ddd \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Huehuetenango"
     ],
     "name:sme_x_preferred":[
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "Huehuetenango"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u97cb\u7279\u5357\u6208\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GTM",
@@ -296,7 +296,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1553550342,
+    "wof:lastmodified":1561844729,
     "wof:name":"Huehuetenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

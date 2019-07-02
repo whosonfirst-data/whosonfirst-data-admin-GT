@@ -30,19 +30,16 @@
     "mps:longitude":-89.715467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u8def\u6613\u5e0c\u6d1b\u7279\u4f69\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "San Luis Jilotepeque"
-    ],
     "name:eng_x_preferred":[
         "San Luis Jilotepeque"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Luis Jilotepeque"
     ],
     "name:ita_x_preferred":[
+        "San Luis Jilotepeque"
+    ],
+    "name:nld_x_preferred":[
         "San Luis Jilotepeque"
     ],
     "name:pol_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "San Luis Jilotepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u5e0c\u6d1b\u7279\u4f69\u514b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108695545,
-    "wof:lastmodified":1555037514,
+    "wof:lastmodified":1561844747,
     "wof:name":"San Luis Jilotepeque",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

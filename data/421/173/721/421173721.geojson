@@ -31,22 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u963f\u8482\u5766"
-    ],
-    "name:dut_x_preferred":[
-        "San Juan Atit\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "San Juan Atit\u00e1n"
     ],
     "name:fra_x_preferred":[
         "San Juan Atit\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "San Juan Atit\u00e1n"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "San Juan Atit\u00e1n"
     ],
     "name:pol_x_preferred":[
@@ -129,7 +123,7 @@
         }
     ],
     "wof:id":421173721,
-    "wof:lastmodified":1553717353,
+    "wof:lastmodified":1561844757,
     "wof:name":"San Juan Atitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

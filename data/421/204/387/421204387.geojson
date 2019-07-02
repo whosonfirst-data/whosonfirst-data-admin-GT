@@ -34,22 +34,16 @@
     "name:ara_x_preferred":[
         "\u0642\u0633\u0645 \u0631\u064a\u062a\u0627\u0644\u0647\u0648\u0644\u064a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Retalhuleu"
-    ],
-    "name:chi_x_preferred":[
-        "\u96f7\u5854\u76e7\u840a\u70cf"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Retalhuleu"
     ],
     "name:eng_x_preferred":[
         "Retalhuleu"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Retalhuleu"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Retalhuleu"
     ],
     "name:ita_x_preferred":[
@@ -65,6 +59,9 @@
         "Retalhuleu"
     ],
     "name:nah_x_preferred":[
+        "Retalhuleu"
+    ],
+    "name:nld_x_preferred":[
         "Retalhuleu"
     ],
     "name:pol_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0442\u0430\u043b\u0443\u043b\u0435\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u5854\u76e7\u840a\u70cf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":421204387,
-    "wof:lastmodified":1553717582,
+    "wof:lastmodified":1561844755,
     "wof:name":"Retalhuleu",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

@@ -19,10 +19,7 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0447\u0438\u043a\u0430\u0441\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u5947\u5361\u65af\u7279\u5357\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chichicastenango"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +28,7 @@
     "name:fin_x_preferred":[
         "Chichicastenango"
     ],
-    "name:fre_x_preferred":[
-        "Chichicastenango"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chichicastenango"
     ],
     "name:heb_x_preferred":[
@@ -78,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0686\u06cc\u06a9\u0627\u0633\u062a\u06cc\u0646\u0627\u0646\u06af\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u5947\u5361\u65af\u7279\u5357\u6208"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":421186589,
-    "wof:lastmodified":1514444574,
+    "wof:lastmodified":1561844758,
     "wof:name":"Santo Tom\u00e1s Chichicastenango",
     "wof:parent_id":421171687,
     "wof:placetype":"locality",

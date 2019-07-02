@@ -30,19 +30,16 @@
     "mps:longitude":-90.677049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u76e7\u897f\u4e9e\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Luc\u00eda Milpas Altas"
-    ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
     ],
     "name:ita_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:nld_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
     ],
     "name:pol_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e\u7c73\u723e\u5e15\u65af\u963f\u723e\u5854\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108695631,
-    "wof:lastmodified":1553718282,
+    "wof:lastmodified":1561844745,
     "wof:name":"Santa Lucia Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

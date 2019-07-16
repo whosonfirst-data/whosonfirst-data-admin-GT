@@ -59,6 +59,9 @@
     "name:epo_x_preferred":[
         "Departemento Su\u0109itepekezo"
     ],
+    "name:epo_x_variant":[
+        "Su\u0109itepekezo"
+    ],
     "name:eus_x_preferred":[
         "Suchitep\u00e9quez"
     ],
@@ -69,7 +72,11 @@
         "D\u00e9partement de Suchitep\u00e9quez"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de Suchitep\u00e9quez"
+        "d\u00e9partement de Suchitep\u00e9quez",
+        "Suchitep\u00e9quez"
+    ],
+    "name:frr_x_preferred":[
+        "Suchitep\u00e9quez"
     ],
     "name:glg_x_preferred":[
         "Departamento de Suchitep\u00e9quez"
@@ -100,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\uce58\ud14c\ud398\ucf00\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Suchitepequez"
     ],
     "name:lav_x_preferred":[
         "Su\u010ditepekesas departaments"
@@ -161,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e0a\u0e35\u0e40\u0e15\u0e40\u0e1b\u0e40\u0e01\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e0a\u0e34\u0e40\u0e15\u0e40\u0e1b\u0e40\u0e01\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Suchitep\u00e9quez District"
@@ -304,7 +317,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844729,
+    "wof:lastmodified":1563288561,
     "wof:name":"Suchitep\u00e9quez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

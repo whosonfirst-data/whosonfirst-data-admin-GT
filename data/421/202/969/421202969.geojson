@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Antonio La Paz"
+    ],
     "name:deu_x_preferred":[
         "San Antonio La Paz"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421202969,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289629,
     "wof:name":"San Antonio la Paz",
     "wof:parent_id":1108695477,
     "wof:placetype":"locality",

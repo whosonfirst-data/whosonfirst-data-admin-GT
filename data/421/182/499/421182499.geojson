@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Almolonga"
+    ],
     "name:eng_x_preferred":[
         "Almolonga"
     ],
@@ -20,7 +23,8 @@
         "\u0627\u0644\u0645\u0648\u0644\u0627\u0646\u06af\u0627\u060c \u06a9\u062a\u0633\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0644\u0645\u0648\u0644\u0627\u0646\u06af\u0627\u060c \u06a9\u0648\u0626\u062a\u0632\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648"
+        "\u0627\u0644\u0645\u0648\u0644\u0627\u0646\u06af\u0627\u060c \u06a9\u0648\u0626\u062a\u0632\u0627\u0644\u062a\u0646\u0627\u0646\u06af\u0648",
+        "\u0627\u0644\u0645\u0648\u0644\u0627\u0646\u06af\u0627"
     ],
     "name:fra_x_preferred":[
         "Almolonga"
@@ -45,6 +49,12 @@
     ],
     "name:spa_x_preferred":[
         "Almolonga"
+    ],
+    "name:swe_x_preferred":[
+        "Almolonga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u0648\u0644\u0648\u0646\u06af\u0627"
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u83ab\u9686\u52a0"
@@ -100,7 +110,7 @@
         }
     ],
     "wof:id":421182499,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289747,
     "wof:name":"Almolonga",
     "wof:parent_id":1108695259,
     "wof:placetype":"locality",

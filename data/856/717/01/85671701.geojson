@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "El Progreso"
     ],
+    "name:eng_x_variant":[
+        "El Progreso Department"
+    ],
     "name:epo_x_preferred":[
         "Progreso"
     ],
@@ -62,6 +65,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement d'El Progreso"
+    ],
+    "name:fra_x_variant":[
+        "El Progreso"
+    ],
+    "name:frr_x_preferred":[
+        "El Progreso"
     ],
     "name:glg_x_preferred":[
         "Departamento de El Progreso"
@@ -92,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ud504\ub85c\uadf8\ub808\uc18c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "El Progreso"
     ],
     "name:lav_x_preferred":[
         "Elprogreso departaments"
@@ -155,6 +167,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25\u0e42\u0e1b\u0e23\u0e40\u0e01\u0e42\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25\u0e42\u0e1b\u0e23\u0e40\u0e01\u0e42\u0e0b"
     ],
     "name:tur_x_preferred":[
         "El Progreso Departman\u0131"
@@ -298,7 +313,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288551,
     "wof:name":"El Progreso",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

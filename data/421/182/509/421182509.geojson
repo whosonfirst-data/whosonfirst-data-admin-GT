@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Santa Cruz Verapaz"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Cruz Verapaz"
+    ],
     "name:deu_x_preferred":[
         "Santa Cruz Verapaz"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421182509,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289749,
     "wof:name":"Santa Cruz Verapaz",
     "wof:parent_id":421166811,
     "wof:placetype":"locality",

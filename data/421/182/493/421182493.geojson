@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Chajul"
     ],
+    "name:ceb_x_preferred":[
+        "Chajul"
+    ],
     "name:eng_x_preferred":[
         "Chajul"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421182493,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289750,
     "wof:name":"Chajul",
     "wof:parent_id":1108695287,
     "wof:placetype":"locality",

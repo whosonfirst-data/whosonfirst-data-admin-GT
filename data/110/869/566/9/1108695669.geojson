@@ -30,11 +30,17 @@
     "mps:longitude":-89.81094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Teculut\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Teculut\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Teculut\u00e1n"
+    ],
+    "name:eng_x_variant":[
+        "pericaines"
     ],
     "name:fra_x_preferred":[
         "Teculut\u00e1n"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108695669,
-    "wof:lastmodified":1561844741,
+    "wof:lastmodified":1563289252,
     "wof:name":"Teculutan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

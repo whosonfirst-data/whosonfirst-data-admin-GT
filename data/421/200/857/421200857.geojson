@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Andr\u00e9s Itzapa"
+    ],
     "name:eng_x_preferred":[
         "San Andr\u00e9s Itzapa"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421200857,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289693,
     "wof:name":"San Andr\u00e9s Itzapa",
     "wof:parent_id":421188897,
     "wof:placetype":"locality",

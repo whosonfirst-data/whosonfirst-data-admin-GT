@@ -52,8 +52,14 @@
     "name:eng_x_preferred":[
         "Quich\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Quich\u00e9 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Ki\u0109eo"
+    ],
+    "name:epo_x_variant":[
+        "Ki\u0109eo"
     ],
     "name:eus_x_preferred":[
         "Quich\u00e9"
@@ -65,7 +71,11 @@
         "D\u00e9partement du Quich\u00e9"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement du Quich\u00e9"
+        "d\u00e9partement du Quich\u00e9",
+        "Quich\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Quich\u00e9"
     ],
     "name:glg_x_preferred":[
         "Departamento de El Quich\u00e9"
@@ -96,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a4\uccb4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Quich\u00e9"
     ],
     "name:lav_x_preferred":[
         "Ki\u010des departaments"
@@ -157,6 +170,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e2e\u0e4c\u0e40\u0e0b\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e34\u0e40\u0e0a"
     ],
     "name:tur_x_preferred":[
         "Quiche Departman\u0131"
@@ -300,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844727,
+    "wof:lastmodified":1563288546,
     "wof:name":"Quich\u00e9",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

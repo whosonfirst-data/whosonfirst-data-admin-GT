@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Panz\u00f3s"
+    ],
     "name:deu_x_preferred":[
         "Panz\u00f3s"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421198147,
-    "wof:lastmodified":1561844759,
+    "wof:lastmodified":1563289671,
     "wof:name":"Panz\u00f3s",
     "wof:parent_id":1108695433,
     "wof:placetype":"locality",

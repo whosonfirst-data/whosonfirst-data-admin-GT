@@ -13,6 +13,393 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:afr_x_preferred":[
+        "Johanna van Arkel"
+    ],
+    "name:amh_x_preferred":[
+        "\u12e3\u1295 \u12f3\u122d\u12ad"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0646 \u062f\u0627\u0631\u0643"
+    ],
+    "name:arg_x_preferred":[
+        "Chuana d'Arco"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0646 \u062f\u0627\u0631\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Xuana d'Arcu"
+    ],
+    "name:aze_x_preferred":[
+        "Janna d'Ark"
+    ],
+    "name:bak_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:bar_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:bcl_x_preferred":[
+        "Joan of Arc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434'\u0410\u0440\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09cb\u09a8 \u0985\u09ab \u0986\u09b0\u09cd\u0995"
+    ],
+    "name:bos_x_preferred":[
+        "Ivana Orleanska"
+    ],
+    "name:bre_x_preferred":[
+        "Janed Ark"
+    ],
+    "name:bul_x_preferred":[
+        "\u0416\u0430\u043d\u0430 \u0434'\u0410\u0440\u043a"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434'\u0410\u0440\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Joana d'Arc"
+    ],
+    "name:ces_x_preferred":[
+        "Jana z Arku"
+    ],
+    "name:che_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0698\u0627\u0646 \u062f\u0627\u0631\u06a9"
+    ],
+    "name:cym_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:dan_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:deu_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c9\u03ac\u03bd\u03bd\u03b1 \u03c4\u03b7\u03c2 \u039b\u03c9\u03c1\u03b1\u03af\u03bd\u03b7\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "\u015av\u00e0na 'd Arc"
+    ],
+    "name:eng_x_preferred":[
+        "Joan of Arc"
+    ],
+    "name:est_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:eus_x_preferred":[
+        "Joana Arc-ekoa"
+    ],
+    "name:fao_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0646 \u062f\u0627\u0631\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:fra_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:frp_x_preferred":[
+        "Jiana d'\u00c2rc"
+    ],
+    "name:fry_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:gan_x_preferred":[
+        "\u8056\u5973\u8c9e\u5fb7"
+    ],
+    "name:gle_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:gsw_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d0\u05df \u05d3'\u05d0\u05e8\u05e7"
+    ],
+    "name:hif_x_preferred":[
+        "Joan of Arc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u094b\u0928 \u0911\u092b\u093c \u0906\u0930\u094d\u0915"
+    ],
+    "name:hrv_x_preferred":[
+        "Ivana Orleanska"
+    ],
+    "name:hun_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:hye_x_preferred":[
+        "\u053a\u0561\u0576\u0576\u0561 \u0564'\u0531\u0580\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053a\u0561\u0576\u0576 \u057f'\u0531\u0580\u0584"
+    ],
+    "name:ido_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:ilo_x_preferred":[
+        "Juana ti Arko"
+    ],
+    "name:ina_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:ind_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:isl_x_preferred":[
+        "J\u00f3hanna af \u00d6rk"
+    ],
+    "name:ita_x_preferred":[
+        "Giovanna d'Arco"
+    ],
+    "name:jam_x_preferred":[
+        "Joan of Arc"
+    ],
+    "name:jav_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30f3\u30cc\u30fb\u30c0\u30eb\u30af"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0ccb\u0ca8\u0ccd \u0c86\u0cab\u0ccd \u0c86\u0cb0\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10dc \u10d3\u2019\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0414' \u0410\u0440\u043a"
+    ],
+    "name:kbp_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434'\u0410\u0440\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc794 \ub2e4\ub974\ud06c"
+    ],
+    "name:krc_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:kur_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:lav_x_preferred":[
+        "\u017danna d'Arka"
+    ],
+    "name:lij_x_preferred":[
+        "Zana d'\u00c6rco"
+    ],
+    "name:lim_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:lit_x_preferred":[
+        "\u017dana d'Ark"
+    ],
+    "name:lmo_x_preferred":[
+        "Gioanna d'Arch"
+    ],
+    "name:ltz_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8056\u5973\u8c9e\u5fb7"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u094b\u0928 \u0905\u092b \u0905\u0930\u094d\u0915"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d4b\u0d7b \u0d13\u0d2b\u0d4d \u0d06\u0d7c\u0d15\u0d4d\u0d15\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u094b\u0928 \u0911\u092b \u0906\u0930\u094d\u0915"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0408\u043e\u0432\u0430\u043d\u043a\u0430 \u041e\u0440\u043b\u0435\u0430\u043d\u043a\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:mwl_x_preferred":[
+        "Joana d'Arc"
+    ],
+    "name:mya_x_preferred":[
+        "\u1002\u103b\u102f\u1014\u103a\u1038\u1021\u1031\u102c\u1037\u1021\u1010\u103a"
+    ],
+    "name:nan_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:nau_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:nds_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u094b\u0928 \u0905\u092b \u0905\u0930\u094d\u0915"
+    ],
+    "name:nld_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:nno_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:nob_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:nov_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:nrm_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:oci_x_preferred":[
+        "Joana d'Arc"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b1c\u0b4b\u0b06\u0b28 \u0b05\u0b2b \u0b06\u0b30\u0b4d\u0b15"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a4c\u0a28 \u0a06\u0a2b\u0a3c \u0a06\u0a30\u0a15"
+    ],
+    "name:pcd_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:pms_x_preferred":[
+        "Gioana d'Arch"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0648\u0646 \u0622\u0641 \u0622\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Joanna d'Arc"
+    ],
+    "name:por_x_preferred":[
+        "Joana d'Arc"
+    ],
+    "name:ron_x_preferred":[
+        "Ioana d'Arc"
+    ],
+    "name:rue_x_preferred":[
+        "\u042f\u043d\u0430 \u0437 \u0410\u0440\u043a\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:sah_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5a\u1c63\u1c5f\u1c71 \u1c5a\u1c75\u1c7d \u1c5f\u1c68\u1c60"
+    ],
+    "name:scn_x_preferred":[
+        "Giuvanna d'Arcu"
+    ],
+    "name:sco_x_preferred":[
+        "Joan o Arc"
+    ],
+    "name:sgs_x_preferred":[
+        "\u017dana d'Ark"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0ddd\u0db1\u0dca \u0d94\u0dc6\u0dca \u0d86\u0dbb\u0dca\u0d9a\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Jana z Arku"
+    ],
+    "name:slv_x_preferred":[
+        "Ivana Orleanska"
+    ],
+    "name:sqi_x_preferred":[
+        "Zhan d arke"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0432\u0430\u043d\u043a\u0430 \u041e\u0440\u043b\u0435\u0430\u043d\u043a\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:swe_x_preferred":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bcb\u0ba9\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0b86\u0bb0\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c4b\u0c28\u0c4d \u0c06\u0c2b\u0c4d \u0c06\u0c30\u0c4d\u0c15\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Juana ng Arko"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e22\u0e19\u0e2d\u0e2d\u0e1f\u0e2d\u0e32\u0e23\u0e4c\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430 \u0434'\u0410\u0440\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0648\u0646 \u0622\u0641 \u0622\u0631\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Janna d\u02bcArk"
+    ],
+    "name:vep_x_preferred":[
+        "\u017danna d'Ark"
+    ],
+    "name:vie_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:war_x_preferred":[
+        "Juana han Arko"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5973\u8d1e\u5fb7"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10df\u10d0\u10dc\u10d0 \u10d3'\u10d0\u10e0\u10d9\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d6\u05e9\u05d0\u05df \u05d3'\u05d0\u05e8\u05e7"
+    ],
+    "name:yue_x_preferred":[
+        "\u8056\u5973\u8c9e\u5fb7"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5973\u8c9e\u5fb7"
+    ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3595120,
@@ -34,10 +421,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":10404,
     "wof:belongsto":[
+        85671681,
         102191575,
         85632385,
-        421191461,
-        85671681
+        421191461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +447,7 @@
         }
     ],
     "wof:id":421199809,
-    "wof:lastmodified":1531858770,
+    "wof:lastmodified":1563289691,
     "wof:name":"Juana de Arco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

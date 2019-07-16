@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Flores Costa Cuca"
+    ],
     "name:eng_x_preferred":[
         "Flores Costa Cuca"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421181347,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289663,
     "wof:name":"Flores Costa Cuca",
     "wof:parent_id":1108695351,
     "wof:placetype":"locality",

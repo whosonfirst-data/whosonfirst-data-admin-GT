@@ -16,11 +16,17 @@
     "name:cat_x_preferred":[
         "Gual\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Gual\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Gual\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Gualan"
+    ],
+    "name:eng_x_variant":[
+        "El Salvador"
     ],
     "name:fra_x_preferred":[
         "Gual\u00e1n"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421193561,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289601,
     "wof:name":"Gual\u00e1n",
     "wof:parent_id":421166783,
     "wof:placetype":"locality",

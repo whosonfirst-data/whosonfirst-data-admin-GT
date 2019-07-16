@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cajol\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Cajol\u00e1"
     ],
@@ -35,6 +38,9 @@
         "Cajol\u00e1"
     ],
     "name:spa_x_preferred":[
+        "Cajol\u00e1"
+    ],
+    "name:swe_x_preferred":[
         "Cajol\u00e1"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421193081,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289605,
     "wof:name":"Cajol\u00e1",
     "wof:parent_id":1108695569,
     "wof:placetype":"locality",

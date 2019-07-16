@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
     "name:deu_x_preferred":[
         "San Pedro Ayampuc"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421168423,
-    "wof:lastmodified":1561844752,
+    "wof:lastmodified":1563289589,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

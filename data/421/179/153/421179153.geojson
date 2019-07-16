@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Clara La Laguna"
+    ],
     "name:eng_x_preferred":[
         "Santa Clara La Laguna"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421179153,
-    "wof:lastmodified":1561844764,
+    "wof:lastmodified":1563289733,
     "wof:name":"Santa Clara la Laguna",
     "wof:parent_id":421172515,
     "wof:placetype":"locality",

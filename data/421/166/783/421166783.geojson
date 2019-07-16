@@ -34,11 +34,17 @@
     "name:cat_x_preferred":[
         "Gual\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Gual\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Gual\u00e1n"
     ],
     "name:eng_x_preferred":[
         "Gual\u00e1n"
+    ],
+    "name:eng_x_variant":[
+        "El Salvador"
     ],
     "name:fra_x_preferred":[
         "Gual\u00e1n"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421166783,
-    "wof:lastmodified":1561844752,
+    "wof:lastmodified":1563289592,
     "wof:name":"Gualan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0430\u0440\u0430\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sanarate"
+    ],
     "name:deu_x_preferred":[
         "Sanarate"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695605,
-    "wof:lastmodified":1561844740,
+    "wof:lastmodified":1563289243,
     "wof:name":"Sanarate",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

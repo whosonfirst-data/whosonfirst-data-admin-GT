@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Colotenango"
+    ],
     "name:eng_x_preferred":[
         "Colotenango"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421197631,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289689,
     "wof:name":"Colotenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

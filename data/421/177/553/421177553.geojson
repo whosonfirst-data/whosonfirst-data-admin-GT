@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Bartolom\u00e9 Jocotenango"
+    ],
     "name:eng_x_preferred":[
         "San Bartolom\u00e9 Jocotenango"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421177553,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289719,
     "wof:name":"San Bartolom\u00e9 Jocotenango",
     "wof:parent_id":1108695481,
     "wof:placetype":"locality",

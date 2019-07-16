@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nahual\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Nahual\u00e1"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421177499,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289717,
     "wof:name":"Nahual\u00e1",
     "wof:parent_id":421184397,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0647 \u062c\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Ciud\u00e1 de Guatemala"
     ],
@@ -62,6 +68,9 @@
     "name:cdo_x_preferred":[
         "Guatemala Ch\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Guatemala City"
+    ],
     "name:ces_x_preferred":[
         "Ciudad de Guatemala"
     ],
@@ -71,8 +80,14 @@
     "name:cym_x_preferred":[
         "Dinas Guatemala"
     ],
+    "name:cym_x_variant":[
+        "Dinas Gwatemala"
+    ],
     "name:dan_x_preferred":[
         "Guatemala City"
+    ],
+    "name:dan_x_variant":[
+        "Guatamala City"
     ],
     "name:deu_x_preferred":[
         "Guatemala-Stadt"
@@ -109,6 +124,9 @@
     ],
     "name:fra_x_preferred":[
         "Guatemala"
+    ],
+    "name:fra_x_variant":[
+        "Guatemala-Ville"
     ],
     "name:fry_x_preferred":[
         "G\u00fbatemala-St\u00ead"
@@ -204,6 +222,12 @@
     "name:lmo_x_preferred":[
         "Cit\u00e0 del Guatemala"
     ],
+    "name:ltz_x_preferred":[
+        "Guatemala-Stad"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d35\u0d3e\u0d1f\u0d4d\u0d1f\u0d3f\u0d2e\u0d3e\u0d32 \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0924\u0947\u092e\u093e\u0932\u093e \u0938\u093f\u091f\u0940"
     ],
@@ -242,6 +266,9 @@
     ],
     "name:oci_x_preferred":[
         "Ciutat de Guatemala"
+    ],
+    "name:olo_x_preferred":[
+        "Gvatemala"
     ],
     "name:oss_x_preferred":[
         "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u00e6"
@@ -316,6 +343,9 @@
     "name:swe_x_preferred":[
         "Guatemala City"
     ],
+    "name:szl_x_preferred":[
+        "Gwatymala"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb5\u0bbe\u0ba4\u0bcd\u0ba4\u0bae\u0bbe\u0bb2\u0bbe \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -324,6 +354,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Guwatemala"
+    ],
+    "name:tgl_x_variant":[
+        "Lungsod ng Guatemala"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32\u0e0b\u0e34\u0e15\u0e35"
@@ -363,6 +396,9 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Guatemala"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5371\u5730\u9a6c\u62c9\u57ce"
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10d0"
@@ -523,7 +559,7 @@
         }
     ],
     "wof:id":421169087,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289616,
     "wof:name":"Ciudad de Guatemala",
     "wof:parent_id":421191461,
     "wof:placetype":"locality",

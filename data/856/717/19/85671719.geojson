@@ -52,6 +52,9 @@
     "name:eng_x_preferred":[
         "Jalapa"
     ],
+    "name:eng_x_variant":[
+        "Jalapa Department"
+    ],
     "name:epo_x_preferred":[
         "Halapo"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Jalapa"
+    ],
+    "name:fra_x_variant":[
+        "Jalapa"
+    ],
+    "name:frr_x_preferred":[
+        "Jalapa"
     ],
     "name:glg_x_preferred":[
         "Departamento de Jalapa"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud560\ub77c\ud30c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Jalapa"
     ],
     "name:lav_x_preferred":[
         "Halapas departaments"
@@ -153,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e25\u0e32\u0e1b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2e\u0e32\u0e25\u0e32\u0e1b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Jalapa Departman\u0131"
@@ -296,7 +311,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288549,
     "wof:name":"Jalapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

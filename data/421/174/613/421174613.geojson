@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Soloma"
+    ],
     "name:eng_x_preferred":[
         "San Pedro Soloma"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421174613,
-    "wof:lastmodified":1561844756,
+    "wof:lastmodified":1563289633,
     "wof:name":"Soloma",
     "wof:parent_id":1108695657,
     "wof:placetype":"locality",

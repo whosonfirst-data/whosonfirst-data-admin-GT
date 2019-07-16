@@ -15,6 +15,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Santiago Atitl\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Santiago Atitl\u00e1n"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890441891,
-    "wof:lastmodified":1561844767,
+    "wof:lastmodified":1563289767,
     "wof:name":"Santiago Atitl\u00e1n",
     "wof:parent_id":1108695601,
     "wof:placetype":"locality",

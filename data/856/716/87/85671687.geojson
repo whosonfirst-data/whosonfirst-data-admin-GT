@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0627\u062a\u064a\u0628\u064a\u0643\u064a\u0632"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0643\u0627\u062a\u064a\u0628\u064a\u0643\u064a\u0632"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0995\u09be\u09a4\u09c7\u09aa\u09c7\u0995\u09c1\u09af\u09bc\u09c7\u099c \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -55,11 +58,20 @@
     "name:eng_x_preferred":[
         "Sacatep\u00e9quez"
     ],
+    "name:eng_x_variant":[
+        "Sacatep\u00e9quez Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Sakatepekezo"
     ],
+    "name:epo_x_variant":[
+        "Sakatepekezo"
+    ],
     "name:eus_x_preferred":[
         "Sacatep\u00e9quez"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u06a9\u0627\u062a\u067e\u06a9\u0633"
     ],
     "name:fin_x_preferred":[
         "Sacatep\u00e9quezin departementti"
@@ -68,7 +80,11 @@
         "D\u00e9partement de Sacatep\u00e9quez"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de Sacatep\u00e9quez"
+        "d\u00e9partement de Sacatep\u00e9quez",
+        "Sacatep\u00e9quez"
+    ],
+    "name:frr_x_preferred":[
+        "Sacatep\u00e9quez"
     ],
     "name:glg_x_preferred":[
         "Departamento de Sacatep\u00e9quez"
@@ -102,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uce74\ud14c\ud398\ucf00\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Sacatep\u00e9quez"
     ],
     "name:lav_x_preferred":[
         "Sakatepekeso departaments"
@@ -306,7 +325,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844729,
+    "wof:lastmodified":1563288557,
     "wof:name":"Sacatepequez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

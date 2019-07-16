@@ -14,8 +14,71 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0430\u0441\u0442\u0430\u0442\u043e\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:deu_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:eng_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:eus_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:fra_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:ita_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30b9\u30bf\u30c8\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\uacfc\uc2a4\ud0c0\ud1a0\uc57c"
+    ],
+    "name:lit_x_preferred":[
+        "Guastatoja"
+    ],
+    "name:nah_x_preferred":[
+        "Hu\u0101x\u0101t\u014dy\u0101c"
+    ],
+    "name:nld_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:pol_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:por_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:sco_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:sme_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:spa_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:swe_x_preferred":[
+        "Guastatoya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e27\u0e2a\u0e15\u0e32\u0e42\u0e15\u0e22\u0e32"
+    ],
     "name:unk_x_variant":[
         "Progreso"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0627\u0633\u062a\u0627\u062a\u0648\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u65af\u5854\u6258\u4e9e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Guatemala",
@@ -160,7 +223,7 @@
         }
     ],
     "wof:id":421201709,
-    "wof:lastmodified":1505340774,
+    "wof:lastmodified":1563289696,
     "wof:name":"El Progreso",
     "wof:parent_id":421178907,
     "wof:placetype":"locality",

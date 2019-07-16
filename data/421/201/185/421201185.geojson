@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Parramos"
+    ],
     "name:eng_x_preferred":[
         "Parramos"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421201185,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289704,
     "wof:name":"Parramos",
     "wof:parent_id":1108695435,
     "wof:placetype":"locality",

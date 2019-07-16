@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Rabinal"
     ],
+    "name:ceb_x_preferred":[
+        "Rabinal"
+    ],
     "name:deu_x_preferred":[
         "Rabinal"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421173037,
-    "wof:lastmodified":1561844757,
+    "wof:lastmodified":1563289643,
     "wof:name":"Rabinal",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

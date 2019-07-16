@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u044e\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Moyuta"
+    ],
     "name:eng_x_preferred":[
         "Moyuta"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695405,
-    "wof:lastmodified":1561844747,
+    "wof:lastmodified":1563289309,
     "wof:name":"Moyuta",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

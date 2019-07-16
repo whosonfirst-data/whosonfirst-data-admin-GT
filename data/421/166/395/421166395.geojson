@@ -19,6 +19,9 @@
     "name:spa_x_preferred":[
         "Sipacate"
     ],
+    "name:zho_x_preferred":[
+        "\u9521\u5e15\u5361\u7279"
+    ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3588724,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421166395,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1563289592,
     "wof:name":"Sipacate",
     "wof:parent_id":421171417,
     "wof:placetype":"locality",

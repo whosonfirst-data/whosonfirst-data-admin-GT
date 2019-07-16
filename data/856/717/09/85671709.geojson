@@ -52,6 +52,9 @@
     "name:eng_x_preferred":[
         "Izabal"
     ],
+    "name:eng_x_variant":[
+        "Izabal Department"
+    ],
     "name:epo_x_preferred":[
         "Izabal"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement d'Izabal"
+    ],
+    "name:fra_x_variant":[
+        "Izabal"
+    ],
+    "name:frr_x_preferred":[
+        "Izabal"
     ],
     "name:glg_x_preferred":[
         "Departamento de Izabal"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc0ac\ubc1c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Izabal"
     ],
     "name:lav_x_preferred":[
         "Isabalas departaments"
@@ -153,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e2d\u0e0b\u0e32\u0e40\u0e1a\u0e25 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e0b\u0e32\u0e1a\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "Izabel Departman\u0131"
@@ -296,7 +311,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288550,
     "wof:name":"Izabal",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

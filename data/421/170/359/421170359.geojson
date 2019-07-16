@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0441\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sansare"
+    ],
     "name:deu_x_preferred":[
         "Sansare"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421170359,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289712,
     "wof:name":"Sansare",
     "wof:parent_id":1108695605,
     "wof:placetype":"locality",

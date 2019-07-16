@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Felipe"
     ],
+    "name:ceb_x_preferred":[
+        "San Felipe"
+    ],
     "name:eng_x_preferred":[
         "San Felipe"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421197609,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289689,
     "wof:name":"San Felipe",
     "wof:parent_id":1108695553,
     "wof:placetype":"locality",

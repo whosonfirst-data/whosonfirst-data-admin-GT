@@ -52,8 +52,14 @@
     "name:eng_x_preferred":[
         "Totonicap\u00e1n"
     ],
+    "name:eng_x_variant":[
+        "Totonicap\u00e1n Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Totonikapano"
+    ],
+    "name:epo_x_variant":[
+        "Totonikapano"
     ],
     "name:eus_x_preferred":[
         "Totonicap\u00e1n"
@@ -65,7 +71,11 @@
         "D\u00e9partement de Totonicap\u00e1n"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de Totonicap\u00e1n"
+        "d\u00e9partement de Totonicap\u00e1n",
+        "Totonicap\u00e1n"
+    ],
+    "name:frr_x_preferred":[
+        "Totonicap\u00e1n"
     ],
     "name:glg_x_preferred":[
         "Departamento de Totonicap\u00e1n"
@@ -96,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a0\ud1a0\ub2c8\uce74\ud310 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Totonicapan"
     ],
     "name:lav_x_preferred":[
         "Totonipakana departaments"
@@ -157,6 +170,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e15\u0e42\u0e15\u0e19\u0e35\u0e01\u0e32\u0e1b\u0e31\u0e07 \u0e14\u0e35\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e15\u0e42\u0e15\u0e19\u0e34\u0e01\u0e32\u0e1b\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Totonicap\u00e1n"
@@ -300,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844729,
+    "wof:lastmodified":1563288560,
     "wof:name":"Totonicap\u00e1n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

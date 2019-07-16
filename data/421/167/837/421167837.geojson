@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dolores"
+    ],
     "name:deu_x_preferred":[
         "Dolores"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421167837,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289608,
     "wof:name":"Dolores",
     "wof:parent_id":421171683,
     "wof:placetype":"locality",

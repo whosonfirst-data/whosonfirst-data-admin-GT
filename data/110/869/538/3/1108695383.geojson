@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Amatitl\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Amatitl\u00e1n"
     ],
@@ -37,8 +40,7 @@
         "Amatitl\u00e1n"
     ],
     "name:eng_x_variant":[
-        "Lago de Amatitl\u00e1n",
-        "Amatitl\u00e1n"
+        "Lago de Amatitl\u00e1n"
     ],
     "name:epo_x_preferred":[
         "Amatitl\u00e1n"
@@ -54,6 +56,9 @@
     ],
     "name:ita_x_preferred":[
         "Amatitl\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30de\u30c6\u30a3\u30c8\u30e9\u30f3"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9c8\ud2f0\ud2c0\ub780"
@@ -111,7 +116,7 @@
         }
     ],
     "wof:id":1108695383,
-    "wof:lastmodified":1561844745,
+    "wof:lastmodified":1563289292,
     "wof:name":"Lake Amatitlan",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

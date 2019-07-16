@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0430\u0443\u0442\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chinautla"
+    ],
     "name:deu_x_preferred":[
         "Chinautla"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "Chinautla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30ca\u30a6\u30c8\u30e9"
     ],
     "name:kor_x_preferred":[
         "\uce58\ub098\uc6b0\ud2c0\ub77c"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421179257,
-    "wof:lastmodified":1561844764,
+    "wof:lastmodified":1563289728,
     "wof:name":"Chinautla",
     "wof:parent_id":421201591,
     "wof:placetype":"locality",

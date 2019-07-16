@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Bravo"
+    ],
     "name:deu_x_preferred":[
         "R\u00edo Bravo"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421177177,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289720,
     "wof:name":"R\u00edo Bravo",
     "wof:parent_id":1108695459,
     "wof:placetype":"locality",

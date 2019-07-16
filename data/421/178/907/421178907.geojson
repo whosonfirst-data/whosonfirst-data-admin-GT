@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u0441\u0442\u0430\u0442\u043e\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Guastatoya"
+    ],
     "name:deu_x_preferred":[
         "Guastatoya"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Guastatoya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e27\u0e2a\u0e15\u0e32\u0e42\u0e15\u0e22\u0e32"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0627\u0633\u062a\u0627\u062a\u0648\u06cc\u0627"
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421178907,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289743,
     "wof:name":"Guastatoya",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
     "name:eng_x_preferred":[
         "Santiago Chimaltenango"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421185575,
-    "wof:lastmodified":1561844766,
+    "wof:lastmodified":1563289764,
     "wof:name":"Santiago Chimaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

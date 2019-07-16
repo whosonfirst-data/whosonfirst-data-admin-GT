@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Purulh\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Purulh\u00e1"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421203475,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289624,
     "wof:name":"Purula",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

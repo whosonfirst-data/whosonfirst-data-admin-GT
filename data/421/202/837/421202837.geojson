@@ -16,7 +16,19 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0643\u0633\u0627\u0643\u062a\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0423\u0430\u0448\u0430\u043a\u0442\u0443\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Uaxact\u00fan"
+    ],
     "name:deu_x_preferred":[
+        "Uaxact\u00fan"
+    ],
+    "name:eng_x_preferred":[
         "Uaxact\u00fan"
     ],
     "name:eus_x_preferred":[
@@ -25,11 +37,26 @@
     "name:fra_x_preferred":[
         "Uaxactun"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d0\u05e7\u05e1\u05e7\u05d8\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Uaxactun"
+    ],
     "name:ita_x_preferred":[
         "Uaxact\u00fan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a2\u30af\u30b5\u30af\u30c8\u30a5\u30f3"
+    ],
     "name:lit_x_preferred":[
         "Ua\u0161aktunas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0430\u0448\u0430\u043a\u0442\u0443\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Uaxactun"
     ],
     "name:pol_x_preferred":[
         "Uaxact\u00fan"
@@ -97,7 +124,7 @@
         }
     ],
     "wof:id":421202837,
-    "wof:lastmodified":1527716212,
+    "wof:lastmodified":1563289631,
     "wof:name":"Uaxact\u00fan",
     "wof:parent_id":1108695347,
     "wof:placetype":"locality",

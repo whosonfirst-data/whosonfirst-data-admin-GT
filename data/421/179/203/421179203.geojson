@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pajapita"
+    ],
     "name:eng_x_preferred":[
         "Pajapita"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421179203,
-    "wof:lastmodified":1561844764,
+    "wof:lastmodified":1563289729,
     "wof:name":"Pajapita",
     "wof:parent_id":1108695425,
     "wof:placetype":"locality",

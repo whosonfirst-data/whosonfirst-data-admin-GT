@@ -52,8 +52,14 @@
     "name:eng_x_preferred":[
         "Solol\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Solol\u00e1 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Sololao"
+    ],
+    "name:epo_x_variant":[
+        "Sololao"
     ],
     "name:eus_x_preferred":[
         "Solol\u00e1"
@@ -65,7 +71,11 @@
         "D\u00e9partement de Solol\u00e1"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de Solol\u00e1"
+        "d\u00e9partement de Solol\u00e1",
+        "Solol\u00e1"
+    ],
+    "name:frr_x_preferred":[
+        "Solol\u00e1"
     ],
     "name:glg_x_preferred":[
         "Departamento de Solol\u00e1"
@@ -96,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc194\ub864\ub77c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Solol\u00e1"
     ],
     "name:lav_x_preferred":[
         "Solosas departaments"
@@ -157,6 +170,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e42\u0e0b\u0e42\u0e25\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e0b\u0e42\u0e25\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Solola Departman\u0131"
@@ -300,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288554,
     "wof:name":"Solol\u00e1",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

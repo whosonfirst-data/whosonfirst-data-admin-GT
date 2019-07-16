@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Asintal"
+    ],
     "name:eng_x_preferred":[
         "El Asintal"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421202721,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289632,
     "wof:name":"El Asintal",
     "wof:parent_id":421171689,
     "wof:placetype":"locality",

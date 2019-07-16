@@ -30,6 +30,9 @@
     "mps:longitude":-90.44301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
     "name:deu_x_preferred":[
         "San Pedro Ayampuc"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108695577,
-    "wof:lastmodified":1561844742,
+    "wof:lastmodified":1563289257,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguel Due\u00f1as"
+    ],
     "name:eng_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421166393,
-    "wof:lastmodified":1561844752,
+    "wof:lastmodified":1563289593,
     "wof:name":"San Miguel Due\u00f1as",
     "wof:parent_id":421203515,
     "wof:placetype":"locality",

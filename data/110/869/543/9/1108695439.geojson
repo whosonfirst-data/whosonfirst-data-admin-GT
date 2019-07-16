@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0443\u043b\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Patulul"
+    ],
     "name:eng_x_preferred":[
         "Patulul"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695439,
-    "wof:lastmodified":1561844743,
+    "wof:lastmodified":1563289267,
     "wof:name":"Patulul",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0443\u043b\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Patulul"
+    ],
     "name:eng_x_preferred":[
         "Patulul"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421194269,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289599,
     "wof:name":"Patulul",
     "wof:parent_id":1108695439,
     "wof:placetype":"locality",

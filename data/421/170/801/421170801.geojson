@@ -37,10 +37,10 @@
     "name:eng_x_preferred":[
         "San Lorenzo"
     ],
-    "name:eng_x_variant":[
+    "name:ita_x_preferred":[
         "San Lorenzo"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "San Lorenzo"
     ],
     "name:pol_x_preferred":[
@@ -48,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "San Lorenzo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
     "name:spa_x_preferred":[
         "San Lorenzo"
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421170801,
-    "wof:lastmodified":1553717321,
+    "wof:lastmodified":1563289714,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Andr\u00e9s Villa Seca"
+    ],
     "name:eng_x_preferred":[
         "San Andr\u00e9s Villa Seca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0622\u0646\u062f\u0631\u0626\u0627\u0633 \u0648\u06cc\u0627 \u0633\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "San Andr\u00e9s Villa Seca"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421197613,
-    "wof:lastmodified":1561844760,
+    "wof:lastmodified":1563289687,
     "wof:name":"San Andr\u00e9s Villa Seca",
     "wof:parent_id":1108695469,
     "wof:placetype":"locality",

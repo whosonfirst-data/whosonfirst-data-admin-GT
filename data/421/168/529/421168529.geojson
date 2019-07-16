@@ -113,6 +113,9 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e35\u0e01\u0e35\u0e21\u0e39\u0e25\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e34\u0e01\u0e34\u0e21\u0e39\u0e25\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Chiquimula"
     ],
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":421168529,
-    "wof:lastmodified":1561844752,
+    "wof:lastmodified":1563289590,
     "wof:name":"Chiquimula",
     "wof:parent_id":421204021,
     "wof:placetype":"locality",

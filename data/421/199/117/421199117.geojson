@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u043e\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Alotenango"
+    ],
     "name:deu_x_preferred":[
         "Alotenango"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421199117,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289691,
     "wof:name":"Alotenango",
     "wof:parent_id":421190497,
     "wof:placetype":"locality",

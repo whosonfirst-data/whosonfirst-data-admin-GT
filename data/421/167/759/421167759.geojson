@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Samayac"
+    ],
     "name:eng_x_preferred":[
         "Samayac"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421167759,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289608,
     "wof:name":"Samayac",
     "wof:parent_id":1108695461,
     "wof:placetype":"locality",

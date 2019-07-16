@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguel Chicaj"
+    ],
     "name:deu_x_preferred":[
         "San Miguel Chicaj"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421173681,
-    "wof:lastmodified":1561844756,
+    "wof:lastmodified":1563289641,
     "wof:name":"San Miguel Chicaj",
     "wof:parent_id":1108695563,
     "wof:placetype":"locality",

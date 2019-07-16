@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Comitancillo"
+    ],
     "name:deu_x_preferred":[
         "Comitancillo"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421196351,
-    "wof:lastmodified":1561844759,
+    "wof:lastmodified":1563289673,
     "wof:name":"Comitancillo",
     "wof:parent_id":1108695301,
     "wof:placetype":"locality",

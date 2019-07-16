@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Cruz Naranjo"
+    ],
     "name:eng_x_preferred":[
         "Santa Cruz Naranjo"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421179151,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289725,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":1108695625,
     "wof:placetype":"locality",

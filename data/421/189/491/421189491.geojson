@@ -130,6 +130,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e39\u0e40\u0e25\u0e35\u0e22\u0e01\u0e49\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e40\u0e15\u0e35\u0e22\u0e1b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Jutiapa"
     ],
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421189491,
-    "wof:lastmodified":1561844757,
+    "wof:lastmodified":1563289648,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

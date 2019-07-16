@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Jutiapa"
     ],
+    "name:eng_x_variant":[
+        "Jutiapa Department"
+    ],
     "name:epo_x_preferred":[
         "Hutiapo"
     ],
@@ -62,8 +65,17 @@
     "name:fin_x_preferred":[
         "Jutiapan depatermentti"
     ],
+    "name:fin_x_variant":[
+        "Jutiapan departementti"
+    ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Jutiapa"
+    ],
+    "name:fra_x_variant":[
+        "Jutiapa"
+    ],
+    "name:frr_x_preferred":[
+        "Jutiapa"
     ],
     "name:glg_x_preferred":[
         "Departamento de Jutiapa"
@@ -98,6 +110,9 @@
     "name:kor_x_preferred":[
         "\ud6c4\ud2f0\uc544\ud30c \uc8fc"
     ],
+    "name:lad_x_preferred":[
+        "Jutiapa"
+    ],
     "name:lav_x_preferred":[
         "Hutjapas departaments"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:msa_x_preferred":[
         "Jutiapa Department"
+    ],
+    "name:mwl_x_preferred":[
+        "Jutiapa"
     ],
     "name:nah_x_preferred":[
         "X\u014dchi\u0101pan"
@@ -157,6 +175,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e39\u0e40\u0e15\u0e35\u0e22\u0e1b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2e\u0e39\u0e40\u0e15\u0e35\u0e22\u0e1b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Jutiapa Department"
@@ -301,7 +322,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288552,
     "wof:name":"Jutiapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

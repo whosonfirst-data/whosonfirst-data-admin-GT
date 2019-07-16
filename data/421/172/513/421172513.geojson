@@ -37,6 +37,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043c\u0430\u043b\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Chimaltenango"
+    ],
+    "name:ceb_x_preferred":[
+        "Chimaltenango"
+    ],
     "name:deu_x_preferred":[
         "Chimaltenango"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Chimaltenango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30de\u30eb\u30c6\u30ca\u30f3\u30b4"
     ],
     "name:kor_x_preferred":[
         "\uce58\ub9d0\ud14c\ub0ad\uace0"
@@ -84,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Chimaltenango"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e34\u0e21\u0e31\u0e25\u0e40\u0e15\u0e19\u0e31\u0e07\u0e42\u0e01"
     ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u0645\u0627\u0644\u062a\u06cc\u0646\u0627\u0646\u06af\u0648"
@@ -151,7 +163,7 @@
         }
     ],
     "wof:id":421172513,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289657,
     "wof:name":"Chimaltenango",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

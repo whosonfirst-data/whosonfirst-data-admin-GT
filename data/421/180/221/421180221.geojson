@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0430\u0440\u0430\u043d\u0447\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Chuarrancho"
+    ],
     "name:deu_x_preferred":[
         "Chuarrancho"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421180221,
-    "wof:lastmodified":1561844756,
+    "wof:lastmodified":1563289634,
     "wof:name":"Chuarrancho",
     "wof:parent_id":1108695295,
     "wof:placetype":"locality",

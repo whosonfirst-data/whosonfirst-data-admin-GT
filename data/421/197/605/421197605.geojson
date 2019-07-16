@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "Santo Tom\u00e1s La Uni\u00f3n"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Santo Tom\u00e1s La Uni\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Santo Tomas La Uni\u00f3n"
     ],
     "name:swe_x_preferred":[
         "Santo Tom\u00e1s La Uni\u00f3n"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421197605,
-    "wof:lastmodified":1561844760,
+    "wof:lastmodified":1563289686,
     "wof:name":"Santo Tom\u00e1s la Uni\u00f3n",
     "wof:parent_id":1108695617,
     "wof:placetype":"locality",

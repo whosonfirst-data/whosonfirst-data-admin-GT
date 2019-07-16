@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Bartolo"
     ],
+    "name:ceb_x_preferred":[
+        "San Bartolo"
+    ],
     "name:eng_x_preferred":[
         "San Bartolo"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421176219,
-    "wof:lastmodified":1561844766,
+    "wof:lastmodified":1563289753,
     "wof:name":"San Bartolo",
     "wof:parent_id":1108695487,
     "wof:placetype":"locality",

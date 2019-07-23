@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u0644\u0627\u0628\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Cuilapa"
+    ],
     "name:deu_x_preferred":[
         "Cuilapa"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Cuilapa"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e38\u0e22\u0e25\u0e32\u0e1b\u0e32"
     ],
     "name:unk_x_variant":[
         "Cuajiniquilapa"
@@ -216,7 +222,7 @@
         }
     ],
     "wof:id":421168525,
-    "wof:lastmodified":1561844752,
+    "wof:lastmodified":1563289591,
     "wof:name":"Cuilapa",
     "wof:parent_id":421191201,
     "wof:placetype":"locality",

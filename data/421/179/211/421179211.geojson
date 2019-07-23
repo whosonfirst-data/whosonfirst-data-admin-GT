@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Morales"
     ],
+    "name:ceb_x_preferred":[
+        "Morales"
+    ],
     "name:deu_x_preferred":[
         "Morales"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0627\u0644\u06cc\u0633\u060c \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u0627\u0644\u06cc\u0633"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u62c9\u840a\u65af"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421179211,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289726,
     "wof:name":"Morales",
     "wof:parent_id":421184719,
     "wof:placetype":"locality",

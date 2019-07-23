@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u043e\u0441\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Momostenango"
+    ],
     "name:eng_x_preferred":[
         "Momostenango"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695399,
-    "wof:lastmodified":1561844744,
+    "wof:lastmodified":1563289283,
     "wof:name":"Momostenango",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

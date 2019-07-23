@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Salama"
     ],
+    "name:ceb_x_variant":[
+        "Salam\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Salama"
     ],
@@ -96,6 +99,12 @@
     ],
     "name:swe_x_preferred":[
         "Salama"
+    ],
+    "name:swe_x_variant":[
+        "Salam\u00e1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e25\u0e32\u0e21\u0e32"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u99ac"
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":421175573,
-    "wof:lastmodified":1561844759,
+    "wof:lastmodified":1563289665,
     "wof:name":"Salama",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

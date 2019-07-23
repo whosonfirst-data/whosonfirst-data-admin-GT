@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041b\u0443\u0441\u0438\u044f \u041a\u043e\u0446\u0443\u043c\u0430\u043b\u0433\u0443\u0430\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
+    ],
     "name:deu_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890429637,
-    "wof:lastmodified":1561844767,
+    "wof:lastmodified":1563289770,
     "wof:name":"Santa Luc\u00eda Cotzumalguapa",
     "wof:parent_id":421184715,
     "wof:placetype":"locality",

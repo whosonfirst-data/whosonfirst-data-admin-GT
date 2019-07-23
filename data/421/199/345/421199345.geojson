@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cubulco"
+    ],
     "name:deu_x_preferred":[
         "Cubulco"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:por_x_preferred":[
         "Baja Verapaz#Munic\u00edpios"
+    ],
+    "name:por_x_variant":[
+        "Cubulco"
     ],
     "name:spa_x_preferred":[
         "Cubulco"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421199345,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289692,
     "wof:name":"Cubulco",
     "wof:parent_id":1108695313,
     "wof:placetype":"locality",

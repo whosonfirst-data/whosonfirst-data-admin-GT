@@ -37,6 +37,9 @@
     "name:spa_x_preferred":[
         "San Mateo Ixtat\u00e1n"
     ],
+    "name:swe_x_preferred":[
+        "San Mateo Ixtat\u00e1n"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u7279\u5967\u4f0a\u65af\u5854\u5766"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421201295,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289697,
     "wof:name":"San Mateo Ixtat\u00e1n",
     "wof:parent_id":1108695557,
     "wof:placetype":"locality",

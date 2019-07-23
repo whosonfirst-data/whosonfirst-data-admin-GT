@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Diego"
     ],
+    "name:ceb_x_preferred":[
+        "San Diego"
+    ],
     "name:deu_x_preferred":[
         "San Diego"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421194253,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289600,
     "wof:name":"San Diego",
     "wof:parent_id":1108695499,
     "wof:placetype":"locality",

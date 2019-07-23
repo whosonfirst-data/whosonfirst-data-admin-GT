@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chinique"
+    ],
     "name:deu_x_preferred":[
         "Chinique"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421167953,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289608,
     "wof:name":"Chinique",
     "wof:parent_id":1108695293,
     "wof:placetype":"locality",

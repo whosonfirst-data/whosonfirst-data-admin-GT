@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e\u043d\u0438\u043a\u0430\u043f\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Totonicap\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "Totonicap\u00e1n"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Totonicap\u00e1n"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e15\u0e42\u0e15\u0e19\u0e34\u0e01\u0e32\u0e1b\u0e31\u0e19"
     ],
     "name:zho_x_preferred":[
         "\u6258\u6258\u5c3c\u5361\u6f58"
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421204771,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289620,
     "wof:name":"Totonicapan",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Pinula"
+    ],
     "name:deu_x_preferred":[
         "San Jos\u00e9 Pinula"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421170205,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289711,
     "wof:name":"San Jos\u00e9 Pinula",
     "wof:parent_id":1108695529,
     "wof:placetype":"locality",

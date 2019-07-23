@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Rafael Petzal"
+    ],
     "name:eng_x_preferred":[
         "San Rafael Petzal"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421198249,
-    "wof:lastmodified":1561844759,
+    "wof:lastmodified":1563289669,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":1108695593,
     "wof:placetype":"locality",

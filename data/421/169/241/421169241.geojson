@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Sebasti\u00e1n Coat\u00e1n"
+    ],
     "name:deu_x_preferred":[
         "San Sebasti\u00e1n Coat\u00e1n"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u585e\u74e6\u65af\u8482\u5b89\u79d1\u963f\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u74dc\u5730\u99ac\u62c9\u5e02"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421169241,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289616,
     "wof:name":"San Sebasti\u00e1n Coat\u00e1n",
     "wof:parent_id":1108695597,
     "wof:placetype":"locality",

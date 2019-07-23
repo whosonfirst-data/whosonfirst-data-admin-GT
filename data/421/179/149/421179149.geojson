@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda Utatl\u00e1n"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421179149,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289741,
     "wof:name":"Santa Luc\u00eda Utatl\u00e1n",
     "wof:parent_id":421170143,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "San Raymundo"
     ],
+    "name:ceb_x_preferred":[
+        "San Raimundo"
+    ],
     "name:deu_x_preferred":[
         "San Raimundo"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421182109,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289748,
     "wof:name":"San Raimundo",
     "wof:parent_id":421184717,
     "wof:placetype":"locality",

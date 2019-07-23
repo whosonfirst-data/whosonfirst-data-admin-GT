@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0430\u043d\u0430\u0433\u0430\u0437\u0430\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Guanagazapa"
+    ],
     "name:eng_x_preferred":[
         "Guanagazapa"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695355,
-    "wof:lastmodified":1561844742,
+    "wof:lastmodified":1563289262,
     "wof:name":"Guanagazapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

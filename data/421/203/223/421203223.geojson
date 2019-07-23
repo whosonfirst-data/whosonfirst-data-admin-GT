@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0447\u0443\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pochuta"
+    ],
     "name:eng_x_preferred":[
         "Pochuta"
     ],
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421203223,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289624,
     "wof:name":"Pochuta",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

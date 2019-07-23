@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0443\u043d\u0438\u043b\u0438\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zunilito"
+    ],
     "name:eng_x_preferred":[
         "Zunilito"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421193801,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289606,
     "wof:name":"Zunilito",
     "wof:parent_id":1108695507,
     "wof:placetype":"locality",

@@ -19,6 +19,18 @@
     "name:cat_x_preferred":[
         "Ixc\u00e1n"
     ],
+    "name:eng_x_preferred":[
+        "Ixc\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Playa Grande Ixc\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30d5\u30ab\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Ixc\u00e1n"
+    ],
     "name:pol_x_preferred":[
         "Ixc\u00e1n"
     ],
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":421181677,
-    "wof:lastmodified":1499978322,
+    "wof:lastmodified":1563289664,
     "wof:name":"Playa Grande",
     "wof:parent_id":421190247,
     "wof:placetype":"locality",

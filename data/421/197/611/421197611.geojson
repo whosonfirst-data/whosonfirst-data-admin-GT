@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Antonio Sacatep\u00e9quez"
+    ],
     "name:eng_x_preferred":[
         "San Antonio Sacatep\u00e9quez"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421197611,
-    "wof:lastmodified":1561844760,
+    "wof:lastmodified":1563289686,
     "wof:name":"San Antonio Sacatep\u00e9quez",
     "wof:parent_id":421195547,
     "wof:placetype":"locality",

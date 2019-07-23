@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Zacapa"
     ],
+    "name:eng_x_variant":[
+        "Zacapa Department"
+    ],
     "name:epo_x_preferred":[
         "Zakapo"
     ],
@@ -62,6 +65,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Zacapa"
+    ],
+    "name:fra_x_variant":[
+        "Zacapa"
+    ],
+    "name:frr_x_preferred":[
+        "Zacapa"
     ],
     "name:glg_x_preferred":[
         "Departamento de Zacapa"
@@ -92,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uce74\ud30c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Zacapa"
     ],
     "name:lav_x_preferred":[
         "Sakapas departaments"
@@ -295,7 +307,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288548,
     "wof:name":"Zacapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

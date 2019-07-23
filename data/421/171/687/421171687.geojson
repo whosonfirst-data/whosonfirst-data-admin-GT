@@ -37,6 +37,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0447\u0438\u043a\u0430\u0441\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Chichicastenango"
+    ],
+    "name:ceb_x_preferred":[
+        "Chichicastenango"
+    ],
     "name:deu_x_preferred":[
         "Chichicastenango"
     ],
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421171687,
-    "wof:lastmodified":1561844766,
+    "wof:lastmodified":1563289756,
     "wof:name":"Chichicastenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

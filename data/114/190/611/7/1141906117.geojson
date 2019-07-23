@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Salam\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Salam\u00e1"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:swe_x_preferred":[
         "Salam\u00e1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e25\u0e32\u0e21\u0e32"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u99ac"
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":1141906117,
-    "wof:lastmodified":1561844776,
+    "wof:lastmodified":1563290298,
     "wof:name":"Salama",
     "wof:parent_id":421175573,
     "wof:placetype":"locality",

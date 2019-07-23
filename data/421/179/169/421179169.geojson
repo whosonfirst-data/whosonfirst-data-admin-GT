@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 Poaquil"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421179169,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289726,
     "wof:name":"San Jos\u00e9 Poaquil",
     "wof:parent_id":1108695531,
     "wof:placetype":"locality",

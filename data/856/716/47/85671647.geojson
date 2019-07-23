@@ -55,8 +55,14 @@
     "name:eng_x_preferred":[
         "Pet\u00e9n"
     ],
+    "name:eng_x_variant":[
+        "Pet\u00e9n Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Peten"
+    ],
+    "name:epo_x_variant":[
+        "Peten"
     ],
     "name:eus_x_preferred":[
         "Pet\u00e9n"
@@ -66,6 +72,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement du Pet\u00e9n"
+    ],
+    "name:fra_x_variant":[
+        "Pet\u00e9n"
+    ],
+    "name:frr_x_preferred":[
+        "Pet\u00e9n"
     ],
     "name:glg_x_preferred":[
         "Departamento de El Pet\u00e9n"
@@ -99,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud398\ud150 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Pet\u00e9n"
     ],
     "name:lav_x_preferred":[
         "Petenas departaments"
@@ -163,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e35\u0e40\u0e17\u0e47\u0e19 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1b\u0e40\u0e15\u0e19"
     ],
     "name:tur_x_preferred":[
         "Peten Departman\u0131"
@@ -306,7 +324,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844729,
+    "wof:lastmodified":1563288564,
     "wof:name":"Pet\u00e9n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430 \u041f\u0438\u043d\u0443\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
     "name:deu_x_preferred":[
         "Santa Catarina Pinula"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179155,
-    "wof:lastmodified":1561844764,
+    "wof:lastmodified":1563289735,
     "wof:name":"Santa Catarina Pinula",
     "wof:parent_id":1108695621,
     "wof:placetype":"locality",

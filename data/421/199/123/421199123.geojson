@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Uspant\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Uspant\u00e1n"
     ],
     "name:fra_x_preferred":[
         "Uspant\u00e1n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057d\u057a\u0561\u0576\u057f\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Uspant\u00e1n"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421199123,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289692,
     "wof:name":"Uspant\u00e1n",
     "wof:parent_id":421196545,
     "wof:placetype":"locality",

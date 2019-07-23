@@ -17,7 +17,13 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u0643\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "San Marcos"
+    ],
     "name:cat_x_preferred":[
+        "San Marcos"
+    ],
+    "name:ceb_x_preferred":[
         "San Marcos"
     ],
     "name:deu_x_preferred":[
@@ -25,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "San Marcos"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Marko"
     ],
     "name:eus_x_preferred":[
         "San Marcos"
@@ -77,11 +86,17 @@
     "name:swe_x_preferred":[
         "San Marcos"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e42\u0e01\u0e2a"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
     ],
     "name:unk_x_variant":[
         "La Union"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633"
     ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u79d1\u65af"
@@ -226,7 +241,7 @@
         }
     ],
     "wof:id":421169079,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1563289611,
     "wof:name":"San Marcos",
     "wof:parent_id":421190499,
     "wof:placetype":"locality",

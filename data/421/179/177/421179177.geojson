@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Crist\u00f3bal Cucho"
+    ],
     "name:deu_x_preferred":[
         "San Crist\u00f3bal Cucho"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421179177,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289740,
     "wof:name":"San Crist\u00f3bal Cucho",
     "wof:parent_id":1108695497,
     "wof:placetype":"locality",

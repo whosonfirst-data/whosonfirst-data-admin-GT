@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0633\u0627\u0646 \u0645\u0627\u0631\u0643\u0648\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0633\u0627\u0646 \u0645\u0627\u0631\u0643\u0648\u0633"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u0995\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -51,17 +54,29 @@
     "name:eng_x_preferred":[
         "San Marcos"
     ],
+    "name:eng_x_variant":[
+        "San Marcos Department"
+    ],
     "name:epo_x_preferred":[
         "Sankta Marko"
     ],
     "name:eus_x_preferred":[
         "San Marcos"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u067e\u0627\u0631\u062a\u0645\u0627\u0646 \u0633\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "San Marcosin departmentti"
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de San Marcos"
+    ],
+    "name:fra_x_variant":[
+        "San Marcos"
+    ],
+    "name:frr_x_preferred":[
+        "San Marcos"
     ],
     "name:glg_x_preferred":[
         "Departamento de San Marcos"
@@ -92,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ub9c8\ub974\ucf54\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Marcos"
     ],
     "name:lav_x_preferred":[
         "Sanmarkosas departaments"
@@ -156,6 +174,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e0b\u0e31\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e42\u0e01\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e42\u0e01\u0e2a"
     ],
     "name:tur_x_preferred":[
         "San Marcos Departman\u0131"
@@ -299,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288553,
     "wof:name":"San Marcos",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

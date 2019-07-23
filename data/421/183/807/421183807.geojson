@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Antonio Ilotenango"
+    ],
     "name:eng_x_preferred":[
         "San Antonio Ilotenango"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421183807,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289722,
     "wof:name":"San Antonio Ilotenango",
     "wof:parent_id":1108695475,
     "wof:placetype":"locality",

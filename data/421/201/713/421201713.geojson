@@ -13,17 +13,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tiquisate"
+    ],
     "name:eng_x_preferred":[
         "Tiquisate"
     ],
     "name:eng_x_variant":[
         "Pueblo Nuevo Tiquisate"
     ],
+    "name:fra_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:ita_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:nld_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:pol_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:por_x_preferred":[
+        "Tiquisate"
+    ],
     "name:spa_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:swe_x_preferred":[
         "Tiquisate"
     ],
     "name:unk_x_variant":[
         "Pueblo Nuevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u57fa\u85a9\u7279"
     ],
     "qs:gn_country":"GT",
     "qs:gn_fcode":"PPL",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":421201713,
-    "wof:lastmodified":1505340774,
+    "wof:lastmodified":1563289698,
     "wof:name":"Pueblo Nuevo Tiquisate",
     "wof:parent_id":1108695673,
     "wof:placetype":"locality",

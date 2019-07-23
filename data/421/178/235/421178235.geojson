@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
+    "name:deu_x_preferred":[
+        "San Jos\u00e9 Acatempa"
+    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 Acatempa"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421178235,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289744,
     "wof:name":"San Jos\u00e9 Acatempa",
     "wof:parent_id":1108695517,
     "wof:placetype":"locality",

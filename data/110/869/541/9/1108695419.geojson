@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043b\u043e\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Olopa"
+    ],
     "name:eng_x_preferred":[
         "Olopa"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695419,
-    "wof:lastmodified":1561844747,
+    "wof:lastmodified":1563289311,
     "wof:name":"Olopa",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

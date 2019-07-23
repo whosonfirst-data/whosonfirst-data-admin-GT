@@ -30,6 +30,9 @@
     "mps:longitude":-90.677049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695631,
-    "wof:lastmodified":1561844745,
+    "wof:lastmodified":1563289289,
     "wof:name":"Santa Lucia Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

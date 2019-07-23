@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
@@ -35,6 +38,9 @@
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
     "name:spa_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421181681,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289662,
     "wof:name":"Santa Mar\u00eda Visitaci\u00f3n",
     "wof:parent_id":1108695635,
     "wof:placetype":"locality",

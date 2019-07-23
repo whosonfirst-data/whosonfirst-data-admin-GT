@@ -92,6 +92,9 @@
     "name:rus_x_preferred":[
         "\u0425\u0443\u0442\u0438\u0430\u043f\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0443\u0442\u044c\u044f\u043f\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0da2\u0dd4\u0da7\u0dd2\u0d85\u0db4\u0dcf"
     ],
@@ -112,6 +115,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e39\u0e40\u0e25\u0e35\u0e22\u0e01\u0e49\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e40\u0e15\u0e35\u0e22\u0e1b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Jutiapa"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421201167,
-    "wof:lastmodified":1561844761,
+    "wof:lastmodified":1563289696,
     "wof:name":"Jutiapa",
     "wof:parent_id":421189491,
     "wof:placetype":"locality",

@@ -62,7 +62,13 @@
     "name:ita_x_preferred":[
         "Barillas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30ea\u30e3\u30b9"
+    ],
     "name:msa_x_preferred":[
+        "Barillas"
+    ],
+    "name:nan_x_preferred":[
         "Barillas"
     ],
     "name:nld_x_preferred":[
@@ -75,6 +81,9 @@
         "Barillas"
     ],
     "name:por_x_preferred":[
+        "Barillas"
+    ],
+    "name:rup_x_preferred":[
         "Barillas"
     ],
     "name:rus_x_preferred":[
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421185569,
-    "wof:lastmodified":1553717440,
+    "wof:lastmodified":1563289763,
     "wof:name":"Barillas",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

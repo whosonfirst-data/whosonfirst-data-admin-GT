@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sumpango"
+    ],
     "name:eng_x_preferred":[
         "Sumpango"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:spa_x_preferred":[
         "Sumpango"
+    ],
+    "name:swe_x_preferred":[
+        "Sumpango"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0645\u067e\u0627\u0646\u06af\u0648"
     ],
     "name:zho_x_preferred":[
         "\u5b6b\u6f58\u6208"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421179141,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289741,
     "wof:name":"Sumpango",
     "wof:parent_id":421191467,
     "wof:placetype":"locality",

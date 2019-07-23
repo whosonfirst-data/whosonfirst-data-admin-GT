@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b \u041f\u0435\u0442\u0430\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Petapa"
+    ],
     "name:deu_x_preferred":[
         "Petapa"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:ita_x_preferred":[
         "Petapa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30df\u30b2\u30eb\u30fb\u30da\u30bf\u30d1"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ubbf8\uac94\ud398\ud0c0\ud30c"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421201183,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289703,
     "wof:name":"Petapa",
     "wof:parent_id":421178905,
     "wof:placetype":"locality",

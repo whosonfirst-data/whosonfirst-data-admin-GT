@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Pedro Necta"
+    ],
     "name:eng_x_preferred":[
         "San Pedro Necta"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421180115,
-    "wof:lastmodified":1561844756,
+    "wof:lastmodified":1563289638,
     "wof:name":"San Pedro Necta",
     "wof:parent_id":1108695581,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
     "name:eng_x_preferred":[
         "San Antonio Aguas Calientes"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421182503,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289746,
     "wof:name":"San Antonio Aguas Calientes",
     "wof:parent_id":421171693,
     "wof:placetype":"locality",

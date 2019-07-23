@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tecp\u00e1n Guatemala"
+    ],
     "name:eng_x_preferred":[
         "Tecp\u00e1n Guatemala"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202137,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289630,
     "wof:name":"Tecp\u00e1n Guatemala",
     "wof:parent_id":421172619,
     "wof:placetype":"locality",

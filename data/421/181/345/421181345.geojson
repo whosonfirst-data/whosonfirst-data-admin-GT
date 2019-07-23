@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Flores"
+    ],
     "name:dan_x_preferred":[
         "Flores"
     ],
@@ -39,6 +42,9 @@
         "\u05e4\u05dc\u05d5\u05e8\u05e1"
     ],
     "name:hun_x_preferred":[
+        "Flores"
+    ],
+    "name:ind_x_preferred":[
         "Flores"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +89,9 @@
     "name:swe_x_preferred":[
         "Flores"
     ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1f\u0e25\u0e40\u0e23\u0e2a"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0435\u0441"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u06cc\u0633\u060c \u0627\u06cc\u0644 \u067e\u06cc\u062a\u06cc\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0641\u0644\u0648\u0631\u06cc\u0633"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u6d1b\u96f7\u65af"
@@ -237,7 +249,7 @@
         }
     ],
     "wof:id":421181345,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289664,
     "wof:name":"Flores Pet\u00e9n",
     "wof:parent_id":421200731,
     "wof:placetype":"locality",

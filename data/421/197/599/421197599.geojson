@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Zacualpa"
+    ],
     "name:eng_x_preferred":[
         "Zacualpa"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421197599,
-    "wof:lastmodified":1561844760,
+    "wof:lastmodified":1563289687,
     "wof:name":"Zacualpa",
     "wof:parent_id":1108695687,
     "wof:placetype":"locality",

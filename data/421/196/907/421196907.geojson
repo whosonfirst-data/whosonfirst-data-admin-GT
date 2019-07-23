@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f \u041a\u0430\u043d\u0430\u043b\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Villa Canales"
+    ],
     "name:deu_x_preferred":[
         "Villa Canales"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421196907,
-    "wof:lastmodified":1561844759,
+    "wof:lastmodified":1563289672,
     "wof:name":"Villa Canales",
     "wof:parent_id":1108695679,
     "wof:placetype":"locality",

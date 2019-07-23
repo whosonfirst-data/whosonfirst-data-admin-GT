@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los Amates"
+    ],
     "name:deu_x_preferred":[
         "Los Amates"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421201171,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289704,
     "wof:name":"Los Amates",
     "wof:parent_id":421196435,
     "wof:placetype":"locality",

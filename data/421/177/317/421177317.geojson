@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Luc\u00eda Milpas Altas"
+    ],
     "name:eng_x_preferred":[
         "Santa Luc\u00eda Milpas Altas"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421177317,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1563289721,
     "wof:name":"Santa Luc\u00eda Milpas Altas",
     "wof:parent_id":1108695631,
     "wof:placetype":"locality",

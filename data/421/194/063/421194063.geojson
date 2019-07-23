@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lanqu\u00edn"
+    ],
     "name:deu_x_preferred":[
         "Lanqu\u00edn"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421194063,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289599,
     "wof:name":"Lanqu\u00edn",
     "wof:parent_id":421182335,
     "wof:placetype":"locality",

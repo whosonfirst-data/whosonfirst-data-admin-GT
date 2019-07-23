@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Esquipulas"
     ],
+    "name:ceb_x_preferred":[
+        "Esquipulas"
+    ],
     "name:deu_x_preferred":[
         "Esquipulas"
     ],
@@ -69,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "Municipio de Esquipulas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0648\u06cc\u067e\u0648\u0644\u0627\u0633"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u57fa\u666e\u62c9\u65af"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421188729,
-    "wof:lastmodified":1561844757,
+    "wof:lastmodified":1563289651,
     "wof:name":"Esquipulas",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

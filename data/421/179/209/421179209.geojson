@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0430\u0442\u043e\u0440\u0438\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Oratorio"
+    ],
     "name:eng_x_preferred":[
         "Oratorio"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179209,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289738,
     "wof:name":"Oratorio",
     "wof:parent_id":1108695421,
     "wof:placetype":"locality",

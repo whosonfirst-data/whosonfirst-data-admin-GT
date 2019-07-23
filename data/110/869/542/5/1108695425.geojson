@@ -30,6 +30,9 @@
     "mps:longitude":-92.034104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pajapita"
+    ],
     "name:eng_x_preferred":[
         "Pajapita"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108695425,
-    "wof:lastmodified":1561844744,
+    "wof:lastmodified":1563289280,
     "wof:name":"Pajapita",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

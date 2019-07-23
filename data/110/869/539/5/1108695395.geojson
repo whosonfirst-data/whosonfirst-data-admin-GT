@@ -33,6 +33,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0433\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Masagua"
+    ],
     "name:deu_x_preferred":[
         "Masagua"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695395,
-    "wof:lastmodified":1561844744,
+    "wof:lastmodified":1563289284,
     "wof:name":"Masagua",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

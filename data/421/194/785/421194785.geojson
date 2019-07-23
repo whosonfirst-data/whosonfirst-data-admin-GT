@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0430\u043d\u0442\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chiantla"
+    ],
     "name:eng_x_preferred":[
         "Chiantla"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421194785,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1563289600,
     "wof:name":"Chiantla",
     "wof:parent_id":1108695289,
     "wof:placetype":"locality",

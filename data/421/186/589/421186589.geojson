@@ -19,6 +19,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0447\u0438\u043a\u0430\u0441\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Chichicastenango"
+    ],
+    "name:ceb_x_preferred":[
+        "Chichicastenango"
+    ],
     "name:deu_x_preferred":[
         "Chichicastenango"
     ],
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421186589,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289659,
     "wof:name":"Santo Tom\u00e1s Chichicastenango",
     "wof:parent_id":421171687,
     "wof:placetype":"locality",

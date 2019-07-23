@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ostuncalco"
+    ],
     "name:eng_x_preferred":[
         "San Juan Ostuncalco"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421179207,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1563289739,
     "wof:name":"Ostuncalco",
     "wof:parent_id":1108695539,
     "wof:placetype":"locality",

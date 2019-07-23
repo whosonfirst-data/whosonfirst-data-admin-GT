@@ -52,6 +52,9 @@
     "name:eng_x_preferred":[
         "Baja Verapaz"
     ],
+    "name:eng_x_variant":[
+        "Baja Verapaz Department"
+    ],
     "name:epo_x_preferred":[
         "Malalta Verapaco"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Baja Verapaz"
+    ],
+    "name:fra_x_variant":[
+        "Baja Verapaz"
+    ],
+    "name:frr_x_preferred":[
+        "Baja Verapaz"
     ],
     "name:glg_x_preferred":[
         "Departamento de Baja Verapaz"
@@ -96,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\ud558\ubca0\ub77c\ud30c\uc2a4 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Basha Verapaz"
     ],
     "name:lav_x_preferred":[
         "Bahaverapasas departaments"
@@ -162,6 +174,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e25\u0e15\u0e32\u0e40\u0e1a\u0e23\u0e32\u0e1b\u0e31\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e32\u0e2e\u0e32\u0e40\u0e1a\u0e23\u0e32\u0e1b\u0e31\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Baja Verapaz"
@@ -305,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1561844728,
+    "wof:lastmodified":1563288556,
     "wof:name":"Baja Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -30,6 +30,9 @@
     "mps:longitude":-90.37515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Santa Cruz Naranjo"
+    ],
     "name:eng_x_preferred":[
         "Santa Cruz Naranjo"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695625,
-    "wof:lastmodified":1561844746,
+    "wof:lastmodified":1563289297,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

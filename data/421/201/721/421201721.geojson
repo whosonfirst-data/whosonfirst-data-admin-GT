@@ -17,10 +17,16 @@
     "name:ara_x_preferred":[
         "\u062b\u0627\u0643\u0627\u0628\u0627\u060c \u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062b\u0627\u0643\u0627\u0628\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u0995\u09be\u09aa\u09be"
     ],
     "name:cat_x_preferred":[
+        "Zacapa"
+    ],
+    "name:ceb_x_preferred":[
         "Zacapa"
     ],
     "name:dan_x_preferred":[
@@ -118,6 +124,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32 \u0e04\u0e32 \u0e1b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e01\u0e32\u0e1b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Zacapa"
@@ -276,7 +285,7 @@
         }
     ],
     "wof:id":421201721,
-    "wof:lastmodified":1561844762,
+    "wof:lastmodified":1563289702,
     "wof:name":"Zacapa",
     "wof:parent_id":421170045,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Francisco Zapotitl\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "San Francisco Zapotitl\u00e1n"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421186231,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1563289660,
     "wof:name":"San Francisco Zapotitl\u00e1n",
     "wof:parent_id":1108695507,
     "wof:placetype":"locality",

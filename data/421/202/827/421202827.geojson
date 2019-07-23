@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Estor"
+    ],
     "name:deu_x_preferred":[
         "El Estor"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421202827,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1563289627,
     "wof:name":"El Estor",
     "wof:parent_id":421194695,
     "wof:placetype":"locality",

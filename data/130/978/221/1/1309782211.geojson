@@ -25,8 +25,17 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:ita_x_preferred":[
+        "Las Delicias"
+    ],
     "name:spa_x_preferred":[
         "Labor Las Delicias"
+    ],
+    "name:swe_x_preferred":[
+        "Las Delicias"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309782211,
-    "wof:lastmodified":1537625178,
+    "wof:lastmodified":1564227822,
     "wof:name":"Las Delicias",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",

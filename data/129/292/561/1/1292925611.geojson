@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Chicala"
+    ],
     "name:spa_x_preferred":[
         "Chical\u00e1"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1292925611,
-    "wof:lastmodified":1537625374,
+    "wof:lastmodified":1564226796,
     "wof:name":"Chicala",
     "wof:parent_id":1108695629,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Boca del Monte"
+    ],
     "name:spa_x_preferred":[
         "Boca del Monte"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421201153,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1564227892,
     "wof:name":"Boca del Monte",
     "wof:parent_id":1108695679,
     "wof:placetype":"locality",

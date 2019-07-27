@@ -25,6 +25,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tres Cruces"
+    ],
+    "name:deu_x_preferred":[
+        "Tres Cruces"
+    ],
     "name:spa_x_preferred":[
         "Tres Cruces"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360248547,
-    "wof:lastmodified":1537625299,
+    "wof:lastmodified":1564227717,
     "wof:name":"Tres Cruces",
     "wof:parent_id":1108695653,
     "wof:placetype":"locality",

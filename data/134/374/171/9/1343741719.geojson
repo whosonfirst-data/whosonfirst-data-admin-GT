@@ -26,6 +26,18 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:deu_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:spa_x_preferred":[
+        "Las Mercedes"
+    ],
+    "name:swe_x_preferred":[
+        "Las Mercedes"
+    ],
     "name:und_x_variant":[
         "Finca Las Mercedes",
         "Mercedes",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343741719,
-    "wof:lastmodified":1537625177,
+    "wof:lastmodified":1564226721,
     "wof:name":"Las Mercedes",
     "wof:parent_id":421172665,
     "wof:placetype":"locality",

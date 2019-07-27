@@ -26,6 +26,18 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barbasco"
+    ],
+    "name:fra_x_preferred":[
+        "Barbasco"
+    ],
+    "name:que_x_preferred":[
+        "Barbasku"
+    ],
+    "name:spa_x_preferred":[
+        "Barbasco"
+    ],
     "name:und_x_variant":[
         "El Barbasco",
         "Barbasco"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226718889,
-    "wof:lastmodified":1537625232,
+    "wof:lastmodified":1564228422,
     "wof:name":"Barbasco",
     "wof:parent_id":421166783,
     "wof:placetype":"locality",

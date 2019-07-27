@@ -25,6 +25,18 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Reynoso"
+    ],
+    "name:fra_x_preferred":[
+        "Reynoso"
+    ],
+    "name:pol_x_preferred":[
+        "Reynoso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0439\u043d\u043e\u0441\u043e"
+    ],
     "name:spa_x_preferred":[
         "Reynoso"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343752499,
-    "wof:lastmodified":1537625385,
+    "wof:lastmodified":1564226727,
     "wof:name":"Reynoso",
     "wof:parent_id":1108695511,
     "wof:placetype":"locality",

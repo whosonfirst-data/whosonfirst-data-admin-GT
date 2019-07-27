@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cheche"
+    ],
     "name:spa_x_preferred":[
         "Cheche"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259899925,
-    "wof:lastmodified":1537625225,
+    "wof:lastmodified":1564228254,
     "wof:name":"Cheche",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

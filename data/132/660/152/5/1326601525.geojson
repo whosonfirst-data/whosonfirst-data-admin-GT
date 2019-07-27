@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valle Verde"
+    ],
     "name:spa_x_preferred":[
+        "Valle Verde"
+    ],
+    "name:swe_x_preferred":[
         "Valle Verde"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326601525,
-    "wof:lastmodified":1537625310,
+    "wof:lastmodified":1564226326,
     "wof:name":"Valle Verde",
     "wof:parent_id":1108695671,
     "wof:placetype":"locality",

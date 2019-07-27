@@ -30,12 +30,36 @@
     "mps:longitude":-91.675506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cuyotenango"
+    ],
     "name:eng_x_preferred":[
         "Cuyotenango"
     ],
     "name:eng_x_variant":[
         "Cuyotenango",
         "San Andr\u00e9s Villa Seca"
+    ],
+    "name:fra_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:ita_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:pol_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:por_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:spa_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:swe_x_preferred":[
+        "Cuyotenango"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u7d04\u7279\u5357\u6208"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +94,7 @@
         }
     ],
     "wof:id":1108695317,
-    "wof:lastmodified":1553718276,
+    "wof:lastmodified":1564227547,
     "wof:name":"Cuyotenango",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

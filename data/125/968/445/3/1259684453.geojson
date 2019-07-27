@@ -26,6 +26,27 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Montesinos"
+    ],
+    "name:ceb_x_preferred":[
+        "Montesinos"
+    ],
+    "name:deu_x_preferred":[
+        "Montesinos"
+    ],
+    "name:fra_x_preferred":[
+        "Montesinos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0441\u0438\u043d\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Montesinos"
+    ],
+    "name:swe_x_preferred":[
+        "Montesinos"
+    ],
     "name:und_x_variant":[
         "Montecinos",
         "Montesinos"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1259684453,
-    "wof:lastmodified":1537625165,
+    "wof:lastmodified":1564228205,
     "wof:name":"Montesinos",
     "wof:parent_id":421188729,
     "wof:placetype":"locality",

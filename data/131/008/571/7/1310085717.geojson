@@ -25,6 +25,33 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043a\u0456\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Machaquil\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Machaquila"
+    ],
+    "name:ind_x_preferred":[
+        "Machaquil\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Machaquila"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30ad\u30e9\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043a\u0438\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Machaquil\u00e1"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043a\u0456\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310085717,
-    "wof:lastmodified":1537024018,
+    "wof:lastmodified":1564227606,
     "wof:name":"Machaquila",
     "wof:parent_id":421203225,
     "wof:placetype":"locality",

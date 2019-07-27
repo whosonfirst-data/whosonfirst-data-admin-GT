@@ -25,7 +25,19 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Playa"
+    ],
+    "name:fra_x_preferred":[
+        "La Playa"
+    ],
+    "name:nld_x_preferred":[
+        "La Playa"
+    ],
     "name:spa_x_preferred":[
+        "La Playa"
+    ],
+    "name:swe_x_preferred":[
         "La Playa"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1225821607,
-    "wof:lastmodified":1537625275,
+    "wof:lastmodified":1564228488,
     "wof:name":"La Playa",
     "wof:parent_id":1108695425,
     "wof:placetype":"locality",

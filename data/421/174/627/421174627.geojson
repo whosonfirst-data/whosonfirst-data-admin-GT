@@ -19,6 +19,9 @@
     "name:ita_x_preferred":[
         "Monterrico"
     ],
+    "name:pol_x_preferred":[
+        "Monterrrico"
+    ],
     "name:spa_x_preferred":[
         "Monterrico"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421174627,
-    "wof:lastmodified":1527716225,
+    "wof:lastmodified":1564227881,
     "wof:name":"Monterrico",
     "wof:parent_id":421190501,
     "wof:placetype":"locality",

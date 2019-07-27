@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Remolino"
+    ],
     "name:spa_x_preferred":[
         "El Remolino"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226113117,
-    "wof:lastmodified":1537625332,
+    "wof:lastmodified":1564228339,
     "wof:name":"El Remolino",
     "wof:parent_id":421169961,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "Palo blanco"
+    ],
+    "name:swe_x_preferred":[
+        "Palo Blanco"
+    ],
     "name:und_x_variant":[
         "Agua Blanca",
         "Palo Blanco"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209796613,
-    "wof:lastmodified":1537625162,
+    "wof:lastmodified":1564227265,
     "wof:name":"Palo Blanco",
     "wof:parent_id":1108695311,
     "wof:placetype":"locality",

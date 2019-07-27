@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Clarita"
+    ],
     "name:spa_x_preferred":[
         "Clarita"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309882147,
-    "wof:lastmodified":1537625272,
+    "wof:lastmodified":1564227869,
     "wof:name":"Clarita",
     "wof:parent_id":1108695575,
     "wof:placetype":"locality",

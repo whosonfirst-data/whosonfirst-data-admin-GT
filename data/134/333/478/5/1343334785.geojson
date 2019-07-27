@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Chico"
+    ],
     "name:spa_x_preferred":[
+        "El Chico"
+    ],
+    "name:swe_x_preferred":[
         "El Chico"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343334785,
-    "wof:lastmodified":1537625211,
+    "wof:lastmodified":1564226675,
     "wof:name":"El Chico",
     "wof:parent_id":421204387,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barrios"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343238563,
-    "wof:lastmodified":1537063818,
+    "wof:lastmodified":1564226619,
     "wof:name":"Barrios",
     "wof:parent_id":1108695345,
     "wof:placetype":"locality",

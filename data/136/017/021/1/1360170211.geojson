@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Arco"
+    ],
     "name:spa_x_preferred":[
+        "El Arco"
+    ],
+    "name:swe_x_preferred":[
         "El Arco"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360170211,
-    "wof:lastmodified":1537625371,
+    "wof:lastmodified":1564227765,
     "wof:name":"El Arco",
     "wof:parent_id":1108695629,
     "wof:placetype":"locality",

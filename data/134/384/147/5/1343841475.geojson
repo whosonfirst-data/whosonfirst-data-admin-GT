@@ -25,7 +25,16 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chicho"
+    ],
+    "name:deu_x_preferred":[
+        "Chicho"
+    ],
     "name:spa_x_preferred":[
+        "Chicho"
+    ],
+    "name:swe_x_preferred":[
         "Chicho"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343841475,
-    "wof:lastmodified":1537625235,
+    "wof:lastmodified":1564226608,
     "wof:name":"Chicho",
     "wof:parent_id":1108695475,
     "wof:placetype":"locality",

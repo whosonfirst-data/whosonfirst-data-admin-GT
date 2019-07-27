@@ -25,8 +25,17 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mete"
+    ],
+    "name:deu_x_preferred":[
+        "Mete"
+    ],
     "name:spa_x_preferred":[
         "Met\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Mete"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326852845,
-    "wof:lastmodified":1537625328,
+    "wof:lastmodified":1564226412,
     "wof:name":"Mete",
     "wof:parent_id":1108695561,
     "wof:placetype":"locality",

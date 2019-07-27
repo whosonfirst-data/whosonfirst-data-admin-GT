@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Durazno"
+    ],
     "name:spa_x_preferred":[
+        "El Durazno"
+    ],
+    "name:swe_x_preferred":[
         "El Durazno"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276631693,
-    "wof:lastmodified":1537625301,
+    "wof:lastmodified":1564227160,
     "wof:name":"El Durazno",
     "wof:parent_id":1108695275,
     "wof:placetype":"locality",

@@ -25,8 +25,35 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zunil"
+    ],
+    "name:deu_x_preferred":[
+        "Zunil"
+    ],
+    "name:fra_x_preferred":[
+        "Zunil"
+    ],
+    "name:ita_x_preferred":[
+        "Zunil"
+    ],
+    "name:lit_x_preferred":[
+        "Sunilis"
+    ],
+    "name:pol_x_preferred":[
+        "Zunil"
+    ],
+    "name:por_x_preferred":[
+        "Zunil"
+    ],
     "name:spa_x_preferred":[
         "Zunil"
+    ],
+    "name:swe_x_preferred":[
+        "Zunil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5c3c\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1260305953,
-    "wof:lastmodified":1537625282,
+    "wof:lastmodified":1564227486,
     "wof:name":"Zunil",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

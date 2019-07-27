@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santa Clarita"
+    ],
     "name:spa_x_preferred":[
+        "Santa Clarita"
+    ],
+    "name:swe_x_preferred":[
         "Santa Clarita"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343733785,
-    "wof:lastmodified":1537625142,
+    "wof:lastmodified":1564226708,
     "wof:name":"Santa Clarita",
     "wof:parent_id":1108695415,
     "wof:placetype":"locality",

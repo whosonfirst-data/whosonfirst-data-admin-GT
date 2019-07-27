@@ -26,6 +26,15 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Prensa"
+    ],
+    "name:fra_x_preferred":[
+        "La Prensa"
+    ],
+    "name:spa_x_preferred":[
+        "La Prensa"
+    ],
     "name:und_x_variant":[
         "Prensas",
         "La Prensa"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243369877,
-    "wof:lastmodified":1537625181,
+    "wof:lastmodified":1564227906,
     "wof:name":"La Prensa",
     "wof:parent_id":1108695419,
     "wof:placetype":"locality",

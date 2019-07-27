@@ -25,6 +25,30 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u06a9\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Paqui"
+    ],
+    "name:pol_x_preferred":[
+        "Paqui"
+    ],
+    "name:por_x_preferred":[
+        "Paqui"
+    ],
+    "name:spa_x_preferred":[
+        "Paqui Veza"
+    ],
+    "name:swe_x_preferred":[
+        "Francisco Veza"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0430\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1293454063,
-    "wof:lastmodified":1536834378,
+    "wof:lastmodified":1564226944,
     "wof:name":"Paqui",
     "wof:parent_id":421204771,
     "wof:placetype":"locality",

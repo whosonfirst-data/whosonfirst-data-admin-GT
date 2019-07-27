@@ -25,7 +25,19 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salitre"
+    ],
+    "name:por_x_preferred":[
+        "Salitre"
+    ],
     "name:spa_x_preferred":[
+        "Salitre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u0442\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Salitre"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243146243,
-    "wof:lastmodified":1537625334,
+    "wof:lastmodified":1564228005,
     "wof:name":"Salitre",
     "wof:parent_id":1108695399,
     "wof:placetype":"locality",

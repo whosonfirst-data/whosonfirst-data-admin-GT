@@ -25,6 +25,18 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aguacate"
+    ],
+    "name:nds_x_preferred":[
+        "Aguacate"
+    ],
+    "name:spa_x_preferred":[
+        "Aguacate"
+    ],
+    "name:swe_x_preferred":[
+        "Aguacate"
+    ],
     "name:und_x_variant":[
         "El Aguacate",
         "Aguacate"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1210002279,
-    "wof:lastmodified":1537625234,
+    "wof:lastmodified":1564227398,
     "wof:name":"Aguacate",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

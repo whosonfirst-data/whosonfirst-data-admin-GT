@@ -16,6 +16,9 @@
     "name:ast_x_preferred":[
         "La Gloria"
     ],
+    "name:ceb_x_preferred":[
+        "La Gloria"
+    ],
     "name:deu_x_preferred":[
         "La Gloria"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:spa_x_variant":[
         "La Florida"
+    ],
+    "name:swe_x_preferred":[
+        "La Gloria"
     ],
     "name:vie_x_preferred":[
         "La Gloria"
@@ -54,10 +60,10 @@
     "qs:woe_id":55889718,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671641,
         102191575,
         85632385,
-        1108695581,
-        85671641
+        1108695581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421188825,
-    "wof:lastmodified":1531858635,
+    "wof:lastmodified":1564227884,
     "wof:name":"La Gloria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,6 +25,15 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nica"
+    ],
+    "name:ita_x_preferred":[
+        "Nica"
+    ],
+    "name:ron_x_preferred":[
+        "Nica"
+    ],
     "name:spa_x_preferred":[
         "Nic\u00e1"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293268485,
-    "wof:lastmodified":1537625164,
+    "wof:lastmodified":1564226968,
     "wof:name":"Nica",
     "wof:parent_id":421184393,
     "wof:placetype":"locality",

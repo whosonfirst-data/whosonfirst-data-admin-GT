@@ -25,6 +25,21 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Patatxo"
+    ],
+    "name:eus_x_preferred":[
+        "Patatxe"
+    ],
+    "name:fra_x_preferred":[
+        "Patache"
+    ],
+    "name:por_x_preferred":[
+        "Patacho"
+    ],
+    "name:spa_x_preferred":[
+        "Patache"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259978875,
-    "wof:lastmodified":1536640933,
+    "wof:lastmodified":1564228137,
     "wof:name":"Patache",
     "wof:parent_id":1108695605,
     "wof:placetype":"locality",

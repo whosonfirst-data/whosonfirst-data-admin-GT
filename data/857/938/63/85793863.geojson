@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12279780.650033,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.4821,14.642941,-90.4821,14.642941",
     "geom:latitude":14.642941,
     "geom:longitude":-90.4821,
@@ -31,11 +31,17 @@
     "name:cat_x_preferred":[
         "Atl\u00e0ntida"
     ],
+    "name:ceb_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
     "name:deu_x_preferred":[
         "Atl\u00e1ntida"
     ],
     "name:fra_x_preferred":[
         "Atl\u00e1ntida"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057f\u056c\u0561\u0576\u057f\u056b\u0564\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c8\u30e9\u30f3\u30c6\u30a3\u30c0"
@@ -56,6 +62,9 @@
         "Atlantida"
     ],
     "name:spa_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
+    "name:swe_x_preferred":[
         "Atl\u00e1ntida"
     ],
     "name:ukr_x_preferred":[
@@ -143,7 +152,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379332,
+    "wof:lastmodified":1564226741,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

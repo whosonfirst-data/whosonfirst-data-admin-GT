@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Cajan"
+    ],
     "name:spa_x_preferred":[
         "Caj\u00e1n"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259568799,
-    "wof:lastmodified":1537625329,
+    "wof:lastmodified":1564228238,
     "wof:name":"Cajan",
     "wof:parent_id":1108695657,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Sacul"
+    ],
+    "name:ita_x_preferred":[
+        "Sacul"
+    ],
+    "name:spa_x_preferred":[
+        "Sacul"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209492507,
-    "wof:lastmodified":1537563209,
+    "wof:lastmodified":1564227285,
     "wof:name":"Sacul",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

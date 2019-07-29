@@ -26,9 +26,96 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0643\u0648\u0631\u0648\u0646\u0627\u062f\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ast_x_preferred":[
+        "La Coronada"
+    ],
+    "name:cat_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ceb_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ces_x_preferred":[
+        "La Coronada"
+    ],
+    "name:epo_x_preferred":[
+        "La Coronada"
+    ],
+    "name:eus_x_preferred":[
+        "La Coronada"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u0646\u0627\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "La Coronada"
+    ],
+    "name:hun_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ido_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ina_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ita_x_preferred":[
+        "La Coronada"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430 \u041a\u043e\u0440\u043e\u043d\u0430\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "La Coronada"
+    ],
+    "name:nld_x_preferred":[
+        "La Coronada"
+    ],
+    "name:oci_x_preferred":[
+        "La Coronada"
+    ],
+    "name:pol_x_preferred":[
+        "La Coronada"
+    ],
+    "name:por_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ron_x_preferred":[
+        "La Coronada"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041a\u043e\u0440\u043e\u043d\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Coronada"
+    ],
+    "name:sqi_x_preferred":[
+        "La Coronada"
+    ],
+    "name:swe_x_preferred":[
+        "La Coronada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041a\u043e\u0440\u043e\u043d\u0430\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Coronado",
         "La Coronada"
+    ],
+    "name:vie_x_preferred":[
+        "La Coronada"
+    ],
+    "name:war_x_preferred":[
+        "La Coronada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u79d1\u7f57\u7eb3\u8fbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +140,7 @@
         }
     ],
     "wof:id":1276762609,
-    "wof:lastmodified":1537625186,
+    "wof:lastmodified":1564227111,
     "wof:name":"La Coronada",
     "wof:parent_id":421185525,
     "wof:placetype":"locality",

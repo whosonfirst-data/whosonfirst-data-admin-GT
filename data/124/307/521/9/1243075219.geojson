@@ -25,6 +25,30 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:fra_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:ita_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:pol_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:por_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:sco_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:spa_x_preferred":[
+        "San Jacinto"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u54c8\u8f9b\u6258"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1243075219,
-    "wof:lastmodified":1537563195,
+    "wof:lastmodified":1564227901,
     "wof:name":"San Jacinto",
     "wof:parent_id":1108695335,
     "wof:placetype":"locality",

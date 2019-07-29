@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "ICal"
+    ],
     "name:spa_x_preferred":[
         "Ical"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343878239,
-    "wof:lastmodified":1537625191,
+    "wof:lastmodified":1564226712,
     "wof:name":"Ical",
     "wof:parent_id":421197631,
     "wof:placetype":"locality",

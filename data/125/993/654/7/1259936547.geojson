@@ -26,6 +26,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Zapotal"
+    ],
+    "name:spa_x_preferred":[
+        "El Zapotal"
+    ],
     "name:und_x_variant":[
         "Zapotal",
         "El Zapotal"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259936547,
-    "wof:lastmodified":1537625196,
+    "wof:lastmodified":1564228227,
     "wof:name":"El Zapotal",
     "wof:parent_id":421170045,
     "wof:placetype":"locality",

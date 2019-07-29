@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Panabaj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276885265,
-    "wof:lastmodified":1537032485,
+    "wof:lastmodified":1564227007,
     "wof:name":"Panabaj",
     "wof:parent_id":421178903,
     "wof:placetype":"locality",

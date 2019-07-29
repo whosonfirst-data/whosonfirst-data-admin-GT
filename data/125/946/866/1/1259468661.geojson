@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chil"
+    ],
     "name:spa_x_preferred":[
+        "Chil"
+    ],
+    "name:swe_x_preferred":[
         "Chil"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259468661,
-    "wof:lastmodified":1537625368,
+    "wof:lastmodified":1564228161,
     "wof:name":"Chil",
     "wof:parent_id":421189489,
     "wof:placetype":"locality",

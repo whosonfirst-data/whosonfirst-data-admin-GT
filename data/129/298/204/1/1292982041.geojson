@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rinc\u00f3n Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292982041,
-    "wof:lastmodified":1537017930,
+    "wof:lastmodified":1564226901,
     "wof:name":"Rincon Grande",
     "wof:parent_id":1108695255,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Los Cipreses"
+    ],
+    "name:sco_x_preferred":[
+        "Los Cipreses"
+    ],
     "name:spa_x_preferred":[
         "Los Cipreses"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293072015,
-    "wof:lastmodified":1537625351,
+    "wof:lastmodified":1564226746,
     "wof:name":"Los Cipreses",
     "wof:parent_id":1108695579,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0635\u064a\u0644"
+    ],
     "name:spa_x_preferred":[
+        "Asil"
+    ],
+    "name:tur_x_preferred":[
         "Asil"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343759557,
-    "wof:lastmodified":1537625372,
+    "wof:lastmodified":1564226724,
     "wof:name":"Asil",
     "wof:parent_id":1108695629,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guitarra"
+    ],
     "name:und_x_variant":[
         "La Guitarra",
         "Guitarra"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276963653,
-    "wof:lastmodified":1537625192,
+    "wof:lastmodified":1564227171,
     "wof:name":"Guitarra",
     "wof:parent_id":1108695389,
     "wof:placetype":"locality",

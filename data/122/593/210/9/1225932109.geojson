@@ -26,6 +26,15 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Fria"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Fria"
+    ],
     "name:und_x_variant":[
         "Finca Agua Fr\u00eda",
         "Agua Fr\u00eda"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225932109,
-    "wof:lastmodified":1537625234,
+    "wof:lastmodified":1564228279,
     "wof:name":"Agua Fria",
     "wof:parent_id":1108695263,
     "wof:placetype":"locality",

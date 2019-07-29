@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009939,
-    "geom:area_square_m":118786329.602144,
+    "geom:area_square_m":118786329.602146,
     "geom:bbox":"-90.551215637,14.7964664532,-90.3947491035,14.9167590713",
     "geom:latitude":14.85459,
     "geom:longitude":-90.471735,
@@ -24,8 +24,38 @@
     "mps:longitude":-90.485955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:deu_x_preferred":[
+        "Chuarrancho"
+    ],
     "name:eng_x_variant":[
         "Chuarrancho"
+    ],
+    "name:fra_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:ita_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:pol_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:por_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:sco_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:spa_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:swe_x_preferred":[
+        "Chuarrancho"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u963f\u862d\u55ac"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1108695295,
-    "wof:lastmodified":1512516833,
+    "wof:lastmodified":1564227543,
     "wof:name":"Chuarrancho",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

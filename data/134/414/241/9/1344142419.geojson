@@ -25,7 +25,19 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Com"
+    ],
+    "name:hun_x_preferred":[
+        "COM"
+    ],
+    "name:ron_x_preferred":[
+        "Com"
+    ],
     "name:spa_x_preferred":[
+        "Com"
+    ],
+    "name:tur_x_preferred":[
         "Com"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1344142419,
-    "wof:lastmodified":1537625325,
+    "wof:lastmodified":1564226567,
     "wof:name":"Com",
     "wof:parent_id":1108695307,
     "wof:placetype":"locality",

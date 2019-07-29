@@ -25,6 +25,177 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Biafra"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0641\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Biafra"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0627\u0641\u0631\u0627 \u062c\u0648\u0645\u0647\u0648\u0631\u06cc\u062a\u06cc"
+    ],
+    "name:bos_x_preferred":[
+        "Biafra"
+    ],
+    "name:bre_x_preferred":[
+        "Biafra"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0430\u0444\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Biafra"
+    ],
+    "name:ces_x_preferred":[
+        "Biafra"
+    ],
+    "name:cym_x_preferred":[
+        "Biaffra"
+    ],
+    "name:dan_x_preferred":[
+        "Biafra"
+    ],
+    "name:deu_x_preferred":[
+        "Biafra"
+    ],
+    "name:diq_x_preferred":[
+        "Biafra"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03ac\u03c6\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Biafro"
+    ],
+    "name:est_x_preferred":[
+        "Biafra"
+    ],
+    "name:eus_x_preferred":[
+        "Biafra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0641\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Biafra"
+    ],
+    "name:fra_x_preferred":[
+        "Biafra"
+    ],
+    "name:gle_x_preferred":[
+        "Biafra"
+    ],
+    "name:glg_x_preferred":[
+        "Biafra"
+    ],
+    "name:hat_x_preferred":[
+        "Biafra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05e4\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Biafra"
+    ],
+    "name:hun_x_preferred":[
+        "Biafra"
+    ],
+    "name:ibo_x_preferred":[
+        "B\u1ecbafra"
+    ],
+    "name:ido_x_preferred":[
+        "Biafra"
+    ],
+    "name:ind_x_preferred":[
+        "Biafra"
+    ],
+    "name:isl_x_preferred":[
+        "B\u00edafra"
+    ],
+    "name:ita_x_preferred":[
+        "Biafra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30a2\u30d5\u30e9\u5171\u548c\u56fd"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\uc544\ud504\ub77c"
+    ],
+    "name:kur_x_preferred":[
+        "Serxweb\u00fbna Biyafray\u00ea"
+    ],
+    "name:lav_x_preferred":[
+        "Biafra"
+    ],
+    "name:lit_x_preferred":[
+        "Biafra"
+    ],
+    "name:nld_x_preferred":[
+        "Republiek Biafra"
+    ],
+    "name:nno_x_preferred":[
+        "Biafra"
+    ],
+    "name:nor_x_preferred":[
+        "Biafra"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a3f\u0a06\u0a2b\u0a3c\u0a4d\u0a30\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Biafra"
+    ],
+    "name:por_x_preferred":[
+        "Biafra"
+    ],
+    "name:ron_x_preferred":[
+        "Biafra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0430\u0444\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Biafra"
+    ],
+    "name:slk_x_preferred":[
+        "Biafra"
+    ],
+    "name:slv_x_preferred":[
+        "Biafra"
+    ],
+    "name:spa_x_preferred":[
+        "Biafra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0458\u0430\u0444\u0440\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Biafra"
+    ],
+    "name:swe_x_preferred":[
+        "Biafra"
+    ],
+    "name:tur_x_preferred":[
+        "Biafra Cumhuriyeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0430\u0444\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u064a\u0627\u0641\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Biafra"
+    ],
+    "name:yor_x_preferred":[
+        "Biafra"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u4e9a\u6cd5\u62c9\u5171\u548c\u56fd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +219,7 @@
         }
     ],
     "wof:id":1360153547,
-    "wof:lastmodified":1536845931,
+    "wof:lastmodified":1564227718,
     "wof:name":"Biafra",
     "wof:parent_id":421166783,
     "wof:placetype":"locality",

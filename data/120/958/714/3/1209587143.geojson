@@ -25,11 +25,29 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
     "name:und_x_variant":[
         "San Jos\u00e9 Ixjoy\u00f3n",
         "San Jos\u00e9 Ixjoy\u00f3n Ojeten\u00e1n",
         "San Jos\u00e9 Ojetenam",
         "San Jos\u00e9 Ojeten\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5967\u8d6b\u7279\u7d0d\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209587143,
-    "wof:lastmodified":1537625146,
+    "wof:lastmodified":1564227322,
     "wof:name":"San Jose Ojetenam",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

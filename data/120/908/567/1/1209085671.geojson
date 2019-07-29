@@ -25,6 +25,27 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:deu_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:pol_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguelito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -34,7 +55,7 @@
         "gn:id":3589724
     },
     "wof:country":"GT",
-    "wof:geomhash":"f678f01fdf423774d83f9333b366e908",
+    "wof:geomhash":"a47e3da10b3e16f088cf7681d17c3625",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209085671,
-    "wof:lastmodified":1536298195,
+    "wof:lastmodified":1564227238,
     "wof:name":"San Miguelito",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
@@ -53,9 +74,9 @@
 },
   "bbox": [
     -91.8,
-    14.566670000000002,
+    14.56667,
     -91.8,
-    14.566670000000002
+    14.56667
 ],
   "geometry": {"coordinates":[-91.8,14.56667],"type":"Point"}
 }

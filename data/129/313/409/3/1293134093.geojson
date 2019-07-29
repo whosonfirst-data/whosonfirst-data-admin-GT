@@ -25,6 +25,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Canan"
+    ],
+    "name:fra_x_preferred":[
+        "Canan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293134093,
-    "wof:lastmodified":1536799683,
+    "wof:lastmodified":1564226847,
     "wof:name":"Canan",
     "wof:parent_id":421204021,
     "wof:placetype":"locality",

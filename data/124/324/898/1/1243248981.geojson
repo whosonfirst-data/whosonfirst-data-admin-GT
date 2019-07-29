@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Chex"
     ],
+    "name:tur_x_preferred":[
+        "Chex"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243248981,
-    "wof:lastmodified":1537625225,
+    "wof:lastmodified":1564227988,
     "wof:name":"Chex",
     "wof:parent_id":1108695257,
     "wof:placetype":"locality",

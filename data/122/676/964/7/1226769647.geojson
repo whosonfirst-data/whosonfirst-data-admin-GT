@@ -28,6 +28,9 @@
     "name:spa_x_preferred":[
         "Pann"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba3\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226769647,
-    "wof:lastmodified":1537625370,
+    "wof:lastmodified":1564228416,
     "wof:name":"Pann",
     "wof:parent_id":1108695289,
     "wof:placetype":"locality",

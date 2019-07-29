@@ -13,10 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Carmelita"
+    ],
     "name:fra_x_preferred":[
         "Carmelita"
     ],
+    "name:nds_x_preferred":[
+        "Carmelita"
+    ],
+    "name:por_x_preferred":[
+        "Carmelita"
+    ],
     "name:spa_x_preferred":[
+        "Carmelita"
+    ],
+    "name:swe_x_preferred":[
         "Carmelita"
     ],
     "qs:gn_country":"GT",
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":421187243,
-    "wof:lastmodified":1527716246,
+    "wof:lastmodified":1564227882,
     "wof:name":"Carmelita",
     "wof:parent_id":1108695467,
     "wof:placetype":"locality",

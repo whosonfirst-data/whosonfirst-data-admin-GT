@@ -25,6 +25,42 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0633\u062a\u0648 \u0631\u0648\u0641\u064a\u0646\u0648 \u0628\u0627\u0631\u064a\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Justo Rufino Barrios"
+    ],
+    "name:deu_x_preferred":[
+        "Justo Rufino Barrios Auy\u00f3n"
+    ],
+    "name:fin_x_preferred":[
+        "Justo Rufino Barrios"
+    ],
+    "name:fra_x_preferred":[
+        "Justo Rufino Barrios"
+    ],
+    "name:ita_x_preferred":[
+        "Justo Rufino Barrios Auy\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Justo Rufino Barrios"
+    ],
+    "name:por_x_preferred":[
+        "Justo Rufino Barrios Auy\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0438\u043e\u0441 \u0410\u0443\u0439\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Justo Rufino Barrios"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0441\u0442\u043e \u0420\u0443\u0444\u0456\u043d\u043e \u0411\u0430\u0440\u0440\u0456\u043e\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u65af\u6258\u00b7\u9c81\u83f2\u8bfa\u00b7\u5df4\u91cc\u5965\u65af\u00b7\u5965\u5ef6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -42,7 +78,7 @@
         }
     ],
     "wof:id":1209293849,
-    "wof:lastmodified":1536291600,
+    "wof:lastmodified":1564227349,
     "wof:name":"Justo Rufino Barrios",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

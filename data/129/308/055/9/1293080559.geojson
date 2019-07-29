@@ -26,6 +26,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galvez"
+    ],
+    "name:swe_x_preferred":[
+        "Galvez"
+    ],
     "name:und_x_variant":[
         "Granados",
         "G\u00e1lvez"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293080559,
-    "wof:lastmodified":1537625194,
+    "wof:lastmodified":1564226772,
     "wof:name":"Galvez",
     "wof:parent_id":1108695345,
     "wof:placetype":"locality",

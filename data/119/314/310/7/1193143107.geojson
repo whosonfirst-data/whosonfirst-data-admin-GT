@@ -26,6 +26,24 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Potrero"
+    ],
+    "name:deu_x_preferred":[
+        "Potrero"
+    ],
+    "name:ita_x_preferred":[
+        "Potrero"
+    ],
+    "name:spa_x_preferred":[
+        "Potrero"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u0440\u0435\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Potrero"
+    ],
     "name:und_x_variant":[
         "El Potrero",
         "Potrero"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1193143107,
-    "wof:lastmodified":1537625156,
+    "wof:lastmodified":1564227424,
     "wof:name":"Potrero",
     "wof:parent_id":421177381,
     "wof:placetype":"locality",

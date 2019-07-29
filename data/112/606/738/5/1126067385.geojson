@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Las Victorias"
+    ],
     "name:spa_x_preferred":[
         "Parque nacional Las Victorias",
         "Las Victorias"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126067385,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1564227900,
     "wof:name":"Las Victorias",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

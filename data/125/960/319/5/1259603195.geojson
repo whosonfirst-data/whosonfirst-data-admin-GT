@@ -25,6 +25,9 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Coxton"
+    ],
     "name:spa_x_preferred":[
         "Coxt\u00f3n"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259603195,
-    "wof:lastmodified":1537625289,
+    "wof:lastmodified":1564228233,
     "wof:name":"Coxton",
     "wof:parent_id":1108695509,
     "wof:placetype":"locality",

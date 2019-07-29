@@ -25,6 +25,12 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lad_x_preferred":[
+        "La Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "La Blanca"
+    ],
     "name:und_x_variant":[
         "Hacienda La Blanca",
         "La Blanca"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226218675,
-    "wof:lastmodified":1537625187,
+    "wof:lastmodified":1564228312,
     "wof:name":"La Blanca",
     "wof:parent_id":1108695415,
     "wof:placetype":"locality",

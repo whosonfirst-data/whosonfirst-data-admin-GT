@@ -26,6 +26,18 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salitre"
+    ],
+    "name:por_x_preferred":[
+        "Salitre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u0442\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Salitre"
+    ],
     "name:und_x_variant":[
         "El Salitre",
         "Salitre"
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209177385,
-    "wof:lastmodified":1537625150,
+    "wof:lastmodified":1564227382,
     "wof:name":"Salitre",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

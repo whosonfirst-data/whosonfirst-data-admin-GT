@@ -25,7 +25,16 @@
     "iso:country":"GT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toche"
+    ],
+    "name:deu_x_preferred":[
+        "Toche"
+    ],
     "name:spa_x_preferred":[
+        "Toche"
+    ],
+    "name:swe_x_preferred":[
         "Toche"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1309731937,
-    "wof:lastmodified":1537625370,
+    "wof:lastmodified":1564227857,
     "wof:name":"Toche",
     "wof:parent_id":1108695289,
     "wof:placetype":"locality",

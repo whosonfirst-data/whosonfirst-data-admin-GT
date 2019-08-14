@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":14.610755,
     "lbl:longitude":-89.947031,
     "mps:latitude":14.642236,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85671719,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -311,7 +311,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288549,
+    "wof:lastmodified":1565713421,
     "wof:name":"Jalapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

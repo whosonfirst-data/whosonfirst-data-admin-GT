@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZA"
+    ],
     "lbl:latitude":15.043848,
     "lbl:longitude":-89.477351,
     "mps:latitude":15.024936,
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85671727,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -307,7 +307,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288548,
+    "wof:lastmodified":1565713421,
     "wof:name":"Zacapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

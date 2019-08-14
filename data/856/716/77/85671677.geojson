@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":14.133233,
     "lbl:longitude":-90.95205,
     "mps:latitude":14.151212,
@@ -310,9 +313,6 @@
         }
     ],
     "wof:id":85671677,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -320,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288562,
+    "wof:lastmodified":1565713425,
     "wof:name":"Escuintla",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

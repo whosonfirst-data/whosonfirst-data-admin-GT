@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":14.465743,
     "lbl:longitude":-91.407175,
     "mps:latitude":14.483986,
@@ -307,9 +310,6 @@
         }
     ],
     "wof:id":85671683,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -317,7 +317,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288561,
+    "wof:lastmodified":1565713424,
     "wof:name":"Suchitep\u00e9quez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CM"
+    ],
     "lbl:latitude":14.702098,
     "lbl:longitude":-90.925972,
     "mps:latitude":14.707182,
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85671671,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -316,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288563,
+    "wof:lastmodified":1565713425,
     "wof:name":"Chimaltenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

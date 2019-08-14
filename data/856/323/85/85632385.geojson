@@ -15,6 +15,9 @@
     "itu:country_code":[
         "502"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GT"
+    ],
     "lbl:latitude":14.989397,
     "lbl:longitude":-90.522408,
     "mps:latitude":14.989397,
@@ -968,9 +971,6 @@
         }
     ],
     "wof:id":85632385,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -978,7 +978,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288545,
+    "wof:lastmodified":1565713420,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

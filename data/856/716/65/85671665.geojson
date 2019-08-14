@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AV"
+    ],
     "lbl:latitude":15.639398,
     "lbl:longitude":-90.101049,
     "mps:latitude":15.653723,
@@ -313,9 +316,6 @@
         }
     ],
     "wof:id":85671665,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -323,7 +323,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288559,
+    "wof:lastmodified":1565713424,
     "wof:name":"Alta Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

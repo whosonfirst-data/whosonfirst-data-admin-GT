@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":15.025862,
     "lbl:longitude":-91.881844,
     "mps:latitude":14.959398,
@@ -310,9 +313,6 @@
         }
     ],
     "wof:id":85671661,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -320,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288553,
+    "wof:lastmodified":1565713423,
     "wof:name":"San Marcos",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":17.037574,
     "lbl:longitude":-89.99661,
     "mps:latitude":17.037258,
@@ -314,9 +317,6 @@
         }
     ],
     "wof:id":85671647,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -324,7 +324,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288564,
+    "wof:lastmodified":1565713425,
     "wof:name":"Pet\u00e9n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

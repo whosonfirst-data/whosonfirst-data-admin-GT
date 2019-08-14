@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BV"
+    ],
     "lbl:latitude":15.080399,
     "lbl:longitude":-90.417621,
     "mps:latitude":15.087172,
@@ -310,9 +313,6 @@
         }
     ],
     "wof:id":85671635,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -320,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288556,
+    "wof:lastmodified":1565713423,
     "wof:name":"Baja Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CQ"
+    ],
     "lbl:latitude":14.680704,
     "lbl:longitude":-89.419372,
     "mps:latitude":14.695591,
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85671715,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -313,7 +313,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288553,
+    "wof:lastmodified":1565713423,
     "wof:name":"Chiquimula",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

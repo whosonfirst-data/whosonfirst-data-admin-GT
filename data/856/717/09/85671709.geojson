@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IZ"
+    ],
     "lbl:latitude":15.54575,
     "lbl:longitude":-88.996646,
     "mps:latitude":15.573098,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85671709,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -311,7 +311,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288550,
+    "wof:lastmodified":1565713421,
     "wof:name":"Izabal",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

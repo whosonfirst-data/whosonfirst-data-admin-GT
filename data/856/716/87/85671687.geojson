@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":14.547183,
     "lbl:longitude":-90.737485,
     "mps:latitude":14.567227,
@@ -315,9 +318,6 @@
         }
     ],
     "wof:id":85671687,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -325,7 +325,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288557,
+    "wof:lastmodified":1565713424,
     "wof:name":"Sacatepequez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

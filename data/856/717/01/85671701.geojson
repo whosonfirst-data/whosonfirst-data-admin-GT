@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PR"
+    ],
     "lbl:latitude":14.890829,
     "lbl:longitude":-90.108482,
     "mps:latitude":14.935017,
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85671701,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -313,7 +313,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288551,
+    "wof:lastmodified":1565713422,
     "wof:name":"El Progreso",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

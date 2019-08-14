@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QZ"
+    ],
     "lbl:latitude":14.813769,
     "lbl:longitude":-91.596665,
     "mps:latitude":14.832004,
@@ -307,9 +310,6 @@
         }
     ],
     "wof:id":85671651,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -317,7 +317,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288556,
+    "wof:lastmodified":1565713424,
     "wof:name":"Quezaltenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

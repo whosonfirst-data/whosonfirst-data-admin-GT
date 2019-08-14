@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JU"
+    ],
     "lbl:latitude":14.238753,
     "lbl:longitude":-89.892313,
     "mps:latitude":14.246886,
@@ -312,9 +315,6 @@
         }
     ],
     "wof:id":85671723,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -322,7 +322,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288552,
+    "wof:lastmodified":1565713422,
     "wof:name":"Jutiapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

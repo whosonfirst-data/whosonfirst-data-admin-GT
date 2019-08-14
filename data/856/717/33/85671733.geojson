@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QC"
+    ],
     "lbl:latitude":15.501366,
     "lbl:longitude":-90.955003,
     "mps:latitude":15.482227,
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85671733,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -316,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288546,
+    "wof:lastmodified":1565713421,
     "wof:name":"Quich\u00e9",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

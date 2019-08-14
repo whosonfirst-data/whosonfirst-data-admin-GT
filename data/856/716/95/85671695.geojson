@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":14.726994,
     "lbl:longitude":-91.236994,
     "mps:latitude":14.73155,
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85671695,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -316,7 +316,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288554,
+    "wof:lastmodified":1565713423,
     "wof:name":"Solol\u00e1",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

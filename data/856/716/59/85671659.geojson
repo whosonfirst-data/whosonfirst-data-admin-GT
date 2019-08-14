@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RE"
+    ],
     "lbl:latitude":14.381296,
     "lbl:longitude":-91.804308,
     "mps:latitude":14.39407,
@@ -309,9 +312,6 @@
         }
     ],
     "wof:id":85671659,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -319,7 +319,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288555,
+    "wof:lastmodified":1565713423,
     "wof:name":"Retalhuleu",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

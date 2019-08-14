@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":14.64623,
     "lbl:longitude":-90.467667,
     "mps:latitude":14.64018,
@@ -317,9 +320,6 @@
         }
     ],
     "wof:id":85671681,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
@@ -327,7 +327,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1563288558,
+    "wof:lastmodified":1565713424,
     "wof:name":"Guatemala",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

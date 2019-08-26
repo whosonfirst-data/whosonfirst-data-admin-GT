@@ -10,8 +10,11 @@
     "geom:latitude":14.65,
     "geom:longitude":-90.46667,
     "iso:country":"GT",
+    "lbl:bbox":"-90.47167,14.645,-90.46167,14.655",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0416\u0430\u043d\u043d\u0430 \u0434\u2019\u0410\u0440\u043a"
@@ -430,7 +433,7 @@
     "wof:concordances":{
         "gn:id":3595120,
         "gp:id":83317,
-        "qs:id":494675,
+        "qs_pg:id":494675,
         "wd:id":"Q7226"
     },
     "wof:country":"GT",
@@ -447,7 +450,7 @@
         }
     ],
     "wof:id":421199809,
-    "wof:lastmodified":1563289691,
+    "wof:lastmodified":1566643424,
     "wof:name":"Juana de Arco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

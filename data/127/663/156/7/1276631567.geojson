@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.78677,15.08242,-91.74677,15.12242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tuiscaj\u00e1"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276631567,
-    "wof:lastmodified":1537625308,
+    "wof:lastmodified":1566642971,
     "wof:name":"Tuiscaja",
     "wof:parent_id":1108695301,
     "wof:placetype":"locality",

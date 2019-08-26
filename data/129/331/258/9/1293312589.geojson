@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.64793,15.60664,-91.60793,15.64664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cochi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293312589,
-    "wof:lastmodified":1537625325,
+    "wof:lastmodified":1566642764,
     "wof:name":"Cochi",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.00333,15.71333,-88.96333,15.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Ci\u00e9naga",
         "El Cop\u00e9n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243161773,
-    "wof:lastmodified":1537625209,
+    "wof:lastmodified":1566643571,
     "wof:name":"El Copen",
     "wof:parent_id":1108695389,
     "wof:placetype":"locality",

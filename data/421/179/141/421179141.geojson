@@ -10,8 +10,12 @@
     "geom:latitude":14.64639,
     "geom:longitude":-90.73389,
     "iso:country":"GT",
+    "lbl:bbox":"-90.75389,14.62639,-90.71389,14.66639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sumpango"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3588653,
         "gp:id":86308,
-        "qs:id":149109,
+        "qs_pg:id":149109,
         "wd:id":"Q2574245",
         "wk:page":"Sumpango, Sacatep\u00e9quez"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421179141,
-    "wof:lastmodified":1563289741,
+    "wof:lastmodified":1566643444,
     "wof:name":"Sumpango",
     "wof:parent_id":421191467,
     "wof:placetype":"locality",

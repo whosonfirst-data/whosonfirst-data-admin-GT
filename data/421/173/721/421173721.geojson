@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.481961,
     "lbl:longitude":-91.622037,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"SAN JUAN ATITANHUEHUETENANGO",
     "meso:gadm_admin":"San Juan Atit\u00e1n",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.622037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan Atit\u00e1n"
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "San Juan Atit\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan Atitl\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         "gn:id":3589925,
         "gp:id":26807020,
         "hasc:id":"GT.HU.SJ",
-        "qs:id":532380,
+        "qs_pg:id":532380,
         "wd:id":"Q531288",
         "wk:page":"San Juan Atit\u00e1n"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421173721,
-    "wof:lastmodified":1563289648,
+    "wof:lastmodified":1566643406,
     "wof:name":"San Juan Atitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.50946,15.55168,-91.46946,15.59168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quinin\u00ed"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225841867,
-    "wof:lastmodified":1537625370,
+    "wof:lastmodified":1566643795,
     "wof:name":"Quinini",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

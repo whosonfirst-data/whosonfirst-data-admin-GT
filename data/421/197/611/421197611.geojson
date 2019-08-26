@@ -10,8 +10,12 @@
     "geom:latitude":14.96667,
     "geom:longitude":-91.73333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.75333,14.94667,-91.71333,14.98667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio Sacatep\u00e9quez"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Antonio Sacatep\u00e9quez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Antonio"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3590419,
         "gp:id":85543,
-        "qs:id":149162,
+        "qs_pg:id":149162,
         "wd:id":"Q3946742",
         "wk:page":"San Antonio Sacatep\u00e9quez"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421197611,
-    "wof:lastmodified":1563289686,
+    "wof:lastmodified":1566643422,
     "wof:name":"San Antonio Sacatep\u00e9quez",
     "wof:parent_id":421195547,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.69949,15.43318,-91.65949,15.47318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tuiscacal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292986537,
-    "wof:lastmodified":1537625291,
+    "wof:lastmodified":1566642833,
     "wof:name":"Tuiscacal",
     "wof:parent_id":421197631,
     "wof:placetype":"locality",

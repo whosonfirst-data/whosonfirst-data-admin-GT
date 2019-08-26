@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.63453,15.16478,-91.59453,15.20478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quequesigu\u00e1n",
         "Quesigu\u00e1n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309882081,
-    "wof:lastmodified":1537625154,
+    "wof:lastmodified":1566643380,
     "wof:name":"Quesiguan",
     "wof:parent_id":1108695653,
     "wof:placetype":"locality",

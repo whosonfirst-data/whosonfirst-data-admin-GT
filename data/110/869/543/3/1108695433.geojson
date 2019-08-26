@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.280912,
     "lbl:longitude":-89.668169,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alta Verapaz",
     "meso:diss_me":"PANZOSALTA VERAPAZ",
     "meso:gadm_admin":"Panz\u00f3s",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.668169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Panz\u00f3s"
     ],
@@ -67,9 +70,9 @@
         "\u6f58\u7d22\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695433,
-    "wof:lastmodified":1563289268,
+    "wof:lastmodified":1566643195,
     "wof:name":"Panzos",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

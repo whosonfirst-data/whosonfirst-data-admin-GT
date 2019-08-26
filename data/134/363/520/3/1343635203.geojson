@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.14562,15.25011,-91.10562,15.29011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Trapichitos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343635203,
-    "wof:lastmodified":1537625169,
+    "wof:lastmodified":1566642642,
     "wof:name":"Los Trapichitos",
     "wof:parent_id":421169961,
     "wof:placetype":"locality",

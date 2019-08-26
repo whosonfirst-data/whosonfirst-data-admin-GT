@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.0245,14.77351,-91.9845,14.81351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Breta\u00f1a Bolivar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327305571,
-    "wof:lastmodified":1537625276,
+    "wof:lastmodified":1566642509,
     "wof:name":"Bretana Bolivar",
     "wof:parent_id":1108695425,
     "wof:placetype":"locality",

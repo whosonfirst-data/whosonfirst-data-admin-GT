@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.75406,15.70382,-91.71406,15.74382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Andr\u00e9s Huehuetenango",
         "San Andr\u00e9s",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327025459,
-    "wof:lastmodified":1537625150,
+    "wof:lastmodified":1566642562,
     "wof:name":"San Andres Huista",
     "wof:parent_id":1108695473,
     "wof:placetype":"locality",

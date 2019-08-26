@@ -10,8 +10,12 @@
     "geom:latitude":15.43333,
     "geom:longitude":-90.33333,
     "iso:country":"GT",
+    "lbl:bbox":"-90.35333,15.41333,-90.31333,15.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan Chamelco"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "San Juan Chamelco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chamelco"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3589917,
         "gp:id":85732,
-        "qs:id":228571,
+        "qs_pg:id":228571,
         "wd:id":"Q325793",
         "wk:page":"San Juan Chamelco"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421202831,
-    "wof:lastmodified":1563289630,
+    "wof:lastmodified":1566643398,
     "wof:name":"San Juan Chamelco",
     "wof:parent_id":421190247,
     "wof:placetype":"locality",

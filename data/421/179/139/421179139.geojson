@@ -10,8 +10,12 @@
     "geom:latitude":15.51667,
     "geom:longitude":-91.61667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.63667,15.49667,-91.59667,15.53667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuchumatan"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3588308,
         "gp:id":86492,
-        "qs:id":149107,
+        "qs_pg:id":149107,
         "wd:id":"Q2608975",
         "wk:page":"Todos Santos Cuchumat\u00e1n"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421179139,
-    "wof:lastmodified":1563289735,
+    "wof:lastmodified":1566643442,
     "wof:name":"Todos Santos Cuchumat\u00e1n",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.71667,
     "geom:longitude":-92.03333,
     "iso:country":"GT",
+    "lbl:bbox":"-92.05333,14.69667,-92.01333,14.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pajapita"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3591885,
         "gp:id":84744,
-        "qs:id":149176,
+        "qs_pg:id":149176,
         "wd:id":"Q2402391",
         "wk:page":"Pajapita"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179203,
-    "wof:lastmodified":1563289729,
+    "wof:lastmodified":1566643440,
     "wof:name":"Pajapita",
     "wof:parent_id":1108695425,
     "wof:placetype":"locality",

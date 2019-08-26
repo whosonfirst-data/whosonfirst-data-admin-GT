@@ -10,8 +10,12 @@
     "geom:latitude":14.27028,
     "geom:longitude":-90.04028,
     "iso:country":"GT",
+    "lbl:bbox":"-90.06028,14.25028,-90.02028,14.29028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Quesada"
@@ -33,9 +37,6 @@
     ],
     "name:spa_x_preferred":[
         "Quesada"
-    ],
-    "name:unk_x_variant":[
-        "Quezada"
     ],
     "name:zho_x_preferred":[
         "\u514b\u85a9\u9054"
@@ -71,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3590987,
         "gp:id":85258,
-        "qs:id":1116077,
+        "qs_pg:id":1116077,
         "wd:id":"Q2403641"
     },
     "wof:country":"GT",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":421177175,
-    "wof:lastmodified":1561844763,
+    "wof:lastmodified":1566643436,
     "wof:name":"Quesada",
     "wof:parent_id":1108695451,
     "wof:placetype":"locality",

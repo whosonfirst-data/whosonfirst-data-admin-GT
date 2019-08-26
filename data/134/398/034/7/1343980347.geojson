@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.52481,15.37773,-91.48481,15.41773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Manzanas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343980347,
-    "wof:lastmodified":1537625295,
+    "wof:lastmodified":1566642634,
     "wof:name":"Las Manzanas",
     "wof:parent_id":1108695289,
     "wof:placetype":"locality",

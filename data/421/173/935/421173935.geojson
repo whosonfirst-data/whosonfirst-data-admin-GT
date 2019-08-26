@@ -10,8 +10,12 @@
     "geom:latitude":16.924947,
     "geom:longitude":-89.913653,
     "iso:country":"GT",
+    "lbl:bbox":"-89.9336535,16.904947,-89.8936535,16.944947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Benito"
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":85556,
-        "qs:id":1323648,
+        "qs_pg:id":1323648,
         "wd:id":"Q1113394"
     },
     "wof:country":"GT",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421173935,
-    "wof:lastmodified":1563289644,
+    "wof:lastmodified":1566643405,
     "wof:name":"San Benito",
     "wof:parent_id":421200731,
     "wof:placetype":"locality",

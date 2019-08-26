@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.3107,15.49414,-91.2707,15.53414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palob"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343431767,
-    "wof:lastmodified":1537625162,
+    "wof:lastmodified":1566642749,
     "wof:name":"Palob",
     "wof:parent_id":421169903,
     "wof:placetype":"locality",

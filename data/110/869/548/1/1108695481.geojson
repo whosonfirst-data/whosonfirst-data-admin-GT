@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.176304,
     "lbl:longitude":-91.024662,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quiche",
     "meso:diss_me":"SAN BARTOLOME JOCOTENANGOQUICHE",
     "meso:gadm_admin":"San Bartolom\u00e9 Jocotenango",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.024662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Bartolom\u00e9 Jocotenango"
     ],
@@ -61,9 +64,9 @@
         "\u8056\u5df4\u6258\u6d1b\u6885\u970d\u79d1\u7279\u5357\u6208"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695481,
-    "wof:lastmodified":1563289314,
+    "wof:lastmodified":1566643214,
     "wof:name":"San Bartolome Jocotenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

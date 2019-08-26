@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.610755,
     "lbl:longitude":-89.947031,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.642236,
     "mps:longitude":-89.923477,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
         "Departamento de Jalapa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bb2\u0baa\u0bbe  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b9c\u0bb2\u0baa\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c32\u0c3e\u0c2a\u0c3e \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -177,9 +178,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u0430\u043f\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Jalapa"
     ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0644\u0627\u067e\u0627 \u0645\u062d\u06a9\u0645\u06c1"
@@ -262,9 +260,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"2,063",
     "statoids:area_mi":"797",
     "statoids:as_of_date":"2002-11-24",
@@ -289,7 +287,7 @@
         "gp:id":2345561,
         "hasc:id":"GT.JA",
         "iso:id":"GT-JA",
-        "qs:id":229375,
+        "qs_pg:id":229375,
         "unlc:id":"GT-JA",
         "wd:id":"Q795441",
         "wk:page":"Jalapa Department"
@@ -311,11 +309,10 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1565713421,
+    "wof:lastmodified":1566642752,
     "wof:name":"Jalapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":242926,
     "wof:population_rank":10,

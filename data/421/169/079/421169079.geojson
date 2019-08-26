@@ -10,6 +10,9 @@
     "geom:latitude":14.96389,
     "geom:longitude":-91.79444,
     "iso:country":"GT",
+    "lbl:bbox":"-91.81444,14.94389,-91.77444,14.98389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Union"
     ],
     "name:urd_x_preferred":[
@@ -224,7 +227,7 @@
     "wof:concordances":{
         "gn:id":3589805,
         "gp:id":85783,
-        "qs:id":489178,
+        "qs_pg:id":489178,
         "wd:id":"Q1023981",
         "wk:page":"San Marcos, Guatemala"
     },
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":421169079,
-    "wof:lastmodified":1563289611,
+    "wof:lastmodified":1566643391,
     "wof:name":"San Marcos",
     "wof:parent_id":421190499,
     "wof:placetype":"locality",

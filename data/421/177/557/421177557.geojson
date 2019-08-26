@@ -10,8 +10,12 @@
     "geom:latitude":15.71667,
     "geom:longitude":-91.53333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.55333,15.69667,-91.51333,15.73667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael La Independencia"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Rafael La Independencia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael Independencia"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3589595,
         "gp:id":85879,
-        "qs:id":1201108,
+        "qs_pg:id":1201108,
         "wd:id":"Q2401930",
         "wk:page":"San Rafael La Independencia"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177557,
-    "wof:lastmodified":1563289717,
+    "wof:lastmodified":1566643435,
     "wof:name":"San Rafael la Independencia",
     "wof:parent_id":1108695587,
     "wof:placetype":"locality",

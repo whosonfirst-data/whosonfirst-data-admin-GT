@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.71666,17.35967,-90.67666,17.39967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mactun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327016867,
-    "wof:lastmodified":1537625376,
+    "wof:lastmodified":1566642504,
     "wof:name":"Mactun",
     "wof:parent_id":1108695467,
     "wof:placetype":"locality",

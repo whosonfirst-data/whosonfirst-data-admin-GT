@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.620773,
     "lbl:longitude":-91.692758,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Retalhuleu",
     "meso:diss_me":"NUEVO SAN CARLOSRETALHULEU",
     "meso:gadm_admin":"Nuevo San Carlos",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.692758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nuevo San Carlos"
     ],
@@ -40,9 +43,9 @@
         "Nuevo San Carlos"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108695413,
-    "wof:lastmodified":1555037525,
+    "wof:lastmodified":1566643213,
     "wof:name":"Nuevo San Carlos",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

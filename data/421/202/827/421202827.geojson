@@ -10,8 +10,12 @@
     "geom:latitude":15.53333,
     "geom:longitude":-89.35,
     "iso:country":"GT",
+    "lbl:bbox":"-89.37,15.51333,-89.33,15.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Estor"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3597078,
         "gp:id":82401,
-        "qs:id":228568,
+        "qs_pg:id":228568,
         "wd:id":"Q1020153",
         "wk:page":"El Estor"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421202827,
-    "wof:lastmodified":1563289627,
+    "wof:lastmodified":1566643397,
     "wof:name":"El Estor",
     "wof:parent_id":421194695,
     "wof:placetype":"locality",

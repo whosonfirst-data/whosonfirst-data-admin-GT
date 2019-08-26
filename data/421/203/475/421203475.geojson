@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.2046,
     "lbl:longitude":-90.018827,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Baja Verapaz",
     "meso:diss_me":"PURULABAJA VERAPAZ",
     "meso:gadm_admin":"Purulh\u00e1",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.018827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Purulh\u00e1"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26806926,
         "hasc:id":"GT.BV.PU",
-        "qs:id":231702,
+        "qs_pg:id":231702,
         "wd:id":"Q536249"
     },
     "wof:country":"GT",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421203475,
-    "wof:lastmodified":1563289624,
+    "wof:lastmodified":1566643396,
     "wof:name":"Purula",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":14.17444,
     "geom:longitude":-89.7425,
     "iso:country":"GT",
+    "lbl:bbox":"-89.7625,14.15444,-89.7225,14.19444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Atescatempa"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3599633,
         "gp:id":81082,
-        "qs:id":1045593,
+        "qs_pg:id":1045593,
         "wd:id":"Q2403627",
         "wk:page":"Atescatempa"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421176235,
-    "wof:lastmodified":1563289753,
+    "wof:lastmodified":1566643449,
     "wof:name":"Atescatempa",
     "wof:parent_id":1108695265,
     "wof:placetype":"locality",

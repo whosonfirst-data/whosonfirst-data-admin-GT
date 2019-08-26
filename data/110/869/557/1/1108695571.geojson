@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.590344,
     "lbl:longitude":-91.43045,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Suchitepequez",
     "meso:diss_me":"SAN PABLO JOCOPITASSUCHITEPEQUEZ",
     "meso:gadm_admin":"San Pablo Jocopilas",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.43045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Pablo Jocopilas"
     ],
@@ -62,9 +65,9 @@
         "\u8056\u5df4\u52c3\u7f85\u970d\u79d1\u76ae\u62c9\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108695571,
-    "wof:lastmodified":1561844742,
+    "wof:lastmodified":1566643190,
     "wof:name":"San Pablo Jocopitas",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

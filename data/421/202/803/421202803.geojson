@@ -10,8 +10,12 @@
     "geom:latitude":14.40556,
     "geom:longitude":-90.69833,
     "iso:country":"GT",
+    "lbl:bbox":"-90.71833,14.38556,-90.67833,14.42556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pal\u00edn"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3591833,
         "gp:id":84775,
-        "qs:id":228207,
+        "qs_pg:id":228207,
         "wd:id":"Q523244",
         "wk:page":"Pal\u00edn, Escuintla"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421202803,
-    "wof:lastmodified":1563289628,
+    "wof:lastmodified":1566643398,
     "wof:name":"Pal\u00edn",
     "wof:parent_id":421201585,
     "wof:placetype":"locality",

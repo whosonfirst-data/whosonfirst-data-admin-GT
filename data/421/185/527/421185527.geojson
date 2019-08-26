@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.493045,
     "lbl:longitude":-89.446277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiquimula",
     "meso:diss_me":"CONCEPCION LA MINASCHIQUIMULA",
     "meso:gadm_admin":"Concepci\u00f3n Las Minas",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.446277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Concepci\u00f3n Las Minas"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26806959,
         "hasc:id":"GT.CQ.CM",
-        "qs:id":1025943,
+        "qs_pg:id":1025943,
         "wd:id":"Q1954363"
     },
     "wof:country":"GT",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421185527,
-    "wof:lastmodified":1563289765,
+    "wof:lastmodified":1566643453,
     "wof:name":"Concepcion La Minas",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.024598,
     "lbl:longitude":-91.743917,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Marcos",
     "meso:diss_me":"SAN LORENZOSAN MARCOS",
     "meso:gadm_admin":"San Lorenzo",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.743917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Lorenzo"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         "gn:id":3589865,
         "gp:id":26807154,
         "hasc:id":"GT.SM.SL",
-        "qs:id":259837,
+        "qs_pg:id":259837,
         "wd:id":"Q845976",
         "wk:page":"San Lorenzo, San Marcos"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170801,
-    "wof:lastmodified":1563289714,
+    "wof:lastmodified":1566643434,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

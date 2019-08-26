@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.73667,14.94667,-89.69667,14.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vega del Volc\u00e1n",
         "Vega del Cob\u00e1n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260048729,
-    "wof:lastmodified":1537625128,
+    "wof:lastmodified":1566643176,
     "wof:name":"Vega del Coban",
     "wof:parent_id":1108695669,
     "wof:placetype":"locality",

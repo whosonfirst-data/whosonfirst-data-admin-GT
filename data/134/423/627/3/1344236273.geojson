@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.57645,14.9981,-91.53645,15.0381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Antonio Buenabaj"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344236273,
-    "wof:lastmodified":1537625298,
+    "wof:lastmodified":1566642666,
     "wof:name":"San Antonio Buenabaj",
     "wof:parent_id":1108695493,
     "wof:placetype":"locality",

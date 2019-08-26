@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.08432,15.15054,-91.04432,15.19054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Hacienda"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226321671,
-    "wof:lastmodified":1537625353,
+    "wof:lastmodified":1566643726,
     "wof:name":"La Hacienda",
     "wof:parent_id":1108695579,
     "wof:placetype":"locality",

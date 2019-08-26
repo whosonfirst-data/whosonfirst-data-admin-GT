@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.10333,15.23,-89.06333,15.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043b\u0438\u043d\u0430"
     ],
@@ -90,8 +94,7 @@
         "\u041c\u043e\u043b\u0456\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Switch Molina",
-        "Molina"
+        "Switch Molina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1310089989,
-    "wof:lastmodified":1564227603,
+    "wof:lastmodified":1566643246,
     "wof:name":"Molina",
     "wof:parent_id":421196435,
     "wof:placetype":"locality",

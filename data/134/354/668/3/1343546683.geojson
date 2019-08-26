@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.62609,15.90259,-91.58609,15.94259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palegu\u00e1"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343546683,
-    "wof:lastmodified":1537625345,
+    "wof:lastmodified":1566642633,
     "wof:name":"Palegua",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

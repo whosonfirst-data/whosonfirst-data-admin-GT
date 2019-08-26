@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.25583,15.91611,-91.21583,15.95611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Victorias Chancol\u00edn"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327154237,
-    "wof:lastmodified":1537625226,
+    "wof:lastmodified":1566642553,
     "wof:name":"Victorias Chancolin",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

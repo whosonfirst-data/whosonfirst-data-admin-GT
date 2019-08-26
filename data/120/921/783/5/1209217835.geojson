@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.55333,14.91333,-90.51333,14.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -34,7 +38,7 @@
         "gn:id":3588246
     },
     "wof:country":"GT",
-    "wof:geomhash":"683a81acefd1a4103000a70ca68ac606",
+    "wof:geomhash":"83b9aeac6151227eb354a7ab568e4f60",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209217835,
-    "wof:lastmodified":1536294069,
+    "wof:lastmodified":1566643094,
     "wof:name":"Trapichito",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -90.53333,
-    14.933329999999998,
+    14.93333,
     -90.53333,
-    14.933329999999998
+    14.93333
 ],
   "geometry": {"coordinates":[-90.53333000000001,14.93333],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":14.59667,
     "geom:longitude":-90.75472,
     "iso:country":"GT",
+    "lbl:bbox":"-90.77472,14.57667,-90.73472,14.61667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pastores"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3591574,
         "gp:id":84914,
-        "qs:id":296306,
+        "qs_pg:id":296306,
         "wd:id":"Q2644237",
         "wk:page":"Pastores"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421167919,
-    "wof:lastmodified":1563289609,
+    "wof:lastmodified":1566643391,
     "wof:name":"Pastores",
     "wof:parent_id":421177237,
     "wof:placetype":"locality",

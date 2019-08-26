@@ -10,8 +10,12 @@
     "geom:latitude":15.08444,
     "geom:longitude":-91.45583,
     "iso:country":"GT",
+    "lbl:bbox":"-91.47583,15.06444,-91.43583,15.10444",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Bartolo"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3590399,
         "gp:id":85549,
-        "qs:id":1045557,
+        "qs_pg:id":1045557,
         "wd:id":"Q2401769",
         "wk:page":"San Bartolo, Totonicap\u00e1n"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421176219,
-    "wof:lastmodified":1563289753,
+    "wof:lastmodified":1566643449,
     "wof:name":"San Bartolo",
     "wof:parent_id":1108695487,
     "wof:placetype":"locality",

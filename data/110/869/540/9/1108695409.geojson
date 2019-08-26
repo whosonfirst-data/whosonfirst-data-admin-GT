@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.781967,
     "lbl:longitude":-91.914559,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Marcos",
     "meso:diss_me":"NUEVO PROGRESOSAN MARCOS",
     "meso:gadm_admin":"Nuevo Progreso",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.914559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nuevo Progreso"
     ],
@@ -64,9 +67,9 @@
         "\u65b0\u666e\u7f85\u683c\u96f7\u7d22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695409,
-    "wof:lastmodified":1563289308,
+    "wof:lastmodified":1566643211,
     "wof:name":"Nuevo Progreso",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

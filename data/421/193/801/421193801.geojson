@@ -10,8 +10,12 @@
     "geom:latitude":14.61667,
     "geom:longitude":-91.51667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.53667,14.59667,-91.49667,14.63667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0417\u0443\u043d\u0438\u043b\u0438\u0442\u043e"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3587506,
         "gp:id":86922,
-        "qs:id":149101,
+        "qs_pg:id":149101,
         "wd:id":"Q2608644",
         "wk:page":"Zunilito"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421193801,
-    "wof:lastmodified":1563289606,
+    "wof:lastmodified":1566643390,
     "wof:name":"Zunilito",
     "wof:parent_id":1108695507,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.803438,
     "lbl:longitude":-90.366226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guatemala",
     "meso:diss_me":"SAN JOSE DEL GOLFOGUATEMALA",
     "meso:gadm_admin":"San Jos\u00e9 del Golfo",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.366226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Jos\u00e9 del Golfo"
     ],
@@ -67,9 +70,9 @@
         "\u8056\u4f55\u585e\u5fb7\u723e\u6208\u723e\u798f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695521,
-    "wof:lastmodified":1563289286,
+    "wof:lastmodified":1566643202,
     "wof:name":"San Jose Del Golfo",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

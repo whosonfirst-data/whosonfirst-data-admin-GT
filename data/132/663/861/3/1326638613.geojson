@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.55333,14.96333,-90.51333,15.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balanch\u00e9",
         "Balamch\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326638613,
-    "wof:lastmodified":1537625232,
+    "wof:lastmodified":1566642595,
     "wof:name":"Balamche",
     "wof:parent_id":1108695323,
     "wof:placetype":"locality",

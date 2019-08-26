@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.05831,15.39691,-91.01831,15.43691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1276199749,
-    "wof:lastmodified":1564227018,
+    "wof:lastmodified":1566642894,
     "wof:name":"La Esperanza",
     "wof:parent_id":421200685,
     "wof:placetype":"locality",

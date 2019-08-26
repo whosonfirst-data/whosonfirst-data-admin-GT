@@ -10,8 +10,12 @@
     "geom:latitude":14.38806,
     "geom:longitude":-90.36972,
     "iso:country":"GT",
+    "lbl:bbox":"-90.38972,14.36806,-90.34972,14.40806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Cruz Naranjo"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Santa Cruz Naranjo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3589398,
         "gp:id":85980,
-        "qs:id":149132,
+        "qs_pg:id":149132,
         "wd:id":"Q979193",
         "wk:page":"Santa Cruz Naranjo"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421179151,
-    "wof:lastmodified":1563289725,
+    "wof:lastmodified":1566643438,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":1108695625,
     "wof:placetype":"locality",

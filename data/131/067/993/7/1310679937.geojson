@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.09524,15.33031,-91.05524,15.37031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Batzul\u00e1"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310679937,
-    "wof:lastmodified":1537625348,
+    "wof:lastmodified":1566643296,
     "wof:name":"Batzula",
     "wof:parent_id":421204285,
     "wof:placetype":"locality",

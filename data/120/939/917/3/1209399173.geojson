@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.08667,15.33,-89.04667,15.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Palo Grande"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209399173,
-    "wof:lastmodified":1564227226,
+    "wof:lastmodified":1566643010,
     "wof:name":"Palo Grande",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

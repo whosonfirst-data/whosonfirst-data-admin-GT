@@ -10,8 +10,12 @@
     "geom:latitude":15.83194,
     "geom:longitude":-91.47806,
     "iso:country":"GT",
+    "lbl:bbox":"-91.49806,15.81194,-91.45806,15.85194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Mateo Ixtat\u00e1n"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3589770,
         "gp:id":85797,
-        "qs:id":211076,
+        "qs_pg:id":211076,
         "wd:id":"Q2609270",
         "wk:page":"San Mateo Ixtat\u00e1n"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421201295,
-    "wof:lastmodified":1563289697,
+    "wof:lastmodified":1566643427,
     "wof:name":"San Mateo Ixtat\u00e1n",
     "wof:parent_id":1108695557,
     "wof:placetype":"locality",

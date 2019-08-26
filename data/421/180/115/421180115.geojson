@@ -10,8 +10,12 @@
     "geom:latitude":15.5,
     "geom:longitude":-91.76667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.78667,15.48,-91.74667,15.52",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pedro Necta"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3589632,
         "gp:id":85863,
-        "qs:id":1116126,
+        "qs_pg:id":1116126,
         "wd:id":"Q734440",
         "wk:page":"San Pedro Necta"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421180115,
-    "wof:lastmodified":1563289638,
+    "wof:lastmodified":1566643402,
     "wof:name":"San Pedro Necta",
     "wof:parent_id":1108695581,
     "wof:placetype":"locality",

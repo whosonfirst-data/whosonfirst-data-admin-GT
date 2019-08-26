@@ -10,8 +10,12 @@
     "geom:latitude":14.54889,
     "geom:longitude":-90.78833,
     "iso:country":"GT",
+    "lbl:bbox":"-90.80833,14.52889,-90.76833,14.56889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Catarina Barahona"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Santa Catarina Barahona"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Catalina"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3589460,
         "gp:id":85955,
-        "qs:id":149140,
+        "qs_pg:id":149140,
         "wd:id":"Q2400778",
         "wk:page":"Santa Catarina Barahona"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179159,
-    "wof:lastmodified":1563289723,
+    "wof:lastmodified":1566643437,
     "wof:name":"Santa Catarina Barahona",
     "wof:parent_id":421184399,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.93278,
     "geom:longitude":-90.14306,
     "iso:country":"GT",
+    "lbl:bbox":"-90.16306,14.91278,-90.12306,14.95278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Moraz\u00e1n"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3592349,
         "gp:id":84549,
-        "qs:id":1062242,
+        "qs_pg:id":1062242,
         "wd:id":"Q1020416",
         "wk:page":"Moraz\u00e1n, El Progreso"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421186227,
-    "wof:lastmodified":1563289658,
+    "wof:lastmodified":1566643411,
     "wof:name":"Moraz\u00e1n",
     "wof:parent_id":1108695403,
     "wof:placetype":"locality",

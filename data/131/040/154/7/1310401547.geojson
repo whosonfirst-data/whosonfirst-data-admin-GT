@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-88.82,15.69667,-88.78,15.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Crique Blanco",
         "Blanco Creek"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310401547,
-    "wof:lastmodified":1537625231,
+    "wof:lastmodified":1566643227,
     "wof:name":"Blanco Creek",
     "wof:parent_id":1108695389,
     "wof:placetype":"locality",

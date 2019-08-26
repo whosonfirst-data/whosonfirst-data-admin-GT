@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.730952,
     "lbl:longitude":-89.427402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chiquimula",
     "meso:diss_me":"SAN JUAN ERMITACHIQUIMULA",
     "meso:gadm_admin":"San Juan Ermita",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.427402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Juan Ermita"
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "San Juan Ermita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan de la Ermita"
     ],
     "name:zho_x_preferred":[
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":3589903,
         "gp:id":26806953,
         "hasc:id":"GT.CQ.JE",
-        "qs:id":259834,
+        "qs_pg:id":259834,
         "wd:id":"Q2025266",
         "wk:page":"San Juan Ermita"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421205243,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1566643399,
     "wof:name":"San Juan Ermita",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

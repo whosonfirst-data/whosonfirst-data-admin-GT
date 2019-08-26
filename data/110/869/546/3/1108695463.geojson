@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.236694,
     "lbl:longitude":-90.920039,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quiche",
     "meso:diss_me":"SAN ANDRES SAJCABAJAQUICHE",
     "meso:gadm_admin":"San Andr\u00e9s Sajcabaj\u00e1",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.920039,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Sajcabaj\u00e1"
     ],
@@ -61,9 +64,9 @@
         "\u8056\u5b89\u5fb7\u96f7\u65af\u85a9\u8d6b\u5361\u74e6\u54c8"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695463,
-    "wof:lastmodified":1563289313,
+    "wof:lastmodified":1566643213,
     "wof:name":"San Andres Sajcabaja",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

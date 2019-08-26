@@ -10,8 +10,12 @@
     "geom:latitude":15.18333,
     "geom:longitude":-90.41667,
     "iso:country":"GT",
+    "lbl:bbox":"-90.43667,15.16333,-90.39667,15.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Comalapa"
@@ -241,7 +245,7 @@
     "wof:concordances":{
         "gn:id":3599213,
         "gp:id":81939,
-        "qs:id":1165092,
+        "qs_pg:id":1165092,
         "wd:id":"Q412633"
     },
     "wof:country":"GT",
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":421192057,
-    "wof:lastmodified":1563289595,
+    "wof:lastmodified":1566643386,
     "wof:name":"Comalapa",
     "wof:parent_id":1108695563,
     "wof:placetype":"locality",

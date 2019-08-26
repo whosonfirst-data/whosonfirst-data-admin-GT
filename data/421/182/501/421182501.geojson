@@ -10,8 +10,12 @@
     "geom:latitude":16.96667,
     "geom:longitude":-89.91667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.93667,16.94667,-89.89667,16.98667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Andr\u00e9s"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3590537,
         "gp:id":85492,
-        "qs:id":1340977,
+        "qs_pg:id":1340977,
         "wd:id":"Q1005008",
         "wk:page":"San Andr\u00e9s, El Pet\u00e9n"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421182501,
-    "wof:lastmodified":1563289748,
+    "wof:lastmodified":1566643447,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":1108695467,
     "wof:placetype":"locality",

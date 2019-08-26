@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.888548,
     "lbl:longitude":-91.768755,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Marcos",
     "meso:diss_me":"SAN CRISTOBAL CUCHUSAN MARCOS",
     "meso:gadm_admin":"San Cristobal Cucho",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.768755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "San Crist\u00f3bal Cucho"
     ],
@@ -65,9 +68,9 @@
         "\u8056\u514b\u91cc\u65af\u6258\u74e6\u723e\u5eab\u55ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108695497,
-    "wof:lastmodified":1561844747,
+    "wof:lastmodified":1566643209,
     "wof:name":"San Cristobal Cuchu",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

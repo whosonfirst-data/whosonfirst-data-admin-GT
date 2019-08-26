@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.596209,
     "lbl:longitude":-90.77042,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sacatepequez",
     "meso:diss_me":"PASTORESSACATEPEQUEZ",
     "meso:gadm_admin":"Pastores",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.77042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pastores"
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
     "wof:concordances":{
         "gp:id":26807128,
         "hasc:id":"GT.SA.PA",
-        "qs:id":1119670,
+        "qs_pg:id":1119670,
         "wd:id":"Q2644237"
     },
     "wof:country":"GT",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421177237,
-    "wof:lastmodified":1563289719,
+    "wof:lastmodified":1566643436,
     "wof:name":"Pastores",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

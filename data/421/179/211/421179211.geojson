@@ -10,8 +10,12 @@
     "geom:latitude":15.48333,
     "geom:longitude":-88.81667,
     "iso:country":"GT",
+    "lbl:bbox":"-88.83667,15.46333,-88.79667,15.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Morales"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3592362,
         "gp:id":84542,
-        "qs:id":149183,
+        "qs_pg:id":149183,
         "wd:id":"Q41804",
         "wk:page":"Morales, Guatemala"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179211,
-    "wof:lastmodified":1563289726,
+    "wof:lastmodified":1566643438,
     "wof:name":"Morales",
     "wof:parent_id":421184719,
     "wof:placetype":"locality",

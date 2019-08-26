@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.54522,15.64359,-91.50522,15.68359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Solomchaj"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293674531,
-    "wof:lastmodified":1537625326,
+    "wof:lastmodified":1566642825,
     "wof:name":"Solomchaj",
     "wof:parent_id":421189489,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.691664,
     "lbl:longitude":-90.928329,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimaltenango",
     "meso:diss_me":"SANTA CRUZ BALANYACHIMALTENANGO",
     "meso:gadm_admin":"Santa Cruz Balany\u00e1",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.928329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Cruz Balany\u00e1"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         "gn:id":3589408,
         "gp:id":26806943,
         "hasc:id":"GT.CM.CB",
-        "qs:id":956649,
+        "qs_pg:id":956649,
         "wd:id":"Q1523955",
         "wk:page":"Santa Cruz Balany\u00e1"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182885,
-    "wof:lastmodified":1563289750,
+    "wof:lastmodified":1566643448,
     "wof:name":"Santa Cruz Balanya",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

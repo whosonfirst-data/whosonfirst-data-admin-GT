@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.032413,
     "lbl:longitude":-91.127557,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Escuintla",
     "meso:diss_me":"LA GOMERAESCUINTLA",
     "meso:gadm_admin":"La Gomera",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.127557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "La Gomera"
@@ -203,9 +206,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -226,7 +229,7 @@
     "wof:concordances":{
         "gp:id":26806978,
         "hasc:id":"GT.ES.LG",
-        "qs:id":1263961,
+        "qs_pg:id":1263961,
         "wd:id":"Q2608473"
     },
     "wof:country":"GT",
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":421171417,
-    "wof:lastmodified":1561844766,
+    "wof:lastmodified":1566643451,
     "wof:name":"La Gomera",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

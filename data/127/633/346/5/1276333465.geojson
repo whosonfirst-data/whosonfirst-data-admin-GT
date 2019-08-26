@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.27,14.84667,-90.23,14.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276333465,
-    "wof:lastmodified":1536778873,
+    "wof:lastmodified":1566642912,
     "wof:name":"Quebrada Seca",
     "wof:parent_id":1108695605,
     "wof:placetype":"locality",

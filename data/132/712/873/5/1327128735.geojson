@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.30333,15.51333,-89.26333,15.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Sauce",
-        "Los Sauces",
-        "El Sauce"
+        "Los Sauces"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u7d39\u585e"
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327128735,
-    "wof:lastmodified":1564226377,
+    "wof:lastmodified":1566642555,
     "wof:name":"El Sauce",
     "wof:parent_id":421194695,
     "wof:placetype":"locality",

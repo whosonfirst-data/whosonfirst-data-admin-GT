@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.03667,14.66333,-89.99667,14.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Chag\u00fcite",
         "Chag\u00fcite"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343550117,
-    "wof:lastmodified":1537625226,
+    "wof:lastmodified":1566642639,
     "wof:name":"Chaguite",
     "wof:parent_id":421183137,
     "wof:placetype":"locality",

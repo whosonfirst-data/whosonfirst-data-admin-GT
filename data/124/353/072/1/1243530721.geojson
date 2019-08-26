@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.85012,15.08664,-91.81012,15.12664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tuitzintz\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243530721,
-    "wof:lastmodified":1537625310,
+    "wof:lastmodified":1566643467,
     "wof:name":"Tuitzintze",
     "wof:parent_id":1108695671,
     "wof:placetype":"locality",

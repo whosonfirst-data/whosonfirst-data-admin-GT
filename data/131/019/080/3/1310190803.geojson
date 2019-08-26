@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.76361,15.54334,-91.72361,15.58334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Tejera"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310190803,
-    "wof:lastmodified":1537625323,
+    "wof:lastmodified":1566643276,
     "wof:name":"La Tejera",
     "wof:parent_id":1108695675,
     "wof:placetype":"locality",

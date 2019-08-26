@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.07611,
     "lbl:longitude":-89.761105,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jutiapa",
     "meso:diss_me":"JEREZJUTIAPA",
     "meso:gadm_admin":"Jerez",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.761105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jerez"
     ],
@@ -61,9 +64,9 @@
         "\u8d6b\u96f7\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695371,
-    "wof:lastmodified":1563289281,
+    "wof:lastmodified":1566643200,
     "wof:name":"Jerez",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.55333,14.26333,-91.51333,14.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Vado Hondo",
         "Vado Hondo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226107117,
-    "wof:lastmodified":1537625128,
+    "wof:lastmodified":1566643691,
     "wof:name":"Vado Hondo",
     "wof:parent_id":1108695317,
     "wof:placetype":"locality",

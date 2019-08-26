@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.15457,14.77775,-92.11457,14.81775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Olivido",
         "El Olvido"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276626229,
-    "wof:lastmodified":1537625204,
+    "wof:lastmodified":1566642978,
     "wof:name":"El Olvido",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",

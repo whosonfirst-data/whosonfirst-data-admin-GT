@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.1115,14.74099,-92.0715,14.78099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Hato Mel\u00e9ndrez"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242749461,
-    "wof:lastmodified":1537625270,
+    "wof:lastmodified":1566643476,
     "wof:name":"El Hato Melendrez",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.03667,15.54667,-89.99667,15.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chimel",
         "Chimelb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243377607,
-    "wof:lastmodified":1537625223,
+    "wof:lastmodified":1566643468,
     "wof:name":"Chimelb",
     "wof:parent_id":421182335,
     "wof:placetype":"locality",

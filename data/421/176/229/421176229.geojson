@@ -10,8 +10,12 @@
     "geom:latitude":14.53333,
     "geom:longitude":-91.31667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.33667,14.51333,-91.29667,14.55333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chicacao"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3598678,
         "gp:id":81572,
-        "qs:id":1045588,
+        "qs_pg:id":1045588,
         "wd:id":"Q2608636",
         "wk:page":"Chicacao"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421176229,
-    "wof:lastmodified":1563289752,
+    "wof:lastmodified":1566643449,
     "wof:name":"Chicacao",
     "wof:parent_id":421196547,
     "wof:placetype":"locality",

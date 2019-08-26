@@ -10,8 +10,12 @@
     "geom:latitude":15.40583,
     "geom:longitude":-91.14611,
     "iso:country":"GT",
+    "lbl:bbox":"-91.16611,15.38583,-91.12611,15.42583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nebaj"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3592237,
         "gp:id":84587,
-        "qs:id":489159,
+        "qs_pg:id":489159,
         "wd:id":"Q3132625",
         "wk:page":"Nebaj"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421170403,
-    "wof:lastmodified":1563289715,
+    "wof:lastmodified":1566643434,
     "wof:name":"Nebaj",
     "wof:parent_id":421200685,
     "wof:placetype":"locality",

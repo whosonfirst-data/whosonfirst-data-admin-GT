@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.854959,
     "lbl:longitude":-90.911852,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimaltenango",
     "meso:diss_me":"SAN JOSE POAQUILCHIMALTENANGO",
     "meso:gadm_admin":"San Jos\u00e9 Poaquil",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.911852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Poaquil"
     ],
@@ -70,9 +73,9 @@
         "\u8056\u4f55\u585e\u6ce2\u963f\u57fa\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108695531,
-    "wof:lastmodified":1563289300,
+    "wof:lastmodified":1566643208,
     "wof:name":"San Jose Poaquil",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

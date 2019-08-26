@@ -10,8 +10,12 @@
     "geom:latitude":14.86667,
     "geom:longitude":-91.61667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.63667,14.84667,-91.59667,14.88667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ostuncalco"
@@ -39,9 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "Ostuncalco"
-    ],
-    "name:unk_x_variant":[
-        "San Juan Ostuncalco"
     ],
     "name:zho_x_preferred":[
         "\u5967\u65af\u901a\u5361\u723e\u79d1"
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3591997,
         "gp:id":84678,
-        "qs:id":149178,
+        "qs_pg:id":149178,
         "wd:id":"Q2718157",
         "wk:page":"San Juan Ostuncalco"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421179207,
-    "wof:lastmodified":1563289739,
+    "wof:lastmodified":1566643444,
     "wof:name":"Ostuncalco",
     "wof:parent_id":1108695539,
     "wof:placetype":"locality",

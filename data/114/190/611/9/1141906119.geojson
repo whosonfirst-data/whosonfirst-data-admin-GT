@@ -10,10 +10,14 @@
     "geom:latitude":14.85,
     "geom:longitude":-90.016704,
     "iso:country":"GT",
+    "lbl:bbox":"-90.0367035854,14.8299999973,-89.9967035854,14.8699999973",
     "lbl:latitude":14.85,
     "lbl:longitude":-90.016704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
@@ -179,7 +183,7 @@
         }
     ],
     "wof:id":1141906119,
-    "wof:lastmodified":1564228503,
+    "wof:lastmodified":1566643799,
     "wof:name":"El Progreso",
     "wof:parent_id":421178907,
     "wof:placetype":"locality",

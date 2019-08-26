@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.930822,
     "lbl:longitude":-91.541204,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"SAN FRANCISCO LA UNIONQUETZALTENANGO",
     "meso:gadm_admin":"San Francisco La Uni\u00f3n",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.541204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Francisco La Uni\u00f3n"
     ],
@@ -61,9 +64,9 @@
         "\u8056\u5f17\u862d\u897f\u65af\u79d1\u62c9\u70cf\u5c3c\u7fc1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108695505,
-    "wof:lastmodified":1563289261,
+    "wof:lastmodified":1566643192,
     "wof:name":"San Francisco La Union",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

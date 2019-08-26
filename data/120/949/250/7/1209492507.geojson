@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.31556,16.56528,-89.27556,16.60528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ind_x_preferred":[
         "Sacul"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209492507,
-    "wof:lastmodified":1564227285,
+    "wof:lastmodified":1566643043,
     "wof:name":"Sacul",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

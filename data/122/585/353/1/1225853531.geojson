@@ -23,8 +23,12 @@
     "gn:population":40000,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.33806,15.08278,-90.29806,15.12278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
@@ -76,9 +80,6 @@
     "name:swe_x_preferred":[
         "Salam\u00e1"
     ],
-    "name:und_x_variant":[
-        "Salam\u00e1"
-    ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u99ac"
     ],
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1225853531,
-    "wof:lastmodified":1564228494,
+    "wof:lastmodified":1566643794,
     "wof:name":"Salama",
     "wof:parent_id":421175573,
     "wof:placetype":"locality",

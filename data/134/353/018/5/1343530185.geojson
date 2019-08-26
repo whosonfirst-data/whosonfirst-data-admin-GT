@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.28667,14.88,-89.24667,14.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tahuain\u00ed",
         "Taguayn\u00ed"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343530185,
-    "wof:lastmodified":1537625134,
+    "wof:lastmodified":1566642636,
     "wof:name":"Taguayni",
     "wof:parent_id":1108695381,
     "wof:placetype":"locality",

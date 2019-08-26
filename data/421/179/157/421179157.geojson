@@ -10,8 +10,12 @@
     "geom:latitude":14.8,
     "geom:longitude":-91.36667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.38667,14.78,-91.34667,14.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Catarina Ixtahuac\u00e1n"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3589458,
         "gp:id":85956,
-        "qs:id":149139,
+        "qs_pg:id":149139,
         "wd:id":"Q2402186",
         "wk:page":"Santa Catarina Ixtahuacan"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421179157,
-    "wof:lastmodified":1563289723,
+    "wof:lastmodified":1566643437,
     "wof:name":"Santa Catarina Ixtahuac\u00e1n",
     "wof:parent_id":1108695617,
     "wof:placetype":"locality",

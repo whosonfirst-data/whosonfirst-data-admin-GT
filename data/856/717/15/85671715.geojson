@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":14.680704,
     "lbl:longitude":-89.419372,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.695591,
     "mps:longitude":-89.403012,
     "mz:hierarchy_label":1,
@@ -180,9 +181,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043a\u0456\u043c\u0443\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Chiquimula"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u06cc\u06a9\u0648\u06cc\u0645\u0648\u0644\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -264,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"2,376",
     "statoids:area_mi":"917",
     "statoids:as_of_date":"2002-11-24",
@@ -291,7 +289,7 @@
         "gp:id":2345555,
         "hasc:id":"GT.CQ",
         "iso:id":"GT-CQ",
-        "qs:id":59607,
+        "qs_pg:id":59607,
         "unlc:id":"GT-CQ",
         "wd:id":"Q753037",
         "wk:page":"Chiquimula Department"
@@ -313,11 +311,10 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1565713423,
+    "wof:lastmodified":1566642752,
     "wof:name":"Chiquimula",
     "wof:parent_id":85632385,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":302485,
     "wof:population_rank":10,

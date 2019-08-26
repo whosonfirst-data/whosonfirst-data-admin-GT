@@ -10,8 +10,12 @@
     "geom:latitude":15.56667,
     "geom:longitude":-89.81667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.83667,15.54667,-89.79667,15.58667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Cahab\u00f3n"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3599265,
         "gp:id":81258,
-        "qs:id":210169
+        "qs_pg:id":210169
     },
     "wof:country":"GT",
     "wof:created":1459010058,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421201155,
-    "wof:lastmodified":1505340772,
+    "wof:lastmodified":1566643428,
     "wof:name":"Cahab\u00f3n",
     "wof:parent_id":421182831,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.38806,
     "geom:longitude":-90.29556,
     "iso:country":"GT",
+    "lbl:bbox":"-90.31556,14.36806,-90.27556,14.40806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Santa Rosa de Lima"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Santa Rosa de Lima"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3589159,
         "gp:id":86061,
-        "qs:id":1201125,
+        "qs_pg:id":1201125,
         "wd:id":"Q3949243",
         "wk:page":"Santa Rosa de Lima, Santa Rosa"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421180235,
-    "wof:lastmodified":1561844756,
+    "wof:lastmodified":1566643401,
     "wof:name":"Santa Rosa de Lima",
     "wof:parent_id":1108695637,
     "wof:placetype":"locality",

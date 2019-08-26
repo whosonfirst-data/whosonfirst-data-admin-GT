@@ -10,8 +10,12 @@
     "geom:latitude":15.23333,
     "geom:longitude":-92.08333,
     "iso:country":"GT",
+    "lbl:bbox":"-92.10333,15.21333,-92.06333,15.25333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tacan\u00e1"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3588612,
         "gp:id":86330,
-        "qs:id":214186,
+        "qs_pg:id":214186,
         "wd:id":"Q2401748",
         "wk:page":"Tacan\u00e1"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421170071,
-    "wof:lastmodified":1563289710,
+    "wof:lastmodified":1566643432,
     "wof:name":"Tacan\u00e1",
     "wof:parent_id":1108695659,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.55635,16.4649,-90.51635,16.5049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cooperativa Agr\u00edcola Pipiles"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225825493,
-    "wof:lastmodified":1537625246,
+    "wof:lastmodified":1566643793,
     "wof:name":"Cooperativa El Sacrificio",
     "wof:parent_id":1108695377,
     "wof:placetype":"locality",

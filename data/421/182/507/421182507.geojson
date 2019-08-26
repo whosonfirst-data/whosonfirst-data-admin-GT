@@ -10,8 +10,12 @@
     "geom:latitude":16.98333,
     "geom:longitude":-89.9,
     "iso:country":"GT",
+    "lbl:bbox":"-89.92,16.96333,-89.88,17.00333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3590069,
         "gp:id":85669,
-        "qs:id":1340993,
+        "qs_pg:id":1340993,
         "wd:id":"Q741169",
         "wk:page":"San Jos\u00e9, El Pet\u00e9n"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421182507,
-    "wof:lastmodified":1563289749,
+    "wof:lastmodified":1566643447,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108695533,
     "wof:placetype":"locality",

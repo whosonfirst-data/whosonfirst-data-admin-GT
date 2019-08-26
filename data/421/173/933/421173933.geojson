@@ -10,8 +10,12 @@
     "geom:latitude":14.236431,
     "geom:longitude":-90.95238,
     "iso:country":"GT",
+    "lbl:bbox":"-90.97238,14.216431,-90.93238,14.256431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Democracia"
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":83458,
-        "qs:id":1323647,
+        "qs_pg:id":1323647,
         "wd:id":"Q129369"
     },
     "wof:country":"GT",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421173933,
-    "wof:lastmodified":1563289645,
+    "wof:lastmodified":1566643405,
     "wof:name":"La Democracia",
     "wof:parent_id":421172213,
     "wof:placetype":"locality",

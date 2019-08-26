@@ -11,10 +11,14 @@
     "geom:longitude":-91.51667,
     "gn:country":"GT",
     "gn:fcode":"PPL",
-    "gn:pop":2121,
+    "gn:population":2121,
     "iso:country":"GT",
+    "lbl:bbox":"-91.53667,15.19667,-91.49667,15.23667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malacatancito"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Malacatancito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa AnaMalacat\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3592751,
         "gp:id":84418,
-        "qs:id":279810,
+        "qs_pg:id":279810,
         "wd:id":"Q539311",
         "wk:page":"Malacatancito"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890430959,
-    "wof:lastmodified":1563289767,
+    "wof:lastmodified":1566643454,
     "wof:name":"Malacatancito",
     "wof:parent_id":421191463,
     "wof:placetype":"locality",

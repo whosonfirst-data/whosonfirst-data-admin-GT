@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.66318,16.04088,-90.62318,16.08088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ingenieros"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326904225,
-    "wof:lastmodified":1537625247,
+    "wof:lastmodified":1566642593,
     "wof:name":"Ingenieros",
     "wof:parent_id":1108695441,
     "wof:placetype":"locality",

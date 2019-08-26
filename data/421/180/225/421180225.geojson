@@ -10,8 +10,12 @@
     "geom:latitude":14.86667,
     "geom:longitude":-91.93333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.95333,14.84667,-91.91333,14.88667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Tumbador"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "El Tumbador"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tumbador"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3595929,
         "gp:id":82958,
-        "qs:id":1200984,
+        "qs_pg:id":1200984,
         "wd:id":"Q2422887",
         "wk:page":"El Tumbador"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421180225,
-    "wof:lastmodified":1563289636,
+    "wof:lastmodified":1566643401,
     "wof:name":"El Tumbador",
     "wof:parent_id":1108695337,
     "wof:placetype":"locality",

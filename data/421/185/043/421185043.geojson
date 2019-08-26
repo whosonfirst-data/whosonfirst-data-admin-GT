@@ -10,8 +10,11 @@
     "geom:latitude":15.35222,
     "geom:longitude":-91.30389,
     "iso:country":"GT",
+    "lbl:bbox":"-91.30889,15.34722,-91.29889,15.35722",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "R\u00edo San Juan"
@@ -36,16 +39,16 @@
     "qs:woe_id":55917339,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671641,
         102191575,
         85632385,
-        1108695257,
-        85671641
+        1108695257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3590772,
         "gp:id":55917339,
-        "qs:id":1017138
+        "qs_pg:id":1017138
     },
     "wof:country":"GT",
     "wof:created":1459009431,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":421185043,
-    "wof:lastmodified":1531858557,
+    "wof:lastmodified":1566643453,
     "wof:name":"Barrio San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

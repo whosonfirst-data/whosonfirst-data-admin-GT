@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.755347,
     "lbl:longitude":-91.482627,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"ZUNILQUETZALTENANGO",
     "meso:gadm_admin":"Zunil",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.482627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0417\u0443\u043d\u0438\u043b"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26807089,
         "hasc:id":"GT.QZ.ZU",
-        "qs:id":772726,
+        "qs_pg:id":772726,
         "wd:id":"Q230166"
     },
     "wof:country":"GT",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421169963,
-    "wof:lastmodified":1563289610,
+    "wof:lastmodified":1566643391,
     "wof:name":"Zunil",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

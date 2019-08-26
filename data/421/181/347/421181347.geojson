@@ -10,8 +10,12 @@
     "geom:latitude":14.65,
     "geom:longitude":-91.81667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.83667,14.63,-91.79667,14.67",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Flores Costa Cuca"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Flores Costa Cuca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Flores"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":3595721,
         "gp:id":83055,
-        "qs:id":489146,
+        "qs_pg:id":489146,
         "wd:id":"Q1981317",
         "wk:page":"Flores Costa Cuca"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421181347,
-    "wof:lastmodified":1563289663,
+    "wof:lastmodified":1566643413,
     "wof:name":"Flores Costa Cuca",
     "wof:parent_id":1108695351,
     "wof:placetype":"locality",

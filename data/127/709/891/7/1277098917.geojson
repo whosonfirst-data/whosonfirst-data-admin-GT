@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.53833,15.23915,-91.49833,15.27915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Espinas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277098917,
-    "wof:lastmodified":1537625288,
+    "wof:lastmodified":1566642877,
     "wof:name":"Las Espinas",
     "wof:parent_id":421191463,
     "wof:placetype":"locality",

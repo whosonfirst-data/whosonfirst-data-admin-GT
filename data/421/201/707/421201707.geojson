@@ -10,8 +10,12 @@
     "geom:latitude":14.76667,
     "geom:longitude":-91.81667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.83667,14.74667,-91.79667,14.78667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Quetzal"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "El Quetzal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quetzal"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3596389,
         "gp:id":82744,
-        "qs:id":214173,
+        "qs_pg:id":214173,
         "wd:id":"Q1748870",
         "wk:page":"El Quetzal"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421201707,
-    "wof:lastmodified":1563289696,
+    "wof:lastmodified":1566643426,
     "wof:name":"El Quetzal",
     "wof:parent_id":1108695331,
     "wof:placetype":"locality",

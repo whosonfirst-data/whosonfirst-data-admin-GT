@@ -10,8 +10,12 @@
     "geom:latitude":14.52389,
     "geom:longitude":-90.79833,
     "iso:country":"GT",
+    "lbl:bbox":"-90.81833,14.50389,-90.77833,14.54389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Miguel Due\u00f1as"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Miguel Due\u00f1as"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Due\u00f1as"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3589727,
         "gp:id":85816,
-        "qs:id":266453,
+        "qs_pg:id":266453,
         "wd:id":"Q2400763",
         "wk:page":"San Miguel Due\u00f1as"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421166393,
-    "wof:lastmodified":1563289593,
+    "wof:lastmodified":1566643385,
     "wof:name":"San Miguel Due\u00f1as",
     "wof:parent_id":421203515,
     "wof:placetype":"locality",

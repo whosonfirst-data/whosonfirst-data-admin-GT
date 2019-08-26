@@ -10,8 +10,12 @@
     "geom:latitude":14.07083,
     "geom:longitude":-90.46306,
     "iso:country":"GT",
+    "lbl:bbox":"-90.48306,14.05083,-90.44306,14.09083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taxisco"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3588491,
         "gp:id":86389,
-        "qs:id":1116140,
+        "qs_pg:id":1116140,
         "wd:id":"Q2402116",
         "wk:page":"Taxisco"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421180123,
-    "wof:lastmodified":1563289638,
+    "wof:lastmodified":1566643402,
     "wof:name":"Taxisco",
     "wof:parent_id":421190501,
     "wof:placetype":"locality",

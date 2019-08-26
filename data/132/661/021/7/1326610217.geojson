@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.56754,16.46463,-90.52754,16.50463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sival Dos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326610217,
-    "wof:lastmodified":1537625390,
+    "wof:lastmodified":1566642540,
     "wof:name":"Sival Dos",
     "wof:parent_id":1108695377,
     "wof:placetype":"locality",

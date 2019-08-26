@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-88.78667,15.78,-88.74667,15.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0628\u064a\u0643\u0648"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1209095869,
-    "wof:lastmodified":1564227202,
+    "wof:lastmodified":1566642995,
     "wof:name":"Tampico",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.978214,
     "lbl:longitude":-91.484098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Totonicapan",
     "meso:diss_me":"SAN FRANCISCO EL ALTOTOTONICAPAN",
     "meso:gadm_admin":"San Francisco El Alto",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.484098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Francisco El Alto"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":26807230,
         "hasc:id":"GT.TO.FA",
-        "qs:id":1315333,
+        "qs_pg:id":1315333,
         "wd:id":"Q2608408"
     },
     "wof:country":"GT",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421172645,
-    "wof:lastmodified":1563289655,
+    "wof:lastmodified":1566643409,
     "wof:name":"San Francisco El Alto",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

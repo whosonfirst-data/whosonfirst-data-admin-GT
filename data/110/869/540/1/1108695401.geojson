@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.515015,
     "lbl:longitude":-89.891562,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jalapa",
     "meso:diss_me":"MONJASJALAPA",
     "meso:gadm_admin":"Monjas",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.891562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Monjas"
     ],
@@ -235,9 +238,9 @@
         "Monjas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":1108695401,
-    "wof:lastmodified":1563289308,
+    "wof:lastmodified":1566643211,
     "wof:name":"Monjas",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

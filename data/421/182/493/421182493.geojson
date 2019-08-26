@@ -10,8 +10,12 @@
     "geom:latitude":15.48528,
     "geom:longitude":-91.03417,
     "iso:country":"GT",
+    "lbl:bbox":"-91.05417,15.46528,-91.01417,15.50528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Chajul"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3598804,
         "gp:id":81505,
-        "qs:id":1340922,
+        "qs_pg:id":1340922,
         "wd:id":"Q2717716",
         "wk:page":"Chajul"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421182493,
-    "wof:lastmodified":1563289750,
+    "wof:lastmodified":1566643448,
     "wof:name":"Chajul",
     "wof:parent_id":1108695287,
     "wof:placetype":"locality",

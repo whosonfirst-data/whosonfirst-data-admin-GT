@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.420402,
     "lbl:longitude":-89.840012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alta Verapaz",
     "meso:diss_me":"SENAHUALTA VERAPAZ",
     "meso:gadm_admin":"Senah\u00fa",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.840012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Senah\u00fa"
     ],
@@ -67,9 +70,9 @@
         "\u585e\u7d0d\u70cf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695647,
-    "wof:lastmodified":1563289288,
+    "wof:lastmodified":1566643203,
     "wof:name":"Senahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

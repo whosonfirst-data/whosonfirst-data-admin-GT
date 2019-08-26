@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":14.989397,
     "lbl:longitude":-90.522408,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":14.989397,
     "mps:longitude":-90.522408,
     "mz:hierarchy_label":1,
@@ -746,9 +748,6 @@
     "name:ukr_x_variant":[
         "\u0490\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
     ],
-    "name:und_x_preferred":[
-        "Gvatemala"
-    ],
     "name:und_x_variant":[
         "Republika Gvatemala"
     ],
@@ -910,7 +909,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"502",
     "statoids:ds":"GCA",
@@ -955,7 +954,7 @@
         "mzb:id":"guatemala",
         "ne:adm0_a3":"GTM",
         "nyt:id":"55828053398718781341",
-        "qs:id":466459,
+        "qs_pg:id":466459,
         "uncrt:id":"GCA",
         "wd:id":"Q774",
         "wk:page":"Guatemala",
@@ -978,7 +977,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1565713420,
+    "wof:lastmodified":1566642750,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

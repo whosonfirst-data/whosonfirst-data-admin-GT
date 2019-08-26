@@ -10,10 +10,14 @@
     "geom:latitude":14.85,
     "geom:longitude":-91.15,
     "iso:country":"GT",
+    "lbl:bbox":"-91.17,14.83,-91.13,14.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Encuentros"
     ],
     "qs:gn_country":"GT",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3593091,
         "gp:id":84227,
-        "qs:id":228569
+        "qs_pg:id":228569
     },
     "wof:country":"GT",
     "wof:created":1459010131,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421202829,
-    "wof:lastmodified":1501267954,
+    "wof:lastmodified":1566643397,
     "wof:name":"Los Encuentros",
     "wof:parent_id":421190503,
     "wof:placetype":"locality",

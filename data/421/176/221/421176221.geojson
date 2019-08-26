@@ -10,8 +10,12 @@
     "geom:latitude":14.53333,
     "geom:longitude":-91.41667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.43667,14.51333,-91.39667,14.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio Suchitep\u00e9quez"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Antonio Suchitep\u00e9quez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Antonio"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3590412,
         "gp:id":85546,
-        "qs:id":1045558,
+        "qs_pg:id":1045558,
         "wd:id":"Q1748818",
         "wk:page":"San Antonio Suchitep\u00e9quez"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421176221,
-    "wof:lastmodified":1563289752,
+    "wof:lastmodified":1566643449,
     "wof:name":"San Antonio Suchitep\u00e9quez",
     "wof:parent_id":1108695479,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.900898,
     "lbl:longitude":-91.605315,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"SAN MIGUEL SIGUILAQUETZALTENANGO",
     "meso:gadm_admin":"San Miguel Sig\u00fcil\u00e1",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.605315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Miguel Sig\u00fcil\u00e1"
     ],
@@ -62,9 +65,9 @@
         "\u8056\u7c73\u683c\u723e\u932b\u572d\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108695569,
-    "wof:lastmodified":1561844740,
+    "wof:lastmodified":1566643183,
     "wof:name":"San Miguel Siguila",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

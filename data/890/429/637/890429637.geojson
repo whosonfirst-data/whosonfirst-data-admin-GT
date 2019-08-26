@@ -11,10 +11,14 @@
     "geom:longitude":-91.01667,
     "gn:country":"GT",
     "gn:fcode":"PPL",
-    "gn:pop":62097,
+    "gn:population":62097,
     "iso:country":"GT",
+    "lbl:bbox":"-91.03667,14.31333,-90.99667,14.35333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u041b\u0443\u0441\u0438\u044f \u041a\u043e\u0446\u0443\u043c\u0430\u043b\u0433\u0443\u0430\u043f\u0430"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Luc\u00eda"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3589289,
         "gp:id":86013,
-        "qs:id":149131,
+        "qs_pg:id":149131,
         "wd:id":"Q404550",
         "wk:page":"Santa Luc\u00eda Cotzumalguapa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890429637,
-    "wof:lastmodified":1563289770,
+    "wof:lastmodified":1566643455,
     "wof:name":"Santa Luc\u00eda Cotzumalguapa",
     "wof:parent_id":421184715,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.71667,
     "geom:longitude":-91.73333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.75333,14.69667,-91.71333,14.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Colomba"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3598073,
         "gp:id":81930,
-        "qs:id":266448,
+        "qs_pg:id":266448,
         "wd:id":"Q2426806",
         "wk:page":"Colomba"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421166389,
-    "wof:lastmodified":1563289594,
+    "wof:lastmodified":1566643385,
     "wof:name":"Colomba",
     "wof:parent_id":421172665,
     "wof:placetype":"locality",

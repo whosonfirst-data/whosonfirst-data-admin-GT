@@ -12,6 +12,8 @@
     "iso:country":"GT",
     "lbl:latitude":15.007538,
     "lbl:longitude":-91.058236,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quiche",
     "meso:diss_me":"QUICHEQUICHE",
     "meso:gadm_admin":"Chich\u00e9",
@@ -24,6 +26,7 @@
     "mps:longitude":-91.058236,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chich\u00e9"
     ],
@@ -55,7 +58,7 @@
         "\u5947\u5207"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632385,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108695455,
-    "wof:lastmodified":1561844744,
+    "wof:lastmodified":1566643198,
     "wof:name":"Quiche",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

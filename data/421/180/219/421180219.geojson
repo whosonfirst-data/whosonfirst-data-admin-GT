@@ -10,8 +10,12 @@
     "geom:latitude":14.11667,
     "geom:longitude":-89.91667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.93667,14.09667,-89.89667,14.13667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Comapa"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3598031,
         "gp:id":81940,
-        "qs:id":1200976,
+        "qs_pg:id":1200976,
         "wd:id":"Q2716888",
         "wk:page":"Comapa"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421180219,
-    "wof:lastmodified":1563289634,
+    "wof:lastmodified":1566643401,
     "wof:name":"Comapa",
     "wof:parent_id":1108695299,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":16.51417,
     "geom:longitude":-89.41583,
     "iso:country":"GT",
+    "lbl:bbox":"-89.43583,16.49417,-89.39583,16.53417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dolores"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3597722,
         "gp:id":82088,
-        "qs:id":444918,
+        "qs_pg:id":444918,
         "wd:id":"Q989812",
         "wk:page":"Dolores, El Pet\u00e9n"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421167837,
-    "wof:lastmodified":1563289608,
+    "wof:lastmodified":1566643390,
     "wof:name":"Dolores",
     "wof:parent_id":421171683,
     "wof:placetype":"locality",

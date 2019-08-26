@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.08426,15.50722,-91.04426,15.54722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tzicojach"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326501123,
-    "wof:lastmodified":1537625239,
+    "wof:lastmodified":1566642545,
     "wof:name":"Tzicojach",
     "wof:parent_id":421169903,
     "wof:placetype":"locality",

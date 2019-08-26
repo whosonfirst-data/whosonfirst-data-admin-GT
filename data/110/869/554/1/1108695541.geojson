@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.071408,
     "lbl:longitude":-90.268666,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Rosa",
     "meso:diss_me":"SAN JUAN TECUACOSANTA ROSA",
     "meso:gadm_admin":"San Juan Tecuaco",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.268666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Juan Tecuaco"
     ],
@@ -61,9 +64,9 @@
         "\u8056\u80e1\u5b89\u7279\u5938\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108695541,
-    "wof:lastmodified":1564227548,
+    "wof:lastmodified":1566643209,
     "wof:name":"San Juan Tecuaco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

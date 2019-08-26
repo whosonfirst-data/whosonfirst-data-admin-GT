@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.585864,
     "lbl:longitude":-91.735919,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"UNION CANTINILHUEHUETENANGO",
     "meso:gadm_admin":"San Pedro Necta",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.735919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Uni\u00f3n Cantinil"
     ],
@@ -38,7 +41,7 @@
         "San Pedro Necta"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108695675,
-    "wof:lastmodified":1553718282,
+    "wof:lastmodified":1566643185,
     "wof:name":"Union Cantinil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

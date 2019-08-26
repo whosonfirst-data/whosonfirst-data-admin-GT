@@ -10,8 +10,12 @@
     "geom:latitude":14.68333,
     "geom:longitude":-89.35,
     "iso:country":"GT",
+    "lbl:bbox":"-89.37,14.66333,-89.33,14.70333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u043b\u043e\u043f\u0430"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3592035,
         "gp:id":84662,
-        "qs:id":214178,
+        "qs_pg:id":214178,
         "wd:id":"Q2025333",
         "wk:page":"Olopa"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421201717,
-    "wof:lastmodified":1563289703,
+    "wof:lastmodified":1566643429,
     "wof:name":"Olopa",
     "wof:parent_id":1108695419,
     "wof:placetype":"locality",

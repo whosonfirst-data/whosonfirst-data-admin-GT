@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.45333,15.43,-90.41333,15.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242891771,
-    "wof:lastmodified":1536608372,
+    "wof:lastmodified":1566643480,
     "wof:name":"Chijou",
     "wof:parent_id":421190247,
     "wof:placetype":"locality",

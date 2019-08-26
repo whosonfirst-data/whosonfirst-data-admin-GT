@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.19606,15.41471,-91.15606,15.45471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cambalam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310079349,
-    "wof:lastmodified":1537625238,
+    "wof:lastmodified":1566643235,
     "wof:name":"Cambalam",
     "wof:parent_id":421169903,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.101633,
     "lbl:longitude":-89.597806,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Zacapa",
     "meso:diss_me":"RIO HONDOZACAPA",
     "meso:gadm_admin":"R\u00edo Hondo",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.597806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "R\u00edo Hondo"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26807236,
         "hasc:id":"GT.ZA.RH",
-        "qs:id":911522,
+        "qs_pg:id":911522,
         "wd:id":"Q593520"
     },
     "wof:country":"GT",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182433,
-    "wof:lastmodified":1563289751,
+    "wof:lastmodified":1566643448,
     "wof:name":"Rio Hondo",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

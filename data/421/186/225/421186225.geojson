@@ -10,8 +10,12 @@
     "geom:latitude":15.8,
     "geom:longitude":-91.75,
     "iso:country":"GT",
+    "lbl:bbox":"-91.77,15.78,-91.73,15.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nent\u00f3n"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3592217,
         "gp:id":84589,
-        "qs:id":1062236,
+        "qs_pg:id":1062236,
         "wd:id":"Q2402097",
         "wk:page":"Nent\u00f3n"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421186225,
-    "wof:lastmodified":1563289660,
+    "wof:lastmodified":1566643411,
     "wof:name":"Nent\u00f3n",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.749705,
     "lbl:longitude":-91.623968,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"SAN MIGUEL ACATANHUEHUETENANGO",
     "meso:gadm_admin":"Jacaltenango",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.623968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Miguel Acat\u00e1n"
     ],
@@ -38,9 +41,9 @@
         "Jacaltenango"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108695561,
-    "wof:lastmodified":1553718281,
+    "wof:lastmodified":1566643184,
     "wof:name":"San Miguel Acatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

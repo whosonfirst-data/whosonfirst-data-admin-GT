@@ -10,8 +10,12 @@
     "geom:latitude":17.46216,
     "geom:longitude":-90.05634,
     "iso:country":"GT",
+    "lbl:bbox":"-90.07634,17.44216,-90.03634,17.48216",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carmelita"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3599018,
         "gp:id":81383,
-        "qs:id":1082606
+        "qs_pg:id":1082606
     },
     "wof:country":"GT",
     "wof:created":1459009506,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421187243,
-    "wof:lastmodified":1564227882,
+    "wof:lastmodified":1566643403,
     "wof:name":"Carmelita",
     "wof:parent_id":1108695467,
     "wof:placetype":"locality",

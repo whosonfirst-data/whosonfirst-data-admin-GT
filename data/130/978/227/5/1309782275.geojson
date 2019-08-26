@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.81545,15.19762,-91.77545,15.23762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Ixpun\u00e1 Nueva Esperanza"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309782275,
-    "wof:lastmodified":1537625321,
+    "wof:lastmodified":1566643358,
     "wof:name":"Ixpuna Nueva Esperanza",
     "wof:parent_id":1108695565,
     "wof:placetype":"locality",

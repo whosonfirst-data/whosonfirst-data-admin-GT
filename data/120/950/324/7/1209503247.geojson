@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.23611,13.76167,-90.19611,13.80167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -34,7 +38,7 @@
         "gn:id":3599570
     },
     "wof:country":"GT",
-    "wof:geomhash":"e9cefec68c388f86746b66841072bf1e",
+    "wof:geomhash":"1a0ee2edc74daec4d19110e4ba37550b",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209503247,
-    "wof:lastmodified":1536285115,
+    "wof:lastmodified":1566643048,
     "wof:name":"Barra del Jiote",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -90.21611,
-    13.781670000000002,
+    13.78167,
     -90.21611,
-    13.781670000000002
+    13.78167
 ],
   "geometry": {"coordinates":[-90.21611,13.78167],"type":"Point"}
 }

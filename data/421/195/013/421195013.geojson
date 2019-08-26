@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.814481,
     "lbl:longitude":-91.435085,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"CANTELQUETZALTENANGO",
     "meso:gadm_admin":"Cantel",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.435085,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Cantel"
@@ -254,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gp:id":26807086,
         "hasc:id":"GT.SR.CA",
-        "qs:id":115419,
+        "qs_pg:id":115419,
         "wd:id":"Q5033573"
     },
     "wof:country":"GT",
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421195013,
-    "wof:lastmodified":1563289595,
+    "wof:lastmodified":1566643387,
     "wof:name":"Cantel",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

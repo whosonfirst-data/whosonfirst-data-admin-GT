@@ -10,6 +10,9 @@
     "geom:latitude":15.31972,
     "geom:longitude":-91.47083,
     "iso:country":"GT",
+    "lbl:bbox":"-91.49083,15.29972,-91.45083,15.33972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -229,7 +232,7 @@
     "wof:concordances":{
         "gn:id":3595416,
         "gp:id":83172,
-        "qs:id":489145,
+        "qs_pg:id":489145,
         "wd:id":"Q984863",
         "wk:page":"Huehuetenango"
     },
@@ -246,7 +249,7 @@
         }
     ],
     "wof:id":421181341,
-    "wof:lastmodified":1563289662,
+    "wof:lastmodified":1566643412,
     "wof:name":"Huehuetenango",
     "wof:parent_id":421186319,
     "wof:placetype":"locality",

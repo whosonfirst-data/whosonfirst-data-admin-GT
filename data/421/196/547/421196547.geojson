@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.57705,
     "lbl:longitude":-91.341773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Suchitepequez",
     "meso:diss_me":"CHICACAOSUCHITEPEQUEZ",
     "meso:gadm_admin":"Chicacao",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.341773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chicam\u00e1n"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26807098,
         "hasc:id":"GT.QC.CM",
-        "qs:id":772715,
+        "qs_pg:id":772715,
         "wd:id":"Q2402199"
     },
     "wof:country":"GT",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421196547,
-    "wof:lastmodified":1563289674,
+    "wof:lastmodified":1566643417,
     "wof:name":"Chicacao",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

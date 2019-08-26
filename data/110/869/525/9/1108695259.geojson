@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.811736,
     "lbl:longitude":-91.48475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"ALMOLONGAQUETZALTENANGO",
     "meso:gadm_admin":"Almolonga",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.48475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Almolonga"
     ],
@@ -73,9 +76,9 @@
         "\u963f\u723e\u83ab\u9686\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108695259,
-    "wof:lastmodified":1563289310,
+    "wof:lastmodified":1566643212,
     "wof:name":"Almolonga",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

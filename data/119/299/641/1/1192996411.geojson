@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.65333,14.31333,-89.61333,14.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trapiche de Vargas",
         "Vargas",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192996411,
-    "wof:lastmodified":1537625130,
+    "wof:lastmodified":1566643131,
     "wof:name":"Trapiche Vargas",
     "wof:parent_id":1108695263,
     "wof:placetype":"locality",

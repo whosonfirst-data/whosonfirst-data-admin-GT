@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.0764,15.2172,-92.0364,15.2572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tuicanabaj"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309969603,
-    "wof:lastmodified":1537625256,
+    "wof:lastmodified":1566643346,
     "wof:name":"Tuicanabaj",
     "wof:parent_id":1108695659,
     "wof:placetype":"locality",

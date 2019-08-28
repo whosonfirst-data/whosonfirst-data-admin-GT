@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.411566,
     "lbl:longitude":-91.806196,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"SAN IDELFONSO IXTAHUACANHUEHUETENANGO",
     "meso:gadm_admin":"San Ildefonso Ixtahuac\u00e1n",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.806196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ixtahuac\u00e1n"
     ],
@@ -65,9 +68,9 @@
         "\u8056\u4f0a\u723e\u5fb7\u8c50\u7d22\u4f0a\u65af\u5854\u74e6\u574e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108695511,
-    "wof:lastmodified":1563289239,
+    "wof:lastmodified":1566643183,
     "wof:name":"San Idelfonso Ixtahuacan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

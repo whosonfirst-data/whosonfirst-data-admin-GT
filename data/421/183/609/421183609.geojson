@@ -10,8 +10,12 @@
     "geom:latitude":14.7,
     "geom:longitude":-91.1,
     "iso:country":"GT",
+    "lbl:bbox":"-91.12,14.68,-91.08,14.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "God\u00ednez"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3595662,
         "gp:id":83075,
-        "qs:id":982604
+        "qs_pg:id":982604
     },
     "wof:country":"GT",
     "wof:created":1459009376,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421183609,
-    "wof:lastmodified":1527717698,
+    "wof:lastmodified":1566643437,
     "wof:name":"God\u00ednez",
     "wof:parent_id":421170963,
     "wof:placetype":"locality",

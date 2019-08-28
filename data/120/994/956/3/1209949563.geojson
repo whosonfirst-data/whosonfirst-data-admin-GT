@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.48667,14.66333,-89.44667,14.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Com\u00fan",
         "El Com\u00fan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209949563,
-    "wof:lastmodified":1537625210,
+    "wof:lastmodified":1566643068,
     "wof:name":"El Comun",
     "wof:parent_id":1108695453,
     "wof:placetype":"locality",

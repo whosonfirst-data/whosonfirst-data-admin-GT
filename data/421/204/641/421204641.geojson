@@ -10,8 +10,12 @@
     "geom:latitude":14.81667,
     "geom:longitude":-89.36667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.38667,14.79667,-89.34667,14.83667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Camot\u00e1n"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3599181,
         "gp:id":81298,
-        "qs:id":243128,
+        "qs_pg:id":243128,
         "wd:id":"Q1954351"
     },
     "wof:country":"GT",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421204641,
-    "wof:lastmodified":1561844754,
+    "wof:lastmodified":1566643395,
     "wof:name":"Camot\u00e1n",
     "wof:parent_id":1108695279,
     "wof:placetype":"locality",

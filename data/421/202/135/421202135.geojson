@@ -10,8 +10,12 @@
     "geom:latitude":17.225,
     "geom:longitude":-89.61333,
     "iso:country":"GT",
+    "lbl:bbox":"-89.63333,17.205,-89.59333,17.245",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Tikal"
@@ -223,7 +227,7 @@
     "wof:concordances":{
         "gn:id":3588369,
         "gp:id":86457,
-        "qs:id":219445,
+        "qs_pg:id":219445,
         "wd:id":"Q181172",
         "wk:page":"Tikal"
     },
@@ -240,7 +244,7 @@
         }
     ],
     "wof:id":421202135,
-    "wof:lastmodified":1563289626,
+    "wof:lastmodified":1566643397,
     "wof:name":"Tikal",
     "wof:parent_id":1108695347,
     "wof:placetype":"locality",

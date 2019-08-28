@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.90282,15.68818,-91.86282,15.72818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuatro Caminos"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242869549,
-    "wof:lastmodified":1564227938,
+    "wof:lastmodified":1566643481,
     "wof:name":"Cuatro Caminos",
     "wof:parent_id":1108695607,
     "wof:placetype":"locality",

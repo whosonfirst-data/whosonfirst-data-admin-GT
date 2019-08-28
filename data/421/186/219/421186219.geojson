@@ -10,8 +10,12 @@
     "geom:latitude":15.80361,
     "geom:longitude":-91.31583,
     "iso:country":"GT",
+    "lbl:bbox":"-91.33583,15.78361,-91.29583,15.82361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Cruz de Barillas"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3599575,
         "gp:id":81106,
-        "qs:id":1062225,
+        "qs_pg:id":1062225,
         "wd:id":"Q2390990",
         "wk:page":"Santa Cruz Barillas"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421186219,
-    "wof:lastmodified":1561844758,
+    "wof:lastmodified":1566643411,
     "wof:name":"Barillas",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

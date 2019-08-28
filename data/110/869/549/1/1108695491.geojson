@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.481283,
     "lbl:longitude":-90.070982,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jalapa",
     "meso:diss_me":"SAN CARLOS ALZATATEJALAPA",
     "meso:gadm_admin":"San Carlos Alzatate",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.070982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Carlos Alzatate"
     ],
@@ -58,9 +61,9 @@
         "\u8056\u5361\u6d1b\u65af\u963f\u723e\u85a9\u5854\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108695491,
-    "wof:lastmodified":1561844747,
+    "wof:lastmodified":1566643210,
     "wof:name":"San Carlos Alzatate",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

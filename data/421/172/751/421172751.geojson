@@ -10,6 +10,9 @@
     "geom:latitude":14.53611,
     "geom:longitude":-91.67778,
     "iso:country":"GT",
+    "lbl:bbox":"-91.69778,14.51611,-91.65778,14.55611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0442\u0430\u043b\u0443\u043b\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Retalhuleo"
     ],
     "name:zho_x_preferred":[
@@ -205,7 +208,7 @@
     "wof:concordances":{
         "gn:id":3590858,
         "gp:id":85322,
-        "qs:id":274436,
+        "qs_pg:id":274436,
         "wd:id":"Q1023393"
     },
     "wof:country":"GT",
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":421172751,
-    "wof:lastmodified":1563289655,
+    "wof:lastmodified":1566643409,
     "wof:name":"Retalhuleu",
     "wof:parent_id":421204387,
     "wof:placetype":"locality",

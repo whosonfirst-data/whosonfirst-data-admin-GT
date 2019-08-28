@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.08618,14.83656,-92.04618,14.87656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Honduras"
     ],
@@ -627,7 +631,7 @@
         }
     ],
     "wof:id":1293660733,
-    "wof:lastmodified":1564226860,
+    "wof:lastmodified":1566642809,
     "wof:name":"Honduras",
     "wof:parent_id":1108695283,
     "wof:placetype":"locality",

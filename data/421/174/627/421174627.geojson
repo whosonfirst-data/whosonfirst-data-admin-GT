@@ -10,8 +10,12 @@
     "geom:latitude":13.89417,
     "geom:longitude":-90.48,
     "iso:country":"GT",
+    "lbl:bbox":"-90.5,13.87417,-90.46,13.91417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Monterrico"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3592390,
         "gp:id":84531,
-        "qs:id":889976
+        "qs_pg:id":889976
     },
     "wof:country":"GT",
     "wof:created":1459009038,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421174627,
-    "wof:lastmodified":1564227881,
+    "wof:lastmodified":1566643400,
     "wof:name":"Monterrico",
     "wof:parent_id":421190501,
     "wof:placetype":"locality",

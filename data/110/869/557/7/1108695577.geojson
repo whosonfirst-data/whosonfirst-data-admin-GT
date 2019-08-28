@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.781326,
     "lbl:longitude":-90.44301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guatemala",
     "meso:diss_me":"SAN PEDRO AYAMPUCGUATEMALA",
     "meso:gadm_admin":"San Pedro Ayampuc",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.44301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Pedro Ayampuc"
     ],
@@ -73,9 +76,9 @@
         "\u8056\u4f69\u5fb7\u7f85\u963f\u63da\u666e\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108695577,
-    "wof:lastmodified":1563289257,
+    "wof:lastmodified":1566643190,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

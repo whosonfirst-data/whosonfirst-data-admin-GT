@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.361645,
     "lbl:longitude":-90.411726,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alta Verapaz",
     "meso:diss_me":"SANTA CRUZ VERAPAZALTA VERAPAZ",
     "meso:gadm_admin":"Santa Cruz Verapaz",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.411726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Cruz Verapaz"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":26806920,
         "hasc:id":"GT.AV.SC",
-        "qs:id":510773,
+        "qs_pg:id":510773,
         "wd:id":"Q332059"
     },
     "wof:country":"GT",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421166811,
-    "wof:lastmodified":1563289592,
+    "wof:lastmodified":1566643384,
     "wof:name":"Santa Cruz Verapaz",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

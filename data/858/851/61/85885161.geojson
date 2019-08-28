@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6320346.39741,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.142693,14.676597,-92.142693,14.676597",
     "geom:latitude":14.676597,
     "geom:longitude":-92.142693,
     "gn:id":"",
     "iso:country":"GT",
+    "lbl:bbox":"-92.147693,14.671597,-92.137693,14.681597",
     "lbl:latitude":14.676597,
     "lbl:longitude":-92.142693,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.676597,
     "mps:longitude":-92.145081,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:spa_x_preferred":[
-        "Salomon Gonzalez Blanco"
-    ],
-    "name:unk_x_variant":[
         "Salomon Gonzalez Blanco"
     ],
     "qs:gn_adm0_cc":"MX",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671661,
         102191575,
         85632385,
-        1108695269,
-        85671661
+        1108695269
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55917324,
-        "qs:id":1137772
+        "qs_pg:id":1137772
     },
     "wof:country":"GT",
     "wof:geomhash":"d5ca844fa11b2064f9dea052f6536e24",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531874735,
+    "wof:lastmodified":1566642755,
     "wof:name":"Salomon Gonzalez Blanco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

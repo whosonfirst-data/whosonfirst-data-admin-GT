@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.668488,
     "lbl:longitude":-90.790477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimaltenango",
     "meso:diss_me":"EL TEJARCHIMALTENANGO",
     "meso:gadm_admin":"El Tejar",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.790477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "El Tejar"
     ],
@@ -67,9 +70,9 @@
         "\u57c3\u723e\u7279\u54c8\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695335,
-    "wof:lastmodified":1563289247,
+    "wof:lastmodified":1566643187,
     "wof:name":"El Tejar",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.65806,14.23306,-89.61806,14.27306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quebracho",
         "Finca El Quebracho",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327212061,
-    "wof:lastmodified":1537625155,
+    "wof:lastmodified":1566642612,
     "wof:name":"El Quebracho",
     "wof:parent_id":1108695263,
     "wof:placetype":"locality",

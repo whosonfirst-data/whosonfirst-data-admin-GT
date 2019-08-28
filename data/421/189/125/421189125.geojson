@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.656244,
     "lbl:longitude":-91.104794,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Solola",
     "meso:diss_me":"SAN ANTONIO PALOPOSOLOLA",
     "meso:gadm_admin":"San Antonio Palop\u00f3",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.104794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Antonio Palop\u00f3"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26807202,
         "hasc:id":"GT.SO.AP",
-        "qs:id":1110197,
+        "qs_pg:id":1110197,
         "wd:id":"Q2609248"
     },
     "wof:country":"GT",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421189125,
-    "wof:lastmodified":1561844757,
+    "wof:lastmodified":1566643407,
     "wof:name":"San Antonio Palopo",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

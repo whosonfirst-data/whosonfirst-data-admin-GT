@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.26356,15.78715,-91.22356,15.82715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -378,7 +382,7 @@
         }
     ],
     "wof:id":1293803881,
-    "wof:lastmodified":1564226952,
+    "wof:lastmodified":1566642855,
     "wof:name":"San Antonio",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

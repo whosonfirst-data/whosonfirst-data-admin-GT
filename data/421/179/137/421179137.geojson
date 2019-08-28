@@ -10,6 +10,9 @@
     "geom:latitude":14.77222,
     "geom:longitude":-91.18333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.20333,14.75222,-91.16333,14.79222",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -199,7 +202,7 @@
     "wof:concordances":{
         "gn:id":3588698,
         "gp:id":86284,
-        "qs:id":149112,
+        "qs_pg:id":149112,
         "wd:id":"Q602423",
         "wk:page":"Solol\u00e1"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421179137,
-    "wof:lastmodified":1563289736,
+    "wof:lastmodified":1566643442,
     "wof:name":"Solol\u00e1",
     "wof:parent_id":421190503,
     "wof:placetype":"locality",

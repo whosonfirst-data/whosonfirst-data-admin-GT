@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.76656,16.0206,-91.72656,16.0606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gracias a Dios"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1277001807,
-    "wof:lastmodified":1564226994,
+    "wof:lastmodified":1566642880,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

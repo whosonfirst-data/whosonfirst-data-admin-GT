@@ -10,8 +10,12 @@
     "geom:latitude":15.08333,
     "geom:longitude":-91.88333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.90333,15.06333,-91.86333,15.10333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tajumulco"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3588588,
         "gp:id":86343,
-        "qs:id":219447,
+        "qs_pg:id":219447,
         "wd:id":"Q1748863",
         "wk:page":"Tajumulco"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421202139,
-    "wof:lastmodified":1563289630,
+    "wof:lastmodified":1566643398,
     "wof:name":"Tajumulco",
     "wof:parent_id":1108695661,
     "wof:placetype":"locality",

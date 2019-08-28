@@ -10,8 +10,12 @@
     "geom:latitude":14.79139,
     "geom:longitude":-90.97083,
     "iso:country":"GT",
+    "lbl:bbox":"-90.99083,14.77139,-90.95083,14.81139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Apolonia"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3589480,
         "gp:id":85941,
-        "qs:id":365792,
+        "qs_pg:id":365792,
         "wd:id":"Q1254653",
         "wk:page":"Santa Apolonia, Chimaltenango"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421175311,
-    "wof:lastmodified":1563289665,
+    "wof:lastmodified":1566643414,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":1108695611,
     "wof:placetype":"locality",

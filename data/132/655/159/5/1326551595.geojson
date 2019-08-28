@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.47,14.69667,-90.43,14.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326551595,
-    "wof:lastmodified":1536956196,
+    "wof:lastmodified":1566642588,
     "wof:name":"Labor Vieja",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

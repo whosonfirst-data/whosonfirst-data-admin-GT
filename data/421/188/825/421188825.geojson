@@ -10,8 +10,11 @@
     "geom:latitude":15.51667,
     "geom:longitude":-91.73333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.73833,15.51167,-91.72833,15.52167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Gloria"
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3594619,
         "gp:id":55889718,
-        "qs:id":1104291
+        "qs_pg:id":1104291
     },
     "wof:country":"GT",
     "wof:created":1459009581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421188825,
-    "wof:lastmodified":1564227884,
+    "wof:lastmodified":1566643407,
     "wof:name":"La Gloria",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

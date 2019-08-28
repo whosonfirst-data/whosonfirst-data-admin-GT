@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.79491,16.04342,-90.75491,16.08342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Punto Chico"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259662683,
-    "wof:lastmodified":1537625247,
+    "wof:lastmodified":1566643641,
     "wof:name":"Punto Chico",
     "wof:parent_id":1108695441,
     "wof:placetype":"locality",

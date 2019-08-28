@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.17611,14.60722,-92.13611,14.64722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Santa Clara"
     ],
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":1260056265,
-    "wof:lastmodified":1564227530,
+    "wof:lastmodified":1566643179,
     "wof:name":"Santa Clara",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",

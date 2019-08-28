@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.89851,15.59917,-91.85851,15.63917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09c7\u09b2\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1209535719,
-    "wof:lastmodified":1564227215,
+    "wof:lastmodified":1566643002,
     "wof:name":"Candelaria",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

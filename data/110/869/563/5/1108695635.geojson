@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.720987,
     "lbl:longitude":-91.323676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Solola",
     "meso:diss_me":"SANTA MARIA VISITACIONSOLOLA",
     "meso:gadm_admin":"Santa Mar\u00eda Visitaci\u00f3n",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.323676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
@@ -64,9 +67,9 @@
         "\u8056\u746a\u5229\u4e9e\u6bd4\u897f\u5854\u897f\u7fc1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695635,
-    "wof:lastmodified":1563289290,
+    "wof:lastmodified":1566643204,
     "wof:name":"Santa Maria Visitacion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

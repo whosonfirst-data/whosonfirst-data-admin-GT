@@ -10,8 +10,12 @@
     "geom:latitude":14.73333,
     "geom:longitude":-91.15,
     "iso:country":"GT",
+    "lbl:bbox":"-91.17,14.71333,-91.13,14.75333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Panajachel"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3591750,
         "gp:id":84819,
-        "qs:id":489158,
+        "qs_pg:id":489158,
         "wd:id":"Q1634223",
         "wk:page":"Panajachel"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421173039,
-    "wof:lastmodified":1563289644,
+    "wof:lastmodified":1566643405,
     "wof:name":"Panajachel",
     "wof:parent_id":421175387,
     "wof:placetype":"locality",

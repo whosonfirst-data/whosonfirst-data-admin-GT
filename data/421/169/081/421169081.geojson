@@ -10,6 +10,9 @@
     "geom:latitude":13.92556,
     "geom:longitude":-90.82444,
     "iso:country":"GT",
+    "lbl:bbox":"-90.84444,13.90556,-90.80444,13.94556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -62,7 +65,7 @@
     "name:swe_x_preferred":[
         "Puerto San Jos\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto de San Jos\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":3591060,
         "gp:id":85210,
-        "qs:id":112941,
+        "qs_pg:id":112941,
         "wd:id":"Q1266746",
         "wk:page":"Puerto San Jos\u00e9"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421169081,
-    "wof:lastmodified":1563289616,
+    "wof:lastmodified":1566643393,
     "wof:name":"Puerto San Jos\u00e9",
     "wof:parent_id":421202281,
     "wof:placetype":"locality",

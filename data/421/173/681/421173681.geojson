@@ -10,8 +10,12 @@
     "geom:latitude":15.1,
     "geom:longitude":-90.4,
     "iso:country":"GT",
+    "lbl:bbox":"-90.42,15.08,-90.38,15.12",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Miguel Chicaj"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3589730,
         "gp:id":85815,
-        "qs:id":296426,
+        "qs_pg:id":296426,
         "wd:id":"Q1517461",
         "wk:page":"San Miguel Chicaj"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421173681,
-    "wof:lastmodified":1563289641,
+    "wof:lastmodified":1566643403,
     "wof:name":"San Miguel Chicaj",
     "wof:parent_id":1108695563,
     "wof:placetype":"locality",

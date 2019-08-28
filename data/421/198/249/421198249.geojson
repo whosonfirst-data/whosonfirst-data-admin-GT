@@ -10,8 +10,12 @@
     "geom:latitude":15.40487,
     "geom:longitude":-91.66451,
     "iso:country":"GT",
+    "lbl:bbox":"-91.68451,15.38487,-91.64451,15.42487",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael Petzal"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Rafael Petzal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3589579,
         "gp:id":85884,
-        "qs:id":1116124,
+        "qs_pg:id":1116124,
         "wd:id":"Q2402524",
         "wk:page":"San Rafael Petzal"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421198249,
-    "wof:lastmodified":1563289669,
+    "wof:lastmodified":1566643415,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":1108695593,
     "wof:placetype":"locality",

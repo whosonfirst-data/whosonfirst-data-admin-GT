@@ -10,8 +10,12 @@
     "geom:latitude":14.75,
     "geom:longitude":-91.13333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.15333,14.73,-91.11333,14.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Semetabaj"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Semetabaj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Andr\u00e9s"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3590524,
         "gp:id":85498,
-        "qs:id":1340976,
+        "qs_pg:id":1340976,
         "wd:id":"Q2402766",
         "wk:page":"San Andr\u00e9s Semetabaj"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421193563,
-    "wof:lastmodified":1563289605,
+    "wof:lastmodified":1566643389,
     "wof:name":"San Andr\u00e9s Semetabaj",
     "wof:parent_id":421170963,
     "wof:placetype":"locality",

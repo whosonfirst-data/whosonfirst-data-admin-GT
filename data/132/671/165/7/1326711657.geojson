@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.82,14.39667,-89.78,14.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Volc\u00e1n Suchit\u00e1n"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Volc\u00e1n Suchit\u00e1n"
-    ],
-    "name:und_x_variant":[
-        "Suchit\u00e1n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1326711657,
-    "wof:lastmodified":1564226416,
+    "wof:lastmodified":1566642578,
     "wof:name":"Suchitan",
     "wof:parent_id":1108695619,
     "wof:placetype":"locality",

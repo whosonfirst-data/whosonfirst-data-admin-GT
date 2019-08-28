@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.04459,14.87019,-92.00459,14.91019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Per\u00fa Bolivia"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259346395,
-    "wof:lastmodified":1537625271,
+    "wof:lastmodified":1566643657,
     "wof:name":"Peru Bolivia",
     "wof:parent_id":1108695283,
     "wof:placetype":"locality",

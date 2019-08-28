@@ -10,8 +10,12 @@
     "geom:latitude":14.08333,
     "geom:longitude":-91.05,
     "iso:country":"GT",
+    "lbl:bbox":"-91.07,14.06333,-91.03,14.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "La Gomera"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3594575,
         "gp:id":83516,
-        "qs:id":149186,
+        "qs_pg:id":149186,
         "wd:id":"Q2608473"
     },
     "wof:country":"GT",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421193805,
-    "wof:lastmodified":1563289604,
+    "wof:lastmodified":1566643389,
     "wof:name":"La Gomera",
     "wof:parent_id":421171417,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":15.13333,
     "geom:longitude":-92.05,
     "iso:country":"GT",
+    "lbl:bbox":"-92.07,15.11333,-92.03,15.15333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0438\u0431\u0438\u043d\u0430\u043b"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Sibinal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sabinal"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3588760,
         "gp:id":86253,
-        "qs:id":1201128,
+        "qs_pg:id":1201128,
         "wd:id":"Q1748820",
         "wk:page":"Sibinal"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421180239,
-    "wof:lastmodified":1563289637,
+    "wof:lastmodified":1566643402,
     "wof:name":"Sibinal",
     "wof:parent_id":1108695651,
     "wof:placetype":"locality",

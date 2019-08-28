@@ -11,8 +11,11 @@
     "geom:longitude":-91.14889,
     "gn:country":"GT",
     "gn:fcode":"PPLA",
-    "gn:pop":23618,
+    "gn:population":23618,
     "iso:country":"GT",
+    "lbl:bbox":"-91.16889,15.01056,-91.12889,15.05056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -186,12 +189,12 @@
     "wof:concordances":{
         "gn:id":3589404,
         "gp:id":85977,
-        "qs:id":149133,
+        "qs_pg:id":149133,
         "wd:id":"Q693140",
         "wk:page":"Santa Cruz del Quich\u00e9"
     },
     "wof:concordances_alt":{
-        "qs:id":1074065
+        "qs_pg:id":1074065
     },
     "wof:country":"GT",
     "wof:created":1469052046,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890434957,
-    "wof:lastmodified":1563289771,
+    "wof:lastmodified":1566643455,
     "wof:name":"Santa Cruz del Quich\u00e9",
     "wof:parent_id":421201597,
     "wof:placetype":"locality",

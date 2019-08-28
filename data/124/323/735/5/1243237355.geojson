@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.11816,15.42579,-91.07816,15.46579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Batz Tziquintz\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243237355,
-    "wof:lastmodified":1537625350,
+    "wof:lastmodified":1566643513,
     "wof:name":"Batz Tziquintze",
     "wof:parent_id":421200685,
     "wof:placetype":"locality",

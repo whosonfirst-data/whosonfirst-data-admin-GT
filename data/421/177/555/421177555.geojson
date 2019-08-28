@@ -10,8 +10,12 @@
     "geom:latitude":14.48139,
     "geom:longitude":-90.17333,
     "iso:country":"GT",
+    "lbl:bbox":"-90.19333,14.46139,-90.15333,14.50139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael Las Flores"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Rafael Las Flores"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3589592,
         "gp:id":85882,
-        "qs:id":1201107,
+        "qs_pg:id":1201107,
         "wd:id":"Q1748669",
         "wk:page":"San Rafael Las Flores"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421177555,
-    "wof:lastmodified":1563289719,
+    "wof:lastmodified":1566643436,
     "wof:name":"San Rafael Las Flores",
     "wof:parent_id":1108695589,
     "wof:placetype":"locality",

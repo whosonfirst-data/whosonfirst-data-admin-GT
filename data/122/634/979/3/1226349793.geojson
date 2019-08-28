@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.07,14.73,-91.03,14.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Xejav\u00ed",
         "Xejab\u00ed"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226349793,
-    "wof:lastmodified":1537625126,
+    "wof:lastmodified":1566643711,
     "wof:name":"Xejabi",
     "wof:parent_id":421172619,
     "wof:placetype":"locality",

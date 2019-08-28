@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.95333,15.81333,-89.91333,15.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632385
@@ -34,7 +38,7 @@
         "gn:id":3594919
     },
     "wof:country":"GT",
-    "wof:geomhash":"4f135d37a43bfeeed6c682e2609614ed",
+    "wof:geomhash":"7b79fa0b3c31ad886528305f1ce4ddfe",
     "wof:hierarchy":[
         {
             "country_id":85632385,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022139,
-    "wof:lastmodified":1536300114,
+    "wof:lastmodified":1566643074,
     "wof:name":"La Caoba",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -89.93333,
-    15.833329999999998,
+    15.83333,
     -89.93333,
-    15.833329999999998
+    15.83333
 ],
   "geometry": {"coordinates":[-89.93333,15.83333],"type":"Point"}
 }

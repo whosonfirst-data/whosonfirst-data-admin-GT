@@ -10,8 +10,12 @@
     "geom:latitude":13.93333,
     "geom:longitude":-91.15,
     "iso:country":"GT",
+    "lbl:bbox":"-91.17,13.91333,-91.13,13.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sipacate"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3588724,
         "gp:id":86269,
-        "qs:id":266452,
+        "qs_pg:id":266452,
         "wd:id":"Q7525555",
         "wk:page":"Sipacate"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421166395,
-    "wof:lastmodified":1563289592,
+    "wof:lastmodified":1566643385,
     "wof:name":"Sipacate",
     "wof:parent_id":421171417,
     "wof:placetype":"locality",

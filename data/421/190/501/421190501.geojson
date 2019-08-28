@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.034549,
     "lbl:longitude":-90.546119,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Rosa",
     "meso:diss_me":"TAXISCOSANTA ROSA",
     "meso:gadm_admin":"Taxisco",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.546119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taxisco"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26807181,
         "hasc:id":"GT.SR.TA",
-        "qs:id":1119673,
+        "qs_pg:id":1119673,
         "wd:id":"Q2402116"
     },
     "wof:country":"GT",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421190501,
-    "wof:lastmodified":1563289681,
+    "wof:lastmodified":1566643420,
     "wof:name":"Taxisco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

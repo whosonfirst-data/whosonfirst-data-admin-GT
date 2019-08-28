@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.48852,15.07211,-91.44852,15.11211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chotzague"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327108673,
-    "wof:lastmodified":1537625339,
+    "wof:lastmodified":1566642613,
     "wof:name":"Chotzague",
     "wof:parent_id":1108695487,
     "wof:placetype":"locality",

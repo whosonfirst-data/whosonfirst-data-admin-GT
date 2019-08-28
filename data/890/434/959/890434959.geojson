@@ -11,10 +11,14 @@
     "geom:longitude":-91.01667,
     "gn:country":"GT",
     "gn:fcode":"PPL",
-    "gn:pop":18704,
+    "gn:population":18704,
     "iso:country":"GT",
+    "lbl:bbox":"-91.03667,14.66333,-90.99667,14.70333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Patz\u00fan"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3591512,
         "gp:id":84957,
-        "qs:id":149172,
+        "qs_pg:id":149172,
         "wd:id":"Q2574268",
         "wk:page":"Patz\u00fan"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890434959,
-    "wof:lastmodified":1563289772,
+    "wof:lastmodified":1566643455,
     "wof:name":"Patz\u00fan",
     "wof:parent_id":421178903,
     "wof:placetype":"locality",

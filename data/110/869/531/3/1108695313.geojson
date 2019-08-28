@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.15801,
     "lbl:longitude":-90.683865,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Baja Verapaz",
     "meso:diss_me":"CUBULCOBAJA VERAPAZ",
     "meso:gadm_admin":"Cubulco",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.683865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cubulco"
     ],
@@ -64,9 +67,9 @@
         "\u5eab\u6b66\u723e\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695313,
-    "wof:lastmodified":1563289294,
+    "wof:lastmodified":1566643205,
     "wof:name":"Cubulco",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":15.11667,
     "geom:longitude":-91.8,
     "iso:country":"GT",
+    "lbl:bbox":"-91.82,15.09667,-91.78,15.13667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tejutla"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3588460,
         "gp:id":86400,
-        "qs:id":1116145,
+        "qs_pg:id":1116145,
         "wd:id":"Q1748860",
         "wk:page":"Tejutla, San Marcos"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177179,
-    "wof:lastmodified":1563289720,
+    "wof:lastmodified":1566643436,
     "wof:name":"Tejutla",
     "wof:parent_id":1108695671,
     "wof:placetype":"locality",

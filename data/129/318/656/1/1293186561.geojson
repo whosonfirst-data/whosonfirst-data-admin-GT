@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.75222,15.58724,-91.71222,15.62724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
     ],
@@ -633,7 +637,7 @@
         }
     ],
     "wof:id":1293186561,
-    "wof:lastmodified":1564226926,
+    "wof:lastmodified":1566642843,
     "wof:name":"Buenos Aires",
     "wof:parent_id":1108695675,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.610201,
     "lbl:longitude":-90.831425,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quiche",
     "meso:diss_me":"USPANTANQUICHE",
     "meso:gadm_admin":"Uspant\u00e1n",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.831425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Uspant\u00e1n"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
     "wof:concordances":{
         "gp:id":26807097,
         "hasc:id":"GT.QC.US",
-        "qs:id":772714,
+        "qs_pg:id":772714,
         "wd:id":"Q2621539"
     },
     "wof:country":"GT",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421196545,
-    "wof:lastmodified":1563289673,
+    "wof:lastmodified":1566643417,
     "wof:name":"Uspantan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

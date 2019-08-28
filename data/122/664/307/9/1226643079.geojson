@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.46125,15.33105,-91.42125,15.37105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sacopolac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226643079,
-    "wof:lastmodified":1537625363,
+    "wof:lastmodified":1566643767,
     "wof:name":"Sacopolac",
     "wof:parent_id":421186319,
     "wof:placetype":"locality",

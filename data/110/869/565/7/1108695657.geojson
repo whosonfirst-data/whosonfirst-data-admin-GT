@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.702595,
     "lbl:longitude":-91.431942,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"SOLOMAHUEHUETENANGO",
     "meso:gadm_admin":"Soloma",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.431942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043c\u0430"
     ],
@@ -68,9 +71,9 @@
         "\u8056\u4f69\u5fb7\u7f85\u7d22\u6d1b\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108695657,
-    "wof:lastmodified":1563289298,
+    "wof:lastmodified":1566643207,
     "wof:name":"Soloma",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.26186,15.07251,-91.22186,15.11251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Canamixtoj"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343439965,
-    "wof:lastmodified":1537625229,
+    "wof:lastmodified":1566642746,
     "wof:name":"Canamixtoj",
     "wof:parent_id":1108695475,
     "wof:placetype":"locality",

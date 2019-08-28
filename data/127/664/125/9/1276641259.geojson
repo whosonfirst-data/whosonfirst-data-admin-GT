@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.31706,16.02862,-91.27706,16.06862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "R\u00edo Azul"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276641259,
-    "wof:lastmodified":1537625245,
+    "wof:lastmodified":1566642969,
     "wof:name":"Rio Azul",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.748648,
     "lbl:longitude":-90.279321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Progreso",
     "meso:diss_me":"SAN ANTONIO LA PAZEL PROGRESO",
     "meso:gadm_admin":"San Antonio La Paz",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.279321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Antonio La Paz"
     ],
@@ -70,9 +73,9 @@
         "\u8056\u5b89\u6771\u5c3c\u5967\u62c9\u5e15\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108695477,
-    "wof:lastmodified":1563289306,
+    "wof:lastmodified":1566643210,
     "wof:name":"San Antonio La Paz",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

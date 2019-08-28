@@ -10,10 +10,14 @@
     "geom:latitude":14.71667,
     "geom:longitude":-91.53333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.55333,14.69667,-91.51333,14.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Mar\u00eda"
     ],
     "qs:gn_country":"GT",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3589252,
         "gp:id":86028,
-        "qs:id":1082611
+        "qs_pg:id":1082611
     },
     "wof:country":"GT",
     "wof:created":1459009506,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421187253,
-    "wof:lastmodified":1501267951,
+    "wof:lastmodified":1566643403,
     "wof:name":"Santa Mar\u00eda de Jes\u00fas",
     "wof:parent_id":421169963,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.48111,13.93083,-90.44111,13.97083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1309688061,
-    "wof:lastmodified":1564227839,
+    "wof:lastmodified":1566643366,
     "wof:name":"Las Palmas",
     "wof:parent_id":421190501,
     "wof:placetype":"locality",

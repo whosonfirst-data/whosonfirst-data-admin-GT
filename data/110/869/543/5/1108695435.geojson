@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.584785,
     "lbl:longitude":-90.818986,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimaltenango",
     "meso:diss_me":"PARRAMOSCHIMALTENANGO",
     "meso:gadm_admin":"Parramos",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.818986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u043e\u0441"
     ],
@@ -67,9 +70,9 @@
         "\u5e15\u62c9\u83ab\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695435,
-    "wof:lastmodified":1563289269,
+    "wof:lastmodified":1566643195,
     "wof:name":"Parramos",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

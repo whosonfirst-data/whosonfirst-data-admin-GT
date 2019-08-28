@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.841061,
     "lbl:longitude":-91.619721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quetzaltenango",
     "meso:diss_me":"CONCEPCION CHIQUIRICHAPAQUETZALTENANGO",
     "meso:gadm_admin":"Concepci\u00f3n Chiquirichapa",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.619721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Concepci\u00f3n Chiquirichapa"
     ],
@@ -64,9 +67,9 @@
         "\u5b54\u585e\u666e\u897f\u7fc1\u5947\u585e\u91cc\u67e5\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695305,
-    "wof:lastmodified":1563289282,
+    "wof:lastmodified":1566643201,
     "wof:name":"Concepcion Chiquirichapa",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

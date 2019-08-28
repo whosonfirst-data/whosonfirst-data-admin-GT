@@ -10,8 +10,12 @@
     "geom:latitude":15.13333,
     "geom:longitude":-89.36667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.38667,15.11333,-89.34667,15.15333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Gual\u00e1n"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3595560,
         "gp:id":83108,
-        "qs:id":1340936,
+        "qs_pg:id":1340936,
         "wd:id":"Q1552683",
         "wk:page":"Gual\u00e1n"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421193561,
-    "wof:lastmodified":1563289601,
+    "wof:lastmodified":1566643389,
     "wof:name":"Gual\u00e1n",
     "wof:parent_id":421166783,
     "wof:placetype":"locality",

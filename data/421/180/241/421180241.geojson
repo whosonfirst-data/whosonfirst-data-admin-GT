@@ -10,8 +10,12 @@
     "geom:latitude":15.0,
     "geom:longitude":-91.61667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.63667,14.98,-91.59667,15.02",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sibilia"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3588762,
         "gp:id":86252,
-        "qs:id":1201129,
+        "qs_pg:id":1201129,
         "wd:id":"Q2402599",
         "wk:page":"Sibilia, Quetzaltenango"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421180241,
-    "wof:lastmodified":1563289636,
+    "wof:lastmodified":1566643401,
     "wof:name":"Sibilia",
     "wof:parent_id":1108695649,
     "wof:placetype":"locality",

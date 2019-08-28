@@ -10,8 +10,12 @@
     "geom:latitude":14.45,
     "geom:longitude":-91.41667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.43667,14.43,-91.39667,14.47",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 El \u00cddolo"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3590029,
         "gp:id":85692,
-        "qs:id":1062277,
+        "qs_pg:id":1062277,
         "wd:id":"Q2401870",
         "wk:page":"San Jos\u00e9 El Idolo"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421186237,
-    "wof:lastmodified":1563289660,
+    "wof:lastmodified":1566643412,
     "wof:name":"San Jos\u00e9 El \u00cddolo",
     "wof:parent_id":1108695479,
     "wof:placetype":"locality",

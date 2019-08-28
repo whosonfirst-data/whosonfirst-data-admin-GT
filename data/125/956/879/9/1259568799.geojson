@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.53906,15.65733,-91.49906,15.69733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Cajan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259568799,
-    "wof:lastmodified":1564228238,
+    "wof:lastmodified":1566643653,
     "wof:name":"Cajan",
     "wof:parent_id":1108695657,
     "wof:placetype":"locality",

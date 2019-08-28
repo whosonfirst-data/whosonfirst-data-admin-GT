@@ -10,8 +10,12 @@
     "geom:latitude":14.74972,
     "geom:longitude":-90.28667,
     "iso:country":"GT",
+    "lbl:bbox":"-90.30667,14.72972,-90.26667,14.76972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Antonio La Paz"
@@ -49,9 +53,6 @@
     "name:swe_x_preferred":[
         "San Antonio La Paz"
     ],
-    "name:unk_x_variant":[
-        "San Antonio La Paz"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u5b89\u6771\u5c3c\u5967\u62c9\u5e15\u65af"
     ],
@@ -86,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3590449,
         "gp:id":85529,
-        "qs:id":53500,
+        "qs_pg:id":53500,
         "wd:id":"Q962852",
         "wk:page":"San Antonio La Paz"
     },
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421202969,
-    "wof:lastmodified":1563289629,
+    "wof:lastmodified":1566643398,
     "wof:name":"San Antonio la Paz",
     "wof:parent_id":1108695477,
     "wof:placetype":"locality",

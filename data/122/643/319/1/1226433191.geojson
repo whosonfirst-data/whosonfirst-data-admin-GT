@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.63379,15.55284,-91.59379,15.59284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Chales"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226433191,
-    "wof:lastmodified":1537625324,
+    "wof:lastmodified":1566643688,
     "wof:name":"Los Chales",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

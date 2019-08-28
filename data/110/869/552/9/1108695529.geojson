@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.544209,
     "lbl:longitude":-90.33663,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guatemala",
     "meso:diss_me":"SAN JOSE PINULAGUATEMALA",
     "meso:gadm_admin":"San Jos\u00e9 Pinula",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.33663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Pinula"
     ],
@@ -73,9 +76,9 @@
         "\u8056\u4f55\u585e\u76ae\u52aa\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108695529,
-    "wof:lastmodified":1563289286,
+    "wof:lastmodified":1566643202,
     "wof:name":"San Jose Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

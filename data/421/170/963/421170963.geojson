@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.745212,
     "lbl:longitude":-91.103261,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Solola",
     "meso:diss_me":"SAN ANDRES SEMETABAJSOLOLA",
     "meso:gadm_admin":"San Andr\u00e9s Semetabaj",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.103261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Semetabaj"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26807190,
         "hasc:id":"GT.SO.AS",
-        "qs:id":1203849,
+        "qs_pg:id":1203849,
         "wd:id":"Q2402766"
     },
     "wof:country":"GT",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421170963,
-    "wof:lastmodified":1563289709,
+    "wof:lastmodified":1566643432,
     "wof:name":"San Andres Semetabaj",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

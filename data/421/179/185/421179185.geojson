@@ -10,8 +10,12 @@
     "geom:latitude":14.9,
     "geom:longitude":-91.48333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.50333,14.88,-91.46333,14.92",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Xecul"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Andr\u00e9s Xecul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Andr\u00e9s"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3590520,
         "gp:id":85500,
-        "qs:id":149163,
+        "qs_pg:id":149163,
         "wd:id":"Q2609261",
         "wk:page":"San Andr\u00e9s Xecul"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421179185,
-    "wof:lastmodified":1563289742,
+    "wof:lastmodified":1566643445,
     "wof:name":"San Andr\u00e9s Xecul",
     "wof:parent_id":421184605,
     "wof:placetype":"locality",

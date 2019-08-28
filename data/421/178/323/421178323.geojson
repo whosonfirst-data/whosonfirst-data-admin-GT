@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.780036,
     "lbl:longitude":-91.134191,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Solola",
     "meso:diss_me":"CONCEPCIONSOLOLA",
     "meso:gadm_admin":"Concepci\u00f3n",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.134191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Concepci\u00f3n"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":26807191,
         "hasc:id":"GT.SO.CO",
-        "qs:id":61139,
+        "qs_pg:id":61139,
         "wd:id":"Q1748599"
     },
     "wof:country":"GT",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421178323,
-    "wof:lastmodified":1561844765,
+    "wof:lastmodified":1566643446,
     "wof:name":"Concepcion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

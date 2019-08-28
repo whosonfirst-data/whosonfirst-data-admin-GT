@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.369567,
     "lbl:longitude":-91.488598,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Suchitepequez",
     "meso:diss_me":"SANTO DOMINGO SUCHITEPEQUEZSUCHITEPEQUEZ",
     "meso:gadm_admin":"Santo Domingo Suchitepequez",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.488598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Santo Domingo Suchitepequez"
     ],
@@ -65,9 +68,9 @@
         "\u8056\u591a\u660e\u6208\u8607\u5947\u7279\u4f69\u514b\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108695639,
-    "wof:lastmodified":1561844745,
+    "wof:lastmodified":1566643203,
     "wof:name":"Santo Domingo Suchitepequez",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

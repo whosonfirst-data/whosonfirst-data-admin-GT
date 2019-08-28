@@ -10,8 +10,12 @@
     "geom:latitude":14.93333,
     "geom:longitude":-89.71667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.73667,14.91333,-89.69667,14.95333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Huit\u00e9"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3595403,
         "gp:id":83177,
-        "qs:id":149200,
+        "qs_pg:id":149200,
         "wd:id":"Q1020827",
         "wk:page":"Huit\u00e9"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421179233,
-    "wof:lastmodified":1563289731,
+    "wof:lastmodified":1566643440,
     "wof:name":"Huit\u00e9",
     "wof:parent_id":1108695363,
     "wof:placetype":"locality",

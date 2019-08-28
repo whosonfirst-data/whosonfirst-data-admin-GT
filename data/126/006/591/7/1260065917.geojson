@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.51649,15.55051,-91.47649,15.59051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mirador Siete Pinos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260065917,
-    "wof:lastmodified":1537625370,
+    "wof:lastmodified":1566643160,
     "wof:name":"Mirador Siete Pinos",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

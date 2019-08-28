@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.15446,15.25393,-91.11446,15.29393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Patzajel"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243342335,
-    "wof:lastmodified":1537625346,
+    "wof:lastmodified":1566643538,
     "wof:name":"Patzajel",
     "wof:parent_id":421169961,
     "wof:placetype":"locality",

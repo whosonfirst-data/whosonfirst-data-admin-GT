@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.63017,16.00607,-90.59017,16.04607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Isla de Las Tortugas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209931931,
-    "wof:lastmodified":1537625279,
+    "wof:lastmodified":1566643060,
     "wof:name":"Isla de Las Tortugas",
     "wof:parent_id":1108695441,
     "wof:placetype":"locality",

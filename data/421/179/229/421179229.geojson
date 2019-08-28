@@ -10,8 +10,12 @@
     "geom:latitude":15.2,
     "geom:longitude":-91.88333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.90333,15.18,-91.86333,15.22",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ixchigu\u00e1n"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3595329,
         "gp:id":83209,
-        "qs:id":149198,
+        "qs_pg:id":149198,
         "wd:id":"Q2609056",
         "wk:page":"Ixchigu\u00e1n"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421179229,
-    "wof:lastmodified":1563289726,
+    "wof:lastmodified":1566643438,
     "wof:name":"Ixchigu\u00e1n",
     "wof:parent_id":1108695671,
     "wof:placetype":"locality",

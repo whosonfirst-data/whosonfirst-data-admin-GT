@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.49002,15.61842,-91.45002,15.65842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Jolomc\u00fa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226636745,
-    "wof:lastmodified":1537625240,
+    "wof:lastmodified":1566643771,
     "wof:name":"Jolomcu",
     "wof:parent_id":421189489,
     "wof:placetype":"locality",

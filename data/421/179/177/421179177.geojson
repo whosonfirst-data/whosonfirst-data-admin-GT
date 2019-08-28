@@ -10,8 +10,12 @@
     "geom:latitude":14.9,
     "geom:longitude":-91.78333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.80333,14.88,-91.76333,14.92",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Crist\u00f3bal Cucho"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Crist\u00f3bal Cucho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Crist\u00f3bal"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3590323,
         "gp:id":85571,
-        "qs:id":149158,
+        "qs_pg:id":149158,
         "wd:id":"Q1748857",
         "wk:page":"San Crist\u00f3bal Cucho"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421179177,
-    "wof:lastmodified":1563289740,
+    "wof:lastmodified":1566643444,
     "wof:name":"San Crist\u00f3bal Cucho",
     "wof:parent_id":1108695497,
     "wof:placetype":"locality",

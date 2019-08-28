@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.56231,15.00033,-91.52231,15.04033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuesta del Aire"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310184519,
-    "wof:lastmodified":1537625298,
+    "wof:lastmodified":1566643261,
     "wof:name":"Cuesta del Aire",
     "wof:parent_id":1108695493,
     "wof:placetype":"locality",

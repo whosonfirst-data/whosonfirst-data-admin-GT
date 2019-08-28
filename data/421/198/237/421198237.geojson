@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.709853,
     "lbl:longitude":-89.846063,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jalapa",
     "meso:diss_me":"SAN PEDRO PINULAJALAPA",
     "meso:gadm_admin":"San Pedro Pinula",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.846063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pedro Pinula"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
     "wof:concordances":{
         "gp:id":26807036,
         "hasc:id":"GT.JA.PP",
-        "qs:id":401858,
+        "qs_pg:id":401858,
         "wd:id":"Q739778"
     },
     "wof:country":"GT",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421198237,
-    "wof:lastmodified":1563289670,
+    "wof:lastmodified":1566643416,
     "wof:name":"San Pedro Pinula",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

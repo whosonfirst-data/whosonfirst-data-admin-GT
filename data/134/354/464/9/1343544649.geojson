@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.05541,15.44517,-91.01541,15.48517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Bitzuch\u00fa"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343544649,
-    "wof:lastmodified":1537625238,
+    "wof:lastmodified":1566642633,
     "wof:name":"Bitzuchu",
     "wof:parent_id":1108695287,
     "wof:placetype":"locality",

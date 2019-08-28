@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.21006,15.82097,-91.17006,15.86097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Mangales"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259768891,
-    "wof:lastmodified":1537625283,
+    "wof:lastmodified":1566643630,
     "wof:name":"Los Mangales",
     "wof:parent_id":421185569,
     "wof:placetype":"locality",

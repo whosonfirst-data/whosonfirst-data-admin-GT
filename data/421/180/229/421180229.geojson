@@ -10,8 +10,12 @@
     "geom:latitude":14.91667,
     "geom:longitude":-91.96667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.98667,14.89667,-91.94667,14.93667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Rodeo"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "El Rodeo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodeo"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3596249,
         "gp:id":82811,
-        "qs:id":1200985,
+        "qs_pg:id":1200985,
         "wd:id":"Q579733",
         "wk:page":"El Rodeo, San Marcos"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421180229,
-    "wof:lastmodified":1563289634,
+    "wof:lastmodified":1566643400,
     "wof:name":"El Rodeo",
     "wof:parent_id":1108695333,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.85,
     "geom:longitude":-92.08333,
     "iso:country":"GT",
+    "lbl:bbox":"-92.10333,14.83,-92.06333,14.87",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Catarina"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3598958,
         "gp:id":81412,
-        "qs:id":1045591,
+        "qs_pg:id":1045591,
         "wd:id":"Q1748875",
         "wk:page":"Catarina, San Marcos"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421176233,
-    "wof:lastmodified":1563289754,
+    "wof:lastmodified":1566643449,
     "wof:name":"Catarina",
     "wof:parent_id":1108695283,
     "wof:placetype":"locality",

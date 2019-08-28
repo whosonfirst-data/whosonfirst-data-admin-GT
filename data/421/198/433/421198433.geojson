@@ -10,8 +10,12 @@
     "geom:latitude":14.51667,
     "geom:longitude":-89.45,
     "iso:country":"GT",
+    "lbl:bbox":"-89.47,14.49667,-89.43,14.53667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Concepci\u00f3n Las Minas"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Concepci\u00f3n Las Minas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepci\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3597985,
         "gp:id":81960,
-        "qs:id":1200975
+        "qs_pg:id":1200975
     },
     "wof:country":"GT",
     "wof:created":1459009948,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421198433,
-    "wof:lastmodified":1564227887,
+    "wof:lastmodified":1566643416,
     "wof:name":"Concepci\u00f3n Las Minas",
     "wof:parent_id":421185527,
     "wof:placetype":"locality",

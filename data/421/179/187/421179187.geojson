@@ -10,8 +10,12 @@
     "geom:latitude":15.21667,
     "geom:longitude":-90.91667,
     "iso:country":"GT",
+    "lbl:bbox":"-90.93667,15.19667,-90.89667,15.23667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Andr\u00e9s Sajcabaj\u00e1"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3590526,
         "gp:id":85497,
-        "qs:id":149165,
+        "qs_pg:id":149165,
         "wd:id":"Q2226684",
         "wk:page":"San Andr\u00e9s Sajcabaj\u00e1"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179187,
-    "wof:lastmodified":1563289731,
+    "wof:lastmodified":1566643441,
     "wof:name":"San Andr\u00e9s Sajcabaj\u00e1",
     "wof:parent_id":1108695463,
     "wof:placetype":"locality",

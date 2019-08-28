@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.18974,15.13678,-91.14974,15.17678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chapalacabal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327307709,
-    "wof:lastmodified":1537625354,
+    "wof:lastmodified":1566642510,
     "wof:name":"Chapalacabal",
     "wof:parent_id":1108695579,
     "wof:placetype":"locality",

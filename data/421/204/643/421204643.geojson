@@ -10,8 +10,12 @@
     "geom:latitude":15.13333,
     "geom:longitude":-91.61667,
     "iso:country":"GT",
+    "lbl:bbox":"-91.63667,15.11333,-91.59667,15.15333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cabric\u00e1n"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3599287,
         "gp:id":81246,
-        "qs:id":243129,
+        "qs_pg:id":243129,
         "wd:id":"Q2403031",
         "wk:page":"Cabric\u00e1n"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421204643,
-    "wof:lastmodified":1563289620,
+    "wof:lastmodified":1566643395,
     "wof:name":"Cabric\u00e1n",
     "wof:parent_id":1108695275,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.120856,
     "lbl:longitude":-90.011058,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jutiapa",
     "meso:diss_me":"JALPATAGUAJUTIAPA",
     "meso:gadm_admin":"Jalpatagua",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.011058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Jalpatagua"
     ],
@@ -64,9 +67,9 @@
         "\u54c8\u723e\u5e15\u5854\u74dc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695369,
-    "wof:lastmodified":1563289295,
+    "wof:lastmodified":1566643206,
     "wof:name":"Jalpatagua",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

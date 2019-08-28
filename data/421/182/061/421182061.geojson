@@ -10,8 +10,12 @@
     "geom:latitude":14.95,
     "geom:longitude":-89.78333,
     "iso:country":"GT",
+    "lbl:bbox":"-89.80333,14.93,-89.76333,14.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Usumatl\u00e1n"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Usumatl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uzumatl\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3588040,
         "gp:id":86631,
-        "qs:id":695701,
+        "qs_pg:id":695701,
         "wd:id":"Q203970",
         "wk:page":"Usumatl\u00e1n"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421182061,
-    "wof:lastmodified":1563289750,
+    "wof:lastmodified":1566643448,
     "wof:name":"Usumatl\u00e1n",
     "wof:parent_id":1108695677,
     "wof:placetype":"locality",

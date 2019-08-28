@@ -10,8 +10,12 @@
     "geom:latitude":14.76278,
     "geom:longitude":-90.37639,
     "iso:country":"GT",
+    "lbl:bbox":"-90.39639,14.74278,-90.35639,14.78278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 del Golfo"
@@ -44,9 +48,6 @@
         "San Jos\u00e9 del Golfo"
     ],
     "name:swe_x_preferred":[
-        "San Jos\u00e9 del Golfo"
-    ],
-    "name:unk_x_variant":[
         "San Jos\u00e9 del Golfo"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3590030,
         "gp:id":85691,
-        "qs:id":149148,
+        "qs_pg:id":149148,
         "wd:id":"Q275791",
         "wk:page":"San Jos\u00e9 del Golfo"
     },
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":421193803,
-    "wof:lastmodified":1563289603,
+    "wof:lastmodified":1566643389,
     "wof:name":"San Jos\u00e9 El Golfo",
     "wof:parent_id":1108695521,
     "wof:placetype":"locality",

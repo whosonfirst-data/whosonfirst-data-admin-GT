@@ -10,8 +10,12 @@
     "geom:latitude":14.38111,
     "geom:longitude":-90.27611,
     "iso:country":"GT",
+    "lbl:bbox":"-90.29611,14.36111,-90.25611,14.40111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Santa Rosa"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3592126,
         "gp:id":84617,
-        "qs:id":149181,
+        "qs_pg:id":149181,
         "wd:id":"Q2402348",
         "wk:page":"Nueva Santa Rosa"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421197621,
-    "wof:lastmodified":1563289684,
+    "wof:lastmodified":1566643421,
     "wof:name":"Nueva Santa Rosa",
     "wof:parent_id":421195543,
     "wof:placetype":"locality",

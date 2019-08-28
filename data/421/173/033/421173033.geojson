@@ -10,8 +10,12 @@
     "geom:latitude":14.4875,
     "geom:longitude":-90.61528,
     "iso:country":"GT",
+    "lbl:bbox":"-90.63528,14.4675,-90.59528,14.5075",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u0442\u0438\u0442\u043b\u0430\u043d"
@@ -73,7 +77,7 @@
     "name:swe_x_preferred":[
         "Amatitl\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan Amatitl\u00e1n"
     ],
     "name:vie_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3599735,
         "gp:id":81038,
-        "qs:id":489131,
+        "qs_pg:id":489131,
         "wd:id":"Q455760",
         "wk:page":"Amatitl\u00e1n"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421173033,
-    "wof:lastmodified":1563289647,
+    "wof:lastmodified":1566643406,
     "wof:name":"Amatitl\u00e1n",
     "wof:parent_id":1108695261,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.52639,
     "geom:longitude":-90.75972,
     "iso:country":"GT",
+    "lbl:bbox":"-90.77972,14.50639,-90.73972,14.54639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ciudad Vieja"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3598128,
         "gp:id":81906,
-        "qs:id":211072,
+        "qs_pg:id":211072,
         "wd:id":"Q2445843",
         "wk:page":"Ciudad Vieja"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421169549,
-    "wof:lastmodified":1563289618,
+    "wof:lastmodified":1566643394,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":421171693,
     "wof:placetype":"locality",

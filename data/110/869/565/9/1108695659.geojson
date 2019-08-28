@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.258927,
     "lbl:longitude":-92.132323,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Marcos",
     "meso:diss_me":"TACANASAN MARCOS",
     "meso:gadm_admin":"Tacan\u00e1",
@@ -30,6 +32,7 @@
     "mps:longitude":-92.132323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tacan\u00e1"
     ],
@@ -64,9 +67,9 @@
         "\u5854\u5361\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695659,
-    "wof:lastmodified":1563289298,
+    "wof:lastmodified":1566643207,
     "wof:name":"Tacana",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.42,14.78,-90.38,14.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Antonio del Angel",
         "San Antonio El \u00c1ngel"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344054045,
-    "wof:lastmodified":1537625150,
+    "wof:lastmodified":1566642721,
     "wof:name":"San Antonio El Angel",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

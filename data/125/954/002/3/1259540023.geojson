@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-89.75333,14.88,-89.71333,14.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agua Caliente Segundo",
         "Los Frutillos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259540023,
-    "wof:lastmodified":1537625171,
+    "wof:lastmodified":1566643591,
     "wof:name":"Los Frutillos",
     "wof:parent_id":1108695273,
     "wof:placetype":"locality",

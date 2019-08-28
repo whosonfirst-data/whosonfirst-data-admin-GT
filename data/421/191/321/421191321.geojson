@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.001448,
     "lbl:longitude":-91.324625,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Totonicapan",
     "meso:diss_me":"SANTA MARIA CHIQUIMULATOTONICAPAN",
     "meso:gadm_admin":"Santa Mar\u00eda Chiquimula",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.324625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Mar\u00eda Chiquimula"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         "gn:id":3589256,
         "gp:id":26807229,
         "hasc:id":"GT.TO.MC",
-        "qs:id":62523,
+        "qs_pg:id":62523,
         "wd:id":"Q2402472",
         "wk:page":"Santa Mar\u00eda Chiquimula"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191321,
-    "wof:lastmodified":1563289679,
+    "wof:lastmodified":1566643419,
     "wof:name":"Santa Maria Chiquimula",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

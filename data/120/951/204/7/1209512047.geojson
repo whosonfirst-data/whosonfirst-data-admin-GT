@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.07461,15.37892,-92.03461,15.41892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Can\u00edbal"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209512047,
-    "wof:lastmodified":1537625228,
+    "wof:lastmodified":1566643071,
     "wof:name":"Canibal",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

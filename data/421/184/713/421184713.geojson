@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.002143,
     "lbl:longitude":-89.99324,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Progreso",
     "meso:diss_me":"SAN AGUSTIN ACASAGUASTLANEL PROGRESO",
     "meso:gadm_admin":"San Agust\u00edn Acasaguastl\u00e1n",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.99324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Agust\u00edn Acasaguastl\u00e1n"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gp:id":26806960,
         "hasc:id":"GT.PR.AA",
-        "qs:id":1003285,
+        "qs_pg:id":1003285,
         "wd:id":"Q1020409"
     },
     "wof:country":"GT",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421184713,
-    "wof:lastmodified":1563289706,
+    "wof:lastmodified":1566643430,
     "wof:name":"San Agustin Acasaguastlan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

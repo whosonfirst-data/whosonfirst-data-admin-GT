@@ -10,8 +10,12 @@
     "geom:latitude":14.93333,
     "geom:longitude":-91.7,
     "iso:country":"GT",
+    "lbl:bbox":"-91.72,14.91333,-91.68,14.95333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Palestina de Los Altos"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Palestina de los Altos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palestina"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3591841,
         "gp:id":84769,
-        "qs:id":1201037,
+        "qs_pg:id":1201037,
         "wd:id":"Q2402624",
         "wk:page":"Palestina de Los Altos"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421193083,
-    "wof:lastmodified":1561844753,
+    "wof:lastmodified":1566643389,
     "wof:name":"Palestina de los Altos",
     "wof:parent_id":421195547,
     "wof:placetype":"locality",

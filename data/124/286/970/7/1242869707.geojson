@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.68858,15.67837,-91.64858,15.71837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pe\u00f1a de Oro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242869707,
-    "wof:lastmodified":1537625327,
+    "wof:lastmodified":1566643483,
     "wof:name":"Pena de Oro",
     "wof:parent_id":421178135,
     "wof:placetype":"locality",

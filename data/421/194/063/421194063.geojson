@@ -10,8 +10,12 @@
     "geom:latitude":15.56667,
     "geom:longitude":-89.96667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.98667,15.54667,-89.94667,15.58667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lanqu\u00edn"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3594315,
         "gp:id":83768,
-        "qs:id":1284753,
+        "qs_pg:id":1284753,
         "wd:id":"Q275883",
         "wk:page":"San Agust\u00edn Lanqu\u00edn"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421194063,
-    "wof:lastmodified":1563289599,
+    "wof:lastmodified":1566643388,
     "wof:name":"Lanqu\u00edn",
     "wof:parent_id":421182335,
     "wof:placetype":"locality",

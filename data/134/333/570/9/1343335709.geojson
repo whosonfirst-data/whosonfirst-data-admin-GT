@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.42201,14.9833,-91.38201,15.0233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Xecamposanto"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343335709,
-    "wof:lastmodified":1537625335,
+    "wof:lastmodified":1566642715,
     "wof:name":"Xecamposanto",
     "wof:parent_id":1108695399,
     "wof:placetype":"locality",

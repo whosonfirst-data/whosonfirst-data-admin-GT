@@ -10,6 +10,9 @@
     "geom:latitude":14.27639,
     "geom:longitude":-90.29889,
     "iso:country":"GT",
+    "lbl:bbox":"-90.31889,14.25639,-90.27889,14.29639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -74,7 +77,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e38\u0e22\u0e25\u0e32\u0e1b\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuajiniquilapa"
     ],
     "name:urd_x_preferred":[
@@ -205,7 +208,7 @@
     "wof:concordances":{
         "gn:id":3597804,
         "gp:id":82050,
-        "qs:id":274438,
+        "qs_pg:id":274438,
         "wd:id":"Q1015941",
         "wk:page":"Cuilapa"
     },
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421168525,
-    "wof:lastmodified":1563289591,
+    "wof:lastmodified":1566643384,
     "wof:name":"Cuilapa",
     "wof:parent_id":421191201,
     "wof:placetype":"locality",

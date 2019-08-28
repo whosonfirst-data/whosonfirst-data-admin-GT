@@ -10,8 +10,12 @@
     "geom:latitude":15.00861,
     "geom:longitude":-91.065,
     "iso:country":"GT",
+    "lbl:bbox":"-91.085,14.98861,-91.045,15.02861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chich\u00e9"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3598659,
         "gp:id":81584,
-        "qs:id":53489,
+        "qs_pg:id":53489,
         "wd:id":"Q3177464",
         "wk:page":"Chich\u00e9, Guatemala"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421190407,
-    "wof:lastmodified":1563289681,
+    "wof:lastmodified":1566643420,
     "wof:name":"Chich\u00e9",
     "wof:parent_id":1108695455,
     "wof:placetype":"locality",

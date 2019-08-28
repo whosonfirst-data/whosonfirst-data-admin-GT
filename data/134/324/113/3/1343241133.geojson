@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.16284,15.01384,-91.12284,15.05384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Colonia Los Lirios"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343241133,
-    "wof:lastmodified":1537625360,
+    "wof:lastmodified":1566642683,
     "wof:name":"Colonia Los Lirios",
     "wof:parent_id":421201597,
     "wof:placetype":"locality",

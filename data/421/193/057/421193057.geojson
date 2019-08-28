@@ -10,8 +10,12 @@
     "geom:latitude":14.41667,
     "geom:longitude":-91.18333,
     "iso:country":"GT",
+    "lbl:bbox":"-91.20333,14.39667,-91.16333,14.43667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan Bautista"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "San Juan Bautista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3589923,
         "gp:id":85731,
-        "qs:id":1116107,
+        "qs_pg:id":1116107,
         "wd:id":"Q1748787",
         "wk:page":"San Juan Bautista, Suchitep\u00e9quez"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421193057,
-    "wof:lastmodified":1563289606,
+    "wof:lastmodified":1566643390,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":1108695439,
     "wof:placetype":"locality",

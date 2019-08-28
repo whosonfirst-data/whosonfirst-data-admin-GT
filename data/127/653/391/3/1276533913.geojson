@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.82263,15.63317,-91.78263,15.67317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Haciendita"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276533913,
-    "wof:lastmodified":1537625265,
+    "wof:lastmodified":1566642983,
     "wof:name":"La Haciendita",
     "wof:parent_id":1108695473,
     "wof:placetype":"locality",

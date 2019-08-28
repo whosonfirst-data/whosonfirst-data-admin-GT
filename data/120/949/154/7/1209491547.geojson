@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.75939,15.06108,-91.71939,15.10108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u043d\u0430"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1209491547,
-    "wof:lastmodified":1564227286,
+    "wof:lastmodified":1566643044,
     "wof:name":"Primavera",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

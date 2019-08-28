@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.13306,15.32245,-91.09306,15.36245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Chucanac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259554549,
-    "wof:lastmodified":1537625348,
+    "wof:lastmodified":1566643606,
     "wof:name":"Chucanac",
     "wof:parent_id":421204285,
     "wof:placetype":"locality",

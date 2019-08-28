@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.924833,
     "lbl:longitude":-90.89957,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quiche",
     "meso:diss_me":"PLAYA GRANDE IXCANQUICHE",
     "meso:gadm_admin":"Ixc\u00e1n",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.89957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ixc\u00e1n"
     ],
@@ -55,9 +58,9 @@
         "\u4f0a\u65af\u574e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108695441,
-    "wof:lastmodified":1561844743,
+    "wof:lastmodified":1566643196,
     "wof:name":"Playa Grande Ixcan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

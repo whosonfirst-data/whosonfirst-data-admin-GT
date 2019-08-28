@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.08846,15.01979,-92.04846,15.05979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tojn\u00e1"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276518941,
-    "wof:lastmodified":1537625254,
+    "wof:lastmodified":1566642915,
     "wof:name":"Tojna",
     "wof:parent_id":1108695661,
     "wof:placetype":"locality",

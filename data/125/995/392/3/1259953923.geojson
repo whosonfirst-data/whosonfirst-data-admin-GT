@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.40333,14.91333,-91.36333,14.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juchanep",
         "Juchaneb"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259953923,
-    "wof:lastmodified":1537625188,
+    "wof:lastmodified":1566643638,
     "wof:name":"Juchaneb",
     "wof:parent_id":421204771,
     "wof:placetype":"locality",

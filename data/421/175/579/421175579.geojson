@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.744707,
     "lbl:longitude":-90.901397,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimaltenango",
     "meso:diss_me":"COMALAPACHIMALTENANGO",
     "meso:gadm_admin":"Comalapa",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.901397,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Comalapa"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         "gn:id":3598034,
         "gp:id":26806939,
         "hasc:id":"GT.CM.JC",
-        "qs:id":1001045,
+        "qs_pg:id":1001045,
         "wd:id":"Q1254234",
         "wk:page":"San Juan Comalapa"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421175579,
-    "wof:lastmodified":1563289666,
+    "wof:lastmodified":1566643414,
     "wof:name":"Comalapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.108247,
     "lbl:longitude":-89.8989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jutiapa",
     "meso:diss_me":"COMAPAJUTIAPA",
     "meso:gadm_admin":"Comapa",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.8989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Comapa"
     ],
@@ -67,9 +70,9 @@
         "\u79d1\u99ac\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108695299,
-    "wof:lastmodified":1563289274,
+    "wof:lastmodified":1566643197,
     "wof:name":"Comapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

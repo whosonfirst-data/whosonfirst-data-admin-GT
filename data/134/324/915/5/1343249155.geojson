@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-90.85822,16.89574,-90.81822,16.93574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cooperativa La Lucha"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343249155,
-    "wof:lastmodified":1537625389,
+    "wof:lastmodified":1566642681,
     "wof:name":"Cooperativa La Lucha",
     "wof:parent_id":1108695377,
     "wof:placetype":"locality",

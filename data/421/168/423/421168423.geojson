@@ -10,8 +10,12 @@
     "geom:latitude":14.78667,
     "geom:longitude":-90.45111,
     "iso:country":"GT",
+    "lbl:bbox":"-90.47111,14.76667,-90.43111,14.80667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pedro Ayampuc"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3589646,
         "gp:id":85855,
-        "qs:id":1201103,
+        "qs_pg:id":1201103,
         "wd:id":"Q275983",
         "wk:page":"San Pedro Ayampuc"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421168423,
-    "wof:lastmodified":1563289589,
+    "wof:lastmodified":1566643383,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

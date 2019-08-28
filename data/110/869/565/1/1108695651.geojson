@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.129709,
     "lbl:longitude":-92.053902,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Marcos",
     "meso:diss_me":"SIBINALSAN MARCOS",
     "meso:gadm_admin":"San Sibinal",
@@ -30,6 +32,7 @@
     "mps:longitude":-92.053902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u0431\u0438\u043d\u0430\u043b"
     ],
@@ -68,9 +71,9 @@
         "\u932b\u7dad\u7d0d\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108695651,
-    "wof:lastmodified":1561844746,
+    "wof:lastmodified":1566643207,
     "wof:name":"Sibinal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

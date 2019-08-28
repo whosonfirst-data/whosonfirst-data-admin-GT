@@ -10,8 +10,12 @@
     "geom:latitude":14.65444,
     "geom:longitude":-90.88944,
     "iso:country":"GT",
+    "lbl:bbox":"-90.90944,14.63444,-90.86944,14.67444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Zaragoza"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3587543,
         "gp:id":86909,
-        "qs:id":266451,
+        "qs_pg:id":266451,
         "wd:id":"Q1572856",
         "wk:page":"Zaragoza, Chimaltenango"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421166391,
-    "wof:lastmodified":1563289591,
+    "wof:lastmodified":1566643384,
     "wof:name":"Zaragoza",
     "wof:parent_id":421171915,
     "wof:placetype":"locality",

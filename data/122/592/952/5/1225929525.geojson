@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.59203,15.9102,-91.55203,15.9502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Jajag\u00fcilo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225929525,
-    "wof:lastmodified":1537625189,
+    "wof:lastmodified":1566643678,
     "wof:name":"Jajaguilo",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

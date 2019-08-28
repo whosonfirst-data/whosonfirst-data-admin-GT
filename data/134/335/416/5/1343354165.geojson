@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.30333,13.98,-91.26333,14.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chichimecos",
         "Chichimecas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343354165,
-    "wof:lastmodified":1537625224,
+    "wof:lastmodified":1566642702,
     "wof:name":"Chichimecas",
     "wof:parent_id":421171417,
     "wof:placetype":"locality",

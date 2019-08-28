@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.507123,
     "lbl:longitude":-90.76848,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sacatepequez",
     "meso:diss_me":"CIUDAD VIEJASACATEPEQUEZ",
     "meso:gadm_admin":"Ciudad Vieja",
@@ -30,6 +32,7 @@
     "mps:longitude":-90.76848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ciudad Vieja"
@@ -101,9 +104,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -124,7 +127,7 @@
     "wof:concordances":{
         "gp:id":26807139,
         "hasc:id":"GT.SA.CV",
-        "qs:id":1264014,
+        "qs_pg:id":1264014,
         "wd:id":"Q2445843"
     },
     "wof:country":"GT",
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421171693,
-    "wof:lastmodified":1563289757,
+    "wof:lastmodified":1566643450,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

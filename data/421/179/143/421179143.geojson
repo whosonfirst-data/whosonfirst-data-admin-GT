@@ -10,8 +10,12 @@
     "geom:latitude":14.67778,
     "geom:longitude":-90.69778,
     "iso:country":"GT",
+    "lbl:bbox":"-90.71778,14.65778,-90.67778,14.69778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santo Domingo Xenacoj"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Santo Domingo Xenacoj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Xenaeoj"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3589072,
         "gp:id":86095,
-        "qs:id":149127,
+        "qs_pg:id":149127,
         "wd:id":"Q2401045",
         "wk:page":"Santo Domingo Xenacoj"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179143,
-    "wof:lastmodified":1563289732,
+    "wof:lastmodified":1566643441,
     "wof:name":"Santo Domingo Xenacoj",
     "wof:parent_id":1108695641,
     "wof:placetype":"locality",

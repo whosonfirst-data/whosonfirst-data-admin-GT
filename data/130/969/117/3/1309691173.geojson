@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.24488,15.19016,-91.20488,15.23016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Lucas"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1309691173,
-    "wof:lastmodified":1564227850,
+    "wof:lastmodified":1566643370,
     "wof:name":"San Lucas",
     "wof:parent_id":1108695579,
     "wof:placetype":"locality",

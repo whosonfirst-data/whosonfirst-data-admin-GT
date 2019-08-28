@@ -10,8 +10,12 @@
     "geom:latitude":14.98333,
     "geom:longitude":-89.71667,
     "iso:country":"GT",
+    "lbl:bbox":"-89.73667,14.96333,-89.69667,15.00333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Teculut\u00e1n"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3588469,
         "gp:id":86396,
-        "qs:id":1116138,
+        "qs_pg:id":1116138,
         "wd:id":"Q1020568",
         "wk:page":"Teculut\u00e1n"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421193059,
-    "wof:lastmodified":1563289606,
+    "wof:lastmodified":1566643390,
     "wof:name":"Teculut\u00e1n",
     "wof:parent_id":1108695669,
     "wof:placetype":"locality",

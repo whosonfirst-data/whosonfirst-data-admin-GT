@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.37067,15.18535,-91.33067,15.22535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Xep\u00f3n Grande"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276403833,
-    "wof:lastmodified":1537625333,
+    "wof:lastmodified":1566642951,
     "wof:name":"Xepon Grande",
     "wof:parent_id":1108695399,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-92.04686,14.69833,-92.00686,14.73833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
     ],
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":1209879813,
-    "wof:lastmodified":1564227364,
+    "wof:lastmodified":1566643086,
     "wof:name":"San Juan",
     "wof:parent_id":1108695297,
     "wof:placetype":"locality",

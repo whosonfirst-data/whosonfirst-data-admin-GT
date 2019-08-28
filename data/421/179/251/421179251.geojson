@@ -10,8 +10,12 @@
     "geom:latitude":14.66667,
     "geom:longitude":-92.15,
     "iso:country":"GT",
+    "lbl:bbox":"-92.17,14.64667,-92.13,14.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ayutla"
@@ -52,9 +56,6 @@
     "name:swe_x_preferred":[
         "Ayutla"
     ],
-    "name:unk_x_variant":[
-        "Ayutla"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0648\u062a\u0644\u0627"
     ],
@@ -91,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3598129,
         "gp:id":81905,
-        "qs:id":149220,
+        "qs_pg:id":149220,
         "wd:id":"Q2305570",
         "wk:page":"Ayutla, San Marcos"
     },
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421179251,
-    "wof:lastmodified":1563289730,
+    "wof:lastmodified":1566643440,
     "wof:name":"Ciudad Tec\u00fan Um\u00e1n",
     "wof:parent_id":102075677,
     "wof:placetype":"locality",

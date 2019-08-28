@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Guatemala",
     "iso:country":"GT",
+    "lbl:bbox":"-91.80255,14.97301,-91.76255,15.01301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Andr\u00e9s Chapil"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293268447,
-    "wof:lastmodified":1537625150,
+    "wof:lastmodified":1566642863,
     "wof:name":"San Andres Chapil",
     "wof:parent_id":1108695585,
     "wof:placetype":"locality",

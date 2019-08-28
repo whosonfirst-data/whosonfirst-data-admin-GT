@@ -10,8 +10,12 @@
     "geom:latitude":14.08583,
     "geom:longitude":-90.37667,
     "iso:country":"GT",
+    "lbl:bbox":"-90.39667,14.06583,-90.35667,14.10583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chiquimulilla"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3598462,
         "gp:id":81703,
-        "qs:id":974891,
+        "qs_pg:id":974891,
         "wd:id":"Q202128",
         "wk:page":"Chiquimulilla"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421183389,
-    "wof:lastmodified":1563289723,
+    "wof:lastmodified":1566643437,
     "wof:name":"Chiquimulilla",
     "wof:parent_id":421203587,
     "wof:placetype":"locality",

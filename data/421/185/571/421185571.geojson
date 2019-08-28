@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.581319,
     "lbl:longitude":-91.913206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huehuetenango",
     "meso:diss_me":"LA LIBERTADHUEHUETENANGO",
     "meso:gadm_admin":"Cuilco",
@@ -30,6 +32,7 @@
     "mps:longitude":-91.913206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0644\u064a\u0628\u0631\u062a\u0627\u062f"
@@ -134,9 +137,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-11-24",
     "statoids:capital":"",
@@ -157,7 +160,7 @@
     "wof:concordances":{
         "gp:id":26807015,
         "hasc:id":"GT.HU.LL",
-        "qs:id":1029768,
+        "qs_pg:id":1029768,
         "wd:id":"Q1795844"
     },
     "wof:country":"GT",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421185571,
-    "wof:lastmodified":1563289766,
+    "wof:lastmodified":1566643453,
     "wof:name":"La Libertad",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

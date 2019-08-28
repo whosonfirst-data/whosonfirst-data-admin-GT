@@ -10,8 +10,12 @@
     "geom:latitude":14.81972,
     "geom:longitude":-90.90639,
     "iso:country":"GT",
+    "lbl:bbox":"-90.92639,14.79972,-90.88639,14.83972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jos\u00e9 Poaquil"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3589975,
         "gp:id":85711,
-        "qs:id":149146,
+        "qs_pg:id":149146,
         "wd:id":"Q1254233",
         "wk:page":"San Jos\u00e9 Poaquil"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421179169,
-    "wof:lastmodified":1563289726,
+    "wof:lastmodified":1566643438,
     "wof:name":"San Jos\u00e9 Poaquil",
     "wof:parent_id":1108695531,
     "wof:placetype":"locality",

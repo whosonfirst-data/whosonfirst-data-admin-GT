@@ -130,6 +130,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010036,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7a12d3e788d9c6a9949bafd954228c9",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421200731,
-    "wof:lastmodified":1566643425,
+    "wof:lastmodified":1582360595,
     "wof:name":"San Benito",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

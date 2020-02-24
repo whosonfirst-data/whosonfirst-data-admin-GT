@@ -120,6 +120,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"634c46f7206e430f0eb1f4a2088cada4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421171697,
-    "wof:lastmodified":1566643452,
+    "wof:lastmodified":1582360597,
     "wof:name":"San Juan La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

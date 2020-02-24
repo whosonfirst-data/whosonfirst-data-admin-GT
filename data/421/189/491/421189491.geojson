@@ -200,6 +200,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c324d6471e051e32de994925a290511",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421189491,
-    "wof:lastmodified":1566643406,
+    "wof:lastmodified":1582360593,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

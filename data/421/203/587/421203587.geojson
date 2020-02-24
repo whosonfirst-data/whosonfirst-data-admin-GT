@@ -122,6 +122,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010157,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2abef6e46a1a2c084944b2799edb708",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421203587,
-    "wof:lastmodified":1566643396,
+    "wof:lastmodified":1582360593,
     "wof:name":"Chiquimulilla",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

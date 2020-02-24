@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008893,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e541be879d3e493dbaf6a4b0687e1574",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421171421,
-    "wof:lastmodified":1566643451,
+    "wof:lastmodified":1582360597,
     "wof:name":"Tucuru",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

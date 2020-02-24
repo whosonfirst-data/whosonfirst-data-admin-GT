@@ -120,6 +120,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009881,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"960b613c39f25bcb1530f60d2652a8b8",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421196435,
-    "wof:lastmodified":1566643417,
+    "wof:lastmodified":1582360594,
     "wof:name":"Los Amates",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

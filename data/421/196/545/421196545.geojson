@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009885,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b24d7a55bcdac91f5ca46d459dc344f3",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421196545,
-    "wof:lastmodified":1566643417,
+    "wof:lastmodified":1582360594,
     "wof:name":"Uspantan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

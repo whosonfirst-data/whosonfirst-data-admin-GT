@@ -282,6 +282,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009587,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b0bd636f231228821dab634d6ab3bb9",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421188895,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"Chahal",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

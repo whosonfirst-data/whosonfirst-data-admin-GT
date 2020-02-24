@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2ae1e0f4d544dfa793411d221e9a7e7",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421171683,
-    "wof:lastmodified":1566643452,
+    "wof:lastmodified":1582360597,
     "wof:name":"Dolores",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

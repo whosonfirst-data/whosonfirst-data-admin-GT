@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009461,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"483054b20fabd83c61a8d46002a92da1",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421185999,
-    "wof:lastmodified":1566643452,
+    "wof:lastmodified":1582360597,
     "wof:name":"Fraijanes",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -122,6 +122,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009197,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d4ce17624b041138ac1ca5ace10db98",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421178903,
-    "wof:lastmodified":1566643446,
+    "wof:lastmodified":1582360597,
     "wof:name":"Patzun",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

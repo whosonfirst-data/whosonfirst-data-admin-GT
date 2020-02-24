@@ -279,6 +279,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010111,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3148cf433fb6add5388d286c1d2c9cb",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421202281,
-    "wof:lastmodified":1566643398,
+    "wof:lastmodified":1582360593,
     "wof:name":"San Jose",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

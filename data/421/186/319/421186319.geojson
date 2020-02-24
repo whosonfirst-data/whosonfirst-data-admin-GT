@@ -173,6 +173,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009477,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70bbea72430aaee3e482ff3a7e159080",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421186319,
-    "wof:lastmodified":1566643412,
+    "wof:lastmodified":1582360594,
     "wof:name":"Huehuetenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009528,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4309edb991405d90e9460a14b776fe7",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421187939,
-    "wof:lastmodified":1566643402,
+    "wof:lastmodified":1582360593,
     "wof:name":"Sayaxche",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

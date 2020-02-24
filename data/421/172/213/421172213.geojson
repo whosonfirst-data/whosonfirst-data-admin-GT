@@ -125,6 +125,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008927,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0615f474803d7ab10be75aed804048eb",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421172213,
-    "wof:lastmodified":1566643410,
+    "wof:lastmodified":1582360594,
     "wof:name":"La Democracia",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

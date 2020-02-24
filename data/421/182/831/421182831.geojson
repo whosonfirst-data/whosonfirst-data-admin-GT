@@ -113,6 +113,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009348,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"885b2886dd66c5ed61b70403e092ebab",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421182831,
-    "wof:lastmodified":1566643448,
+    "wof:lastmodified":1582360597,
     "wof:name":"Cahabon",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

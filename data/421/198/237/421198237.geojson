@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009941,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79c6b4f3ca204cae8c4c7748e065ed5a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421198237,
-    "wof:lastmodified":1566643416,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Pedro Pinula",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

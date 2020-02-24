@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47a21eac347967ae7c609e15ebf176f3",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421184389,
-    "wof:lastmodified":1566643431,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Pedro Carcha",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

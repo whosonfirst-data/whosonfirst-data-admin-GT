@@ -108,6 +108,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008829,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"505d667b68d4981e836fc8230e1a4e63",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421169903,
-    "wof:lastmodified":1566643393,
+    "wof:lastmodified":1582360592,
     "wof:name":"Nebaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

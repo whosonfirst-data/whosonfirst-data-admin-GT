@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009178,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aba108b7ced2340b9624074de675a2cb",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421178323,
-    "wof:lastmodified":1566643446,
+    "wof:lastmodified":1582360597,
     "wof:name":"Concepcion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

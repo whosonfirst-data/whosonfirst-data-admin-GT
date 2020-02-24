@@ -168,6 +168,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009659,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a70d699e1e43a04dfadb434c341589e9",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421190499,
-    "wof:lastmodified":1566643420,
+    "wof:lastmodified":1582360595,
     "wof:name":"San Marcos",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

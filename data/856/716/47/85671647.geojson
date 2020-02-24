@@ -306,6 +306,9 @@
         "wk:page":"Pet\u00e9n Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b6d0fd8273dfd3038f640be402efab0",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642755,
+    "wof:lastmodified":1582360583,
     "wof:name":"Pet\u00e9n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22ee9f4b6ae3ad2f0b84d971bd2df218",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191465,
-    "wof:lastmodified":1566643418,
+    "wof:lastmodified":1582360595,
     "wof:name":"Mataquescuintla",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

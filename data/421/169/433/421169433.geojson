@@ -135,6 +135,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008810,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a330af535f66c702b215cf3d0cdc5cc2",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421169433,
-    "wof:lastmodified":1566643393,
+    "wof:lastmodified":1582360593,
     "wof:name":"San Juan Sacatepequez",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

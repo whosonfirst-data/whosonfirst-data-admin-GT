@@ -234,6 +234,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008893,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56ffee7f52d06914f92e2fe195a45a04",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":421171417,
-    "wof:lastmodified":1566643451,
+    "wof:lastmodified":1582360597,
     "wof:name":"La Gomera",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

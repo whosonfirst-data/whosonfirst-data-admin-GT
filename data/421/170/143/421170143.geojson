@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008839,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7643835f7ec8e8c3c90d7b5189da9d97",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421170143,
-    "wof:lastmodified":1566643433,
+    "wof:lastmodified":1582360596,
     "wof:name":"Santa Lucia Utatlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008831,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2f4a043b8fe5fb0e782853b8e36e0f8",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421169963,
-    "wof:lastmodified":1566643391,
+    "wof:lastmodified":1582360592,
     "wof:name":"Zunil",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

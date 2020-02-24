@@ -129,6 +129,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009137,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"574364fbe58444ff1f996e70105fff44",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421177237,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1582360596,
     "wof:name":"Pastores",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009395,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a0135b7c758a2a21f1309cbc626c185",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421183939,
-    "wof:lastmodified":1566643437,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Jose Chacaya",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

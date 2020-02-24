@@ -301,6 +301,9 @@
         "wk:page":"Retalhuleu"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b9d96ab84e3f898929ab419b359ae1c",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642753,
+    "wof:lastmodified":1582360582,
     "wof:name":"Retalhuleu",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -134,6 +134,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009065,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e496a3eeb1969b5a056e7dd7dfb981f",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421175387,
-    "wof:lastmodified":1566643414,
+    "wof:lastmodified":1582360594,
     "wof:name":"Panajachel",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

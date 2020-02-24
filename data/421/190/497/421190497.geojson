@@ -119,6 +119,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009659,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c709a3379c450af0334814337d4e8ace",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421190497,
-    "wof:lastmodified":1566643420,
+    "wof:lastmodified":1582360595,
     "wof:name":"Alotenango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

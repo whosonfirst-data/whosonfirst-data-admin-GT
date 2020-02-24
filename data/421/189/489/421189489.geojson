@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009626,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea21ca4eda35e6763f56492bde37c87f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421189489,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Juan Ixcoy",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

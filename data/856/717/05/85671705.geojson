@@ -309,6 +309,9 @@
         "wk:page":"Santa Rosa Department, Guatemala"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07c73ed1dadd914d9a3bc0ec7b37e58e",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642751,
+    "wof:lastmodified":1582360581,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

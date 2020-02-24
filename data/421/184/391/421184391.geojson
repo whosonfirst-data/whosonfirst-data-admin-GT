@@ -128,6 +128,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f477c3920b940b3f10e8f0a97fc46cc2",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421184391,
-    "wof:lastmodified":1566643430,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Cristobal Verapaz",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

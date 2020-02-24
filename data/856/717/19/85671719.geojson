@@ -293,6 +293,9 @@
         "wk:page":"Jalapa Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b37b51e206ff93e0f4d1137300e6ce4",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642752,
+    "wof:lastmodified":1582360581,
     "wof:name":"Jalapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

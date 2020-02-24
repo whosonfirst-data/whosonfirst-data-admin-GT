@@ -653,6 +653,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0aeb93f4fa40ea3030f55c77a2ea0c14",
     "wof:hierarchy":[
         {
@@ -663,7 +666,7 @@
         }
     ],
     "wof:id":421191461,
-    "wof:lastmodified":1566643419,
+    "wof:lastmodified":1582360595,
     "wof:name":"Guatemala",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

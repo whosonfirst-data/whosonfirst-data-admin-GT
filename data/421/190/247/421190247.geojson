@@ -255,6 +255,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"832a32d69e5621c672382d36cf57c72c",
     "wof:hierarchy":[
         {
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":421190247,
-    "wof:lastmodified":1566643420,
+    "wof:lastmodified":1582360595,
     "wof:name":"Coban",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

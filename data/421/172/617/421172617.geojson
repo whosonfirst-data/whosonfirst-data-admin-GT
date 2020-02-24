@@ -132,6 +132,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008948,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"289c77b9e454e7fbc0ad7e055bed10a0",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421172617,
-    "wof:lastmodified":1566643408,
+    "wof:lastmodified":1582360594,
     "wof:name":"Rabinal",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

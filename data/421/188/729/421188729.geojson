@@ -132,6 +132,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009576,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47d6f85f6a41336453e7f7ed163c5a75",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421188729,
-    "wof:lastmodified":1566643408,
+    "wof:lastmodified":1582360594,
     "wof:name":"Esquipulas",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

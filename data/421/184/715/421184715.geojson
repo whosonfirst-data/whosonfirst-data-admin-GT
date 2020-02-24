@@ -124,6 +124,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65bc2f76fdce0384ecc720bb183c92e7",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421184715,
-    "wof:lastmodified":1566643431,
+    "wof:lastmodified":1582360596,
     "wof:name":"Santa Lucia Cotzumalguapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

@@ -119,6 +119,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eae57d9c12cae79591336245b6bbe5f9",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182885,
-    "wof:lastmodified":1566643448,
+    "wof:lastmodified":1582360597,
     "wof:name":"Santa Cruz Balanya",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

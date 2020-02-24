@@ -295,6 +295,9 @@
         "wk:page":"El Progreso Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d898f2dc4062829b80d96965b9f41c9c",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642752,
+    "wof:lastmodified":1582360581,
     "wof:name":"El Progreso",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

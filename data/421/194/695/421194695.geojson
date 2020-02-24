@@ -120,6 +120,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009816,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a553e920fa5a0c3f8e51d51db59ccd7",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421194695,
-    "wof:lastmodified":1566643388,
+    "wof:lastmodified":1582360592,
     "wof:name":"El Estor",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

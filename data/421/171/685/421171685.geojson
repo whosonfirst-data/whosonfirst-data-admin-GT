@@ -239,6 +239,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae8a947e3df1c922e5549940a3a02393",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421171685,
-    "wof:lastmodified":1566643451,
+    "wof:lastmodified":1582360597,
     "wof:name":"Quetzaltenango",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

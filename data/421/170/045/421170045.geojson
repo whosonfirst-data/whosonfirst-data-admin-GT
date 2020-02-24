@@ -212,6 +212,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008834,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a08410d169a089dd9b0a55188ee3dcd2",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421170045,
-    "wof:lastmodified":1566643434,
+    "wof:lastmodified":1582360596,
     "wof:name":"Zacapa",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

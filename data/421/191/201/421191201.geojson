@@ -150,6 +150,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1522a938e2024cffcbf478da2b8cfd0b",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421191201,
-    "wof:lastmodified":1566643418,
+    "wof:lastmodified":1582360595,
     "wof:name":"Cuilapa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

@@ -119,6 +119,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009207,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02cad1d44ffb196c0bc6c1f1b9ec2dbb",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421179197,
-    "wof:lastmodified":1566643442,
+    "wof:lastmodified":1582360596,
     "wof:name":"Patzicia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010034,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d17933ca7522f8081a373d3e04382a27",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421200683,
-    "wof:lastmodified":1566643425,
+    "wof:lastmodified":1582360595,
     "wof:name":"Salcaja",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -146,6 +146,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010184,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71bd760903105faf58c706e004161ba5",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421204387,
-    "wof:lastmodified":1566643395,
+    "wof:lastmodified":1582360593,
     "wof:name":"Retalhuleu",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

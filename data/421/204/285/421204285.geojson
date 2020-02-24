@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010179,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f06ec5418a1185f9fe59e4d80c3e114",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421204285,
-    "wof:lastmodified":1566643395,
+    "wof:lastmodified":1582360593,
     "wof:name":"Cunen",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

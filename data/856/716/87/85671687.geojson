@@ -307,6 +307,9 @@
         "wk:page":"Sacatep\u00e9quez Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31005278470f7ee62141095b86c794c4",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642753,
+    "wof:lastmodified":1582360582,
     "wof:name":"Sacatepequez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

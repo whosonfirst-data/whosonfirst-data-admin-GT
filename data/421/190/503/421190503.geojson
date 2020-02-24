@@ -144,6 +144,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009659,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45aca3d13587aa9fe0126a98bbfd6e40",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421190503,
-    "wof:lastmodified":1566643419,
+    "wof:lastmodified":1582360595,
     "wof:name":"Solola",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

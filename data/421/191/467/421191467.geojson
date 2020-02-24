@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009693,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2dab0cde66ed876ec80d34e56cdb3bbe",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421191467,
-    "wof:lastmodified":1566643418,
+    "wof:lastmodified":1582360595,
     "wof:name":"Sumpango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

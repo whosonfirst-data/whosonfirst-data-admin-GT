@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c083642ea6d182dcf82e76700b6e9f4",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421190509,
-    "wof:lastmodified":1566643420,
+    "wof:lastmodified":1582360595,
     "wof:name":"San Lucas Toliman",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

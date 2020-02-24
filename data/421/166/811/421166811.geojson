@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008703,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1deabbd64e87f5b96bc2f63fdde1b1bd",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421166811,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1582360592,
     "wof:name":"Santa Cruz Verapaz",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

@@ -108,6 +108,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009446,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e0808b8bbc7bec5b64ac36a60aee8a2",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421185525,
-    "wof:lastmodified":1566643453,
+    "wof:lastmodified":1582360598,
     "wof:name":"Ipala",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

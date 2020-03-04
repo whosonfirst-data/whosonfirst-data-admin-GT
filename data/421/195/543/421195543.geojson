@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009851,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfc78b54a185a86ed5b801b98f377646",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421195543,
-    "wof:lastmodified":1566643387,
+    "wof:lastmodified":1582360592,
     "wof:name":"Nueva Santa Rosa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

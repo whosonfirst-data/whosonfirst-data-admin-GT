@@ -120,6 +120,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009428,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14d37d912f7f4cb0c1f1d21d41e3929b",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421184975,
-    "wof:lastmodified":1566643432,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Cristobal Totonicapan",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

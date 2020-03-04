@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010155,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"807f640f9ac1115f9e0c6b41b9a45c65",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421203515,
-    "wof:lastmodified":1566643397,
+    "wof:lastmodified":1582360593,
     "wof:name":"San Miguel Duenas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

@@ -269,6 +269,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c81e0b55416147442ba0c5a0f761908",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421201599,
-    "wof:lastmodified":1566643427,
+    "wof:lastmodified":1582360595,
     "wof:name":"Antigua Guatemala",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

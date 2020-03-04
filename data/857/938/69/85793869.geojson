@@ -76,6 +76,9 @@
         "qs:id":211073
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d6cc7f1fb4415c90d1a899a9e049f24",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1582360580,
     "wof:name":"Las Victorias",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

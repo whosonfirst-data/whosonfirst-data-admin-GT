@@ -138,6 +138,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010190,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bbe190f7116b8c6e206947e07ea8562",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421204557,
-    "wof:lastmodified":1566643394,
+    "wof:lastmodified":1582360593,
     "wof:name":"Chisec",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

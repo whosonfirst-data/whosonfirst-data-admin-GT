@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60deb423dd3ce3eae996eca5b623543e",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421196995,
-    "wof:lastmodified":1566643417,
+    "wof:lastmodified":1582360594,
     "wof:name":"Patzite",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009447,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67a40fab60c1c895c37970fd770ada9f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421185575,
-    "wof:lastmodified":1566643452,
+    "wof:lastmodified":1582360597,
     "wof:name":"Santiago Chimaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

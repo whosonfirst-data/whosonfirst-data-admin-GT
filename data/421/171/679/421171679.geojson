@@ -216,6 +216,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008902,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"003da8aa7ce1d6bc207af1c0c8eff657",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421171679,
-    "wof:lastmodified":1566643451,
+    "wof:lastmodified":1582360597,
     "wof:name":"Mixco",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -906,8 +906,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -962,6 +962,11 @@
     },
     "wof:country":"GT",
     "wof:country_alpha3":"GTM",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"7cba542d9c31ba2edc7bd5651fcd8804",
     "wof:hierarchy":[
         {
@@ -977,7 +982,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642750,
+    "wof:lastmodified":1583241940,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

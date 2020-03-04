@@ -113,6 +113,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009587,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1335624af99b34941edd6e0657b4a7da",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188897,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Andres Iztapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

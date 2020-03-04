@@ -289,6 +289,9 @@
         "wk:page":"Zacapa Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53f3bb9a9f1f9cceaf38bc2b458ba0a3",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642751,
+    "wof:lastmodified":1582360581,
     "wof:name":"Zacapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

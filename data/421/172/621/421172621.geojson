@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008949,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d13cbf398d729a2207ff8cba1b96de97",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421172621,
-    "wof:lastmodified":1566643409,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Vicente Pacaya",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

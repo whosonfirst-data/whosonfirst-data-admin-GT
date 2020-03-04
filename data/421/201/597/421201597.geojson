@@ -140,6 +140,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da24935fac6411ec19a010d277c4406b",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421201597,
-    "wof:lastmodified":1566643428,
+    "wof:lastmodified":1582360595,
     "wof:name":"Santa Cruz Del Quiche",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

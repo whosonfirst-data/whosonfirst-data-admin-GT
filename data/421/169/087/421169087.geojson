@@ -550,6 +550,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008794,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0aeb93f4fa40ea3030f55c77a2ea0c14",
     "wof:hierarchy":[
         {
@@ -561,7 +564,7 @@
         }
     ],
     "wof:id":421169087,
-    "wof:lastmodified":1566643393,
+    "wof:lastmodified":1582360593,
     "wof:name":"Ciudad de Guatemala",
     "wof:parent_id":421191461,
     "wof:placetype":"locality",

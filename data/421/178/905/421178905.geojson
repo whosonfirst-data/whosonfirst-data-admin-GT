@@ -88,6 +88,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009197,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"693578e44becffabbb1157cbc192d9cc",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421178905,
-    "wof:lastmodified":1566643446,
+    "wof:lastmodified":1582360597,
     "wof:name":"Petapa",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

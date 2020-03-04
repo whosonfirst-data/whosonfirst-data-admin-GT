@@ -128,6 +128,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6f694b6aca41fcc5d6b4793a3d24a19",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421203225,
-    "wof:lastmodified":1566643396,
+    "wof:lastmodified":1582360593,
     "wof:name":"Poptun",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009197,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e5790c9bb847300c5f25962348e66ad",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421178909,
-    "wof:lastmodified":1566643445,
+    "wof:lastmodified":1582360597,
     "wof:name":"Nueva Concepcion",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

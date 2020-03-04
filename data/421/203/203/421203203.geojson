@@ -149,6 +149,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010143,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7d7c6ecf360724abf107ed7016212de",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421203203,
-    "wof:lastmodified":1566643396,
+    "wof:lastmodified":1582360593,
     "wof:name":"Champerico",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

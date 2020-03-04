@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008945,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcc211ea0f60e0f4a6eb1094fd910661",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421172515,
-    "wof:lastmodified":1566643411,
+    "wof:lastmodified":1582360594,
     "wof:name":"Santa Clara La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009659,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82dc637f5bd825e5b13516b48c34b34f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421190493,
-    "wof:lastmodified":1566643421,
+    "wof:lastmodified":1582360595,
     "wof:name":"Todos Santos Cuchumatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

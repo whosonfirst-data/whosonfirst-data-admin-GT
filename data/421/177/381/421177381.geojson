@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009142,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2f88e19852d785a37a3142d98c1b81b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421177381,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1582360596,
     "wof:name":"Jocotan",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

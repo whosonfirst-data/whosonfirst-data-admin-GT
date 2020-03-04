@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010216,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4a31e2d29667266a1ba6cdf4966d6c0",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421205243,
-    "wof:lastmodified":1566643399,
+    "wof:lastmodified":1582360593,
     "wof:name":"San Juan Ermita",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

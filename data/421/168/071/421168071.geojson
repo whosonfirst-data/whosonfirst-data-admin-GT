@@ -224,6 +224,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18780d4421a964c246f58692b540dc75",
     "wof:hierarchy":[
         {
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421168071,
-    "wof:lastmodified":1566643383,
+    "wof:lastmodified":1582360592,
     "wof:name":"Escuintla",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

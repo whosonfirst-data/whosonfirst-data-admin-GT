@@ -146,6 +146,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009197,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f7f2bab4e2cb0572cfa299ddf6f1074",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421178907,
-    "wof:lastmodified":1566643445,
+    "wof:lastmodified":1582360597,
     "wof:name":"Guastatoya",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

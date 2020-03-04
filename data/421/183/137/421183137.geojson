@@ -156,6 +156,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009359,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"531e18f42bf13a80ca2ead6c2d0be3b4",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421183137,
-    "wof:lastmodified":1566643437,
+    "wof:lastmodified":1582360596,
     "wof:name":"Jalapa",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

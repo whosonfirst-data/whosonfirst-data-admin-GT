@@ -169,6 +169,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009447,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59f4beee327f87926b77f23a73956fcc",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421185569,
-    "wof:lastmodified":1566643452,
+    "wof:lastmodified":1582360597,
     "wof:name":"Barillas",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

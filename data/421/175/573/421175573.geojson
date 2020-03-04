@@ -162,6 +162,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009072,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfc5dbb8239e38ccbae8d4719abec4f0",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421175573,
-    "wof:lastmodified":1566643414,
+    "wof:lastmodified":1582360594,
     "wof:name":"Salama",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

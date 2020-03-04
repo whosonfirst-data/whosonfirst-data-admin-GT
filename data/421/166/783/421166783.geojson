@@ -128,6 +128,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008702,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2aaa08e54125fac840e8b88da79a0ed",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421166783,
-    "wof:lastmodified":1566643385,
+    "wof:lastmodified":1582360592,
     "wof:name":"Gualan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

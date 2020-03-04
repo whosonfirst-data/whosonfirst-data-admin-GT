@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c86deccbbd73bb033415115ac9c6c382",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421184397,
-    "wof:lastmodified":1566643430,
+    "wof:lastmodified":1582360596,
     "wof:name":"Nahuala",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009851,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db049c8e5668916863c044f38eaa1b75",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421195547,
-    "wof:lastmodified":1566643387,
+    "wof:lastmodified":1582360592,
     "wof:name":"San Antonio Sacatepequez",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

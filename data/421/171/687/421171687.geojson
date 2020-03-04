@@ -150,6 +150,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e6fbf0672bf91837b7d299c342fc21c",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421171687,
-    "wof:lastmodified":1566643450,
+    "wof:lastmodified":1582360597,
     "wof:name":"Chichicastenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

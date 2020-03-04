@@ -307,6 +307,9 @@
         "wk:page":"Jutiapa Department"
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2b3a4d5c5c7023b21d2092dde6b97c6",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1566642752,
+    "wof:lastmodified":1582360581,
     "wof:name":"Jutiapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

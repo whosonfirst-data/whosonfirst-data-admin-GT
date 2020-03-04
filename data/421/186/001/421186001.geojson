@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009461,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0146b6e2e38773595d522edcb9a9cf27",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421186001,
-    "wof:lastmodified":1566643411,
+    "wof:lastmodified":1582360594,
     "wof:name":"Joyabaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

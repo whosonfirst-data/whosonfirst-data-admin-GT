@@ -120,6 +120,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010035,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17d46b831cb8aa55e9331a70c5e4b842",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421200685,
-    "wof:lastmodified":1566643425,
+    "wof:lastmodified":1582360595,
     "wof:name":"San Juan Cotzal",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

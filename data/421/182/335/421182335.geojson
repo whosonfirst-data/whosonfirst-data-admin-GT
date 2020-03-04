@@ -88,6 +88,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009326,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1c2be2b77cda4f78ca48d47fb26f70c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421182335,
-    "wof:lastmodified":1566643447,
+    "wof:lastmodified":1582360597,
     "wof:name":"Lanquin",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

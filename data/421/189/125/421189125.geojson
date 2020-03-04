@@ -121,6 +121,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37ddabee119ebc0d7160c62f2130c546",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421189125,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Antonio Palopo",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

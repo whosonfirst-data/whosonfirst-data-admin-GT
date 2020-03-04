@@ -125,6 +125,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008704,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ce4f220135990726cd160c0e08a10bf",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421166847,
-    "wof:lastmodified":1566643385,
+    "wof:lastmodified":1582360592,
     "wof:name":"San Pedro La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

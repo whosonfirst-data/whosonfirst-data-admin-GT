@@ -119,6 +119,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008750,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ff0dd0fbd93c369f9d8e08e3a57c7be",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421167973,
-    "wof:lastmodified":1566643391,
+    "wof:lastmodified":1582360592,
     "wof:name":"Jocotenango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

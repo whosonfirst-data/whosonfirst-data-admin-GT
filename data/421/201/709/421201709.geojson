@@ -195,7 +195,8 @@
     "qs:woe_id":82730,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:population":"quattroshapes",
     "wof:belongsto":[
@@ -217,6 +218,10 @@
     },
     "wof:country":"GT",
     "wof:created":1459010081,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"895a5b5243f5f03f9e3b7960ac1d69d2",
     "wof:hierarchy":[
         {
@@ -228,7 +233,7 @@
         }
     ],
     "wof:id":421201709,
-    "wof:lastmodified":1566643426,
+    "wof:lastmodified":1582360595,
     "wof:name":"El Progreso",
     "wof:parent_id":421178907,
     "wof:placetype":"locality",

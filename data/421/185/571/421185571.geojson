@@ -165,6 +165,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009447,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74beec5d2a19909150d8db21f36525e7",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421185571,
-    "wof:lastmodified":1566643453,
+    "wof:lastmodified":1582360598,
     "wof:name":"La Libertad",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

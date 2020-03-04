@@ -135,6 +135,9 @@
         "qs_pg:id":489144
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9fb159db9e906c058defb567391c092d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566642750,
+    "wof:lastmodified":1582360580,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

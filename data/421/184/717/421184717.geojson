@@ -132,6 +132,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cee5c1674fd0f1d868c86d7ea479162d",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421184717,
-    "wof:lastmodified":1566643432,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Raymundo",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

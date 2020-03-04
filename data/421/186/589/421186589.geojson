@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009485,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e34ca3448665974c84f85a1265591f4",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421186589,
-    "wof:lastmodified":1566643411,
+    "wof:lastmodified":1582360594,
     "wof:name":"Santo Tom\u00e1s Chichicastenango",
     "wof:parent_id":421171687,
     "wof:placetype":"locality",

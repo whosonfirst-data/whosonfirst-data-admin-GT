@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bde2e2d113f66078d55fb379b37b6bcf",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421171689,
-    "wof:lastmodified":1566643450,
+    "wof:lastmodified":1582360597,
     "wof:name":"El Asintal",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

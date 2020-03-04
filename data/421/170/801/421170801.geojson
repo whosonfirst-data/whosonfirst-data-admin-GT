@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008869,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3abf25eef11022e341bfaadceef05995",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421170801,
-    "wof:lastmodified":1566643434,
+    "wof:lastmodified":1582360596,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

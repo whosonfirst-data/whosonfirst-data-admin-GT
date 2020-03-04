@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33e0382e71b40608e392fe94f136a3d9",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421189121,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"Santa Maria De Jesus",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

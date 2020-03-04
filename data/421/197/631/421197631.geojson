@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009920,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd4d06a8eca02415e1627de5a3d9a226",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421197631,
-    "wof:lastmodified":1566643423,
+    "wof:lastmodified":1582360595,
     "wof:name":"Colotenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

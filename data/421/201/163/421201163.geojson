@@ -143,6 +143,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010058,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18bec6cbf98a720cbbedb04a42958ea3",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421201163,
-    "wof:lastmodified":1566643428,
+    "wof:lastmodified":1582360595,
     "wof:name":"San Sebastian Huehuetenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

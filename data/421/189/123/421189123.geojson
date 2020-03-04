@@ -124,6 +124,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009605,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b78487205a03b8914d8b576851da979",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421189123,
-    "wof:lastmodified":1566643407,
+    "wof:lastmodified":1582360594,
     "wof:name":"Santa Catarina Palopo",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

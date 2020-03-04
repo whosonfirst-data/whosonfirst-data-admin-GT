@@ -171,6 +171,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008834,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ea65349b191c4fc2bf33a6606851bc4",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":421170043,
-    "wof:lastmodified":1566643434,
+    "wof:lastmodified":1582360596,
     "wof:name":"Tactic",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

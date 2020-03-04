@@ -266,6 +266,7 @@
     "qs:woe_id":83017,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:latitude":14.297778,
@@ -287,6 +288,10 @@
     },
     "wof:country":"GT",
     "wof:created":1459010159,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd3f4ddf610e5def4c14ccccd6bdaae2",
     "wof:hierarchy":[
         {
@@ -298,7 +303,7 @@
         }
     ],
     "wof:id":421203667,
-    "wof:lastmodified":1561844755,
+    "wof:lastmodified":1582360593,
     "wof:name":"Escuintla",
     "wof:parent_id":421168071,
     "wof:placetype":"locality",

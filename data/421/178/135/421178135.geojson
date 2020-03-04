@@ -126,6 +126,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31ebe853deb8c42d77eab5884b4a02c6",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421178135,
-    "wof:lastmodified":1566643445,
+    "wof:lastmodified":1582360597,
     "wof:name":"Jacaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

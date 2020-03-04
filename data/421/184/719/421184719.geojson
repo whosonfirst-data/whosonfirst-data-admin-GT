@@ -138,6 +138,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"777a7738f7658908a60ec586524936ec",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421184719,
-    "wof:lastmodified":1566643431,
+    "wof:lastmodified":1582360596,
     "wof:name":"Morales",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

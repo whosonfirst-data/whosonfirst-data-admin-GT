@@ -75,6 +75,9 @@
         "qs:id":1082609
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45cf94a18ddaab80b2697ebfb2bf1923",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1582360580,
     "wof:name":"Garibaldi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

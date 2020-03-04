@@ -114,6 +114,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"580c15ba3141e536ada92646138881ab",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421190249,
-    "wof:lastmodified":1566643421,
+    "wof:lastmodified":1582360595,
     "wof:name":"Santa Cruz La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -123,6 +123,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b78c6d5cb234b80682996a71cb4ff978",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421181909,
-    "wof:lastmodified":1566643412,
+    "wof:lastmodified":1582360594,
     "wof:name":"San Juan Chamelco",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

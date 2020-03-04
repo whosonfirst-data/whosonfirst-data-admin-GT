@@ -150,6 +150,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf842b7db93e72efc1ad165f61ba35a6",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421201585,
-    "wof:lastmodified":1566643429,
+    "wof:lastmodified":1582360596,
     "wof:name":"Palin",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

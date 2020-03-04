@@ -132,6 +132,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac20826ce565e9ab8ef41e843e16629a",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421171693,
-    "wof:lastmodified":1566643450,
+    "wof:lastmodified":1582360597,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

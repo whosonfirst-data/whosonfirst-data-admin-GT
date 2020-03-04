@@ -117,6 +117,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008831,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d85e9892a93f23611fdbcce4dab996e8",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421169961,
-    "wof:lastmodified":1566643392,
+    "wof:lastmodified":1582360592,
     "wof:name":"Sacapulas",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

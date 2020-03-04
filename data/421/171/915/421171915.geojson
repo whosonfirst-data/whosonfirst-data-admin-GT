@@ -116,6 +116,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459008911,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0c8927ebe4a8a8a2730ffed845c835a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421171915,
-    "wof:lastmodified":1566643451,
+    "wof:lastmodified":1582360597,
     "wof:name":"Zaragoza",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

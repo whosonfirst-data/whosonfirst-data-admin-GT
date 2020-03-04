@@ -130,6 +130,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009409,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9863d16fd9dd5bd64b96a21085d73dc7",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421184395,
-    "wof:lastmodified":1566643431,
+    "wof:lastmodified":1582360596,
     "wof:name":"Canilla",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

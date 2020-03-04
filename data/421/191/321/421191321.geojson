@@ -119,6 +119,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009688,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6affcc63c3f484b0b561ec09ab661b70",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421191321,
-    "wof:lastmodified":1566643419,
+    "wof:lastmodified":1582360595,
     "wof:name":"Santa Maria Chiquimula",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

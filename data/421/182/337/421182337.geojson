@@ -216,6 +216,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459009326,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e93815ddcc82aeedfdce0f539f7f2e4e",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421182337,
-    "wof:lastmodified":1566643446,
+    "wof:lastmodified":1582360597,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

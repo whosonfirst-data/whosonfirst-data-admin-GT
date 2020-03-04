@@ -69,6 +69,9 @@
         "qs_pg:id":1137772
     },
     "wof:country":"GT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5ca844fa11b2064f9dea052f6536e24",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566642755,
+    "wof:lastmodified":1582360583,
     "wof:name":"Salomon Gonzalez Blanco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

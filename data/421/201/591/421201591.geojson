@@ -135,6 +135,9 @@
     },
     "wof:country":"GT",
     "wof:created":1459010077,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49bd9d4ca9aa52b8ad84044d5b1597c9",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421201591,
-    "wof:lastmodified":1566643428,
+    "wof:lastmodified":1582360595,
     "wof:name":"Chinautla",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

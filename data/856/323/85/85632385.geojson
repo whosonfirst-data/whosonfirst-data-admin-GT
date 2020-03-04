@@ -907,7 +907,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "meso",
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -983,7 +982,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1582360580,
+    "wof:lastmodified":1583241940,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -938,9 +938,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Guatemala",
-        "digitalenvoy:country_code":[
-            320
-        ],
+        "digitalenvoy:country_code":320,
         "fb:id":"en.guatemala",
         "fifa:id":"GUA",
         "fips:code":"GT",
@@ -985,7 +983,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1583529141,
+    "wof:lastmodified":1583797346,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

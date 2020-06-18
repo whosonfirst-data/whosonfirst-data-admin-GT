@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.017611,
     "geom:area_square_m":210697508.522871,
-    "geom:bbox":"-90.5797505519,14.537459206,-90.3794126278,14.7163742567",
+    "geom:bbox":"-90.57975055186662,14.53745920597617,-90.37941262781794,14.7163742566972",
     "geom:latitude":14.635034,
     "geom:longitude":-90.480256,
     "iso:country":"GT",
@@ -98,10 +98,10 @@
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u0393\u03bf\u03c5\u03b1\u03c4\u03b5\u03bc\u03ac\u03bb\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "New Guatemala"
+        "Guatemala City"
     ],
     "name:eng_x_variant":[
-        "Guatemala City"
+        "New Guatemala"
     ],
     "name:epo_x_preferred":[
         "Gvatemalurbo"
@@ -324,14 +324,14 @@
         "Guatemala City"
     ],
     "name:spa_x_preferred":[
-        "Santiago de Guatimala"
+        "Ciudad de Guatemala"
     ],
     "name:spa_x_variant":[
         "Nueva Guatemala de la Asunci\u00f3n",
         "Nueva Guatemala",
         "Ciudad Guatemala",
-        "Ciudad de Guatemala",
-        "Guate"
+        "Guate",
+        "Santiago de Guatimala"
     ],
     "name:sqi_x_preferred":[
         "Guatemala"
@@ -535,8 +535,8 @@
     "wof:belongsto":[
         102191575,
         85632385,
-        85671681,
-        421191461
+        421191461,
+        85671681
     ],
     "wof:breaches":[],
     "wof:capital_of":85632385,
@@ -564,8 +564,8 @@
         }
     ],
     "wof:id":421169087,
-    "wof:lastmodified":1582360593,
-    "wof:name":"Ciudad de Guatemala",
+    "wof:lastmodified":1592506017,
+    "wof:name":"Guatemala City",
     "wof:parent_id":421191461,
     "wof:placetype":"locality",
     "wof:population":994938,

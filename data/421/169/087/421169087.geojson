@@ -546,6 +546,7 @@
         "gn:id":3598132,
         "gp:id":83123,
         "loc:id":"n81019995",
+        "ne:id":1159150909,
         "qs_pg:id":274439,
         "wd:id":"Q1555",
         "wk:page":"Guatemala City"
@@ -566,7 +567,8 @@
         }
     ],
     "wof:id":421169087,
-    "wof:lastmodified":1607390880,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Guatemala City",
     "wof:parent_id":421191461,
     "wof:placetype":"locality",

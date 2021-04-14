@@ -1040,7 +1040,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "meso",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1100,7 +1101,8 @@
     "wof:geom_alt":[
         "meso",
         "naturalearth-display-terrestrial-zoom6",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"a3e2bb39817e484fbccb1aa6fdeb7953",
     "wof:hierarchy":[
@@ -1117,7 +1119,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1617827632,
+    "wof:lastmodified":1618362706,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

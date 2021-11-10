@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Dolores"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d5\u05e8\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Dolores"
     ],
@@ -107,7 +110,7 @@
         "gn:id":3597726
     },
     "wof:country":"GT",
-    "wof:geomhash":"8c9b419f542b1aebe0ca52f3215c8749",
+    "wof:geomhash":"bc488a3d9848f3cee4431bc2db3e8b93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1259880369,
-    "wof:lastmodified":1566643666,
+    "wof:lastmodified":1636503217,
     "wof:name":"Dolores",
     "wof:parent_id":1108695513,
     "wof:placetype":"locality",
@@ -128,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.51666999999998,
+    -89.51667,
     14.65,
-    -89.51666999999998,
+    -89.51667,
     14.65
 ],
-  "geometry": {"coordinates":[-89.51666999999998,14.65],"type":"Point"}
+  "geometry": {"coordinates":[-89.51667,14.65],"type":"Point"}
 }

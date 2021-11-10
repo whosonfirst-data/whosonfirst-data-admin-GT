@@ -54,6 +54,9 @@
         "\u30b5\u30f3\u30fb\u30de\u30eb\u30b3\u30b9"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub9c8\ub974\ucf54\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub9c8\ub974\ucf54\uc2a4"
     ],
     "name:lit_x_preferred":[
@@ -92,6 +95,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e42\u0e01\u0e2a"
     ],
+    "name:tur_x_preferred":[
+        "San Marcos"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
     ],
@@ -100,6 +106,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Marcos"
     ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u79d1\u65af"
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":421169079,
-    "wof:lastmodified":1566643391,
+    "wof:lastmodified":1636503197,
     "wof:name":"San Marcos",
     "wof:parent_id":421190499,
     "wof:placetype":"locality",

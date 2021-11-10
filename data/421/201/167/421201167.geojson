@@ -38,6 +38,9 @@
     "name:eus_x_preferred":[
         "Jutiapa"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u062a\u06cc\u067e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Jutiapa"
     ],
@@ -47,8 +50,14 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0ac1\u0aa4\u0abf\u0a86\u0aaa\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d8\u05d9\u05d0\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0941\u0924\u093f\u092f\u093e\u092a\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Jutiapa"
     ],
     "name:ind_x_preferred":[
         "Jutiapa"
@@ -282,7 +291,7 @@
         }
     ],
     "wof:id":421201167,
-    "wof:lastmodified":1566643426,
+    "wof:lastmodified":1636503200,
     "wof:name":"Jutiapa",
     "wof:parent_id":421189491,
     "wof:placetype":"locality",

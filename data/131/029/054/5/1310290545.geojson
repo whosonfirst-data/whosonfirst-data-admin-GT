@@ -29,8 +29,59 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u0628\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c7\u0995\u09aa\u09be\u09a8"
+    ],
+    "name:deu_x_preferred":[
+        "Tecpan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03ba\u03c0\u03ac\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u067e\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e7\u05e4\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u0915\u092a\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Tecpan"
+    ],
+    "name:ind_x_preferred":[
+        "Tecpan"
+    ],
+    "name:ita_x_preferred":[
+        "Tecp\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30af\u30d1\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud14c\ud06c\ud310"
+    ],
+    "name:pol_x_preferred":[
+        "Tecp\u00e1n de Galeana"
+    ],
     "name:spa_x_preferred":[
         "Tecp\u00e1n"
+    ],
+    "name:tur_x_preferred":[
+        "Tecpan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043a\u043f\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u06a9\u067e\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tecpan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +106,7 @@
         }
     ],
     "wof:id":1310290545,
-    "wof:lastmodified":1566643265,
+    "wof:lastmodified":1636503186,
     "wof:name":"Tecpan",
     "wof:parent_id":1108695511,
     "wof:placetype":"locality",

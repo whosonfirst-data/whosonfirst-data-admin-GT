@@ -30,6 +30,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09ad\u09be\u099c\u09cb\u09df\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03b2\u03b1\u03c7\u03cc\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d7\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0935\u093e\u091c\u094b\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "Navajoa"
+    ],
+    "name:ind_x_preferred":[
+        "Navajoa"
+    ],
+    "name:tur_x_preferred":[
+        "Navajoa"
+    ],
     "name:und_x_variant":[
         "Navajo",
         "Navajoa"
@@ -46,7 +67,7 @@
         "gn:id":3592242
     },
     "wof:country":"GT",
-    "wof:geomhash":"40147a58162341f7b5ea6cdfa34a311f",
+    "wof:geomhash":"d3323b08d4632250dec43c4d8c91d805",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343379919,
-    "wof:lastmodified":1566642637,
+    "wof:lastmodified":1636503136,
     "wof:name":"Navajoa",
     "wof:parent_id":421184719,
     "wof:placetype":"locality",
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.73333000000002,
+    -88.73333,
     15.53333,
-    -88.73333000000002,
+    -88.73333,
     15.53333
 ],
-  "geometry": {"coordinates":[-88.73333000000002,15.53333],"type":"Point"}
+  "geometry": {"coordinates":[-88.73333,15.53333],"type":"Point"}
 }

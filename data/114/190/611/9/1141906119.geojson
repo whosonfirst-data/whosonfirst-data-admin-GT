@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.0167035854,14.8499999973,-90.0167035854,14.8499999973",
+    "geom:bbox":"-90.016704,14.85,-90.016704,14.85",
     "geom:latitude":14.85,
     "geom:longitude":-90.016704,
     "iso:country":"GT",
@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644 \u0628\u0631\u0648\u062c\u0631\u064a\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09c7\u09b8\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
@@ -27,7 +33,28 @@
     "name:ceb_x_preferred":[
         "El Progreso"
     ],
+    "name:deu_x_preferred":[
+        "El Progreso"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u067e\u0631\u0648\u06af\u0631\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
+        "El Progreso"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e4\u05e8\u05d5\u05d2\u05e8\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u0947\u0938\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "El Progreso"
+    ],
+    "name:ind_x_preferred":[
         "El Progreso"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30d7\u30ed\u30b0\u30ec\u30bd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \ud504\ub85c\uadf8\ub808\uc18c"
     ],
     "name:lit_x_preferred":[
         "El Progresas"
@@ -57,8 +87,17 @@
     "name:swe_x_preferred":[
         "El Progreso"
     ],
+    "name:tur_x_preferred":[
+        "El Progreso"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u067e\u0631\u0648\u06af\u0631\u06cc\u0633\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Progreso"
     ],
     "name:war_x_preferred":[
         "El Progreso"
@@ -172,7 +211,7 @@
     "wof:concordances":{},
     "wof:country":"GT",
     "wof:created":1499130543,
-    "wof:geomhash":"d1c8e7c9c4060763d68c845fac5c834a",
+    "wof:geomhash":"ce8f74fddc1961d6ba4eee2929c88d0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -183,7 +222,7 @@
         }
     ],
     "wof:id":1141906119,
-    "wof:lastmodified":1566643799,
+    "wof:lastmodified":1636503226,
     "wof:name":"El Progreso",
     "wof:parent_id":421178907,
     "wof:placetype":"locality",
@@ -193,10 +232,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.01670358535551,
-    14.8499999973377,
-    -90.01670358535551,
-    14.8499999973377
+    -90.016704,
+    14.85,
+    -90.016704,
+    14.85
 ],
-  "geometry": {"coordinates":[-90.01670358535551,14.8499999973377],"type":"Point"}
+  "geometry": {"coordinates":[-90.016704,14.85],"type":"Point"}
 }

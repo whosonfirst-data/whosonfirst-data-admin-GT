@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Los Andes"
     ],
+    "name:hun_x_preferred":[
+        "Los Andes"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u057d \u0531\u0576\u0564\u0565\u057d"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1209185737,
-    "wof:lastmodified":1566643085,
+    "wof:lastmodified":1636503172,
     "wof:name":"Los Andes",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",

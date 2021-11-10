@@ -52,6 +52,9 @@
         "La Libertad"
     ],
     "name:kor_x_preferred":[
+        "\ub77c \ub9ac\ubca0\ub974\ud0c0\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc"
     ],
     "name:lit_x_preferred":[
@@ -87,11 +90,20 @@
     "name:swe_x_preferred":[
         "La Libertad"
     ],
+    "name:tur_x_preferred":[
+        "La Libertad"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:und_x_variant":[
         "Shup\u00e1 Segundo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u0628\u0631\u062a\u0627\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "La Libertad"
     ],
     "name:war_x_preferred":[
         "La Libertad"
@@ -108,7 +120,7 @@
         "gn:id":3594427
     },
     "wof:country":"GT",
-    "wof:geomhash":"3e3293de1deb2e0ac02995a9b1e0e515",
+    "wof:geomhash":"e2534a27f125cfaad588e52ccf895b55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1292909393,
-    "wof:lastmodified":1566642835,
+    "wof:lastmodified":1636503155,
     "wof:name":"La Libertad",
     "wof:parent_id":1108695279,
     "wof:placetype":"locality",
@@ -129,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.26666999999998,
+    -89.26667,
     14.86667,
-    -89.26666999999998,
+    -89.26667,
     14.86667
 ],
-  "geometry": {"coordinates":[-89.26666999999998,14.86667],"type":"Point"}
+  "geometry": {"coordinates":[-89.26667,14.86667],"type":"Point"}
 }

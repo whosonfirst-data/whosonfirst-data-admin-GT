@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
     "geom:area_square_m":7529244.647499,
-    "geom:bbox":"-91.5275283327,14.4930141219,-91.5006982911,14.5229801183",
+    "geom:bbox":"-91.527528,14.493014,-91.500698,14.52298",
     "geom:latitude":14.507866,
     "geom:longitude":-91.514324,
     "iso:country":"GT",
@@ -34,6 +34,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u0997\u09cd\u09af\u09be\u09ac\u09cd\u09b0\u09bf\u09df\u09c7\u09b2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u0393\u03b1\u03b2\u03c1\u03b9\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "San Gabriel"
     ],
@@ -41,11 +47,32 @@
         "San Gabriel",
         "San Gabriel Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u06af\u0627\u0628\u0631\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0917\u0948\u092c\u094d\u0930\u093f\u092f\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:ind_x_preferred":[
         "San Gabriel"
     ],
     "name:ita_x_preferred":[
         "San Gabriel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30ac\u30d6\u30ea\u30a8\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \uac00\ube0c\ub9ac\uc5d8"
     ],
     "name:nld_x_preferred":[
         "San Gabriel"
@@ -56,10 +83,25 @@
     "name:por_x_preferred":[
         "San Gabriel"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "San Gabriel"
     ],
     "name:swe_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:tur_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0430\u0431\u0440\u0456\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646 \u06af\u0628\u0631\u0627\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
         "San Gabriel"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +162,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f77aed579ac5a3e6b9dfd6c05cff12dc",
+    "wof:geomhash":"a03fe8b8ede988f67ad0db9bcae64dcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +172,7 @@
         }
     ],
     "wof:id":421191319,
-    "wof:lastmodified":1582360595,
+    "wof:lastmodified":1636503199,
     "wof:name":"San Gabriel",
     "wof:parent_id":85671683,
     "wof:placetype":"county",
@@ -144,10 +186,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.52752833269243,
-    14.49301412191112,
-    -91.50069829109506,
-    14.522980118279
+    -91.527528,
+    14.493014,
+    -91.500698,
+    14.52298
 ],
-  "geometry": {"coordinates":[[[-91.50069829109506,14.50389487024345],[-91.50478903552251,14.49571544617792],[-91.5142809886964,14.49494282903123],[-91.51629793600755,14.49301412191112],[-91.52730759677064,14.49475019063615],[-91.52752833269243,14.49929151905446],[-91.52668407354345,14.50128407718448],[-91.52382523569509,14.50915517160301],[-91.52386656625725,14.50943047397419],[-91.52721618891809,14.51440316836453],[-91.52749538870296,14.51600738124051],[-91.51824799224546,14.52271844599913],[-91.5108879715014,14.52188254419748],[-91.50846167758093,14.522980118279],[-91.50695101580106,14.52256723973388],[-91.50177541252781,14.51621388313767],[-91.50256044616367,14.50634150149432],[-91.50069829109506,14.50389487024345]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-91.500698,14.503895],[-91.504789,14.495715],[-91.514281,14.494943],[-91.51629800000001,14.493014],[-91.527308,14.49475],[-91.527528,14.499292],[-91.526684,14.501284],[-91.523825,14.509155],[-91.523867,14.50943],[-91.527216,14.514403],[-91.527495,14.516007],[-91.518248,14.522718],[-91.51088799999999,14.521883],[-91.50846199999999,14.52298],[-91.506951,14.522567],[-91.50177499999999,14.516214],[-91.50256,14.506342],[-91.500698,14.503895]]],"type":"Polygon"}
 }

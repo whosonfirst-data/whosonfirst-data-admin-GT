@@ -32,6 +32,9 @@
     "name:bos_x_preferred":[
         "Izabal"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d6\u05d1\u05dc"
+    ],
     "name:lit_x_preferred":[
         "Isabalis"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259477839,
-    "wof:lastmodified":1566643622,
+    "wof:lastmodified":1636503214,
     "wof:name":"Izabal",
     "wof:parent_id":421196435,
     "wof:placetype":"locality",

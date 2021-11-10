@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Gracias a Dios"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d0\u05e1\u05d9\u05d0\u05e1 \u05d0 \u05d3\u05d9\u05d5\u05e1"
+    ],
     "name:nld_x_preferred":[
         "Gracias a Dios"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260093875,
-    "wof:lastmodified":1566643150,
+    "wof:lastmodified":1636503177,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":421188895,
     "wof:placetype":"locality",

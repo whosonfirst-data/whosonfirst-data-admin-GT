@@ -73,7 +73,16 @@
         "Ayutla"
     ],
     "name:urd_x_preferred":[
+        "\u0622\u06cc\u0648\u062a\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u06cc\u0648\u062a\u0644\u0627"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u5c24\u7279\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u80b2\u7279\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5c24\u7279\u62c9"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":1108695269,
-    "wof:lastmodified":1627522159,
+    "wof:lastmodified":1636503181,
     "wof:name":"Ayutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

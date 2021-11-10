@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0633\u0645 \u0631\u064a\u062a\u0627\u0644\u0647\u0648\u0644\u064a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c7\u09a4\u09be\u09b2\u09b9\u09c1\u09b2\u09c7\u0989"
+    ],
     "name:deu_x_preferred":[
         "Retalhuleu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b5\u03c4\u03ac\u03bb\u03c7\u03bf\u03c5\u03bb\u03b5\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Retalhuleu"
@@ -33,6 +39,18 @@
         "\u0631\u062a\u0627\u0644\u0648\u0648\u0644\u0648"
     ],
     "name:fra_x_preferred":[
+        "Retalhuleu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d8\u05d0\u05dc\u05d4\u05d5\u05dc\u05d9\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0947\u0924\u0932\u0939\u094d\u092f\u0942\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Retalhuleu"
+    ],
+    "name:ind_x_preferred":[
         "Retalhuleu"
     ],
     "name:ita_x_preferred":[
@@ -74,11 +92,20 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e23\u0e15\u0e32\u0e25\u0e39\u0e40\u0e25\u0e27"
     ],
+    "name:tur_x_preferred":[
+        "Retalhuleu"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0442\u0430\u043b\u0443\u043b\u0435\u0443"
     ],
     "name:und_x_variant":[
         "Retalhuleo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0679\u0627\u0644\u0648\u0644\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Retalhuleu"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u5854\u76e7\u840a\u70cf"
@@ -224,7 +251,7 @@
         }
     ],
     "wof:id":421172751,
-    "wof:lastmodified":1566643409,
+    "wof:lastmodified":1636503198,
     "wof:name":"Retalhuleu",
     "wof:parent_id":421204387,
     "wof:placetype":"locality",

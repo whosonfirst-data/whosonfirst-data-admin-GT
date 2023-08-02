@@ -31,6 +31,12 @@
     "name:ita_x_preferred":[
         "Jalpatagua"
     ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u043b\u043f\u0430\u0442\u0430\u0433\u0432\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Jalpatagua"
+    ],
     "name:nld_x_preferred":[
         "Jalpatagua"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890434975,
-    "wof:lastmodified":1566643455,
+    "wof:lastmodified":1690927840,
     "wof:name":"Jalpatagua",
     "wof:parent_id":1108695369,
     "wof:placetype":"locality",

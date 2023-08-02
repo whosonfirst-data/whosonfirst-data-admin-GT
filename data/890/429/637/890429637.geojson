@@ -37,8 +37,14 @@
     "name:ita_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30eb\u30b7\u30a2\u30fb\u30b3\u30c4\u30de\u30eb\u30b0\u30a2\u30d1"
+    ],
     "name:lit_x_preferred":[
         "Santa Lusija Kocumalguapa"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Luc\u00eda Cotzumalguapa"
     ],
     "name:nld_x_preferred":[
         "Santa Luc\u00eda Cotzumalguapa"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890429637,
-    "wof:lastmodified":1566643455,
+    "wof:lastmodified":1690927837,
     "wof:name":"Santa Luc\u00eda Cotzumalguapa",
     "wof:parent_id":421184715,
     "wof:placetype":"locality",

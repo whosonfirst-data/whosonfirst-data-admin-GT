@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u043e\u0441\u0442\u0435\u043d\u0430\u043d\u0433\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Momostenango"
+    ],
     "name:ceb_x_preferred":[
         "Momostenango"
     ],
@@ -30,6 +33,9 @@
         "Momostenango"
     ],
     "name:ita_x_preferred":[
+        "Momostenango"
+    ],
+    "name:nan_x_preferred":[
         "Momostenango"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421172211,
-    "wof:lastmodified":1566643408,
+    "wof:lastmodified":1690927711,
     "wof:name":"Momostenango",
     "wof:parent_id":1108695399,
     "wof:placetype":"locality",

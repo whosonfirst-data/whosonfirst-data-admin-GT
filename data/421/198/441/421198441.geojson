@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Santa B\u00e1rbara"
     ],
+    "name:nan_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
     "name:nld_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421198441,
-    "wof:lastmodified":1566643415,
+    "wof:lastmodified":1690927726,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":1108695613,
     "wof:placetype":"locality",

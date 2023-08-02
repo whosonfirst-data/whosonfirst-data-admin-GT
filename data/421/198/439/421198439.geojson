@@ -32,6 +32,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30fc\u30ca\u30fb\u30df\u30bf"
     ],
+    "name:nan_x_preferred":[
+        "Santa Catarina Mita"
+    ],
     "name:nld_x_preferred":[
         "Santa Catarina Mita"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421198439,
-    "wof:lastmodified":1566643415,
+    "wof:lastmodified":1690927727,
     "wof:name":"Santa Catarina Mita",
     "wof:parent_id":1108695619,
     "wof:placetype":"locality",

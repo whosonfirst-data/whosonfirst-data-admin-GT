@@ -35,6 +35,9 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30eb\u30b8\u30e3"
     ],
+    "name:nan_x_preferred":[
+        "Purulh\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Purulh\u00e1"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Purulh\u00e1"
+    ],
+    "name:uzb_x_preferred":[
+        "Purulha"
     ],
     "name:zho_x_preferred":[
         "\u666e\u9b6f\u723e\u963f"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421170207,
-    "wof:lastmodified":1566643434,
+    "wof:lastmodified":1690927776,
     "wof:name":"Purulh\u00e1",
     "wof:parent_id":421171421,
     "wof:placetype":"locality",

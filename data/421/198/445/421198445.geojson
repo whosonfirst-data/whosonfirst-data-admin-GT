@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Santa Ana Huista"
     ],
+    "name:nan_x_preferred":[
+        "Santa Ana Huista"
+    ],
     "name:nld_x_preferred":[
         "Santa Ana Huista"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421198445,
-    "wof:lastmodified":1566643416,
+    "wof:lastmodified":1690927729,
     "wof:name":"Santa Ana Huista",
     "wof:parent_id":1108695607,
     "wof:placetype":"locality",

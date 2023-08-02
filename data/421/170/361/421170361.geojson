@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Sanarate"
     ],
+    "name:nan_x_preferred":[
+        "Sanarate"
+    ],
     "name:nld_x_preferred":[
         "Sanarate"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421170361,
-    "wof:lastmodified":1566643433,
+    "wof:lastmodified":1690927774,
     "wof:name":"Sanarate",
     "wof:parent_id":1108695605,
     "wof:placetype":"locality",

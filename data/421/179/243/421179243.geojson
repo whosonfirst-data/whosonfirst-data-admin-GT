@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El J\u00edcaro"
+    ],
     "name:dan_x_preferred":[
         "El J\u00edcaro"
     ],
@@ -30,6 +33,9 @@
         "El J\u00edcaro"
     ],
     "name:ita_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:nan_x_preferred":[
         "El J\u00edcaro"
     ],
     "name:nld_x_preferred":[
@@ -48,6 +54,9 @@
         "El J\u00edcaro"
     ],
     "name:spa_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:swe_x_preferred":[
         "El J\u00edcaro"
     ],
     "name:und_x_variant":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421179243,
-    "wof:lastmodified":1566643439,
+    "wof:lastmodified":1690927791,
     "wof:name":"El J\u00edcaro",
     "wof:parent_id":1108695495,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ben_x_variant":[
         "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a6\u09cd\u09b0\u09cb \u09b8\u09be\u0995\u09be\u09a4\u09c7\u09aa\u09c7\u0995\u09c7\u099c"
     ],
+    "name:ceb_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
     "name:dan_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
@@ -86,6 +89,9 @@
     "name:nah_x_variant":[
         "San Pedro Zacatep\u0113c"
     ],
+    "name:nan_x_preferred":[
+        "San Pedro Sacatep\u00e9quez"
+    ],
     "name:nld_x_preferred":[
         "San Pedro Sacatep\u00e9quez"
     ],
@@ -121,6 +127,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19 \u0e40\u0e1b\u0e42\u0e14\u0e23 \u0e40\u0e14\u0e2d \u0e2d\u0e15\u0e32\u0e21\u0e32\u0e04\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e1b\u0e42\u0e14\u0e23\u0e0b\u0e32\u0e01\u0e32\u0e40\u0e15\u0e40\u0e1b\u0e40\u0e01\u0e0b"
     ],
     "name:tur_x_preferred":[
         "San Pedro Sacatepequez"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":421173601,
-    "wof:lastmodified":1566643406,
+    "wof:lastmodified":1690927704,
     "wof:name":"San Pedro Sacatep\u00e9quez",
     "wof:parent_id":1108695585,
     "wof:placetype":"locality",

@@ -29,11 +29,17 @@
     "name:ita_x_preferred":[
         "Sumpango"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f3\u30d1\u30f3\u30b4"
+    ],
     "name:lit_x_preferred":[
         "Sumpangas"
     ],
     "name:nah_x_preferred":[
         "Tzompanco"
+    ],
+    "name:nan_x_preferred":[
+        "Sumpango"
     ],
     "name:nld_x_preferred":[
         "Sumpango"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421179141,
-    "wof:lastmodified":1566643444,
+    "wof:lastmodified":1690927807,
     "wof:name":"Sumpango",
     "wof:parent_id":421191467,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "San Jos\u00e9 Poaqu\u00edl"
     ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 Poaquil"
+    ],
     "name:nld_x_preferred":[
         "San Jos\u00e9 Poaquil"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421179169,
-    "wof:lastmodified":1566643438,
+    "wof:lastmodified":1690927789,
     "wof:name":"San Jos\u00e9 Poaquil",
     "wof:parent_id":1108695531,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "San Jos\u00e9 la Arada"
     ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 La Arada"
+    ],
     "name:nld_x_preferred":[
         "San Jos\u00e9 La Arada"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421172195,
-    "wof:lastmodified":1566643408,
+    "wof:lastmodified":1690927710,
     "wof:name":"San Jos\u00e9 la Arada",
     "wof:parent_id":1108695525,
     "wof:placetype":"locality",

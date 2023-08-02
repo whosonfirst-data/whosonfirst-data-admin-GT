@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Los Amates"
     ],
+    "name:nan_x_preferred":[
+        "Los Amates"
+    ],
     "name:nld_x_preferred":[
         "Los Amates"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421201171,
-    "wof:lastmodified":1566643429,
+    "wof:lastmodified":1690927765,
     "wof:name":"Los Amates",
     "wof:parent_id":421196435,
     "wof:placetype":"locality",

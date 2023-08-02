@@ -23,10 +23,16 @@
     "name:eng_x_preferred":[
         "Asunci\u00f3n Mita"
     ],
+    "name:eng_x_variant":[
+        "Santa  Catarina Mita"
+    ],
     "name:fra_x_preferred":[
         "Asunci\u00f3n Mita"
     ],
     "name:ita_x_preferred":[
+        "Asunci\u00f3n Mita"
+    ],
+    "name:nan_x_preferred":[
         "Asunci\u00f3n Mita"
     ],
     "name:nld_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421179261,
-    "wof:lastmodified":1566643439,
+    "wof:lastmodified":1690927793,
     "wof:name":"Asunci\u00f3n Mita",
     "wof:parent_id":1108695263,
     "wof:placetype":"locality",

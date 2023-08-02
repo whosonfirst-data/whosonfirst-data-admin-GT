@@ -37,6 +37,9 @@
     "name:bos_x_preferred":[
         "Zacapa"
     ],
+    "name:bre_x_preferred":[
+        "departamant Zacapa"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043a\u0430\u043f\u0430"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:eus_x_preferred":[
         "Zacapa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0632\u0627\u06a9\u0627\u067e\u0627"
     ],
     "name:fin_x_preferred":[
         "Zacapan depatermentti"
@@ -109,6 +115,9 @@
     "name:kor_x_preferred":[
         "\uc0ac\uce74\ud30c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0ac\uce74\ud30c\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Zacapa"
     ],
@@ -126,6 +135,9 @@
     ],
     "name:nah_x_preferred":[
         "Zac\u0101pan"
+    ],
+    "name:nan_x_preferred":[
+        "Zacapa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Zacapa"
@@ -182,6 +194,9 @@
         "\u0633\u0627\u06a9\u0627\u067e\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Zacapa"
+    ],
+    "name:war_x_preferred":[
         "Zacapa"
     ],
     "name:zho_x_preferred":[
@@ -311,7 +326,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1636503145,
+    "wof:lastmodified":1690927557,
     "wof:name":"Zacapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

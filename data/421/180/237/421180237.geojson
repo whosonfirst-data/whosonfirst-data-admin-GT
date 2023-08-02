@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Santa Mar\u00eda Ixhuat\u00e1n"
     ],
+    "name:nan_x_preferred":[
+        "Santa Mar\u00eda Ixhuat\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Santa Mar\u00eda Ixhuat\u00e1n"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421180237,
-    "wof:lastmodified":1566643402,
+    "wof:lastmodified":1690927695,
     "wof:name":"Santa Mar\u00eda Ixhuat\u00e1n",
     "wof:parent_id":1108695633,
     "wof:placetype":"locality",

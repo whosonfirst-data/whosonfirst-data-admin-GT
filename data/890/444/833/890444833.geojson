@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "La Uni\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890444833,
-    "wof:lastmodified":1566643454,
+    "wof:lastmodified":1690927836,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":1108695381,
     "wof:placetype":"locality",

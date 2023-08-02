@@ -20,11 +20,17 @@
     "name:ceb_x_preferred":[
         "Tecp\u00e1n Guatemala"
     ],
+    "name:deu_x_preferred":[
+        "Tecp\u00e1n Guatemala"
+    ],
     "name:eng_x_preferred":[
         "Tecp\u00e1n Guatemala"
     ],
     "name:fra_x_preferred":[
         "Tecp\u00e1n"
+    ],
+    "name:fra_x_variant":[
+        "Tecp\u00e1n Guatemala"
     ],
     "name:ita_x_preferred":[
         "Tecp\u00e1n Guatemala"
@@ -34,6 +40,9 @@
     ],
     "name:nah_x_preferred":[
         "Tecpan Cuauht\u0113mall\u0101n"
+    ],
+    "name:nan_x_preferred":[
+        "Tecp\u00e1n Guatemala"
     ],
     "name:nld_x_preferred":[
         "Tecp\u00e1n Guatemala"
@@ -46,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Tecp\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Tecp\u00e1n Guatemala"
     ],
     "name:swe_x_preferred":[
         "Tecp\u00e1n Guatemala"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":421202137,
-    "wof:lastmodified":1566643398,
+    "wof:lastmodified":1690927686,
     "wof:name":"Tecp\u00e1n Guatemala",
     "wof:parent_id":421172619,
     "wof:placetype":"locality",

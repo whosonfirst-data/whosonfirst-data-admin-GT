@@ -26,6 +26,9 @@
     "name:ita_x_preferred":[
         "R\u00edo Blanco"
     ],
+    "name:nan_x_preferred":[
+        "R\u00edo Blanco"
+    ],
     "name:nld_x_preferred":[
         "R\u00edo Blanco"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421198435,
-    "wof:lastmodified":1566643416,
+    "wof:lastmodified":1690927730,
     "wof:name":"R\u00edo Blanco",
     "wof:parent_id":1108695457,
     "wof:placetype":"locality",

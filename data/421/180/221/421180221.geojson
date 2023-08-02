@@ -41,6 +41,9 @@
     "name:nah_x_preferred":[
         "Chuarrancho"
     ],
+    "name:nan_x_preferred":[
+        "Chuarrancho"
+    ],
     "name:nld_x_preferred":[
         "Chuarrancho"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421180221,
-    "wof:lastmodified":1566643400,
+    "wof:lastmodified":1690927690,
     "wof:name":"Chuarrancho",
     "wof:parent_id":1108695295,
     "wof:placetype":"locality",

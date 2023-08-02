@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u099f\u09bf\u09af\u09bc\u09be\u09aa\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Jutiapa"
+    ],
     "name:dan_x_preferred":[
         "Jutiapa Department"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:nah_x_preferred":[
         "X\u014dchi\u0101pan"
+    ],
+    "name:nan_x_preferred":[
+        "Jutiapa"
     ],
     "name:nld_x_preferred":[
         "Jutiapa"
@@ -291,7 +297,7 @@
         }
     ],
     "wof:id":421201167,
-    "wof:lastmodified":1636503200,
+    "wof:lastmodified":1690927757,
     "wof:name":"Jutiapa",
     "wof:parent_id":421189491,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Bartolom\u00e9 Milpas Altas"
     ],
+    "name:nan_x_preferred":[
+        "San Bartolom\u00e9 Milpas Altas"
+    ],
     "name:nld_x_preferred":[
         "San Bartolom\u00e9 Milpas Altas"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421179181,
-    "wof:lastmodified":1566643441,
+    "wof:lastmodified":1690927798,
     "wof:name":"San Bartolom\u00e9 Milpas Altas",
     "wof:parent_id":1108695485,
     "wof:placetype":"locality",

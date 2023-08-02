@@ -35,6 +35,9 @@
     "name:nah_x_preferred":[
         "\u0100yotl\u0101n Tecun Uman"
     ],
+    "name:nan_x_preferred":[
+        "Ayutla"
+    ],
     "name:nld_x_preferred":[
         "Ayutla"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Ayutla Tec\u00fan Um\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Ayutla"
     ],
     "name:swe_x_preferred":[
         "Ayutla"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421179251,
-    "wof:lastmodified":1566643440,
+    "wof:lastmodified":1690927795,
     "wof:name":"Ciudad Tec\u00fan Um\u00e1n",
     "wof:parent_id":102075677,
     "wof:placetype":"locality",

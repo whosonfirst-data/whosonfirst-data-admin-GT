@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "El Quetzal"
     ],
+    "name:nan_x_preferred":[
+        "El Quetzal"
+    ],
     "name:nld_x_preferred":[
         "El Quetzal"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421201707,
-    "wof:lastmodified":1566643426,
+    "wof:lastmodified":1690927757,
     "wof:name":"El Quetzal",
     "wof:parent_id":1108695331,
     "wof:placetype":"locality",

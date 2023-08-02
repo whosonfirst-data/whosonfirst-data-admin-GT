@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000284,
     "geom:area_square_m":3401541.235221,
-    "geom:bbox":"-91.1400670199,14.71084491,-91.1200002283,14.7321000534",
+    "geom:bbox":"-91.140067,14.710845,-91.12,14.7321",
     "geom:latitude":14.722679,
     "geom:longitude":-91.129233,
     "iso:country":"GT",
@@ -34,12 +34,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Santa Catarina Palop\u00f3"
     ],
     "name:eng_x_variant":[
-        "Santa Catarina Palap\u00f3",
-        "Santa Catarina Palop\u00f3"
+        "Santa Catarina Palap\u00f3"
     ],
     "name:fra_x_preferred":[
         "Santa Catarina Palop\u00f3"
@@ -54,6 +56,9 @@
         "Santa Katarina Palopo"
     ],
     "name:nah_x_preferred":[
+        "Santa Catarina Palop\u00f3"
+    ],
+    "name:nan_x_preferred":[
         "Santa Catarina Palop\u00f3"
     ],
     "name:nld_x_preferred":[
@@ -127,7 +132,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b78487205a03b8914d8b576851da979",
+    "wof:geomhash":"0bec229413790f03b2d144227d92dcf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +142,7 @@
         }
     ],
     "wof:id":421189123,
-    "wof:lastmodified":1582360594,
+    "wof:lastmodified":1690927707,
     "wof:name":"Santa Catarina Palopo",
     "wof:parent_id":85671695,
     "wof:placetype":"county",
@@ -151,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -91.1400670199136,
-    14.71084491000855,
-    -91.12000022827952,
-    14.73210005343431
+    -91.140067,
+    14.710845,
+    -91.12,
+    14.7321
 ],
-  "geometry": {"coordinates":[[[-91.13842600274441,14.73067346395015],[-91.1374398587818,14.73156938588584],[-91.13100891865996,14.73210005343431],[-91.12617309230953,14.73076212646973],[-91.12193960081109,14.72823070373611],[-91.12165163295477,14.72779780369162],[-91.12000022827952,14.71684781155884],[-91.12397045942888,14.71084491000855],[-91.13192255627932,14.71463308953663],[-91.1400670199136,14.72524569326555],[-91.13842600274441,14.73067346395015]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-91.138426,14.730673],[-91.13744,14.731569],[-91.13100900000001,14.7321],[-91.12617299999999,14.730762],[-91.12194,14.728231],[-91.121652,14.727798],[-91.12,14.716848],[-91.12397,14.710845],[-91.131923,14.714633],[-91.140067,14.725246],[-91.138426,14.730673]]],"type":"Polygon"}
 }

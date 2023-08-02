@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "El Asintal"
     ],
+    "name:nan_x_preferred":[
+        "El Asintal"
+    ],
     "name:nld_x_preferred":[
         "El Asintal"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421202721,
-    "wof:lastmodified":1566643399,
+    "wof:lastmodified":1690927688,
     "wof:name":"El Asintal",
     "wof:parent_id":421171689,
     "wof:placetype":"locality",

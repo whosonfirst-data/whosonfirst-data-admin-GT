@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Tucur\u00fa"
     ],
+    "name:nan_x_preferred":[
+        "Tucur\u00fa"
+    ],
     "name:nld_x_preferred":[
         "Tucur\u00fa"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421170069,
-    "wof:lastmodified":1566643434,
+    "wof:lastmodified":1690927777,
     "wof:name":"Tucur\u00fa",
     "wof:parent_id":421171421,
     "wof:placetype":"locality",

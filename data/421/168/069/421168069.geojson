@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Cun\u00e9n"
     ],
+    "name:nan_x_preferred":[
+        "Cun\u00e9n"
+    ],
     "name:nld_x_preferred":[
         "Cun\u00e9n"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421168069,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1690927646,
     "wof:name":"Cun\u00e9n",
     "wof:parent_id":421204285,
     "wof:placetype":"locality",

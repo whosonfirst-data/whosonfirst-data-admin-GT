@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Zaragoza"
     ],
+    "name:nan_x_preferred":[
+        "Zaragoza"
+    ],
     "name:nld_x_preferred":[
         "Zaragoza"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421166391,
-    "wof:lastmodified":1566643384,
+    "wof:lastmodified":1690927648,
     "wof:name":"Zaragoza",
     "wof:parent_id":421171915,
     "wof:placetype":"locality",

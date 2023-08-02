@@ -134,6 +134,9 @@
     "name:msa_x_preferred":[
         "Monjas"
     ],
+    "name:nan_x_preferred":[
+        "Monjas"
+    ],
     "name:nap_x_preferred":[
         "Monjas"
     ],
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":421172209,
-    "wof:lastmodified":1566643410,
+    "wof:lastmodified":1690927715,
     "wof:name":"Monjas",
     "wof:parent_id":1108695401,
     "wof:placetype":"locality",

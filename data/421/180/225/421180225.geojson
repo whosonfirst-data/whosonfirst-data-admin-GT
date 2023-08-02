@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "El Tumbador"
     ],
+    "name:nan_x_preferred":[
+        "El Tumbador"
+    ],
     "name:nld_x_preferred":[
         "El Tumbador"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421180225,
-    "wof:lastmodified":1566643401,
+    "wof:lastmodified":1690927694,
     "wof:name":"El Tumbador",
     "wof:parent_id":1108695337,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Tejutla"
     ],
+    "name:nan_x_preferred":[
+        "Tejutla"
+    ],
     "name:nld_x_preferred":[
         "Tejutla"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421177179,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1690927783,
     "wof:name":"Tejutla",
     "wof:parent_id":1108695671,
     "wof:placetype":"locality",

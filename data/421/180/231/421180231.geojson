@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
     "name:deu_x_preferred":[
         "San Jos\u00e9 Ojetenam"
     ],
@@ -29,6 +32,9 @@
     "name:ita_x_preferred":[
         "San Jos\u00e9 Ojetenam"
     ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
     "name:nld_x_preferred":[
         "San Jos\u00e9 Ojetenam"
     ],
@@ -39,6 +45,9 @@
         "San Jos\u00e9 Ojetenam"
     ],
     "name:spa_x_preferred":[
+        "San Jos\u00e9 Ojetenam"
+    ],
+    "name:swe_x_preferred":[
         "San Jos\u00e9 Ojetenam"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421180231,
-    "wof:lastmodified":1566643401,
+    "wof:lastmodified":1690927694,
     "wof:name":"San Jos\u00e9 Ojeten\u00e1n",
     "wof:parent_id":1108695527,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Comitancillo"
     ],
+    "name:nan_x_preferred":[
+        "Comitancillo"
+    ],
     "name:nld_x_preferred":[
         "Comitancillo"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421196351,
-    "wof:lastmodified":1566643417,
+    "wof:lastmodified":1690927734,
     "wof:name":"Comitancillo",
     "wof:parent_id":1108695301,
     "wof:placetype":"locality",

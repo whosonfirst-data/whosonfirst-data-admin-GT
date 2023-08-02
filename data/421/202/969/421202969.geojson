@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "San Antonio la Paz"
     ],
+    "name:nan_x_preferred":[
+        "San Antonio La Paz"
+    ],
     "name:nld_x_preferred":[
         "San Antonio La Paz"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421202969,
-    "wof:lastmodified":1566643398,
+    "wof:lastmodified":1690927685,
     "wof:name":"San Antonio la Paz",
     "wof:parent_id":1108695477,
     "wof:placetype":"locality",

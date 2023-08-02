@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Jerez"
     ],
+    "name:nan_x_preferred":[
+        "Jerez"
+    ],
     "name:nld_x_preferred":[
         "Jerez"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421179223,
-    "wof:lastmodified":1566643443,
+    "wof:lastmodified":1690927802,
     "wof:name":"Jerez",
     "wof:parent_id":1108695371,
     "wof:placetype":"locality",

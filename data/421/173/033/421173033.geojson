@@ -56,6 +56,9 @@
     "name:lit_x_preferred":[
         "Amatitlanas"
     ],
+    "name:nan_x_preferred":[
+        "Amatitl\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Amatitl\u00e1n"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421173033,
-    "wof:lastmodified":1566643406,
+    "wof:lastmodified":1690927705,
     "wof:name":"Amatitl\u00e1n",
     "wof:parent_id":1108695261,
     "wof:placetype":"locality",

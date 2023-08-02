@@ -41,6 +41,9 @@
     "name:lit_x_preferred":[
         "Sunilis"
     ],
+    "name:nan_x_preferred":[
+        "Zunil"
+    ],
     "name:nld_x_preferred":[
         "Zunil"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421181349,
-    "wof:lastmodified":1566643413,
+    "wof:lastmodified":1690927722,
     "wof:name":"Zunil",
     "wof:parent_id":421169963,
     "wof:placetype":"locality",

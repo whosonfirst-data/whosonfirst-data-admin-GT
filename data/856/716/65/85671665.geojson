@@ -38,6 +38,9 @@
     "name:bos_x_preferred":[
         "Alta Verapaz"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Alta Verapaz"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d \u0412\u0435\u0440\u0430\u043f\u0430\u0441"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bb\u03c4\u03b1 \u0392\u03b5\u03c1\u03b1\u03c0\u03ac\u03b6"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03bb\u03c4\u03b1 \u0392\u03b5\u03c1\u03b1\u03c0\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Alta Verapaz"
@@ -89,6 +95,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d8\u05d4 \u05d5\u05e8\u05d0\u05e4\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05dc\u05d8\u05d4 \u05d5\u05e8\u05d0\u05e4\u05d0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0911\u0932\u094d\u091f\u093e \u0935\u0947\u0930\u093e\u092a\u093e\u091c\u093c \u0935\u093f\u092d\u093e\u0917"
     ],
@@ -115,6 +124,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ud0c0\ubca0\ub77c\ud30c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ud0c0\ubca0\ub77c\ud30c\uc2a4\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Alta Verapaz"
@@ -191,6 +203,9 @@
     "name:tur_x_preferred":[
         "Alta Verapaz Departman\u0131"
     ],
+    "name:tur_x_variant":[
+        "Alta Verapaz \u0130li"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c\u0442\u0430-\u0412\u0435\u0440\u0430\u043f\u0430\u0441"
     ],
@@ -198,6 +213,9 @@
         "\u0622\u0644\u062a\u0627 \u0648\u06cc\u0631\u0627\u067e\u0627\u0633 \u0645\u062d\u06a9\u0645\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Alta Verapaz"
+    ],
+    "name:war_x_preferred":[
         "Alta Verapaz"
     ],
     "name:zho_x_preferred":[
@@ -327,7 +345,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1636503147,
+    "wof:lastmodified":1690927563,
     "wof:name":"Alta Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

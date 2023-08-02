@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Santa Apolonia"
     ],
+    "name:nan_x_preferred":[
+        "Santa Apolonia"
+    ],
     "name:nld_x_preferred":[
         "Santa Apolonia"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421175311,
-    "wof:lastmodified":1566643414,
+    "wof:lastmodified":1690927724,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":1108695611,
     "wof:placetype":"locality",

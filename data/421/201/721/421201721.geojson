@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Zacapa"
     ],
+    "name:glg_x_preferred":[
+        "Zacapa"
+    ],
     "name:guj_x_preferred":[
         "\u0a9d\u0a95\u0abe\u0aaa\u0abe"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:nah_x_preferred":[
         "Zac\u0101pan"
+    ],
+    "name:nan_x_preferred":[
+        "Zacapa"
     ],
     "name:nld_x_preferred":[
         "Zacapa"
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":421201721,
-    "wof:lastmodified":1636503201,
+    "wof:lastmodified":1690927763,
     "wof:name":"Zacapa",
     "wof:parent_id":421170045,
     "wof:placetype":"locality",

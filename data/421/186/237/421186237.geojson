@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Jos\u00e9 el Idolo"
     ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 El Idolo"
+    ],
     "name:nld_x_preferred":[
         "San Jos\u00e9 El Idolo"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421186237,
-    "wof:lastmodified":1566643412,
+    "wof:lastmodified":1690927720,
     "wof:name":"San Jos\u00e9 El \u00cddolo",
     "wof:parent_id":1108695479,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Sipacate"
     ],
+    "name:pol_x_preferred":[
+        "Sipacate"
+    ],
     "name:spa_x_preferred":[
         "Sipacate"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421166395,
-    "wof:lastmodified":1566643385,
+    "wof:lastmodified":1690927649,
     "wof:name":"Sipacate",
     "wof:parent_id":421171417,
     "wof:placetype":"locality",

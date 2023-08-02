@@ -51,6 +51,9 @@
     "name:nah_x_preferred":[
         "\u0100yotl\u0101n Tecun Uman"
     ],
+    "name:nan_x_preferred":[
+        "Ayutla"
+    ],
     "name:nld_x_preferred":[
         "Ayutla"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:spa_x_preferred":[
         "Ayutla Tec\u00fan Um\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Ayutla"
     ],
     "name:swe_x_preferred":[
         "Ayutla"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1108695269,
-    "wof:lastmodified":1636503181,
+    "wof:lastmodified":1690927595,
     "wof:name":"Ayutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

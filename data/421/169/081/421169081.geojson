@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Puerto San Jos\u00e9"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0633\u0627\u0646 \u062e\u0648\u0632\u0647"
+    ],
     "name:fra_x_preferred":[
         "Puerto San Jos\u00e9"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421169081,
-    "wof:lastmodified":1566643393,
+    "wof:lastmodified":1690927672,
     "wof:name":"Puerto San Jos\u00e9",
     "wof:parent_id":421202281,
     "wof:placetype":"locality",

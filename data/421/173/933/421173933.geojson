@@ -38,6 +38,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30fb\u30c7\u30e2\u30af\u30e9\u30b7\u30a2"
     ],
+    "name:nan_x_preferred":[
+        "La Democracia"
+    ],
     "name:nld_x_preferred":[
         "La Democracia"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421173933,
-    "wof:lastmodified":1566643405,
+    "wof:lastmodified":1690927703,
     "wof:name":"La Democracia",
     "wof:parent_id":421172213,
     "wof:placetype":"locality",

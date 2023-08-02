@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Yancu\u012bc Santa Rosa"
     ],
+    "name:nan_x_preferred":[
+        "Nueva Santa Rosa"
+    ],
     "name:nld_x_preferred":[
         "Nueva Santa Rosa"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421197621,
-    "wof:lastmodified":1566643421,
+    "wof:lastmodified":1690927743,
     "wof:name":"Nueva Santa Rosa",
     "wof:parent_id":421195543,
     "wof:placetype":"locality",

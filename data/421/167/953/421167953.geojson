@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Chinique"
     ],
+    "name:nan_x_preferred":[
+        "Chinique"
+    ],
     "name:nld_x_preferred":[
         "Chinique"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421167953,
-    "wof:lastmodified":1566643390,
+    "wof:lastmodified":1690927665,
     "wof:name":"Chinique",
     "wof:parent_id":1108695293,
     "wof:placetype":"locality",

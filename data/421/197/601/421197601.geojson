@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Yepocapa"
     ],
+    "name:nan_x_preferred":[
+        "Yepocapa"
+    ],
     "name:nld_x_preferred":[
         "Yepocapa"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421197601,
-    "wof:lastmodified":1566643423,
+    "wof:lastmodified":1690927748,
     "wof:name":"Yepocapa",
     "wof:parent_id":1108695683,
     "wof:placetype":"locality",

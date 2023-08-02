@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Samayac"
     ],
+    "name:nan_x_preferred":[
+        "Samayac"
+    ],
     "name:nld_x_preferred":[
         "Samayac"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421167759,
-    "wof:lastmodified":1566643390,
+    "wof:lastmodified":1690927665,
     "wof:name":"Samayac",
     "wof:parent_id":1108695461,
     "wof:placetype":"locality",

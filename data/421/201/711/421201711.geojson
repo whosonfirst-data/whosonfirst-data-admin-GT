@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Caba\u00f1as"
     ],
+    "name:nan_x_preferred":[
+        "Caba\u00f1as"
+    ],
     "name:nld_x_preferred":[
         "Caba\u00f1as"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421201711,
-    "wof:lastmodified":1566643429,
+    "wof:lastmodified":1690927764,
     "wof:name":"Caba\u00f1as",
     "wof:parent_id":1108695273,
     "wof:placetype":"locality",

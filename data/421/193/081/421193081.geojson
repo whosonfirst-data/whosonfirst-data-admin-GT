@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Cajol\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "Cajol\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Cajol\u00e1"
     ],
@@ -30,6 +33,9 @@
         "Cajol\u00e1"
     ],
     "name:nah_x_preferred":[
+        "Cajol\u00e1"
+    ],
+    "name:nan_x_preferred":[
         "Cajol\u00e1"
     ],
     "name:nld_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421193081,
-    "wof:lastmodified":1566643390,
+    "wof:lastmodified":1690927662,
     "wof:name":"Cajol\u00e1",
     "wof:parent_id":1108695569,
     "wof:placetype":"locality",

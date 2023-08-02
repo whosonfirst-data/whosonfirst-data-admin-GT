@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Esquipulas Palo Gordo"
     ],
+    "name:nan_x_preferred":[
+        "Esquipulas Palo Gordo"
+    ],
     "name:nld_x_preferred":[
         "Esquipulas Palo Gordo"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421177549,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1690927782,
     "wof:name":"Esquipulas Palo Gordo",
     "wof:parent_id":1108695341,
     "wof:placetype":"locality",

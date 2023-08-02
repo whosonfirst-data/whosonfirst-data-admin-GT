@@ -35,6 +35,9 @@
     "name:nah_x_preferred":[
         "Cantel"
     ],
+    "name:nan_x_preferred":[
+        "Cantel"
+    ],
     "name:nld_x_preferred":[
         "Cantel"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421182497,
-    "wof:lastmodified":1566643447,
+    "wof:lastmodified":1690927813,
     "wof:name":"Cantel",
     "wof:parent_id":421195013,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0643\u064a\u0632\u0627\u062a\u064a"
+    ],
     "name:ceb_x_preferred":[
         "Tiquisate"
     ],
@@ -30,6 +33,9 @@
         "Tiquisate"
     ],
     "name:ita_x_preferred":[
+        "Tiquisate"
+    ],
+    "name:nan_x_preferred":[
         "Tiquisate"
     ],
     "name:nld_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421201713,
-    "wof:lastmodified":1566643427,
+    "wof:lastmodified":1690927758,
     "wof:name":"Pueblo Nuevo Tiquisate",
     "wof:parent_id":1108695673,
     "wof:placetype":"locality",

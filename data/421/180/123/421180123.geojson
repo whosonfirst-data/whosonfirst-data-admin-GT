@@ -35,6 +35,12 @@
     "name:ita_x_preferred":[
         "Taxisco"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30b7\u30b9\u30b3"
+    ],
+    "name:nan_x_preferred":[
+        "Taxisco"
+    ],
     "name:nld_x_preferred":[
         "Taxisco"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421180123,
-    "wof:lastmodified":1566643402,
+    "wof:lastmodified":1690927696,
     "wof:name":"Taxisco",
     "wof:parent_id":421190501,
     "wof:placetype":"locality",

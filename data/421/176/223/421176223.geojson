@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u043a\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Mixco"
+    ],
     "name:ceb_x_preferred":[
         "Mixco"
     ],
@@ -68,6 +71,9 @@
     "name:hin_x_preferred":[
         "\u092e\u093f\u0915\u094d\u0938\u0915\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Mixco"
+    ],
     "name:ind_x_preferred":[
         "Mixco"
     ],
@@ -96,6 +102,9 @@
         "Mixco"
     ],
     "name:nah_x_preferred":[
+        "Mixco"
+    ],
+    "name:nan_x_preferred":[
         "Mixco"
     ],
     "name:nld_x_preferred":[
@@ -130,6 +139,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0bb8\u0bcd\u0b95\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0441\u043a\u043e"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c15\u0c4d\u0c38\u0c4d\u0c15\u0c4b"
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":421176223,
-    "wof:lastmodified":1566643449,
+    "wof:lastmodified":1690927822,
     "wof:name":"Mixco",
     "wof:parent_id":421171679,
     "wof:placetype":"locality",

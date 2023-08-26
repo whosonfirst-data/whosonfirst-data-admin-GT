@@ -34,8 +34,14 @@
     "name:arz_x_preferred":[
         "\u062c\u0627\u0646 \u062f\u0627\u0631\u0643"
     ],
+    "name:asm_x_preferred":[
+        "\u099c\u09cb\u09a8 \u0985\u09ab \u0986\u09f0\u09cd\u0995"
+    ],
     "name:ast_x_preferred":[
         "Xuana d'Arcu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0698\u0627\u0646 \u062f\u0627\u0631\u06a9"
     ],
     "name:aze_x_preferred":[
         "Janna d'Ark"
@@ -54,6 +60,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09a8 \u0985\u09ab \u0986\u09b0\u09cd\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u099c\u09cb\u09a8 \u0985\u09ac \u0986\u09b0\u09cd\u0995"
     ],
     "name:bos_x_preferred":[
         "Ivana Orleanska"
@@ -82,6 +91,12 @@
     "name:ckb_x_preferred":[
         "\u0698\u0627\u0646 \u062f\u0627\u0631\u06a9"
     ],
+    "name:cor_x_preferred":[
+        "Jowanet Ark"
+    ],
+    "name:crh_x_preferred":[
+        "Janna d'Ark"
+    ],
     "name:cym_x_preferred":[
         "Jeanne d\u2019Arc"
     ],
@@ -93,6 +108,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0399\u03c9\u03ac\u03bd\u03bd\u03b1 \u03c4\u03b7\u03c2 \u039b\u03c9\u03c1\u03b1\u03af\u03bd\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0399\u03c9\u03ac\u03bd\u03bd\u03b1 \u03c4\u03b7\u03c2 \u039b\u03c9\u03c1\u03c1\u03b1\u03af\u03bd\u03b7\u03c2"
     ],
     "name:eml_x_preferred":[
         "\u015av\u00e0na 'd Arc"
@@ -127,11 +145,26 @@
     "name:gan_x_preferred":[
         "\u8056\u5973\u8c9e\u5fb7"
     ],
+    "name:gcr_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:gla_x_preferred":[
+        "Jeanne d'Arc"
+    ],
     "name:gle_x_preferred":[
+        "Jeanne d'Arc"
+    ],
+    "name:grn_x_preferred":[
         "Jeanne d'Arc"
     ],
     "name:gsw_x_preferred":[
         "Jeanne d'Arc"
+    ],
+    "name:gsw_x_variant":[
+        "Jeanne d\u2019Arc"
+    ],
+    "name:hau_x_preferred":[
+        "Joan of Arc"
     ],
     "name:heb_x_preferred":[
         "\u05d6'\u05d0\u05df \u05d3'\u05d0\u05e8\u05e7"
@@ -153,6 +186,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u053a\u0561\u0576\u0576 \u057f'\u0531\u0580\u0584"
+    ],
+    "name:ibo_x_preferred":[
+        "Joan of Arc"
     ],
     "name:ido_x_preferred":[
         "Jeanne d'Arc"
@@ -217,6 +253,9 @@
     "name:lit_x_preferred":[
         "\u017dana d'Ark"
     ],
+    "name:lld_x_preferred":[
+        "Jeanne d'Arc"
+    ],
     "name:lmo_x_preferred":[
         "Gioanna d'Arch"
     ],
@@ -256,6 +295,9 @@
     "name:mya_x_preferred":[
         "\u1002\u103b\u102f\u1014\u103a\u1038\u1021\u1031\u102c\u1037\u1021\u1010\u103a"
     ],
+    "name:mzn_x_preferred":[
+        "\u0698\u0627\u0646 \u062f\u0627\u0631\u06a9"
+    ],
     "name:nan_x_preferred":[
         "Jeanne d'Arc"
     ],
@@ -292,6 +334,9 @@
     "name:pan_x_preferred":[
         "\u0a1c\u0a4c\u0a28 \u0a06\u0a2b\u0a3c \u0a06\u0a30\u0a15"
     ],
+    "name:pap_x_preferred":[
+        "Joan of Arc"
+    ],
     "name:pcd_x_preferred":[
         "Jeanne d'Arc"
     ],
@@ -306,6 +351,9 @@
     ],
     "name:por_x_preferred":[
         "Joana d'Arc"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f \u0622\u0631\u06a9 \u0698\u0627\u0646"
     ],
     "name:ron_x_preferred":[
         "Ioana d'Arc"
@@ -379,6 +427,9 @@
     "name:uzb_x_preferred":[
         "Janna d\u02bcArk"
     ],
+    "name:vec_x_preferred":[
+        "Joana d'Arco"
+    ],
     "name:vep_x_preferred":[
         "\u017danna d'Ark"
     ],
@@ -450,7 +501,7 @@
         }
     ],
     "wof:id":421199809,
-    "wof:lastmodified":1566643424,
+    "wof:lastmodified":1690927751,
     "wof:name":"Juana de Arco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

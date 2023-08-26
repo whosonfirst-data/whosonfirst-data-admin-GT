@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
+    "name:nan_x_preferred":[
+        "Santa Mar\u00eda Visitaci\u00f3n"
+    ],
     "name:nld_x_preferred":[
         "Santa Mar\u00eda Visitaci\u00f3n"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421181681,
-    "wof:lastmodified":1566643412,
+    "wof:lastmodified":1690927721,
     "wof:name":"Santa Mar\u00eda Visitaci\u00f3n",
     "wof:parent_id":1108695635,
     "wof:placetype":"locality",

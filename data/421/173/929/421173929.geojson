@@ -53,6 +53,9 @@
     "name:nah_x_preferred":[
         "Champerico"
     ],
+    "name:nan_x_preferred":[
+        "Champerico"
+    ],
     "name:nld_x_preferred":[
         "Champerico"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421173929,
-    "wof:lastmodified":1566643406,
+    "wof:lastmodified":1690927705,
     "wof:name":"Champerico",
     "wof:parent_id":421203203,
     "wof:placetype":"locality",

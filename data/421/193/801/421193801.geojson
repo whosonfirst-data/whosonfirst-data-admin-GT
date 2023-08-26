@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "Zunilito"
     ],
+    "name:nan_x_preferred":[
+        "Zunilito"
+    ],
     "name:nld_x_preferred":[
         "Zunilito"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421193801,
-    "wof:lastmodified":1566643390,
+    "wof:lastmodified":1690927663,
     "wof:name":"Zunilito",
     "wof:parent_id":1108695507,
     "wof:placetype":"locality",

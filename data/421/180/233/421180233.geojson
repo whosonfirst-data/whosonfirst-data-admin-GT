@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Juan Tecuaco"
     ],
+    "name:nan_x_preferred":[
+        "San Juan Tecuaco"
+    ],
     "name:nld_x_preferred":[
         "San Juan Tecuaco"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421180233,
-    "wof:lastmodified":1566643401,
+    "wof:lastmodified":1690927692,
     "wof:name":"San Juan Tecuaco",
     "wof:parent_id":1108695541,
     "wof:placetype":"locality",

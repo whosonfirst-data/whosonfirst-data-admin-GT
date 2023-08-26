@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Santa Luc\u00eda Utatl\u00e1n"
     ],
+    "name:nan_x_preferred":[
+        "Santa Luc\u00eda Utatl\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Santa Luc\u00eda Utatl\u00e1n"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179149,
-    "wof:lastmodified":1566643444,
+    "wof:lastmodified":1690927808,
     "wof:name":"Santa Luc\u00eda Utatl\u00e1n",
     "wof:parent_id":421170143,
     "wof:placetype":"locality",

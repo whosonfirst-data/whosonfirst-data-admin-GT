@@ -41,6 +41,9 @@
     "name:nah_x_preferred":[
         "Popt\u00fan"
     ],
+    "name:nan_x_preferred":[
+        "Popt\u00fan"
+    ],
     "name:nld_x_preferred":[
         "Popt\u00fan"
     ],
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421201181,
-    "wof:lastmodified":1566643427,
+    "wof:lastmodified":1690927759,
     "wof:name":"Popt\u00fan",
     "wof:parent_id":421203225,
     "wof:placetype":"locality",

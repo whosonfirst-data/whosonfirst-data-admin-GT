@@ -37,6 +37,9 @@
     "name:lit_x_preferred":[
         "Kanilija"
     ],
+    "name:nan_x_preferred":[
+        "Canill\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Canill\u00e1"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125939297,
-    "wof:lastmodified":1566643456,
+    "wof:lastmodified":1690927840,
     "wof:name":"Canill\u00e1",
     "wof:parent_id":421184395,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Casillas"
+    ],
     "name:eng_x_preferred":[
         "Casillas"
     ],
@@ -29,6 +32,9 @@
     "name:nah_x_preferred":[
         "Casillas"
     ],
+    "name:nan_x_preferred":[
+        "Casillas"
+    ],
     "name:nld_x_preferred":[
         "Casillas"
     ],
@@ -39,6 +45,9 @@
         "Casillas"
     ],
     "name:spa_x_preferred":[
+        "Casillas"
+    ],
+    "name:swe_x_preferred":[
         "Casillas"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421179259,
-    "wof:lastmodified":1566643439,
+    "wof:lastmodified":1690927792,
     "wof:name":"Casillas",
     "wof:parent_id":1108695281,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El Estor"
+    ],
     "name:ceb_x_preferred":[
         "El Estor"
     ],
@@ -30,6 +33,9 @@
         "El Estor"
     ],
     "name:ita_x_preferred":[
+        "El Estor"
+    ],
+    "name:nan_x_preferred":[
         "El Estor"
     ],
     "name:nld_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421202827,
-    "wof:lastmodified":1566643397,
+    "wof:lastmodified":1690927683,
     "wof:name":"El Estor",
     "wof:parent_id":421194695,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quesada"
+    ],
     "name:eng_x_preferred":[
         "Quesada"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ita_x_preferred":[
         "Quezada"
+    ],
+    "name:nan_x_preferred":[
+        "Quesada"
     ],
     "name:nld_x_preferred":[
         "Quezada"
@@ -39,6 +45,9 @@
         "Quezada"
     ],
     "name:spa_x_preferred":[
+        "Quesada"
+    ],
+    "name:swe_x_preferred":[
         "Quesada"
     ],
     "name:tur_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421177175,
-    "wof:lastmodified":1636503201,
+    "wof:lastmodified":1690927781,
     "wof:name":"Quesada",
     "wof:parent_id":1108695451,
     "wof:placetype":"locality",

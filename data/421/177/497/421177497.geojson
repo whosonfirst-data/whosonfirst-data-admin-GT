@@ -32,7 +32,16 @@
     "name:ita_x_preferred":[
         "Aguacat\u00e1n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30a2\u30ab\u30bf\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Aguacat\u00e1n"
+    ],
     "name:nld_x_preferred":[
+        "Aguacat\u00e1n"
+    ],
+    "name:nob_x_preferred":[
         "Aguacat\u00e1n"
     ],
     "name:pol_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421177497,
-    "wof:lastmodified":1566643435,
+    "wof:lastmodified":1690927779,
     "wof:name":"Aguacat\u00e1n",
     "wof:parent_id":1108695257,
     "wof:placetype":"locality",

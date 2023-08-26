@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Juan Ixcoy"
     ],
+    "name:nan_x_preferred":[
+        "San Juan Ixcoy"
+    ],
     "name:nld_x_preferred":[
         "San Juan Ixcoy"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179167,
-    "wof:lastmodified":1566643438,
+    "wof:lastmodified":1690927788,
     "wof:name":"San Juan Ixcoy",
     "wof:parent_id":421189489,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Conguaco"
     ],
+    "name:nan_x_preferred":[
+        "Conguaco"
+    ],
     "name:nld_x_preferred":[
         "Conguaco"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421179249,
-    "wof:lastmodified":1566643443,
+    "wof:lastmodified":1690927803,
     "wof:name":"Conguaco",
     "wof:parent_id":1108695311,
     "wof:placetype":"locality",

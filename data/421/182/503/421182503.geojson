@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Antonio Aguas Calientes"
     ],
+    "name:nan_x_preferred":[
+        "San Antonio Aguas Calientes"
+    ],
     "name:nld_x_preferred":[
         "San Antonio Aguas Calientes"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421182503,
-    "wof:lastmodified":1566643447,
+    "wof:lastmodified":1690927813,
     "wof:name":"San Antonio Aguas Calientes",
     "wof:parent_id":421171693,
     "wof:placetype":"locality",

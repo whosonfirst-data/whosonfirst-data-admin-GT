@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Nahual\u00e1"
     ],
+    "name:nan_x_preferred":[
+        "Nahual\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Nahual\u00e1"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421177499,
-    "wof:lastmodified":1566643435,
+    "wof:lastmodified":1690927780,
     "wof:name":"Nahual\u00e1",
     "wof:parent_id":421184397,
     "wof:placetype":"locality",

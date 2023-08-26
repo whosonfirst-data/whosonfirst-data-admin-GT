@@ -46,6 +46,9 @@
     "name:kor_x_preferred":[
         "\uce58\uc139"
     ],
+    "name:nan_x_preferred":[
+        "Chisec"
+    ],
     "name:nld_x_preferred":[
         "Chisec"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890420433,
-    "wof:lastmodified":1566643455,
+    "wof:lastmodified":1690927838,
     "wof:name":"Chisec",
     "wof:parent_id":421204557,
     "wof:placetype":"locality",

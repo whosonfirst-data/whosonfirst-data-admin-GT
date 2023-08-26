@@ -36,6 +36,9 @@
     "name:ita_x_preferred":[
         "Acatenango"
     ],
+    "name:nan_x_preferred":[
+        "Acatenango"
+    ],
     "name:nld_x_preferred":[
         "Acatenango"
     ],
@@ -46,6 +49,9 @@
         "Acatenango"
     ],
     "name:spa_x_preferred":[
+        "Acatenango"
+    ],
+    "name:swe_x_preferred":[
         "Acatenango"
     ],
     "name:zho_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421179267,
-    "wof:lastmodified":1566643440,
+    "wof:lastmodified":1690927794,
     "wof:name":"Acatenango",
     "wof:parent_id":421187937,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "R\u00edo Hondo"
     ],
+    "name:nan_x_preferred":[
+        "R\u00edo Hondo"
+    ],
     "name:nld_x_preferred":[
         "R\u00edo Hondo"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421179193,
-    "wof:lastmodified":1566643438,
+    "wof:lastmodified":1690927788,
     "wof:name":"R\u00edo Hondo",
     "wof:parent_id":421182433,
     "wof:placetype":"locality",

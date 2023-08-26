@@ -23,7 +23,13 @@
     "name:cat_x_preferred":[
         "Ixc\u00e1n"
     ],
+    "name:ceb_x_preferred":[
+        "Ixcan"
+    ],
     "name:eng_x_preferred":[
+        "Ixc\u00e1n"
+    ],
+    "name:eus_x_preferred":[
         "Ixc\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30d5\u30ab\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Ixc\u00e1n"
     ],
     "name:nld_x_preferred":[
         "Ixc\u00e1n"
@@ -43,6 +52,9 @@
     ],
     "name:spa_x_preferred":[
         "Ixc\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Ixcan"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u574e"
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":421181677,
-    "wof:lastmodified":1566643413,
+    "wof:lastmodified":1690927723,
     "wof:name":"Playa Grande",
     "wof:parent_id":421190247,
     "wof:placetype":"locality",

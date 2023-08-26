@@ -35,6 +35,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30ca\u30c9\u30b9"
     ],
+    "name:nan_x_preferred":[
+        "Granados"
+    ],
     "name:nld_x_preferred":[
         "Granados"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421170485,
-    "wof:lastmodified":1566643432,
+    "wof:lastmodified":1690927772,
     "wof:name":"Granados",
     "wof:parent_id":1108695353,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b2\u09bf\u09df\u09be\u09aa\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Cuilapa"
+    ],
     "name:ceb_x_preferred":[
         "Cuilapa"
     ],
@@ -77,6 +80,9 @@
     "name:nah_x_preferred":[
         "Cuil\u0101pan"
     ],
+    "name:nan_x_preferred":[
+        "Cuilapa"
+    ],
     "name:nld_x_preferred":[
         "Cuilapa"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:por_x_preferred":[
         "Cuilapa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0438\u043b\u0430\u043f\u0430"
     ],
     "name:sme_x_preferred":[
         "Cuilapa"
@@ -255,7 +264,7 @@
         }
     ],
     "wof:id":421168525,
-    "wof:lastmodified":1636503196,
+    "wof:lastmodified":1690927647,
     "wof:name":"Cuilapa",
     "wof:parent_id":421191201,
     "wof:placetype":"locality",

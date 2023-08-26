@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Melchor de Mencos"
     ],
+    "name:eng_x_variant":[
+        "San Belmopan"
+    ],
     "name:fra_x_preferred":[
         "Melchor de Mencos"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421179253,
-    "wof:lastmodified":1566643444,
+    "wof:lastmodified":1690927805,
     "wof:name":"Ciudad Melchor de Mencos",
     "wof:parent_id":421171681,
     "wof:placetype":"locality",

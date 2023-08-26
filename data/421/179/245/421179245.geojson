@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Adelanto"
+    ],
     "name:eng_x_preferred":[
         "El Adelanto"
     ],
@@ -24,6 +27,9 @@
         "El Adelanto"
     ],
     "name:ita_x_preferred":[
+        "El Adelanto"
+    ],
+    "name:nan_x_preferred":[
         "El Adelanto"
     ],
     "name:nld_x_preferred":[
@@ -36,6 +42,9 @@
         "El Adelanto"
     ],
     "name:spa_x_preferred":[
+        "El Adelanto"
+    ],
+    "name:swe_x_preferred":[
         "El Adelanto"
     ],
     "name:und_x_variant":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421179245,
-    "wof:lastmodified":1566643439,
+    "wof:lastmodified":1690927791,
     "wof:name":"El Adelanto",
     "wof:parent_id":1108695319,
     "wof:placetype":"locality",

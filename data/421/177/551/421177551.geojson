@@ -32,6 +32,9 @@
     "name:ita_x_preferred":[
         "La Reforma"
     ],
+    "name:nan_x_preferred":[
+        "La Reforma"
+    ],
     "name:nld_x_preferred":[
         "La Reforma"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421177551,
-    "wof:lastmodified":1566643435,
+    "wof:lastmodified":1690927779,
     "wof:name":"La Reforma",
     "wof:parent_id":1108695379,
     "wof:placetype":"locality",

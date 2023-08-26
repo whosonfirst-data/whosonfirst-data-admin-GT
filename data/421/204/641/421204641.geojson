@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Camot\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Camot\u00e1n"
     ],
@@ -24,6 +27,9 @@
         "Camot\u00e1n"
     ],
     "name:ita_x_preferred":[
+        "Camot\u00e1n"
+    ],
+    "name:nan_x_preferred":[
         "Camot\u00e1n"
     ],
     "name:nld_x_preferred":[
@@ -36,6 +42,9 @@
         "Camot\u00e1n"
     ],
     "name:spa_x_preferred":[
+        "Camot\u00e1n"
+    ],
+    "name:swe_x_preferred":[
         "Camot\u00e1n"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421204641,
-    "wof:lastmodified":1566643395,
+    "wof:lastmodified":1690927677,
     "wof:name":"Camot\u00e1n",
     "wof:parent_id":1108695279,
     "wof:placetype":"locality",

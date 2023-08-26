@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Yupiltepeque"
     ],
+    "name:nan_x_preferred":[
+        "Yupiltepeque"
+    ],
     "name:nld_x_preferred":[
         "Yupiltepeque"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421201723,
-    "wof:lastmodified":1566643427,
+    "wof:lastmodified":1690927760,
     "wof:name":"Yupiltepeque",
     "wof:parent_id":1108695685,
     "wof:placetype":"locality",

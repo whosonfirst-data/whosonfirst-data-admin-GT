@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Santa Clara La Laguna"
     ],
+    "name:nan_x_preferred":[
+        "Santa Clara La Laguna"
+    ],
     "name:nld_x_preferred":[
         "Santa Clara La Laguna"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421179153,
-    "wof:lastmodified":1566643441,
+    "wof:lastmodified":1690927798,
     "wof:name":"Santa Clara la Laguna",
     "wof:parent_id":421172515,
     "wof:placetype":"locality",

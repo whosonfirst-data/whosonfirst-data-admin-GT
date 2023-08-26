@@ -48,6 +48,9 @@
     "name:ita_x_preferred":[
         "G\u00e9nova"
     ],
+    "name:nan_x_preferred":[
+        "G\u00e9nova"
+    ],
     "name:nld_x_preferred":[
         "G\u00e9nova"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108695351,
-    "wof:lastmodified":1636503180,
+    "wof:lastmodified":1690927591,
     "wof:name":"Genova",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

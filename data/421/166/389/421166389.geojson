@@ -38,6 +38,9 @@
     "name:nah_x_preferred":[
         "Colomba"
     ],
+    "name:nan_x_preferred":[
+        "Colomba"
+    ],
     "name:nld_x_preferred":[
         "Colomba"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421166389,
-    "wof:lastmodified":1566643385,
+    "wof:lastmodified":1690927651,
     "wof:name":"Colomba",
     "wof:parent_id":421172665,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Santa Catarina Pinula"
     ],
+    "name:nan_x_preferred":[
+        "Santa Catarina Pinula"
+    ],
     "name:nld_x_preferred":[
         "Santa Catarina Pinula"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421179155,
-    "wof:lastmodified":1566643442,
+    "wof:lastmodified":1690927800,
     "wof:name":"Santa Catarina Pinula",
     "wof:parent_id":1108695621,
     "wof:placetype":"locality",

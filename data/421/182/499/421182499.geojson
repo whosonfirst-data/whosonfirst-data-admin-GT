@@ -42,6 +42,9 @@
     "name:nah_x_preferred":[
         "\u0100lmol\u014dnc\u0101n"
     ],
+    "name:nan_x_preferred":[
+        "Almolonga"
+    ],
     "name:nld_x_preferred":[
         "Almolonga"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421182499,
-    "wof:lastmodified":1566643447,
+    "wof:lastmodified":1690927814,
     "wof:name":"Almolonga",
     "wof:parent_id":1108695259,
     "wof:placetype":"locality",

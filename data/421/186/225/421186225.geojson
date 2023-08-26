@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Nent\u00f3n"
     ],
+    "name:nan_x_preferred":[
+        "Nent\u00f3n"
+    ],
     "name:nld_x_preferred":[
         "Nent\u00f3n"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421186225,
-    "wof:lastmodified":1566643411,
+    "wof:lastmodified":1690927719,
     "wof:name":"Nent\u00f3n",
     "wof:parent_id":1108695407,
     "wof:placetype":"locality",

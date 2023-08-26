@@ -35,6 +35,9 @@
     "name:nah_x_preferred":[
         "Parramos"
     ],
+    "name:nan_x_preferred":[
+        "Parramos"
+    ],
     "name:nld_x_preferred":[
         "Parramos"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421201185,
-    "wof:lastmodified":1566643430,
+    "wof:lastmodified":1690927765,
     "wof:name":"Parramos",
     "wof:parent_id":1108695435,
     "wof:placetype":"locality",

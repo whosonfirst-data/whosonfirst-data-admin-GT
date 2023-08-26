@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Pueblo Nuevo Vi\u00f1as"
     ],
+    "name:nan_x_preferred":[
+        "Pueblo Nuevo Vi\u00f1as"
+    ],
     "name:nld_x_preferred":[
         "Pueblo Nuevo Vi\u00f1as"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421197617,
-    "wof:lastmodified":1566643421,
+    "wof:lastmodified":1690927743,
     "wof:name":"Pueblo Nuevo Vi\u00f1as",
     "wof:parent_id":1108695443,
     "wof:placetype":"locality",

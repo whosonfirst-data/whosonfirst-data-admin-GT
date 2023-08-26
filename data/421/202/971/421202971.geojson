@@ -56,7 +56,13 @@
     "name:nah_x_preferred":[
         "Maz\u0101ten\u0101nco"
     ],
+    "name:nan_x_preferred":[
+        "Mazatenango"
+    ],
     "name:nld_x_preferred":[
+        "Mazatenango"
+    ],
+    "name:nob_x_preferred":[
         "Mazatenango"
     ],
     "name:pol_x_preferred":[
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":421202971,
-    "wof:lastmodified":1566643398,
+    "wof:lastmodified":1690927684,
     "wof:name":"Mazatenango Suchitep\u00e9quez",
     "wof:parent_id":1108695397,
     "wof:placetype":"locality",

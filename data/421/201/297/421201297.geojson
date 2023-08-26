@@ -35,6 +35,9 @@
     "name:lit_x_preferred":[
         "Saja\u0161\u010d\u0117"
     ],
+    "name:nan_x_preferred":[
+        "Sayaxch\u00e9"
+    ],
     "name:nds_x_preferred":[
         "Sayaxch\u00e9"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:por_x_preferred":[
         "Sayaxch\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u044f\u043a\u0447\u0435"
     ],
     "name:sco_x_preferred":[
         "Sayaxch\u00e9"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421201297,
-    "wof:lastmodified":1566643428,
+    "wof:lastmodified":1690927762,
     "wof:name":"Sayaxch\u00e9",
     "wof:parent_id":421187939,
     "wof:placetype":"locality",

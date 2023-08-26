@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Flores Costa Cuca"
     ],
+    "name:nan_x_preferred":[
+        "Flores Costa Cuca"
+    ],
     "name:nld_x_preferred":[
         "Flores Costa Cuca"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421181347,
-    "wof:lastmodified":1566643413,
+    "wof:lastmodified":1690927722,
     "wof:name":"Flores Costa Cuca",
     "wof:parent_id":1108695351,
     "wof:placetype":"locality",

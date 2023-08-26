@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Barberena"
     ],
+    "name:nan_x_preferred":[
+        "Barberena"
+    ],
     "name:nld_x_preferred":[
         "Barberena"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421199347,
-    "wof:lastmodified":1566643424,
+    "wof:lastmodified":1690927750,
     "wof:name":"Barberena",
     "wof:parent_id":1108695271,
     "wof:placetype":"locality",

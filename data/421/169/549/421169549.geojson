@@ -38,6 +38,9 @@
     "name:lit_x_preferred":[
         "Siudad Vjecha"
     ],
+    "name:nan_x_preferred":[
+        "Ciudad Vieja"
+    ],
     "name:nld_x_preferred":[
         "Ciudad Vieja"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421169549,
-    "wof:lastmodified":1566643394,
+    "wof:lastmodified":1690927673,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":421171693,
     "wof:placetype":"locality",

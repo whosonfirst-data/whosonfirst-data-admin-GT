@@ -45,6 +45,9 @@
     "name:ita_x_preferred":[
         "El Rodeo"
     ],
+    "name:nan_x_preferred":[
+        "El Rodeo"
+    ],
     "name:nld_x_preferred":[
         "El Rodeo"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108695333,
-    "wof:lastmodified":1627522160,
+    "wof:lastmodified":1690927578,
     "wof:name":"El Rodeo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

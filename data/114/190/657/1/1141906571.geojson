@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.3799978045,15.4699975779,-90.3799978045,15.4699975779",
+    "geom:bbox":"-90.379998,15.469998,-90.379998,15.469998",
     "geom:latitude":15.469998,
     "geom:longitude":-90.379998,
     "iso:country":"GT",
@@ -23,6 +23,9 @@
     ],
     "name:ara_x_variant":[
         "\u0643\u0648\u0628\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Koban"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ac\u09be\u09a8"
@@ -96,6 +99,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cac\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d1\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ubc18"
     ],
@@ -115,6 +121,9 @@
         "Coban"
     ],
     "name:nah_x_preferred":[
+        "Cob\u00e1n"
+    ],
+    "name:nan_x_preferred":[
         "Cob\u00e1n"
     ],
     "name:nld_x_preferred":[
@@ -142,6 +151,9 @@
         "Cob\u00e1n"
     ],
     "name:swe_x_preferred":[
+        "Cob\u00e1n"
+    ],
+    "name:szl_x_preferred":[
         "Cob\u00e1n"
     ],
     "name:tam_x_preferred":[
@@ -279,7 +291,7 @@
     },
     "wof:country":"GT",
     "wof:created":1499130611,
-    "wof:geomhash":"5ebef9d5eb524d55b378da0ff3ffafba",
+    "wof:geomhash":"b80affba392454e767daa40f5b18b189",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -290,7 +302,7 @@
         }
     ],
     "wof:id":1141906571,
-    "wof:lastmodified":1566643800,
+    "wof:lastmodified":1690927845,
     "wof:name":"Coban",
     "wof:parent_id":421190247,
     "wof:placetype":"locality",
@@ -300,10 +312,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.37999780451054,
-    15.46999757787768,
-    -90.37999780451054,
-    15.46999757787768
+    -90.379998,
+    15.469998,
+    -90.379998,
+    15.469998
 ],
-  "geometry": {"coordinates":[-90.37999780451054,15.46999757787768],"type":"Point"}
+  "geometry": {"coordinates":[-90.379998,15.469998],"type":"Point"}
 }

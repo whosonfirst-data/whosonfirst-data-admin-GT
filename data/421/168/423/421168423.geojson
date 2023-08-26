@@ -38,6 +38,9 @@
     "name:nah_x_preferred":[
         "San Pedro Ayampuc"
     ],
+    "name:nan_x_preferred":[
+        "San Pedro Ayampuc"
+    ],
     "name:nld_x_preferred":[
         "San Pedro Ayampuc"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421168423,
-    "wof:lastmodified":1566643383,
+    "wof:lastmodified":1690927645,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":1108695577,
     "wof:placetype":"locality",

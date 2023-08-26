@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Miguel Pan\u00e1n"
     ],
+    "name:nan_x_preferred":[
+        "San Miguel Pan\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "San Miguel Pan\u00e1n"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421172893,
-    "wof:lastmodified":1566643409,
+    "wof:lastmodified":1690927713,
     "wof:name":"San Miguel Pan\u00e1n",
     "wof:parent_id":421196547,
     "wof:placetype":"locality",

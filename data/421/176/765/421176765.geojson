@@ -32,6 +32,12 @@
     "name:ita_x_preferred":[
         "Sipacapa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30d1\u30ab\u30d1"
+    ],
+    "name:nan_x_preferred":[
+        "Sipacapa"
+    ],
     "name:nld_x_preferred":[
         "Sipacapa"
     ],
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421176765,
-    "wof:lastmodified":1566643448,
+    "wof:lastmodified":1690927818,
     "wof:name":"Sipacapa",
     "wof:parent_id":1108695653,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "R\u00edo Bravo"
+    ],
     "name:ceb_x_preferred":[
         "R\u00edo Bravo"
     ],
@@ -30,6 +33,9 @@
         "R\u00edo Bravo"
     ],
     "name:ita_x_preferred":[
+        "R\u00edo Bravo"
+    ],
+    "name:nan_x_preferred":[
         "R\u00edo Bravo"
     ],
     "name:nds_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421177177,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1690927783,
     "wof:name":"R\u00edo Bravo",
     "wof:parent_id":1108695459,
     "wof:placetype":"locality",

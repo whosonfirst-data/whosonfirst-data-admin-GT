@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Chicacao"
     ],
+    "name:nan_x_preferred":[
+        "Chicacao"
+    ],
     "name:nld_x_preferred":[
         "Chicacao"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421176229,
-    "wof:lastmodified":1566643449,
+    "wof:lastmodified":1690927819,
     "wof:name":"Chicacao",
     "wof:parent_id":421196547,
     "wof:placetype":"locality",

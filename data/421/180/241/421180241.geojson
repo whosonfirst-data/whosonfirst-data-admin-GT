@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Sibilia"
     ],
+    "name:nan_x_preferred":[
+        "Sibilia"
+    ],
     "name:nld_x_preferred":[
         "Sibilia"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421180241,
-    "wof:lastmodified":1566643401,
+    "wof:lastmodified":1690927693,
     "wof:name":"Sibilia",
     "wof:parent_id":1108695649,
     "wof:placetype":"locality",

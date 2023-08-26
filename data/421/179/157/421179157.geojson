@@ -32,6 +32,9 @@
     "name:nah_x_preferred":[
         "Santa Catarina \u012axtlahuahc\u0101n"
     ],
+    "name:nan_x_preferred":[
+        "Santa Catarina Ixtahuacan"
+    ],
     "name:nld_x_preferred":[
         "Santa Catarina Ixtahuacan"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179157,
-    "wof:lastmodified":1566643437,
+    "wof:lastmodified":1690927786,
     "wof:name":"Santa Catarina Ixtahuac\u00e1n",
     "wof:parent_id":1108695617,
     "wof:placetype":"locality",

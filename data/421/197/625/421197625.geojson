@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Huit\u00e1n"
     ],
+    "name:nan_x_preferred":[
+        "Huit\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Huit\u00e1n"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421197625,
-    "wof:lastmodified":1566643423,
+    "wof:lastmodified":1690927748,
     "wof:name":"Huit\u00e1n",
     "wof:parent_id":1108695275,
     "wof:placetype":"locality",

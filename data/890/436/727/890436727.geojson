@@ -34,6 +34,9 @@
     "name:ita_x_preferred":[
         "Moyuta"
     ],
+    "name:nan_x_preferred":[
+        "Moyuta"
+    ],
     "name:nld_x_preferred":[
         "Moyuta"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890436727,
-    "wof:lastmodified":1566643454,
+    "wof:lastmodified":1690927835,
     "wof:name":"Moyuta",
     "wof:parent_id":1108695405,
     "wof:placetype":"locality",

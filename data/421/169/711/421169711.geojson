@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Mataquescuintla"
     ],
+    "name:nan_x_preferred":[
+        "Mataquescuintla"
+    ],
     "name:nld_x_preferred":[
         "Mataquescuintla"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421169711,
-    "wof:lastmodified":1566643394,
+    "wof:lastmodified":1690927674,
     "wof:name":"Mataquescuintla",
     "wof:parent_id":421191465,
     "wof:placetype":"locality",

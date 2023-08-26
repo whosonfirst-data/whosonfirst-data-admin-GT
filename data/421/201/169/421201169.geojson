@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Coatepeque"
     ],
+    "name:deu_x_preferred":[
+        "Coatepeque"
+    ],
     "name:eng_x_preferred":[
         "Coatepeque"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:nah_x_variant":[
         "C\u014d\u0101tep\u0113c"
+    ],
+    "name:nan_x_preferred":[
+        "Coatepeque"
     ],
     "name:nld_x_preferred":[
         "Coatepeque"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421201169,
-    "wof:lastmodified":1566643426,
+    "wof:lastmodified":1690927758,
     "wof:name":"Coatepeque",
     "wof:parent_id":1108695297,
     "wof:placetype":"locality",

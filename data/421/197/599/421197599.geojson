@@ -32,6 +32,9 @@
     "name:lit_x_preferred":[
         "Sakualpa"
     ],
+    "name:nan_x_preferred":[
+        "Zacualpa"
+    ],
     "name:nld_x_preferred":[
         "Zacualpa"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421197599,
-    "wof:lastmodified":1566643422,
+    "wof:lastmodified":1690927746,
     "wof:name":"Zacualpa",
     "wof:parent_id":1108695687,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:ita_x_preferred":[
         "Santiago Chimaltenango"
     ],
+    "name:nan_x_preferred":[
+        "Santiago Chimaltenango"
+    ],
     "name:nld_x_preferred":[
         "Santiago Chimaltenango"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1126054231,
-    "wof:lastmodified":1566643456,
+    "wof:lastmodified":1690927841,
     "wof:name":"Santiago Chimaltenango",
     "wof:parent_id":421197631,
     "wof:placetype":"locality",

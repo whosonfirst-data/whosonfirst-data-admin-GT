@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Quezaltepeque"
     ],
+    "name:nan_x_preferred":[
+        "Quezaltepeque"
+    ],
     "name:nld_x_preferred":[
         "Quezaltepeque"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421198437,
-    "wof:lastmodified":1566643415,
+    "wof:lastmodified":1690927727,
     "wof:name":"Quezaltepeque",
     "wof:parent_id":1108695453,
     "wof:placetype":"locality",

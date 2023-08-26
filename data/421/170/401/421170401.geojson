@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Esquipulas"
+    ],
     "name:cat_x_preferred":[
         "Esquipulas"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Esquipulas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u06cc\u067e\u0648\u0644\u0627\u0647\u0627"
     ],
     "name:fra_x_preferred":[
         "Esquipulas"
@@ -44,6 +50,9 @@
     "name:lit_x_preferred":[
         "Eskipulasas"
     ],
+    "name:nan_x_preferred":[
+        "Esquipulas"
+    ],
     "name:nld_x_preferred":[
         "Esquipulas"
     ],
@@ -54,6 +63,9 @@
         "Esquipulas"
     ],
     "name:spa_x_preferred":[
+        "Esquipulas"
+    ],
+    "name:swe_x_preferred":[
         "Esquipulas"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421170401,
-    "wof:lastmodified":1566643433,
+    "wof:lastmodified":1690927773,
     "wof:name":"Esquipulas",
     "wof:parent_id":421188729,
     "wof:placetype":"locality",

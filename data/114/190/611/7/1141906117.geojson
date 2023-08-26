@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.3140006056,15.1029990278,-90.3140006056,15.1029990278",
+    "geom:bbox":"-90.314001,15.102999,-90.314001,15.102999",
     "geom:latitude":15.102999,
     "geom:longitude":-90.314001,
     "iso:country":"GT",
@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Salam\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Salam\u00e1"
     ],
@@ -32,6 +38,9 @@
     ],
     "name:eus_x_preferred":[
         "Salam\u00e1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Salam\u00e1"
@@ -60,6 +69,9 @@
     "name:nah_x_preferred":[
         "Salam\u00e1"
     ],
+    "name:nan_x_preferred":[
+        "Salam\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Salam\u00e1"
     ],
@@ -68,6 +80,9 @@
     ],
     "name:por_x_preferred":[
         "Salam\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0430"
     ],
     "name:sme_x_preferred":[
         "Salam\u00e1"
@@ -192,7 +207,7 @@
     },
     "wof:country":"GT",
     "wof:created":1499130543,
-    "wof:geomhash":"033c7ef06b8e1ff1eba21341d2e04c61",
+    "wof:geomhash":"0079ad66880ce6960aec7abc2e2a91c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":1141906117,
-    "wof:lastmodified":1566643799,
+    "wof:lastmodified":1690927845,
     "wof:name":"Salama",
     "wof:parent_id":421175573,
     "wof:placetype":"locality",
@@ -213,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.31400060556541,
-    15.10299902778195,
-    -90.31400060556541,
-    15.10299902778195
+    -90.314001,
+    15.102999,
+    -90.314001,
+    15.102999
 ],
-  "geometry": {"coordinates":[-90.31400060556541,15.10299902778195],"type":"Point"}
+  "geometry": {"coordinates":[-90.314001,15.102999],"type":"Point"}
 }

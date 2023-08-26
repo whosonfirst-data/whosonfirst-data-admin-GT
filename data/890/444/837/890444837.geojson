@@ -34,6 +34,9 @@
     "name:nah_x_preferred":[
         "Chicam\u00e1n"
     ],
+    "name:nan_x_preferred":[
+        "Chicam\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Chicam\u00e1n"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890444837,
-    "wof:lastmodified":1566643454,
+    "wof:lastmodified":1690927836,
     "wof:name":"Chicam\u00e1n",
     "wof:parent_id":1108695291,
     "wof:placetype":"locality",

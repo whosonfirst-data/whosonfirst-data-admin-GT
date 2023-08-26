@@ -38,7 +38,13 @@
     "name:ita_x_preferred":[
         "Pastores"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b9\u30c8\u30fc\u30ec\u30b9"
+    ],
     "name:msa_x_preferred":[
+        "Pastores"
+    ],
+    "name:nan_x_preferred":[
         "Pastores"
     ],
     "name:nld_x_preferred":[
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421167919,
-    "wof:lastmodified":1566643391,
+    "wof:lastmodified":1690927666,
     "wof:name":"Pastores",
     "wof:parent_id":421177237,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:lit_x_preferred":[
         "Rabinalis"
     ],
+    "name:nan_x_preferred":[
+        "Rabinal"
+    ],
     "name:nld_x_preferred":[
         "Rabinal"
     ],
@@ -60,6 +63,9 @@
         "Rabinal"
     ],
     "name:swe_x_preferred":[
+        "Rabinal"
+    ],
+    "name:uzb_x_preferred":[
         "Rabinal"
     ],
     "name:zho_x_preferred":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421173037,
-    "wof:lastmodified":1566643404,
+    "wof:lastmodified":1690927701,
     "wof:name":"Rabinal",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

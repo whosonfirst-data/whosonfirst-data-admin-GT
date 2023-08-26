@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0643\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0643\u0627\u0644"
+    ],
     "name:aze_x_preferred":[
         "Tikal"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0438\u043a\u0430\u043b\u044c"
     ],
     "name:bar_x_preferred":[
         "Tikal"
@@ -131,6 +137,9 @@
     "name:mkd_x_preferred":[
         "\u0422\u0438\u043a\u0430\u043b"
     ],
+    "name:mlt_x_preferred":[
+        "Tikal"
+    ],
     "name:mya_x_preferred":[
         "\u1010\u102e\u1000\u102c\u1038\u101c\u103a"
     ],
@@ -141,6 +150,9 @@
         "\u091f\u093f\u0915\u093e\u0932"
     ],
     "name:nld_x_preferred":[
+        "Tikal"
+    ],
+    "name:nno_x_preferred":[
         "Tikal"
     ],
     "name:nob_x_preferred":[
@@ -158,6 +170,9 @@
     "name:por_x_preferred":[
         "Tikal"
     ],
+    "name:ron_x_preferred":[
+        "Tikal"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u043a\u0430\u043b\u044c"
     ],
@@ -168,6 +183,9 @@
         "Tikal"
     ],
     "name:spa_x_preferred":[
+        "Tikal"
+    ],
+    "name:sqi_x_preferred":[
         "Tikal"
     ],
     "name:srp_x_preferred":[
@@ -185,11 +203,17 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043a\u0430\u043b\u044c"
     ],
+    "name:uzb_x_preferred":[
+        "Tikal"
+    ],
     "name:vie_x_preferred":[
         "Tikal"
     ],
     "name:war_x_preferred":[
         "Tikal"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8482\u5361\u5c14"
     ],
     "name:zho_x_preferred":[
         "\u8482\u5361\u5c14"
@@ -244,7 +268,7 @@
         }
     ],
     "wof:id":421202135,
-    "wof:lastmodified":1566643397,
+    "wof:lastmodified":1690927682,
     "wof:name":"Tikal",
     "wof:parent_id":1108695347,
     "wof:placetype":"locality",

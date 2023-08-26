@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Pablo Jocopilas"
     ],
+    "name:nan_x_preferred":[
+        "San Pablo Jocopilas"
+    ],
     "name:nld_x_preferred":[
         "San Pablo Jocopilas"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421179161,
-    "wof:lastmodified":1566643438,
+    "wof:lastmodified":1690927788,
     "wof:name":"San Pablo Jocopilas",
     "wof:parent_id":1108695571,
     "wof:placetype":"locality",

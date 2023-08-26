@@ -80,6 +80,9 @@
     "name:nah_x_preferred":[
         "Ch\u012bmalten\u0101nco"
     ],
+    "name:nan_x_preferred":[
+        "Chimaltenango"
+    ],
     "name:nld_x_preferred":[
         "Chimaltenango"
     ],
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":421172755,
-    "wof:lastmodified":1636503198,
+    "wof:lastmodified":1690927710,
     "wof:name":"Chimaltenango",
     "wof:parent_id":421172513,
     "wof:placetype":"locality",

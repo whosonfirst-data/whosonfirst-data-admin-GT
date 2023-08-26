@@ -44,6 +44,9 @@
     "name:lit_x_preferred":[
         "\u010cinautla"
     ],
+    "name:nan_x_preferred":[
+        "Chinautla"
+    ],
     "name:nld_x_preferred":[
         "Chinautla"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Chinautla"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043d\u0430\u0443\u0442\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Santa Cruz de Chinautla"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421179257,
-    "wof:lastmodified":1566643439,
+    "wof:lastmodified":1690927792,
     "wof:name":"Chinautla",
     "wof:parent_id":421201591,
     "wof:placetype":"locality",

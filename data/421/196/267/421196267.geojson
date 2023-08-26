@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633 \u062f\u064a \u0643\u0627\u0633\u062a\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633 \u062f\u0649 \u0643\u0627\u0633\u062a\u064a\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09cb \u09a4\u09cb\u09ae\u09be\u09b8 \u09a6\u09c7 \u0995\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be"
     ],
@@ -35,8 +38,14 @@
     "name:eng_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
     ],
+    "name:eng_x_variant":[
+        "Saint Thomas of Castilla"
+    ],
     "name:epo_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0627\u0645\u0633 \u062f \u06a9\u0627\u0633\u062a\u06cc\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Santo Tom\u00e1s de Castilla"
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":421196267,
-    "wof:lastmodified":1566643417,
+    "wof:lastmodified":1690927732,
     "wof:name":"Puerto Santo Tom\u00e1s de Castilla",
     "wof:parent_id":85671709,
     "wof:placetype":"locality",

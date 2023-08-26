@@ -34,6 +34,9 @@
     "name:ita_x_preferred":[
         "Pasaco"
     ],
+    "name:nan_x_preferred":[
+        "Pasaco"
+    ],
     "name:nld_x_preferred":[
         "Pasaco"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125860815,
-    "wof:lastmodified":1566643457,
+    "wof:lastmodified":1690927842,
     "wof:name":"Pasaco",
     "wof:parent_id":1108695437,
     "wof:placetype":"locality",

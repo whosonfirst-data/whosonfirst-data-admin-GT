@@ -37,6 +37,9 @@
     "name:nah_x_preferred":[
         "Patzun"
     ],
+    "name:nan_x_preferred":[
+        "Patz\u00fan"
+    ],
     "name:nld_x_preferred":[
         "Patz\u00fan"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890434959,
-    "wof:lastmodified":1566643455,
+    "wof:lastmodified":1690927839,
     "wof:name":"Patz\u00fan",
     "wof:parent_id":421178903,
     "wof:placetype":"locality",

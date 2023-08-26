@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "San Bartolom\u00e9 Jocotenango"
     ],
+    "name:nan_x_preferred":[
+        "San Bartolom\u00e9 Jocotenango"
+    ],
     "name:nld_x_preferred":[
         "San Bartolom\u00e9 Jocotenango"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421177553,
-    "wof:lastmodified":1566643436,
+    "wof:lastmodified":1690927782,
     "wof:name":"San Bartolom\u00e9 Jocotenango",
     "wof:parent_id":1108695481,
     "wof:placetype":"locality",

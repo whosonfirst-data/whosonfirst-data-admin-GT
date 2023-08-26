@@ -73,6 +73,9 @@
     "name:kor_x_preferred":[
         "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54"
     ],
+    "name:nan_x_preferred":[
+        "San Francisco"
+    ],
     "name:nld_x_preferred":[
         "San Francisco"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421179171,
-    "wof:lastmodified":1636503202,
+    "wof:lastmodified":1690927808,
     "wof:name":"San Francisco",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

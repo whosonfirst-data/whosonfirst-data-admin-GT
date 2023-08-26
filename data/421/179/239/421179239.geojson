@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "G\u00e9nova"
     ],
+    "name:nan_x_preferred":[
+        "G\u00e9nova"
+    ],
     "name:nld_x_preferred":[
         "G\u00e9nova"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421179239,
-    "wof:lastmodified":1566643444,
+    "wof:lastmodified":1690927805,
     "wof:name":"G\u00e9nova",
     "wof:parent_id":1108695351,
     "wof:placetype":"locality",

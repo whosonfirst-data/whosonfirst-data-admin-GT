@@ -35,6 +35,9 @@
     "name:lit_x_variant":[
         "Todos Santos Ku\u010diumatanas"
     ],
+    "name:nan_x_preferred":[
+        "Todos Santos Cuchumat\u00e1n"
+    ],
     "name:nld_x_preferred":[
         "Todos Santos Cuchumat\u00e1n"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421179139,
-    "wof:lastmodified":1566643442,
+    "wof:lastmodified":1690927801,
     "wof:name":"Todos Santos Cuchumat\u00e1n",
     "wof:parent_id":421190493,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Santa Eulalia"
     ],
+    "name:ceb_x_preferred":[
+        "Santa Eulalia"
+    ],
     "name:eng_x_preferred":[
         "Santa Eulalia"
     ],
@@ -32,6 +35,9 @@
     "name:ita_x_preferred":[
         "Santa Eulalia"
     ],
+    "name:nan_x_preferred":[
+        "Santa Eulalia"
+    ],
     "name:nld_x_preferred":[
         "Santa Eulalia"
     ],
@@ -42,6 +48,9 @@
         "Santa Eulalia"
     ],
     "name:spa_x_preferred":[
+        "Santa Eulalia"
+    ],
+    "name:swe_x_preferred":[
         "Santa Eulalia"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421173687,
-    "wof:lastmodified":1566643404,
+    "wof:lastmodified":1690927700,
     "wof:name":"Santa Eulalia",
     "wof:parent_id":1108695629,
     "wof:placetype":"locality",

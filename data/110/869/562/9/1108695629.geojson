@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030225,
-    "geom:area_square_m":359700872.23319,
+    "geom:area_square_m":359700919.581347,
     "geom:bbox":"-91.546836,15.662548,-91.140666,15.836412",
     "geom:latitude":15.750848,
     "geom:longitude":-91.325241,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.SE",
         "wd:id":"Q1748868"
     },
     "wof:country":"GT",
     "wof:created":1474493952,
-    "wof:geomhash":"07606ca67cf64c56e1aab765a5512d85",
+    "wof:geomhash":"c1809608907433cdf074ca3ff1dc3967",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695629,
-    "wof:lastmodified":1690927624,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santa Eulalia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

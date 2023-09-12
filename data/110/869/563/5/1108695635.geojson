@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001748,
-    "geom:area_square_m":20907185.356151,
+    "geom:area_square_m":20907044.372541,
     "geom:bbox":"-91.355357,14.660995,-91.306336,14.74183",
     "geom:latitude":14.702956,
     "geom:longitude":-91.331475,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SO.MV",
         "wd:id":"Q1748668"
     },
     "wof:country":"GT",
     "wof:created":1474493962,
-    "wof:geomhash":"7673a47fe990c0e580da7aeaaaaa739d",
+    "wof:geomhash":"dbcaa0fb1d1a32283e08f87ece0dc125",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695635,
-    "wof:lastmodified":1690927619,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santa Maria Visitacion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

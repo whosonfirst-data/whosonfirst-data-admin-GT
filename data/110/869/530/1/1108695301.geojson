@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011388,
-    "geom:area_square_m":135942821.464854,
+    "geom:area_square_m":135942617.750968,
     "geom:bbox":"-91.814169,15.031889,-91.681948,15.200802",
     "geom:latitude":15.110062,
     "geom:longitude":-91.746142,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.CO",
         "wd:id":"Q2716941"
     },
     "wof:country":"GT",
     "wof:created":1474493615,
-    "wof:geomhash":"63c1dae62d1133f24ad770186bdee2e0",
+    "wof:geomhash":"e18147bc2a8984823832d230f3987d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695301,
-    "wof:lastmodified":1690927608,
+    "wof:lastmodified":1694492401,
     "wof:name":"Comitancillo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

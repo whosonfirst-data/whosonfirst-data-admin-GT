@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003808,
-    "geom:area_square_m":45499151.310772,
+    "geom:area_square_m":45499151.310771,
     "geom:bbox":"-91.9515086451,14.8916038576,-91.8728840825,14.9737789582",
     "geom:latitude":14.927413,
     "geom:longitude":-91.911634,
@@ -85,11 +85,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.RP",
         "wd:id":"Q2402778"
     },
     "wof:country":"GT",
     "wof:created":1474493917,
-    "wof:geomhash":"82f2acd6a3e6689f868b06aede6b5ae4",
+    "wof:geomhash":"087fa9df0af53d909bb6a89379988637",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108695595,
-    "wof:lastmodified":1566643189,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Rafael Pie De La Cuesta",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

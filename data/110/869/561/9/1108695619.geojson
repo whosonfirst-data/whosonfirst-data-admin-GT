@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016565,
-    "geom:area_square_m":198353118.260842,
+    "geom:area_square_m":198353141.257225,
     "geom:bbox":"-89.862838,14.360809,-89.675814,14.514278",
     "geom:latitude":14.440269,
     "geom:longitude":-89.771799,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.SC",
         "wd:id":"Q1748953"
     },
     "wof:country":"GT",
     "wof:created":1474493941,
-    "wof:geomhash":"95b7273101d3024aea6ac507ca26cdea",
+    "wof:geomhash":"388541064d6378e032aeda05ce0d8d89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695619,
-    "wof:lastmodified":1690927585,
+    "wof:lastmodified":1694492400,
     "wof:name":"Santa Catarina Mita",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

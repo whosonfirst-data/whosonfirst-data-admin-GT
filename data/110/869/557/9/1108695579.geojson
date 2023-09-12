@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025028,
-    "geom:area_square_m":298701845.154305,
+    "geom:area_square_m":298701513.179578,
     "geom:bbox":"-91.321785,15.090438,-90.982816,15.236175",
     "geom:latitude":15.159445,
     "geom:longitude":-91.163471,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.PJ",
         "wd:id":"Q2621511"
     },
     "wof:country":"GT",
     "wof:created":1474493905,
-    "wof:geomhash":"44fab6274f88d5baa5716083de4f4fd9",
+    "wof:geomhash":"92f3c232f36965128f07ecb32cee7d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695579,
-    "wof:lastmodified":1690927586,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Pedro Jocopitas",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

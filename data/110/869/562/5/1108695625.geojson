@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00491,
-    "geom:area_square_m":58812955.403832,
+    "geom:area_square_m":58813318.494512,
     "geom:bbox":"-90.424663,14.332675,-90.331304,14.43597",
     "geom:latitude":14.381799,
     "geom:longitude":-90.375864,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.CN",
         "wd:id":"Q979193"
     },
     "wof:country":"GT",
     "wof:created":1474493950,
-    "wof:geomhash":"7be974a9f303faefe5223fb8c9c56797",
+    "wof:geomhash":"72dad5a6a2d128c66f9ff5bcc16f1ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695625,
-    "wof:lastmodified":1690927625,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

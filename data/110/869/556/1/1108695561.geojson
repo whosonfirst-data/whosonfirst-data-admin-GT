@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010445,
-    "geom:area_square_m":124313656.476969,
+    "geom:area_square_m":124313282.846971,
     "geom:bbox":"-91.728807,15.670116,-91.530432,15.828523",
     "geom:latitude":15.745552,
     "geom:longitude":-91.625545,
@@ -63,10 +63,12 @@
         85671641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.HU.MA"
+    },
     "wof:country":"GT",
     "wof:created":1474493888,
-    "wof:geomhash":"8f06a81fecebfaabd63f55bc6d6d809d",
+    "wof:geomhash":"d7094b79253f99aa89207e7ad283d768",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1108695561,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1694492674,
     "wof:name":"San Miguel Acatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

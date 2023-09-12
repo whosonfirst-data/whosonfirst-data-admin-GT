@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013944,
-    "geom:area_square_m":166660942.034333,
+    "geom:area_square_m":166660921.422,
     "geom:bbox":"-92.051258,14.769863,-91.827449,14.924953",
     "geom:latitude":14.847709,
     "geom:longitude":-91.94561,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.ET",
         "wd:id":"Q2422887"
     },
     "wof:country":"GT",
     "wof:created":1474493649,
-    "wof:geomhash":"b54147d348ff053abb36cce73d5d7413",
+    "wof:geomhash":"494ecd1f1526411ee87b38c56be81ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695337,
-    "wof:lastmodified":1690927577,
+    "wof:lastmodified":1694492400,
     "wof:name":"El Tumbador",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

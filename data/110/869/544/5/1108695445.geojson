@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
-    "geom:area_square_m":16860667.066559,
+    "geom:area_square_m":16860509.775167,
     "geom:bbox":"-91.556083,14.629251,-91.512123,14.682491",
     "geom:latitude":14.656767,
     "geom:longitude":-91.534217,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.PN",
         "wd:id":"Q3925380"
     },
     "wof:country":"GT",
     "wof:created":1474493765,
-    "wof:geomhash":"4ce5e05291489f252e27221b7c3ed184",
+    "wof:geomhash":"049d51a2a7ea05f61fcbd508a92e738f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695445,
-    "wof:lastmodified":1690927600,
+    "wof:lastmodified":1694492674,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

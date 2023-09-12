@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041351,
-    "geom:area_square_m":495474921.327284,
+    "geom:area_square_m":495475074.129505,
     "geom:bbox":"-89.795594,14.186367,-89.520282,14.432383",
     "geom:latitude":14.299564,
     "geom:longitude":-89.666661,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.AM",
         "wd:id":"Q2608750"
     },
     "wof:country":"GT",
     "wof:created":1474493569,
-    "wof:geomhash":"f8ae846d2abafd07ec1038e49b480d67",
+    "wof:geomhash":"c70777db6af39c03125720aef779f308",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695263,
-    "wof:lastmodified":1690927595,
+    "wof:lastmodified":1694492401,
     "wof:name":"Asuncion Mita",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

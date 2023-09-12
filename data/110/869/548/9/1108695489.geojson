@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001347,
-    "geom:area_square_m":16122855.728443,
+    "geom:area_square_m":16123012.406126,
     "geom:bbox":"-91.480978,14.510968,-91.429978,14.555711",
     "geom:latitude":14.530636,
     "geom:longitude":-91.45448,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.SB",
         "wd:id":"Q1748616"
     },
     "wof:country":"GT",
     "wof:created":1474493816,
-    "wof:geomhash":"68269c2fee14f50fb9bea15e321ef308",
+    "wof:geomhash":"9679dd473abef7416ce9cc30563d3ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695489,
-    "wof:lastmodified":1690927642,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Bernandino",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

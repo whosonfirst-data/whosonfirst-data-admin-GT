@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002489,
-    "geom:area_square_m":29779046.02409,
+    "geom:area_square_m":29779109.978718,
     "geom:bbox":"-90.864171,14.557838,-90.7905,14.631279",
     "geom:latitude":14.589512,
     "geom:longitude":-90.822605,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CM.PR",
         "wd:id":"Q509612"
     },
     "wof:country":"GT",
     "wof:created":1474493748,
-    "wof:geomhash":"08027d538fa2a56d52c68fa878e35bc9",
+    "wof:geomhash":"4d800a592416bbf9b6f518053995e1c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695435,
-    "wof:lastmodified":1690927598,
+    "wof:lastmodified":1694492401,
     "wof:name":"Parramos",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

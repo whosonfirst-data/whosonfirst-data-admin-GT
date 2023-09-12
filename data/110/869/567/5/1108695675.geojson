@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003795,
-    "geom:area_square_m":45197085.143958,
+    "geom:area_square_m":45196876.730994,
     "geom:bbox":"-91.783553,15.55249,-91.688577,15.620362",
     "geom:latitude":15.588706,
     "geom:longitude":-91.736801,
@@ -61,10 +61,12 @@
         85671641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.HU.UC"
+    },
     "wof:country":"GT",
     "wof:created":1474494000,
-    "wof:geomhash":"e1a0d65aa6fc9cc73b4542abc7d85bbc",
+    "wof:geomhash":"df9142f38ebb810e6a21296e90f7d741",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1108695675,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1694492674,
     "wof:name":"Union Cantinil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

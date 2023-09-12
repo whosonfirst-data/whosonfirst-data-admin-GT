@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01784,
-    "geom:area_square_m":213123475.518289,
+    "geom:area_square_m":213123435.664577,
     "geom:bbox":"-89.407802,14.893322,-89.157452,15.019596",
     "geom:latitude":14.955395,
     "geom:longitude":-89.277417,
@@ -99,11 +99,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ZA.LU",
         "wd:id":"Q1005750"
     },
     "wof:country":"GT",
     "wof:created":1474493698,
-    "wof:geomhash":"fceadcc5e17e73285e65bc5bfc83496a",
+    "wof:geomhash":"2c5fa852623fe66ed3424e64b8be8ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695381,
-    "wof:lastmodified":1690927620,
+    "wof:lastmodified":1694492942,
     "wof:name":"La Union",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

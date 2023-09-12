@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008868,
-    "geom:area_square_m":105849331.838523,
+    "geom:area_square_m":105849208.174978,
     "geom:bbox":"-92.010276,15.060657,-91.832746,15.199482",
     "geom:latitude":15.142669,
     "geom:longitude":-91.915556,
@@ -105,11 +105,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.IX",
         "wd:id":"Q2609056"
     },
     "wof:country":"GT",
     "wof:created":1474493674,
-    "wof:geomhash":"99241f4401775a4b5a9edcbec0a0e55b",
+    "wof:geomhash":"c68dc027f4d642486c46fd551e7421b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108695365,
-    "wof:lastmodified":1690927624,
+    "wof:lastmodified":1694492402,
     "wof:name":"Ixchiguan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

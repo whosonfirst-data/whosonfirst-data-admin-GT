@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":8721176.528568,
+    "geom:area_square_m":8721259.408551,
     "geom:bbox":"-90.701283,14.58305,-90.668738,14.616476",
     "geom:latitude":14.600961,
     "geom:longitude":-90.684299,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SA.BM",
         "wd:id":"Q2401093"
     },
     "wof:country":"GT",
     "wof:created":1474493811,
-    "wof:geomhash":"bb983b1bdff1a24491ccd4e76d5c2ca5",
+    "wof:geomhash":"08241063ecbe43f0d81743260fe78f40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695485,
-    "wof:lastmodified":1690927643,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Bartolome Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

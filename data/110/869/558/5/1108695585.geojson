@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006488,
-    "geom:area_square_m":77501371.859385,
+    "geom:area_square_m":77501428.560397,
     "geom:bbox":"-91.817498,14.89225,-91.704914,15.023356",
     "geom:latitude":14.965278,
     "geom:longitude":-91.761083,
@@ -62,10 +62,12 @@
         85671661
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.SM.PS"
+    },
     "wof:country":"GT",
     "wof:created":1474493911,
-    "wof:geomhash":"87ffd21fb22e7f6275bc53e85b26ef3c",
+    "wof:geomhash":"c7c2c90e46e9f75bfc20c9157db14a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108695585,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1694492674,
     "wof:name":"San Pedro Sacatepequez",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

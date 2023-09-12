@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004046,
-    "geom:area_square_m":48353288.51673,
+    "geom:area_square_m":48353217.60327,
     "geom:bbox":"-92.03966,14.835698,-91.93879,14.941776",
     "geom:latitude":14.887483,
     "geom:longitude":-91.998253,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.ER",
         "wd:id":"Q579733"
     },
     "wof:country":"GT",
     "wof:created":1474493646,
-    "wof:geomhash":"4c6571722846efc22ead1580bf2028b4",
+    "wof:geomhash":"fe4eb6a4ea49c3fe05450588a26a9da6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695333,
-    "wof:lastmodified":1690927578,
+    "wof:lastmodified":1694492674,
     "wof:name":"El Rodeo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

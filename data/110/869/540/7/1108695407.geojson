@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065662,
-    "geom:area_square_m":780662346.378988,
+    "geom:area_square_m":780661887.178061,
     "geom:bbox":"-91.870556,15.788711,-91.487392,16.07666",
     "geom:latitude":15.947736,
     "geom:longitude":-91.677312,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.NE",
         "wd:id":"Q2402097"
     },
     "wof:country":"GT",
     "wof:created":1474493726,
-    "wof:geomhash":"5284ac50dd22704c88277f6b183ed879",
+    "wof:geomhash":"57cb5283f12ea4bf6e669800fddb8a65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695407,
-    "wof:lastmodified":1690927635,
+    "wof:lastmodified":1694492403,
     "wof:name":"Nenton",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020911,
-    "geom:area_square_m":250644077.77677,
+    "geom:area_square_m":250644169.540296,
     "geom:bbox":"-90.606694,14.131556,-90.340713,14.320569",
     "geom:latitude":14.217669,
     "geom:longitude":-90.498303,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.PN",
         "wd:id":"Q2402134"
     },
     "wof:country":"GT",
     "wof:created":1474493762,
-    "wof:geomhash":"0b05237cfc57cb8e714cab1fc1b2d5a3",
+    "wof:geomhash":"c28ae4c0d8e8861eea3d842acc64b1af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695443,
-    "wof:lastmodified":1690927600,
+    "wof:lastmodified":1694492401,
     "wof:name":"Pueblo Nuevo Vinas",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

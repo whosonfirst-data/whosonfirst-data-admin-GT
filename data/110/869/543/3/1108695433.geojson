@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061615,
-    "geom:area_square_m":734842355.287991,
+    "geom:area_square_m":734842252.590185,
     "geom:bbox":"-89.805166,15.117025,-89.510994,15.526696",
     "geom:latitude":15.310254,
     "geom:longitude":-89.655943,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.AV.PA",
         "wd:id":"Q2050264"
     },
     "wof:country":"GT",
     "wof:created":1474493747,
-    "wof:geomhash":"26dda0977a2daf0a3eedb9ea2b653bac",
+    "wof:geomhash":"ce9b55f29ce0706985403a2e996c5435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695433,
-    "wof:lastmodified":1690927598,
+    "wof:lastmodified":1694492401,
     "wof:name":"Panzos",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

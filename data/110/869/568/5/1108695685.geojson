@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004697,
-    "geom:area_square_m":56306729.491413,
+    "geom:area_square_m":56306571.364691,
     "geom:bbox":"-89.823037,14.094808,-89.754994,14.237939",
     "geom:latitude":14.176699,
     "geom:longitude":-89.78564,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.YU",
         "wd:id":"Q1749697"
     },
     "wof:country":"GT",
     "wof:created":1474494008,
-    "wof:geomhash":"674a7849956cd8ff15355792da947a4f",
+    "wof:geomhash":"e1fa3b3f76511607421754a1855be129",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695685,
-    "wof:lastmodified":1690927589,
+    "wof:lastmodified":1694492400,
     "wof:name":"Yupiltepeque",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

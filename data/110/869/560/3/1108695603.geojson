@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003437,
-    "geom:area_square_m":41118763.659059,
+    "geom:area_square_m":41118818.517947,
     "geom:bbox":"-90.72838,14.611648,-90.638548,14.668665",
     "geom:latitude":14.641111,
     "geom:longitude":-90.68137,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SA.SS",
         "wd:id":"Q2295832"
     },
     "wof:country":"GT",
     "wof:created":1474493926,
-    "wof:geomhash":"b203219319292ee403a418e0c3937c98",
+    "wof:geomhash":"86d9f02f8d30da68dcdbb4c0f880fb55",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695603,
-    "wof:lastmodified":1690927573,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Tiago Sacatepequez",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

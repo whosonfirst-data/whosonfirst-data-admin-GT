@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05936,
-    "geom:area_square_m":707582245.636919,
+    "geom:area_square_m":707581881.013373,
     "geom:bbox":"-90.112629,15.311919,-89.608651,15.52871",
     "geom:latitude":15.419126,
     "geom:longitude":-89.840057,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.AV.SE",
         "wd:id":"Q332072"
     },
     "wof:country":"GT",
     "wof:created":1474493974,
-    "wof:geomhash":"514dedebae8b905e1b04018b69d8f96a",
+    "wof:geomhash":"bc262aae3b24cc70d3ba9f1deb21af6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695647,
-    "wof:lastmodified":1690927616,
+    "wof:lastmodified":1694492402,
     "wof:name":"Senahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

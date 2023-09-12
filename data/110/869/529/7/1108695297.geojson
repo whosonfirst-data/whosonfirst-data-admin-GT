@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035221,
-    "geom:area_square_m":421376574.738263,
+    "geom:area_square_m":421376434.923293,
     "geom:bbox":"-92.141446,14.531155,-91.804982,14.731309",
     "geom:latitude":14.640872,
     "geom:longitude":-91.978939,
@@ -108,11 +108,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.CP",
         "wd:id":"Q2445821"
     },
     "wof:country":"GT",
     "wof:created":1474493609,
-    "wof:geomhash":"4bf8ff7f903d413694a3269c3d4fc7f9",
+    "wof:geomhash":"f74823b6a7f488bacd9331b4d01db332",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108695297,
-    "wof:lastmodified":1690927602,
+    "wof:lastmodified":1694492401,
     "wof:name":"Coatepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

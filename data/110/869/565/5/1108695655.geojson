@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015525,
-    "geom:area_square_m":185985947.295331,
+    "geom:area_square_m":185985885.982265,
     "geom:bbox":"-91.019594,14.25564,-90.878,14.470453",
     "geom:latitude":14.349718,
     "geom:longitude":-90.940746,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ES.SI",
         "wd:id":"Q1748570"
     },
     "wof:country":"GT",
     "wof:created":1474493980,
-    "wof:geomhash":"0733bdfb4138ab34a3b1769d860d1590",
+    "wof:geomhash":"62c007f090cdf60e40b641cddd5cfe5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695655,
-    "wof:lastmodified":1690927627,
+    "wof:lastmodified":1694492403,
     "wof:name":"Siquinala",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

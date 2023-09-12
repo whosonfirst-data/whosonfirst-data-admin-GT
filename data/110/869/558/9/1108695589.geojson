@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007612,
-    "geom:area_square_m":91142599.583447,
+    "geom:area_square_m":91142592.542505,
     "geom:bbox":"-90.222542,14.405813,-90.094277,14.498696",
     "geom:latitude":14.451539,
     "geom:longitude":-90.160305,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.RF",
         "wd:id":"Q1748669"
     },
     "wof:country":"GT",
     "wof:created":1474493914,
-    "wof:geomhash":"73199200f9558d2706b011f116787b4b",
+    "wof:geomhash":"455b70be1a279f4a2b95b44da79b5412",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695589,
-    "wof:lastmodified":1690927576,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Rafael Las Flores",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

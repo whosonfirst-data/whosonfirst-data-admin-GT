@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006204,
-    "geom:area_square_m":74211957.42688,
+    "geom:area_square_m":74211857.202413,
     "geom:bbox":"-89.564276,14.624764,-89.464242,14.734642",
     "geom:latitude":14.678577,
     "geom:longitude":-89.511045,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CQ.SJ",
         "wd:id":"Q978109"
     },
     "wof:country":"GT",
     "wof:created":1474493838,
-    "wof:geomhash":"208eacced6d443bd9bbaa50c493422c2",
+    "wof:geomhash":"2b122583c73882db9b4e8d94bc0d63d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695513,
-    "wof:lastmodified":1690927569,
+    "wof:lastmodified":1694492399,
     "wof:name":"San Jacinto",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

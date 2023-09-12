@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020409,
-    "geom:area_square_m":244365522.147379,
+    "geom:area_square_m":244365787.902292,
     "geom:bbox":"-89.692391,14.362533,-89.494836,14.559284",
     "geom:latitude":14.459154,
     "geom:longitude":-89.601055,
@@ -102,11 +102,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.AB",
         "wd:id":"Q2403493"
     },
     "wof:country":"GT",
     "wof:created":1474493561,
-    "wof:geomhash":"540f358dce50911c052cf5bcf6053065",
+    "wof:geomhash":"52527245363179dcb737923e6abaed00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108695255,
-    "wof:lastmodified":1690927638,
+    "wof:lastmodified":1694492403,
     "wof:name":"Agua Blanca",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01763,
-    "geom:area_square_m":210907137.118732,
+    "geom:area_square_m":210906769.096941,
     "geom:bbox":"-89.782342,14.546847,-89.64543,14.75761",
     "geom:latitude":14.653839,
     "geom:longitude":-89.714143,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JA.LJ",
         "wd:id":"Q568999"
     },
     "wof:country":"GT",
     "wof:created":1474493873,
-    "wof:geomhash":"740279be3f73406c29954080dae9b697",
+    "wof:geomhash":"291ec6e9c5ff6f02384f59f49b2792b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695545,
-    "wof:lastmodified":1690927630,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Luis Jilotepeque",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

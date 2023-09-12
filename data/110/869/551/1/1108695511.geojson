@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019748,
-    "geom:area_square_m":235406624.533955,
+    "geom:area_square_m":235406394.716266,
     "geom:bbox":"-91.882322,15.328862,-91.722638,15.523084",
     "geom:latitude":15.414857,
     "geom:longitude":-91.804627,
@@ -97,11 +97,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.IX",
         "wd:id":"Q2401814"
     },
     "wof:country":"GT",
     "wof:created":1474493837,
-    "wof:geomhash":"e99990fbeca3d74dc12c3a5993a001a5",
+    "wof:geomhash":"dbeb48675d67a0dee647de3f24d6e119",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695511,
-    "wof:lastmodified":1690927569,
+    "wof:lastmodified":1694492399,
     "wof:name":"San Idelfonso Ixtahuacan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004416,
-    "geom:area_square_m":52560654.162722,
+    "geom:area_square_m":52560876.106717,
     "geom:bbox":"-91.564004,15.684423,-91.464276,15.768589",
     "geom:latitude":15.728533,
     "geom:longitude":-91.521618,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.RI",
         "wd:id":"Q2401930"
     },
     "wof:country":"GT",
     "wof:created":1474493912,
-    "wof:geomhash":"2337bc37eb871087ff3bb9596badd14e",
+    "wof:geomhash":"06841005b52a2ab793ba43fc7743802d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695587,
-    "wof:lastmodified":1690927577,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Rafael Independencia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

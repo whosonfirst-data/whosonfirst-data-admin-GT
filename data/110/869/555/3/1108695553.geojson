@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000764,
-    "geom:area_square_m":9135568.647797,
+    "geom:area_square_m":9135690.747829,
     "geom:bbox":"-91.615026,14.59924,-91.564852,14.628898",
     "geom:latitude":14.613536,
     "geom:longitude":-91.589429,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.RE.MZ",
         "wd:id":"Q1748755"
     },
     "wof:country":"GT",
     "wof:created":1474493883,
-    "wof:geomhash":"ef77f318d350f5e2a8f4a25abeed944a",
+    "wof:geomhash":"707dd1728dae89a8b138cca1d43c4852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695553,
-    "wof:lastmodified":1690927612,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Martin Zapotitlan",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

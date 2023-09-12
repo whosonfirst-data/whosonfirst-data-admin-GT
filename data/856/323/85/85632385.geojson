@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.191534,
-    "geom:area_square_m":109397739413.181458,
+    "geom:area_square_m":109397739413.190369,
     "geom:bbox":"-92.231153,13.740028,-88.231057,17.815687",
     "geom:latitude":15.697019,
     "geom:longitude":-90.357506,
@@ -14,6 +14,9 @@
     "iso:country":"GT",
     "itu:country_code":[
         "502"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "GT"
@@ -1148,7 +1151,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"502",
     "statoids:ds":"GCA",
     "statoids:fifa":"GUA",
@@ -1208,7 +1212,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"a3e2bb39817e484fbccb1aa6fdeb7953",
+    "wof:geomhash":"3e90038964d463950bd3329c6973fd18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1223,12 +1227,12 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927555,
+    "wof:lastmodified":1694492193,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":15468203,
-    "wof:population_rank":14,
+    "wof:population":16604026,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:shortcode":"GT",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016776,
-    "geom:area_square_m":200777751.851956,
+    "geom:area_square_m":200777965.396937,
     "geom:bbox":"-90.434409,14.478222,-90.238367,14.619724",
     "geom:latitude":14.55523,
     "geom:longitude":-90.34453,
@@ -99,11 +99,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.GU.JP",
         "wd:id":"Q317380"
     },
     "wof:country":"GT",
     "wof:created":1474493852,
-    "wof:geomhash":"4ff0284250c835211782eeae68c4d450",
+    "wof:geomhash":"782fa64f95e345b53e8b0d9db3387abe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695529,
-    "wof:lastmodified":1690927613,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Jose Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

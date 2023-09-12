@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058103,
-    "geom:area_square_m":693472461.052071,
+    "geom:area_square_m":693472484.243418,
     "geom:bbox":"-90.815559,14.956589,-90.54634,15.350619",
     "geom:latitude":15.155402,
     "geom:longitude":-90.670606,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.BV.CU",
         "wd:id":"Q2034094"
     },
     "wof:country":"GT",
     "wof:created":1474493625,
-    "wof:geomhash":"dee0bc9606423d5333a31a7fa86d7ded",
+    "wof:geomhash":"3501bc1fb3206316c4203ae76a8f9484",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695313,
-    "wof:lastmodified":1690927621,
+    "wof:lastmodified":1694492402,
     "wof:name":"Cubulco",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

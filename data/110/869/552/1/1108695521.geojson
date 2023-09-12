@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006246,
-    "geom:area_square_m":74677886.285235,
+    "geom:area_square_m":74677638.022344,
     "geom:bbox":"-90.423634,14.73188,-90.327647,14.845923",
     "geom:latitude":14.79674,
     "geom:longitude":-90.373497,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.GU.JG",
         "wd:id":"Q275791"
     },
     "wof:country":"GT",
     "wof:created":1474493846,
-    "wof:geomhash":"ee87da6f8166a29ff4f39be5a6897ec1",
+    "wof:geomhash":"4c3824a6764a9c200f42832e59933e52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695521,
-    "wof:lastmodified":1690927614,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Jose Del Golfo",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007033,
-    "geom:area_square_m":84091080.662089,
+    "geom:area_square_m":84091040.799567,
     "geom:bbox":"-91.913248,14.714633,-91.766148,14.870132",
     "geom:latitude":14.77283,
     "geom:longitude":-91.819393,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.EQ",
         "wd:id":"Q1748870"
     },
     "wof:country":"GT",
     "wof:created":1474493645,
-    "wof:geomhash":"4cf1d6d8f2dcfab58299f3602faa80be",
+    "wof:geomhash":"b936e34c094b6944ab17e6d4699dedcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695331,
-    "wof:lastmodified":1690927578,
+    "wof:lastmodified":1694492400,
     "wof:name":"El Quetzal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

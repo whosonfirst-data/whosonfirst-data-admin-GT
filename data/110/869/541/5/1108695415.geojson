@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012766,
-    "geom:area_square_m":152787809.001459,
+    "geom:area_square_m":152788195.620873,
     "geom:bbox":"-92.231153,14.489957,-92.050038,14.616649",
     "geom:latitude":14.554534,
     "geom:longitude":-92.14095,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.OC",
         "wd:id":"Q1748759"
     },
     "wof:country":"GT",
     "wof:created":1474493732,
-    "wof:geomhash":"454fca928a1546b8beeef335b91ad7fc",
+    "wof:geomhash":"16ae0e119fff66af6ad12bb010144fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695415,
-    "wof:lastmodified":1690927640,
+    "wof:lastmodified":1694492403,
     "wof:name":"Ocos",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006202,
-    "geom:area_square_m":74141443.397825,
+    "geom:area_square_m":74141430.612144,
     "geom:bbox":"-91.913899,14.732368,-91.782035,14.901765",
     "geom:latitude":14.808459,
     "geom:longitude":-91.837817,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.LR",
         "wd:id":"Q1748856"
     },
     "wof:country":"GT",
     "wof:created":1474493691,
-    "wof:geomhash":"a7b1aee6f6335c6ddd5d4f61b8f563a9",
+    "wof:geomhash":"f7bbc06f88b5f1f725cd2b6014c8c3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695379,
-    "wof:lastmodified":1690927607,
+    "wof:lastmodified":1694492401,
     "wof:name":"La Reforma",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

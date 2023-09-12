@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018402,
-    "geom:area_square_m":219726787.49721,
+    "geom:area_square_m":219726732.602802,
     "geom:bbox":"-90.294822,14.97315,-90.055724,15.128645",
     "geom:latitude":15.064212,
     "geom:longitude":-90.194067,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.BV.SJ",
         "wd:id":"Q962529"
     },
     "wof:country":"GT",
     "wof:created":1474493840,
-    "wof:geomhash":"55c1affe7c78900554e205374f8b0c6a",
+    "wof:geomhash":"330eac3806bfe2282c3b7c5ee75c7296",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695515,
-    "wof:lastmodified":1690927570,
+    "wof:lastmodified":1694492399,
     "wof:name":"San Jeronimo",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

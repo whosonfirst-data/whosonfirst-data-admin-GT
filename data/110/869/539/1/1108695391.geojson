@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":13418169.601243,
+    "geom:area_square_m":13418221.353826,
     "geom:bbox":"-90.701857,14.521772,-90.655905,14.560468",
     "geom:latitude":14.542789,
     "geom:longitude":-90.677998,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SA.MM",
         "wd:id":"Q2401074"
     },
     "wof:country":"GT",
     "wof:created":1474493709,
-    "wof:geomhash":"a9b4d3d61319463b33a85c9d5e1202c7",
+    "wof:geomhash":"73e20d7fcdbb5e172bde81051498ae8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695391,
-    "wof:lastmodified":1690927610,
+    "wof:lastmodified":1694492402,
     "wof:name":"Magdalena Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

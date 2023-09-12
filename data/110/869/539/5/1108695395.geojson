@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040018,
-    "geom:area_square_m":479943273.004013,
+    "geom:area_square_m":479942709.521319,
     "geom:bbox":"-90.924939,13.950583,-90.700093,14.248607",
     "geom:latitude":14.087242,
     "geom:longitude":-90.809298,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ES.MA",
         "wd:id":"Q1748359"
     },
     "wof:country":"GT",
     "wof:created":1474493712,
-    "wof:geomhash":"22b434dfcf88e3ca0ec546c0818f2575",
+    "wof:geomhash":"0fefb6747d85ce3d74f29b37881f514c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695395,
-    "wof:lastmodified":1690927611,
+    "wof:lastmodified":1694492402,
     "wof:name":"Masagua",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

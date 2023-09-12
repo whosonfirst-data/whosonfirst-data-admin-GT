@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015983,
-    "geom:area_square_m":191400195.834513,
+    "geom:area_square_m":191399915.407597,
     "geom:bbox":"-91.701317,14.304003,-91.542813,14.635419",
     "geom:latitude":14.423742,
     "geom:longitude":-91.62033,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.RE.AV",
         "wd:id":"Q2401685"
     },
     "wof:country":"GT",
     "wof:created":1474493796,
-    "wof:geomhash":"c52a8f97bfba82dcb7bcfd9fd6d7ed09",
+    "wof:geomhash":"d950876682d36b59d85e68d1f442a80c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695469,
-    "wof:lastmodified":1690927640,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Andrez Villa Seca",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

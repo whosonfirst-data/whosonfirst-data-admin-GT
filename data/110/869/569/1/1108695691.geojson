@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":12995397.972571,
+    "geom:area_square_m":12995192.157876,
     "geom:bbox":"-91.515729,14.598522,-91.480225,14.664268",
     "geom:latitude":14.631439,
     "geom:longitude":-91.497035,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.ZU",
         "wd:id":"Q2608644"
     },
     "wof:country":"GT",
     "wof:created":1474494015,
-    "wof:geomhash":"00a6b6d6ddffaa4363004e4648f59b44",
+    "wof:geomhash":"4671fa559c5b74bae40a54d86770209a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695691,
-    "wof:lastmodified":1690927572,
+    "wof:lastmodified":1694492400,
     "wof:name":"Zunilito",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

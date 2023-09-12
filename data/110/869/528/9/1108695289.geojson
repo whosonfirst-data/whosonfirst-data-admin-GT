@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046384,
-    "geom:area_square_m":552678993.735907,
+    "geom:area_square_m":552678993.736018,
     "geom:bbox":"-91.5241134449,15.3508197173,-91.2320728859,15.6502921124",
     "geom:latitude":15.50322,
     "geom:longitude":-91.407117,
@@ -86,10 +86,12 @@
         85671641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.SU.CH"
+    },
     "wof:country":"GT",
     "wof:created":1474493595,
-    "wof:geomhash":"7d318f7c14c45a7c7d38c0e83bec5605",
+    "wof:geomhash":"74b34bb640706f6fb651162df4ffbb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1108695289,
-    "wof:lastmodified":1566643193,
+    "wof:lastmodified":1694492401,
     "wof:name":"Chiantla",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

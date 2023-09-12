@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010093,
-    "geom:area_square_m":120578415.581243,
+    "geom:area_square_m":120578209.844097,
     "geom:bbox":"-90.550778,14.879495,-90.431954,15.021632",
     "geom:latitude":14.954657,
     "geom:longitude":-90.487955,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.BV.EC",
         "wd:id":"Q1727528"
     },
     "wof:country":"GT",
     "wof:created":1474493637,
-    "wof:geomhash":"43618cc1c31a66e60c1a2faf6f3dc54c",
+    "wof:geomhash":"03334e477548100f6563385509744651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695323,
-    "wof:lastmodified":1690927593,
+    "wof:lastmodified":1694492401,
     "wof:name":"El Chol",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

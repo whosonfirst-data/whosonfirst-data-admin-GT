@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00212,
-    "geom:area_square_m":25365309.299398,
+    "geom:area_square_m":25365114.747918,
     "geom:bbox":"-91.498646,14.543338,-91.442302,14.606815",
     "geom:latitude":14.574791,
     "geom:longitude":-91.471727,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.SA",
         "wd:id":"Q371216"
     },
     "wof:country":"GT",
     "wof:created":1474493784,
-    "wof:geomhash":"02b3564c58577093fbb6b947649c8727",
+    "wof:geomhash":"6220e8e9d23cab27a5354575b9e563e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695461,
-    "wof:lastmodified":1690927641,
+    "wof:lastmodified":1694492403,
     "wof:name":"Samayac",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

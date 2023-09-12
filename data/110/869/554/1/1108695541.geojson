@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002911,
-    "geom:area_square_m":34909142.834764,
+    "geom:area_square_m":34909142.834762,
     "geom:bbox":"-90.3030644074,14.0389893641,-90.2312519685,14.1105386204",
     "geom:latitude":14.071461,
     "geom:longitude":-90.269206,
@@ -83,10 +83,12 @@
         85671705
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.SR.JT"
+    },
     "wof:country":"GT",
     "wof:created":1474493868,
-    "wof:geomhash":"a83884e09923553038a2ae6e9e6f31ab",
+    "wof:geomhash":"8a64bb90cffd7f428c5ad1d2f0c19b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1108695541,
-    "wof:lastmodified":1566643209,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Juan Tecuaco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

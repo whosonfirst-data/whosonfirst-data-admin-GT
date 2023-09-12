@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01243,
-    "geom:area_square_m":148506410.055262,
+    "geom:area_square_m":148506445.00036,
     "geom:bbox":"-90.65216,14.869779,-90.497987,15.01051",
     "geom:latitude":14.935696,
     "geom:longitude":-90.576022,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.BV.GR",
         "wd:id":"Q611941"
     },
     "wof:country":"GT",
     "wof:created":1474493662,
-    "wof:geomhash":"024139acb1fa1eb5ddc5abe3793728e9",
+    "wof:geomhash":"e565ae5da1c081803791c3cc7092768b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695353,
-    "wof:lastmodified":1690927591,
+    "wof:lastmodified":1694492400,
     "wof:name":"Granados",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

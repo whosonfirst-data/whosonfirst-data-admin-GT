@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016472,
-    "geom:area_square_m":196501108.461945,
+    "geom:area_square_m":196501014.543478,
     "geom:bbox":"-91.834042,15.189907,-91.632246,15.351483",
     "geom:latitude":15.26251,
     "geom:longitude":-91.734561,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.MI",
         "wd:id":"Q2402417"
     },
     "wof:country":"GT",
     "wof:created":1474493893,
-    "wof:geomhash":"eae21e8c74cfa5d2e1e5e3361e2b22c1",
+    "wof:geomhash":"e0bc600e6425360d6baf352d944705bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695565,
-    "wof:lastmodified":1690927572,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Miguel Ixtahuacan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

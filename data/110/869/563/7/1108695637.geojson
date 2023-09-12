@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01144,
-    "geom:area_square_m":136987132.957691,
+    "geom:area_square_m":136987132.957767,
     "geom:bbox":"-90.4174869842,14.3673025662,-90.265653241,14.5060481363",
     "geom:latitude":14.443219,
     "geom:longitude":-90.337752,
@@ -81,11 +81,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.RL",
         "wd:id":"Q3949243"
     },
     "wof:country":"GT",
     "wof:created":1474493963,
-    "wof:geomhash":"20643d1dd0cbc6f88ec86557b09ca671",
+    "wof:geomhash":"5c9bac8f4cb75957202f5aac6e735023",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108695637,
-    "wof:lastmodified":1566643203,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santa Rosa De Lima",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

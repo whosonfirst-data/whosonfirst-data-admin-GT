@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572703,
-    "geom:area_square_m":6773696695.072527,
+    "geom:area_square_m":6773695211.334839,
     "geom:bbox":"-91.439715,16.469574,-90.026088,17.312189",
     "geom:latitude":16.956064,
     "geom:longitude":-90.639402,
@@ -134,10 +134,12 @@
         85671647
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.PE.LL"
+    },
     "wof:country":"GT",
     "wof:created":1474493690,
-    "wof:geomhash":"6f25e7f7e31479a039cca21cb2e91542",
+    "wof:geomhash":"f8e7a68b6c4d465c79c1d62efa0eeefa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +149,7 @@
         }
     ],
     "wof:id":1108695377,
-    "wof:lastmodified":1636503181,
+    "wof:lastmodified":1694492942,
     "wof:name":"La Libertad",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

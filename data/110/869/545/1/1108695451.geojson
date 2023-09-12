@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012115,
-    "geom:area_square_m":145173983.94834,
+    "geom:area_square_m":145173889.788206,
     "geom:bbox":"-90.134047,14.208602,-89.975996,14.353794",
     "geom:latitude":14.28436,
     "geom:longitude":-90.059755,
@@ -102,11 +102,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.QU",
         "wd:id":"Q2403641"
     },
     "wof:country":"GT",
     "wof:created":1474493769,
-    "wof:geomhash":"b4c5865d5de655554c5b68dbe19b9473",
+    "wof:geomhash":"b4f847f1e46ae4ef40dfd6cbb10f511d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108695451,
-    "wof:lastmodified":1690927604,
+    "wof:lastmodified":1694492942,
     "wof:name":"Quesada",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

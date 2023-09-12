@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009785,
-    "geom:area_square_m":116937188.251578,
+    "geom:area_square_m":116937391.292026,
     "geom:bbox":"-90.002288,14.836548,-89.809766,14.943365",
     "geom:latitude":14.887925,
     "geom:longitude":-89.914272,
@@ -99,11 +99,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PR.EJ",
         "wd:id":"Q984828"
     },
     "wof:country":"GT",
     "wof:created":1474493639,
-    "wof:geomhash":"fb98f185dae1cdd51155b7d85ba61044",
+    "wof:geomhash":"b297a3352e8db852d0abadd2b67acaee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695325,
-    "wof:lastmodified":1690927594,
+    "wof:lastmodified":1694492401,
     "wof:name":"El Jicaro",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

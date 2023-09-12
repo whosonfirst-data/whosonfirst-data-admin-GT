@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009426,
-    "geom:area_square_m":112575716.715304,
+    "geom:area_square_m":112575997.715016,
     "geom:bbox":"-91.128125,14.956512,-90.963522,15.065853",
     "geom:latitude":15.010578,
     "geom:longitude":-91.043265,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chich\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.007538,
     "lbl:longitude":-91.058236,
     "lbl:max_zoom":10.0,
@@ -62,6 +68,16 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2002-11-24",
+    "statoids:country":"GT",
+    "statoids:date":"2002-11-24",
+    "statoids:hasc":"GT.QC.SC",
+    "statoids:name":"Santa Cruz del Quich\u00e9",
+    "statoids:population":62369,
+    "statoids:statoid":"GT.QC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191575,
         85632385,
@@ -69,11 +85,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.SC",
         "wd:id":"Q3177464"
     },
     "wof:country":"GT",
     "wof:created":1474493774,
-    "wof:geomhash":"3a58798f0dad40c5d8716290db867473",
+    "wof:geomhash":"156c5872f5fd7db111bdbee0de2c7cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,10 +100,12 @@
         }
     ],
     "wof:id":1108695455,
-    "wof:lastmodified":1690927604,
+    "wof:lastmodified":1694497842,
     "wof:name":"Quiche",
     "wof:parent_id":85671733,
     "wof:placetype":"county",
+    "wof:population":62369,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

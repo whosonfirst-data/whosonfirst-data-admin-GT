@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01785,
-    "geom:area_square_m":213117716.963036,
+    "geom:area_square_m":213117731.705199,
     "geom:bbox":"-89.899118,14.954701,-89.655168,15.171643",
     "geom:latitude":15.077889,
     "geom:longitude":-89.780487,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ZA.TE",
         "wd:id":"Q1020568"
     },
     "wof:country":"GT",
     "wof:created":1474493993,
-    "wof:geomhash":"e115a2f475100c7fb29d14bbebb13b39",
+    "wof:geomhash":"9b3e6a0993c015b118063ff9a60ef7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695669,
-    "wof:lastmodified":1690927581,
+    "wof:lastmodified":1694492400,
     "wof:name":"Teculutan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

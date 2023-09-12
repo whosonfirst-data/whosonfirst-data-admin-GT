@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02362,
-    "geom:area_square_m":282894074.504424,
+    "geom:area_square_m":282893978.089011,
     "geom:bbox":"-90.615156,14.249084,-90.457028,14.565625",
     "geom:latitude":14.392358,
     "geom:longitude":-90.532181,
@@ -114,11 +114,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.GU.VC",
         "wd:id":"Q174266"
     },
     "wof:country":"GT",
     "wof:created":1474494004,
-    "wof:geomhash":"8ac0b50b618cb28d50fc524304a10d7e",
+    "wof:geomhash":"994c59ae28a590fbf4bd8bed5bd99501",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108695679,
-    "wof:lastmodified":1690927574,
+    "wof:lastmodified":1694492400,
     "wof:name":"Villa Canales",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

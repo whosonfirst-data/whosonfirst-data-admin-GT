@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009832,
-    "geom:area_square_m":117583377.72736,
+    "geom:area_square_m":117583139.901906,
     "geom:bbox":"-89.676206,14.652556,-89.536356,14.766945",
     "geom:latitude":14.715561,
     "geom:longitude":-89.606172,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CQ.JA",
         "wd:id":"Q1749098"
     },
     "wof:country":"GT",
     "wof:created":1474493849,
-    "wof:geomhash":"dc136703add70f2fc0ae8f6e314e39b6",
+    "wof:geomhash":"f781ed9234fd796f0cf5f03703148bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695525,
-    "wof:lastmodified":1690927615,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Jose La Arada",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

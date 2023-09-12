@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030362,
-    "geom:area_square_m":362183557.282376,
+    "geom:area_square_m":362183680.352975,
     "geom:bbox":"-92.2105,15.160387,-91.959462,15.42196",
     "geom:latitude":15.262944,
     "geom:longitude":-92.101204,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.TN",
         "wd:id":"Q2401748"
     },
     "wof:country":"GT",
     "wof:created":1474493984,
-    "wof:geomhash":"7d3f69a2234dd9a5cdfd37e845c4807f",
+    "wof:geomhash":"b102d1b93a1a933c15fa33240eb096b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695659,
-    "wof:lastmodified":1690927626,
+    "wof:lastmodified":1694492403,
     "wof:name":"Tacana",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

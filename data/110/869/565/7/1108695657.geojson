@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011048,
-    "geom:area_square_m":131518867.607914,
+    "geom:area_square_m":131518867.607911,
     "geom:bbox":"-91.5321576543,15.6527265487,-91.3323307931,15.7431888098",
     "geom:latitude":15.700312,
     "geom:longitude":-91.430036,
@@ -91,11 +91,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.SO",
         "wd:id":"Q2402459"
     },
     "wof:country":"GT",
     "wof:created":1474493982,
-    "wof:geomhash":"07c8be27d26e70933018deb2da509661",
+    "wof:geomhash":"3d67b194d7ef6f26becd2ea1630879c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695657,
-    "wof:lastmodified":1566643207,
+    "wof:lastmodified":1694492402,
     "wof:name":"Soloma",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

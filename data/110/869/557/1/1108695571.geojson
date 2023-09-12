@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002103,
-    "geom:area_square_m":25166864.705853,
+    "geom:area_square_m":25166914.374691,
     "geom:bbox":"-91.459132,14.562376,-91.394948,14.628348",
     "geom:latitude":14.591666,
     "geom:longitude":-91.429954,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.PJ",
         "wd:id":"Q2716950"
     },
     "wof:country":"GT",
     "wof:created":1474493899,
-    "wof:geomhash":"b7f51b993e86da5f468dd1e21e6689b1",
+    "wof:geomhash":"c25ceab4372aae1c209ba33c839c0857",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695571,
-    "wof:lastmodified":1690927587,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Pablo Jocopitas",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

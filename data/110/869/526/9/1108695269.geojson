@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010183,
-    "geom:area_square_m":121777324.09696,
+    "geom:area_square_m":121777425.386223,
     "geom:bbox":"-92.18258,14.604624,-92.071939,14.809787",
     "geom:latitude":14.730178,
     "geom:longitude":-92.129745,
@@ -114,11 +114,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.AY",
         "wd:id":"Q2305570"
     },
     "wof:country":"GT",
     "wof:created":1474493572,
-    "wof:geomhash":"632eec4cbda4a0d9cdbec8ad734d51a7",
+    "wof:geomhash":"49b328b4decd192d9a59de0b70586194",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108695269,
-    "wof:lastmodified":1690927595,
+    "wof:lastmodified":1694492942,
     "wof:name":"Ayutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

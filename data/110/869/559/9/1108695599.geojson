@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001419,
-    "geom:area_square_m":16984874.783885,
+    "geom:area_square_m":16984962.215937,
     "geom:bbox":"-91.667941,14.530871,-91.631398,14.594009",
     "geom:latitude":14.567308,
     "geom:longitude":-91.649585,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.RE.SS",
         "wd:id":"Q2402108"
     },
     "wof:country":"GT",
     "wof:created":1474493922,
-    "wof:geomhash":"78f1d05f81e2e3165ab5b40ea1d776f1",
+    "wof:geomhash":"d3545c6b3224ae790120d4e63019a37c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695599,
-    "wof:lastmodified":1690927583,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

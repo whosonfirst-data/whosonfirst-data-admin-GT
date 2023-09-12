@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012253,
-    "geom:area_square_m":146241200.315769,
+    "geom:area_square_m":146241306.134196,
     "geom:bbox":"-91.915774,15.075233,-91.767951,15.237101",
     "geom:latitude":15.15763,
     "geom:longitude":-91.829892,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.TE",
         "wd:id":"Q1748860"
     },
     "wof:country":"GT",
     "wof:created":1474493994,
-    "wof:geomhash":"e5bad31841a81aa74fdf990d346f971d",
+    "wof:geomhash":"0a4dd44f0c4c0a0dc4960f706bf2738c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695671,
-    "wof:lastmodified":1690927575,
+    "wof:lastmodified":1694492400,
     "wof:name":"Tejutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

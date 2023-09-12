@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011934,
-    "geom:area_square_m":142670145.29536,
+    "geom:area_square_m":142669941.138288,
     "geom:bbox":"-91.731917,14.73045,-91.580628,14.855562",
     "geom:latitude":14.795097,
     "geom:longitude":-91.664138,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.SS",
         "wd:id":"Q2402153"
     },
     "wof:country":"GT",
     "wof:created":1474493882,
-    "wof:geomhash":"e7ced9cd1e679cdd19b204327e172996",
+    "wof:geomhash":"277c54b8f66a7ef160ca20a5db4a9680",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695551,
-    "wof:lastmodified":1690927612,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Martin Sacatepequez",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

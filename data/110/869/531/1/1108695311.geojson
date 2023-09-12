@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01121,
-    "geom:area_square_m":134485810.289205,
+    "geom:area_square_m":134485726.174658,
     "geom:bbox":"-90.073176,13.928313,-89.94941,14.085377",
     "geom:latitude":14.011843,
     "geom:longitude":-90.01546,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.CG",
         "wd:id":"Q2403007"
     },
     "wof:country":"GT",
     "wof:created":1474493624,
-    "wof:geomhash":"fd7e473a1d6eb997e86e690d24f947bc",
+    "wof:geomhash":"5eeccde44730e891f9d77e5e1c37c1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695311,
-    "wof:lastmodified":1690927621,
+    "wof:lastmodified":1694492402,
     "wof:name":"Conguago",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

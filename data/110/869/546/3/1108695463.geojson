@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014256,
-    "geom:area_square_m":170078114.938837,
+    "geom:area_square_m":170078030.64945,
     "geom:bbox":"-91.011037,15.10226,-90.886504,15.343923",
     "geom:latitude":15.244158,
     "geom:longitude":-90.939833,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.AS",
         "wd:id":"Q2226684"
     },
     "wof:country":"GT",
     "wof:created":1474493789,
-    "wof:geomhash":"b15ccc2a619de7355033ca61ad6deefd",
+    "wof:geomhash":"974cb64f98c3136d7254639717c9d9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695463,
-    "wof:lastmodified":1690927642,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Andres Sajcabaja",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

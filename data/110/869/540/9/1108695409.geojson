@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011823,
-    "geom:area_square_m":141353773.252649,
+    "geom:area_square_m":141353946.876751,
     "geom:bbox":"-92.01222,14.71,-91.796609,14.916968",
     "geom:latitude":14.791624,
     "geom:longitude":-91.906778,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.NP",
         "wd:id":"Q3879296"
     },
     "wof:country":"GT",
     "wof:created":1474493729,
-    "wof:geomhash":"f3c0a2640e14c6ab06421423e2e56ef4",
+    "wof:geomhash":"f9a013202a29c8c6be9102da2e70d04a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695409,
-    "wof:lastmodified":1690927635,
+    "wof:lastmodified":1694492403,
     "wof:name":"Nuevo Progreso",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

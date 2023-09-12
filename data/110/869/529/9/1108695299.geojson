@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014943,
-    "geom:area_square_m":179197425.504499,
+    "geom:area_square_m":179197361.626681,
     "geom:bbox":"-89.987463,14.033158,-89.828629,14.205699",
     "geom:latitude":14.116336,
     "geom:longitude":-89.910946,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.CM",
         "wd:id":"Q2716888"
     },
     "wof:country":"GT",
     "wof:created":1474493614,
-    "wof:geomhash":"4a0d886f84041577616b440f81fe8a53",
+    "wof:geomhash":"788263f1e409f554c5067eda5006a7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695299,
-    "wof:lastmodified":1690927601,
+    "wof:lastmodified":1694492401,
     "wof:name":"Comapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

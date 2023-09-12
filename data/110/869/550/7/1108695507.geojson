@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004605,
-    "geom:area_square_m":55093692.689577,
+    "geom:area_square_m":55094018.638782,
     "geom:bbox":"-91.560337,14.559223,-91.479527,14.698247",
     "geom:latitude":14.618969,
     "geom:longitude":-91.518941,
@@ -63,10 +63,12 @@
         85671683
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.SU.FZ"
+    },
     "wof:country":"GT",
     "wof:created":1474493832,
-    "wof:geomhash":"747b685d85d6cdab68a31c46946f90b9",
+    "wof:geomhash":"c4d84193593cd7d9c43bea4639112403",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1108695507,
-    "wof:lastmodified":1627522160,
+    "wof:lastmodified":1694492674,
     "wof:name":"San Francisco Zapotitlan",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

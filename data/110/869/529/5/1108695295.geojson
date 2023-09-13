@@ -42,9 +42,6 @@
     "name:eng_x_preferred":[
         "Chuarrancho"
     ],
-    "name:eng_x_variant":[
-        "Chuarrancho"
-    ],
     "name:fra_x_preferred":[
         "Chuarrancho"
     ],
@@ -72,7 +69,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2002-11-24",
+    "src:population_date":"2002-11-24",
     "statoids:country":"GT",
     "statoids:date":"2002-11-24",
     "statoids:hasc":"GT.GU.CR",
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":1108695295,
-    "wof:lastmodified":1694497842,
+    "wof:lastmodified":1694639688,
     "wof:name":"Chuarrancho",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

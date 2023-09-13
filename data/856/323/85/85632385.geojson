@@ -1152,7 +1152,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"502",
     "statoids:ds":"GCA",
     "statoids:fifa":"GUA",
@@ -1227,7 +1227,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1694492193,
+    "wof:lastmodified":1694639644,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

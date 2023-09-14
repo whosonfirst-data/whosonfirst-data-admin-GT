@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008711,
-    "geom:area_square_m":104502342.58372,
+    "geom:area_square_m":104502310.229328,
     "geom:bbox":"-90.47038,13.898753,-90.387887,14.135723",
     "geom:latitude":14.025333,
     "geom:longitude":-90.428216,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.GU",
         "wd:id":"Q2401701"
     },
     "wof:country":"GT",
     "wof:created":1474493668,
-    "wof:geomhash":"fad1483a66446014c48ab52c4ef4278c",
+    "wof:geomhash":"ead8fb2471422c57238122d82572a436",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695359,
-    "wof:lastmodified":1690927591,
+    "wof:lastmodified":1694492400,
     "wof:name":"Guazacapan",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

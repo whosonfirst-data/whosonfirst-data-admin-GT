@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325179,
-    "geom:area_square_m":3837551497.282763,
+    "geom:area_square_m":3837551723.631251,
     "geom:bbox":"-89.909648,16.899145,-89.328283,17.814421",
     "geom:latitude":17.367145,
     "geom:longitude":-89.534979,
@@ -165,11 +165,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PE.FL",
         "wd:id":"Q679383"
     },
     "wof:country":"GT",
     "wof:created":1474493657,
-    "wof:geomhash":"fd13eb51c59b8bc121dcc5d6378561e6",
+    "wof:geomhash":"07c704b58795ee5aabd7536b26f0bb54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1108695347,
-    "wof:lastmodified":1690927580,
+    "wof:lastmodified":1694492942,
     "wof:name":"Flores",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

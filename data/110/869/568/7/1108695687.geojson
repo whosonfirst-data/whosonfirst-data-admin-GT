@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020884,
-    "geom:area_square_m":249324516.674246,
+    "geom:area_square_m":249324396.452886,
     "geom:bbox":"-90.989128,15.015338,-90.771803,15.166605",
     "geom:latitude":15.093089,
     "geom:longitude":-90.883112,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.ZA",
         "wd:id":"Q2723903"
     },
     "wof:country":"GT",
     "wof:created":1474494011,
-    "wof:geomhash":"b5a9f66210aa8ff804b6528230b1bea7",
+    "wof:geomhash":"f9e6781bcabca8655ae336dd3660268a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695687,
-    "wof:lastmodified":1690927588,
+    "wof:lastmodified":1694492400,
     "wof:name":"Zacualpa",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

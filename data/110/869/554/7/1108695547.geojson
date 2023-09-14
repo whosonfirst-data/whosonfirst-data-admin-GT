@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010729,
-    "geom:area_square_m":128427581.305931,
+    "geom:area_square_m":128427436.486785,
     "geom:bbox":"-89.840957,14.480204,-89.681029,14.587771",
     "geom:latitude":14.526507,
     "geom:longitude":-89.760023,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JA.MC",
         "wd:id":"Q1749101"
     },
     "wof:country":"GT",
     "wof:created":1474493876,
-    "wof:geomhash":"04161f5b60d55ec3b108616e8685e24f",
+    "wof:geomhash":"c6cf1eb35fb5e7dcc572beaaa1bd35ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695547,
-    "wof:lastmodified":1690927630,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Manuel Chaparron",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

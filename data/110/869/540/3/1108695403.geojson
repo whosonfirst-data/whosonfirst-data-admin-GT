@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029299,
-    "geom:area_square_m":350000864.917276,
+    "geom:area_square_m":350000917.707859,
     "geom:bbox":"-90.322498,14.874504,-90.011282,15.107008",
     "geom:latitude":14.965759,
     "geom:longitude":-90.160835,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PR.MO",
         "wd:id":"Q1020416"
     },
     "wof:country":"GT",
     "wof:created":1474493722,
-    "wof:geomhash":"09f7e66028319061c42a4fb5674700d3",
+    "wof:geomhash":"86d977a428bcd83ba07e86450f7716e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695403,
-    "wof:lastmodified":1690927636,
+    "wof:lastmodified":1694492403,
     "wof:name":"Morazan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

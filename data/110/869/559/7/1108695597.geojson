@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014479,
-    "geom:area_square_m":172256922.763498,
+    "geom:area_square_m":172256934.549157,
     "geom:bbox":"-91.687288,15.730738,-91.485583,15.872365",
     "geom:latitude":15.813297,
     "geom:longitude":-91.584039,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.SS",
         "wd:id":"Q2402150"
     },
     "wof:country":"GT",
     "wof:created":1474493920,
-    "wof:geomhash":"6e30dca90b59b0b7e5b876d448dda192",
+    "wof:geomhash":"8ec40b665aba925245747e4b89ad4cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695597,
-    "wof:lastmodified":1690927584,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Sebastian Coatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135896,
-    "geom:area_square_m":1615851690.759675,
+    "geom:area_square_m":1615851309.216139,
     "geom:bbox":"-91.131731,15.684203,-90.422144,16.077345",
     "geom:latitude":15.930061,
     "geom:longitude":-90.864788,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.IX",
         "wd:id":"Q2609036"
     },
     "wof:country":"GT",
     "wof:created":1474493759,
-    "wof:geomhash":"748178bab524bebb21340e67ca98fb2b",
+    "wof:geomhash":"2eba8bcebd17bebfb4ce173234530c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695441,
-    "wof:lastmodified":1690927599,
+    "wof:lastmodified":1694492674,
     "wof:name":"Playa Grande Ixcan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

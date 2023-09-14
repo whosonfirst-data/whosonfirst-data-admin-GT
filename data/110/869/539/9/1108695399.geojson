@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030559,
-    "geom:area_square_m":364845467.797765,
+    "geom:area_square_m":364845293.52328,
     "geom:bbox":"-91.550927,14.968672,-91.2853,15.24591",
     "geom:latitude":15.088862,
     "geom:longitude":-91.417158,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.TO.MO",
         "wd:id":"Q2718095"
     },
     "wof:country":"GT",
     "wof:created":1474493718,
-    "wof:geomhash":"87b4ed7baab9bd71d1d6fe6285547d33",
+    "wof:geomhash":"b9a75fcd4d039f4a15e94df66ae1aad4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695399,
-    "wof:lastmodified":1690927609,
+    "wof:lastmodified":1694492402,
     "wof:name":"Momostenango",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

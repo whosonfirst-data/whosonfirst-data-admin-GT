@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002658,
-    "geom:area_square_m":31742534.929613,
+    "geom:area_square_m":31742522.548926,
     "geom:bbox":"-91.710614,14.997818,-91.657528,15.087499",
     "geom:latitude":15.040374,
     "geom:longitude":-91.68493,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.RB",
         "wd:id":"Q3943212"
     },
     "wof:country":"GT",
     "wof:created":1474493777,
-    "wof:geomhash":"acf8202534152101fdf8781811eb695d",
+    "wof:geomhash":"04e8427eed46b0ee73701cb6d12a0cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695457,
-    "wof:lastmodified":1690927603,
+    "wof:lastmodified":1694492674,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

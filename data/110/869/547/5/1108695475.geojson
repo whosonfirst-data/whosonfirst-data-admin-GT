@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011567,
-    "geom:area_square_m":138128929.296408,
+    "geom:area_square_m":138128992.899757,
     "geom:bbox":"-91.272834,14.980531,-91.144279,15.123616",
     "geom:latitude":15.047987,
     "geom:longitude":-91.213098,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.AI",
         "wd:id":"Q2401893"
     },
     "wof:country":"GT",
     "wof:created":1474493801,
-    "wof:geomhash":"a072ac3be2a293ad3094c6ffc99e5443",
+    "wof:geomhash":"79fed5bddb8b261323e9c0db67bc38e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695475,
-    "wof:lastmodified":1690927634,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Antonio Ilotenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

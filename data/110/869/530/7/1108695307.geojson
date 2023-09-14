@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011311,
-    "geom:area_square_m":134676921.029887,
+    "geom:area_square_m":134676869.126673,
     "geom:bbox":"-91.757088,15.587212,-91.530016,15.694949",
     "geom:latitude":15.650321,
     "geom:longitude":-91.65397,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.CH",
         "wd:id":"Q2402377"
     },
     "wof:country":"GT",
     "wof:created":1474493619,
-    "wof:geomhash":"62f8d3aa08740a6583c288e004ce88d6",
+    "wof:geomhash":"e1caddddbd2b6333cfa2af3c9a5e4567",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695307,
-    "wof:lastmodified":1690927608,
+    "wof:lastmodified":1694492401,
     "wof:name":"Concepcion Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

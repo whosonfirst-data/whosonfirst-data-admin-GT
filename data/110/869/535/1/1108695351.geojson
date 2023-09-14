@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014108,
-    "geom:area_square_m":168838374.153203,
+    "geom:area_square_m":168838236.014593,
     "geom:bbox":"-91.963292,14.491507,-91.765001,14.681517",
     "geom:latitude":14.566172,
     "geom:longitude":-91.84631,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.GE",
         "wd:id":"Q3123016"
     },
     "wof:country":"GT",
     "wof:created":1474493661,
-    "wof:geomhash":"231fe60b762501792a550f5563486c2d",
+    "wof:geomhash":"c183091b8343640916fca4fedc6fd6ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695351,
-    "wof:lastmodified":1690927591,
+    "wof:lastmodified":1694492942,
     "wof:name":"Genova",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

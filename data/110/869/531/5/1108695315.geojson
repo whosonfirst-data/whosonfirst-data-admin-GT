@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037467,
-    "geom:area_square_m":446510204.622925,
+    "geom:area_square_m":446510305.959152,
     "geom:bbox":"-92.093004,15.297371,-91.863495,15.617102",
     "geom:latitude":15.464676,
     "geom:longitude":-91.961814,
@@ -138,11 +138,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.CU",
         "wd:id":"Q2402387"
     },
     "wof:country":"GT",
     "wof:created":1474493628,
-    "wof:geomhash":"8bc70ab373f5904b59548f7c1b28ac34",
+    "wof:geomhash":"050d2fae5864dfd23d5a4622bd3349f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108695315,
-    "wof:lastmodified":1690927622,
+    "wof:lastmodified":1694492942,
     "wof:name":"Cuilco",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012154,
-    "geom:area_square_m":145869603.569436,
+    "geom:area_square_m":145869576.593257,
     "geom:bbox":"-90.296258,13.782329,-90.159282,14.01412",
     "geom:latitude":13.932887,
     "geom:longitude":-90.226091,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.PA",
         "wd:id":"Q371987"
     },
     "wof:country":"GT",
     "wof:created":1474493750,
-    "wof:geomhash":"b340e118c480594f79cc7ae4677737f8",
+    "wof:geomhash":"1cde30317d98a621b875df8d9cc3dd90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695437,
-    "wof:lastmodified":1690927597,
+    "wof:lastmodified":1694492401,
     "wof:name":"Pasaco",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

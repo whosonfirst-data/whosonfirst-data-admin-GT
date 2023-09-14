@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018815,
-    "geom:area_square_m":224412880.982628,
+    "geom:area_square_m":224413702.737004,
     "geom:bbox":"-91.978001,15.217062,-91.754732,15.362107",
     "geom:latitude":15.290108,
     "geom:longitude":-91.868731,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.CT",
         "wd:id":"Q1748770"
     },
     "wof:country":"GT",
     "wof:created":1474493622,
-    "wof:geomhash":"1a0d150b300bd925dfc3bb326523d15d",
+    "wof:geomhash":"2834592492c1dff565e04226bfff0bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695309,
-    "wof:lastmodified":1690927608,
+    "wof:lastmodified":1694492401,
     "wof:name":"Concepcion Tutuapa",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

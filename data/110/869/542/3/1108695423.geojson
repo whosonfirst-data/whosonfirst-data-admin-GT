@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003898,
-    "geom:area_square_m":46568673.352708,
+    "geom:area_square_m":46568529.63601,
     "geom:bbox":"-90.694151,14.884839,-90.612529,14.966172",
     "geom:latitude":14.920242,
     "geom:longitude":-90.656241,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QC.PC",
         "wd:id":"Q2402484"
     },
     "wof:country":"GT",
     "wof:created":1474493739,
-    "wof:geomhash":"b260ccebae348bd13e28a0f14209c1b5",
+    "wof:geomhash":"f355fef33b189e9e693d0b77ac6c3f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695423,
-    "wof:lastmodified":1690927606,
+    "wof:lastmodified":1694492401,
     "wof:name":"Pachalum",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

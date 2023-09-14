@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009939,
-    "geom:area_square_m":118786329.602146,
+    "geom:area_square_m":118786329.602144,
     "geom:bbox":"-90.551215637,14.7964664532,-90.3947491035,14.9167590713",
     "geom:latitude":14.85459,
     "geom:longitude":-90.471735,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Chuarrancho Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.851513,
     "lbl:longitude":-90.485955,
     "lbl:max_zoom":10.0,
@@ -33,7 +39,7 @@
     "name:deu_x_preferred":[
         "Chuarrancho"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Chuarrancho"
     ],
     "name:fra_x_preferred":[
@@ -62,16 +68,28 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2002-11-24",
+    "statoids:country":"GT",
+    "statoids:date":"2002-11-24",
+    "statoids:hasc":"GT.GU.CR",
+    "statoids:name":"Chuarrancho",
+    "statoids:population":10101,
+    "statoids:statoid":"GT.GU",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191575,
         85632385,
         85671681
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.GU.CR"
+    },
     "wof:country":"GT",
     "wof:created":1474493606,
-    "wof:geomhash":"cfbf2e63e37de9a3cf82723f8c67f832",
+    "wof:geomhash":"c8a24186a5f22eda052b0f80b6268475",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,10 +99,12 @@
         }
     ],
     "wof:id":1108695295,
-    "wof:lastmodified":1566643197,
+    "wof:lastmodified":1694639688,
     "wof:name":"Chuarrancho",
     "wof:parent_id":85671681,
     "wof:placetype":"county",
+    "wof:population":10101,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

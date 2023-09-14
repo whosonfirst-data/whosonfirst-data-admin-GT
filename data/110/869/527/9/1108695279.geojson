@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019536,
-    "geom:area_square_m":233490078.640229,
+    "geom:area_square_m":233489910.09408,
     "geom:bbox":"-89.382746,14.780563,-89.178266,14.952305",
     "geom:latitude":14.854315,
     "geom:longitude":-89.282532,
@@ -62,10 +62,12 @@
         85671715
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.QC.CA"
+    },
     "wof:country":"GT",
     "wof:created":1474493584,
-    "wof:geomhash":"3511e057cb76867d9faff47060fd9966",
+    "wof:geomhash":"c80957a46dd969ea586dc85e9f8c89d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1108695279,
-    "wof:lastmodified":1627522160,
+    "wof:lastmodified":1694492674,
     "wof:name":"Camotan",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

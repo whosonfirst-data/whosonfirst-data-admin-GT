@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002759,
-    "geom:area_square_m":32964843.862903,
+    "geom:area_square_m":32964633.138505,
     "geom:bbox":"-91.577485,14.863313,-91.495981,14.918857",
     "geom:latitude":14.893609,
     "geom:longitude":-91.536267,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.OL",
         "wd:id":"Q2608428"
     },
     "wof:country":"GT",
     "wof:created":1474493734,
-    "wof:geomhash":"d6ab97c788d74e838a4051471c3db42d",
+    "wof:geomhash":"0b5b0458aafa57394dff76e4dcc03b79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695417,
-    "wof:lastmodified":1690927639,
+    "wof:lastmodified":1694492403,
     "wof:name":"Olintepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

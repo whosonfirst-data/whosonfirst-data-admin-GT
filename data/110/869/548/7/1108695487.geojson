@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00472,
-    "geom:area_square_m":56346412.95466,
+    "geom:area_square_m":56346352.682082,
     "geom:bbox":"-91.518693,15.070384,-91.394386,15.148514",
     "geom:latitude":15.116255,
     "geom:longitude":-91.46161,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.TO.SB",
         "wd:id":"Q2401769"
     },
     "wof:country":"GT",
     "wof:created":1474493813,
-    "wof:geomhash":"f321e9e7e3c55543603daebe53b8d346",
+    "wof:geomhash":"cfb97dafa09c6a4c28f7a07312193b04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695487,
-    "wof:lastmodified":1690927643,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Bartolo",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

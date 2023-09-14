@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006402,
-    "geom:area_square_m":76270675.498377,
+    "geom:area_square_m":76270744.843515,
     "geom:bbox":"-91.801897,15.476806,-91.705042,15.583138",
     "geom:latitude":15.527321,
     "geom:longitude":-91.755385,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.PN",
         "wd:id":"Q734440"
     },
     "wof:country":"GT",
     "wof:created":1474493907,
-    "wof:geomhash":"3a3505312979dd3d50e20a9719c73334",
+    "wof:geomhash":"5161113fa327f2e99026a5ef29f4b2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695581,
-    "wof:lastmodified":1690927577,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Pedro Necta",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

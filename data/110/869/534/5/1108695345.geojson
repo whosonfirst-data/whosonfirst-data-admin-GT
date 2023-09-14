@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005757,
-    "geom:area_square_m":68880704.427928,
+    "geom:area_square_m":68880594.890791,
     "geom:bbox":"-91.914805,14.567623,-91.805388,14.686085",
     "geom:latitude":14.63142,
     "geom:longitude":-91.864316,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.FC",
         "wd:id":"Q1981317"
     },
     "wof:country":"GT",
     "wof:created":1474493655,
-    "wof:geomhash":"a3a16e56364a408103e634c25b48afd4",
+    "wof:geomhash":"bfeb43c589a0fdb2f5853d6c3c012666",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695345,
-    "wof:lastmodified":1690927581,
+    "wof:lastmodified":1694492400,
     "wof:name":"Flores Costa Cuca",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

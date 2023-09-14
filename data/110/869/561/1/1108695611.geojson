@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003702,
-    "geom:area_square_m":44247860.598328,
+    "geom:area_square_m":44247974.535791,
     "geom:bbox":"-90.993276,14.774892,-90.921093,14.890952",
     "geom:latitude":14.818343,
     "geom:longitude":-90.957175,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CM.SA",
         "wd:id":"Q1254653"
     },
     "wof:country":"GT",
     "wof:created":1474493932,
-    "wof:geomhash":"3be2684026d07dc431c157218128a62d",
+    "wof:geomhash":"3fdf1852223439c9ff6529f96cb057fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695611,
-    "wof:lastmodified":1690927586,
+    "wof:lastmodified":1694492400,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

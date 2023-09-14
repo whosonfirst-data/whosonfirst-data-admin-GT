@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014917,
-    "geom:area_square_m":177527241.265457,
+    "geom:area_square_m":177527526.18405,
     "geom:bbox":"-91.928909,15.662991,-91.761228,15.831143",
     "geom:latitude":15.743528,
     "geom:longitude":-91.848591,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.SA",
         "wd:id":"Q2402405"
     },
     "wof:country":"GT",
     "wof:created":1474493930,
-    "wof:geomhash":"dbe2d131e416b33592f8de2f1c05afd1",
+    "wof:geomhash":"1ddc07ab5bd33a0370a82fae682bc956",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695607,
-    "wof:lastmodified":1690927573,
+    "wof:lastmodified":1694492400,
     "wof:name":"Santa Ana Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

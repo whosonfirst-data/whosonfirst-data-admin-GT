@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004234,
-    "geom:area_square_m":50591869.460711,
+    "geom:area_square_m":50591962.189258,
     "geom:bbox":"-91.889635,14.885615,-91.801662,14.964683",
     "geom:latitude":14.924741,
     "geom:longitude":-91.846753,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.EP",
         "wd:id":"Q1748873"
     },
     "wof:country":"GT",
     "wof:created":1474493651,
-    "wof:geomhash":"6d8a81fc92a20af7ef6cb012b3176a93",
+    "wof:geomhash":"e7c186b47a50eb412da8156d285c465f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695341,
-    "wof:lastmodified":1690927580,
+    "wof:lastmodified":1694492400,
     "wof:name":"Esquipulas Palo Gordo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

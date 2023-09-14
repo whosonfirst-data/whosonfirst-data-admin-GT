@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004133,
-    "geom:area_square_m":49566570.012969,
+    "geom:area_square_m":49566707.593987,
     "geom:bbox":"-89.805799,14.031842,-89.722167,14.128697",
     "geom:latitude":14.07605,
     "geom:longitude":-89.761751,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.JE",
         "wd:id":"Q1749094"
     },
     "wof:country":"GT",
     "wof:created":1474493680,
-    "wof:geomhash":"dc33366c0c5ca4714a8809fe4435f562",
+    "wof:geomhash":"04ef6c3a189320e8ed458a17ec9337d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695371,
-    "wof:lastmodified":1690927607,
+    "wof:lastmodified":1694492401,
     "wof:name":"Jerez",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

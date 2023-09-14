@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009051,
-    "geom:area_square_m":108173274.774838,
+    "geom:area_square_m":108173402.338363,
     "geom:bbox":"-91.7836,14.796908,-91.589557,14.930898",
     "geom:latitude":14.871143,
     "geom:longitude":-91.690246,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.OS",
         "wd:id":"Q2718157"
     },
     "wof:country":"GT",
     "wof:created":1474493866,
-    "wof:geomhash":"15d69a90ce4a24ab63d82f0abb5a9e65",
+    "wof:geomhash":"ec14f8d54d1a9c477c710db1019ff44d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695539,
-    "wof:lastmodified":1690927628,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Juan Ostuncalco",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

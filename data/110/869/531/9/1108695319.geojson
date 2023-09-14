@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002397,
-    "geom:area_square_m":28731514.958771,
+    "geom:area_square_m":28731540.545683,
     "geom:bbox":"-89.90089,14.155058,-89.805041,14.198846",
     "geom:latitude":14.17611,
     "geom:longitude":-89.851122,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.EA",
         "wd:id":"Q3049691"
     },
     "wof:country":"GT",
     "wof:created":1474493635,
-    "wof:geomhash":"f62805076acdf7f7f0fd4822b47a7b58",
+    "wof:geomhash":"7c6bcc9bcb788cbbc6c0a150aea16feb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695319,
-    "wof:lastmodified":1690927620,
+    "wof:lastmodified":1694492402,
     "wof:name":"El Adelanto",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

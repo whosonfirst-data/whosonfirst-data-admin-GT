@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017356,
-    "geom:area_square_m":206935948.939587,
+    "geom:area_square_m":206936061.467525,
     "geom:bbox":"-92.115895,15.264835,-91.973613,15.460978",
     "geom:latitude":15.364726,
     "geom:longitude":-92.03914,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.TE",
         "wd:id":"Q2402198"
     },
     "wof:country":"GT",
     "wof:created":1474493991,
-    "wof:geomhash":"fc5b2e13c293211428409997048413d7",
+    "wof:geomhash":"5b2212cc8f3a392c64376e210deaddb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695667,
-    "wof:lastmodified":1690927582,
+    "wof:lastmodified":1694492400,
     "wof:name":"Tectitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

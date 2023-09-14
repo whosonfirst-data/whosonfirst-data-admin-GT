@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001522,
-    "geom:area_square_m":18179778.178063,
+    "geom:area_square_m":18179799.389791,
     "geom:bbox":"-91.57766,14.910305,-91.516883,14.948238",
     "geom:latitude":14.928286,
     "geom:longitude":-91.543661,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.FU",
         "wd:id":"Q2402566"
     },
     "wof:country":"GT",
     "wof:created":1474493830,
-    "wof:geomhash":"236c7a0a6658e258b7af3e89202d9d54",
+    "wof:geomhash":"0f97d3c3df5e6a2d36f8b2b3466b4dff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695505,
-    "wof:lastmodified":1690927590,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Francisco La Union",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

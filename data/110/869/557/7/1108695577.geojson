@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009003,
-    "geom:area_square_m":107645333.882698,
+    "geom:area_square_m":107645459.81446,
     "geom:bbox":"-90.495675,14.706062,-90.383667,14.826841",
     "geom:latitude":14.772709,
     "geom:longitude":-90.441953,
@@ -99,11 +99,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.GU.SP",
         "wd:id":"Q275983"
     },
     "wof:country":"GT",
     "wof:created":1474493902,
-    "wof:geomhash":"ab1097025125b77b8a1c7147c62b9171",
+    "wof:geomhash":"63e6a8ba27b8966e8c419991645a674f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695577,
-    "wof:lastmodified":1690927587,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009472,
-    "geom:area_square_m":113293375.200284,
+    "geom:area_square_m":113293318.745293,
     "geom:bbox":"-89.384251,14.64346,-89.231543,14.75124",
     "geom:latitude":14.699579,
     "geom:longitude":-89.315845,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CQ.OL",
         "wd:id":"Q2025333"
     },
     "wof:country":"GT",
     "wof:created":1474493736,
-    "wof:geomhash":"9bfa60325250ce035e466b38034295b4",
+    "wof:geomhash":"a28aec4311f61cc4dce171cfbebd4e24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695419,
-    "wof:lastmodified":1690927638,
+    "wof:lastmodified":1694492403,
     "wof:name":"Olopa",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

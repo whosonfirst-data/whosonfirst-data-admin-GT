@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035023,
-    "geom:area_square_m":418705794.200802,
+    "geom:area_square_m":418706100.853348,
     "geom:bbox":"-90.406889,14.666253,-90.004568,14.887041",
     "geom:latitude":14.794461,
     "geom:longitude":-90.189931,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PR.SR",
         "wd:id":"Q1757603"
     },
     "wof:country":"GT",
     "wof:created":1474493929,
-    "wof:geomhash":"55885c3ac2692345b29ba884d8fa0da7",
+    "wof:geomhash":"39a0f4690aebe948fead21389033966a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695605,
-    "wof:lastmodified":1690927574,
+    "wof:lastmodified":1694492400,
     "wof:name":"Sanarate",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

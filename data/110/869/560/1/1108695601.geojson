@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010063,
-    "geom:area_square_m":120410895.284253,
+    "geom:area_square_m":120411277.001021,
     "geom:bbox":"-91.296948,14.531315,-91.155719,14.675819",
     "geom:latitude":14.605288,
     "geom:longitude":-91.227355,
@@ -114,11 +114,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SO.SA",
         "wd:id":"Q168622"
     },
     "wof:country":"GT",
     "wof:created":1474493924,
-    "wof:geomhash":"8717cfd4d67006ddb69b8c4a7938b4a2",
+    "wof:geomhash":"9d1c70fdf4bb0ad7f3932e140d7025d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108695601,
-    "wof:lastmodified":1690927573,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Tiago Atitlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

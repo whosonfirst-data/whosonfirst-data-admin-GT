@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":3282584.883843,
+    "geom:area_square_m":3282539.057782,
     "geom:bbox":"-90.795316,14.552659,-90.77254,14.572325",
     "geom:latitude":14.562672,
     "geom:longitude":-90.783758,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SA.AA",
         "wd:id":"Q630216"
     },
     "wof:country":"GT",
     "wof:created":1474493798,
-    "wof:geomhash":"3d6e39d5771f6b674c5f05f48df380f2",
+    "wof:geomhash":"1ac285224d915ecceac85eec661b7032",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695471,
-    "wof:lastmodified":1690927634,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Antonio Aguas Calientes",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

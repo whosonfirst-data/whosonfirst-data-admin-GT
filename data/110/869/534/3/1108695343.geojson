@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007741,
-    "geom:area_square_m":92461131.255987,
+    "geom:area_square_m":92461049.547946,
     "geom:bbox":"-89.667596,14.926167,-89.549994,15.039954",
     "geom:latitude":14.983004,
     "geom:longitude":-89.60816,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ZA.ES",
         "wd:id":"Q1020422"
     },
     "wof:country":"GT",
     "wof:created":1474493653,
-    "wof:geomhash":"a9286402d9bfe60f90f2b6d37086eb97",
+    "wof:geomhash":"3df6abc090fd5273318d9b90bf0354a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695343,
-    "wof:lastmodified":1690927580,
+    "wof:lastmodified":1694492400,
     "wof:name":"Estanzuela",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

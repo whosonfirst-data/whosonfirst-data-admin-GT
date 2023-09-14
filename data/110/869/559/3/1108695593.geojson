@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003195,
-    "geom:area_square_m":38090348.528789,
+    "geom:area_square_m":38090244.119305,
     "geom:bbox":"-91.702268,15.359398,-91.64225,15.465393",
     "geom:latitude":15.40762,
     "geom:longitude":-91.671204,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.RP",
         "wd:id":"Q2402524"
     },
     "wof:country":"GT",
     "wof:created":1474493915,
-    "wof:geomhash":"53a1d488a33be2c2fe6b1baa7456a35c",
+    "wof:geomhash":"7a28c2be0202fc3dc107e472a604a6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695593,
-    "wof:lastmodified":1690927584,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

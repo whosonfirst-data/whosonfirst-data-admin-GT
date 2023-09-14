@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101643,
-    "geom:area_square_m":1209905627.338899,
+    "geom:area_square_m":1209905255.787793,
     "geom:bbox":"-88.735285,15.495906,-88.231057,15.967361",
     "geom:latitude":15.705734,
     "geom:longitude":-88.491775,
@@ -219,11 +219,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.IZ.PB",
         "wd:id":"Q991400"
     },
     "wof:country":"GT",
     "wof:created":1474493766,
-    "wof:geomhash":"f44890f9057d6a8590493a1761e5caf4",
+    "wof:geomhash":"bd3848b249e75e38f25af62dc8e303f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":1108695449,
-    "wof:lastmodified":1690927599,
+    "wof:lastmodified":1694492401,
     "wof:name":"Puerto Barrios",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

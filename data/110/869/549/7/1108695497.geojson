@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002365,
-    "geom:area_square_m":28261587.482975,
+    "geom:area_square_m":28261450.540893,
     "geom:bbox":"-91.796872,14.845707,-91.736198,14.9245",
     "geom:latitude":14.887492,
     "geom:longitude":-91.769214,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.CC",
         "wd:id":"Q1748857"
     },
     "wof:country":"GT",
     "wof:created":1474493822,
-    "wof:geomhash":"03625cebcf45d95b913563a3f4fb2fcd",
+    "wof:geomhash":"d72cdb7bc8efe37b537a4f843b6a4ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695497,
-    "wof:lastmodified":1690927631,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Cristobal Cuchu",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002482,
-    "geom:area_square_m":29715750.478003,
+    "geom:area_square_m":29715789.210372,
     "geom:bbox":"-91.389417,14.469725,-91.323271,14.541033",
     "geom:latitude":14.506979,
     "geom:longitude":-91.358385,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.MP",
         "wd:id":"Q2402447"
     },
     "wof:country":"GT",
     "wof:created":1474493895,
-    "wof:geomhash":"d6429b839ec5628ac92ae7d1b93a76da",
+    "wof:geomhash":"3601d1eefaa78188d713de16a5e87f03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695567,
-    "wof:lastmodified":1690927571,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Miguel Panna",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

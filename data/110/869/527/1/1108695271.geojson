@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01892,
-    "geom:area_square_m":226699278.149792,
+    "geom:area_square_m":226699092.820648,
     "geom:bbox":"-90.513614,14.193308,-90.322401,14.414459",
     "geom:latitude":14.304947,
     "geom:longitude":-90.414512,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SR.BA",
         "wd:id":"Q2718316"
     },
     "wof:country":"GT",
     "wof:created":1474493575,
-    "wof:geomhash":"d0c6ae5699630b023cd5bff83b2c438d",
+    "wof:geomhash":"f8bf978a19c9b44d60f5a1f64f3ebd64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695271,
-    "wof:lastmodified":1690927601,
+    "wof:lastmodified":1694492401,
     "wof:name":"Barberena",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

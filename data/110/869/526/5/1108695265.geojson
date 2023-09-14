@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007297,
-    "geom:area_square_m":87476907.275826,
+    "geom:area_square_m":87477035.926617,
     "geom:bbox":"-89.770124,14.113851,-89.664909,14.234782",
     "geom:latitude":14.176304,
     "geom:longitude":-89.726601,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JU.AT",
         "wd:id":"Q2403627"
     },
     "wof:country":"GT",
     "wof:created":1474493571,
-    "wof:geomhash":"c4fc061497276cb8a3ea4546bd3d0be0",
+    "wof:geomhash":"84bfb5ed23371967c1510cae239d2727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695265,
-    "wof:lastmodified":1690927596,
+    "wof:lastmodified":1694492401,
     "wof:name":"Atescatempa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

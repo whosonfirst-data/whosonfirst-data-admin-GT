@@ -10,6 +10,12 @@
     "geom:latitude":15.513466,
     "geom:longitude":-89.146986,
     "iso:country":"GT",
+    "label:eng_x_preferred_longname":[
+        "Lake Izabal"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":15.487948,
     "lbl:longitude":-89.1674,
     "lbl:max_zoom":10.0,
@@ -38,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Izabal-See"
+    ],
+    "name:eng_x_preferred":[
+        "Lake Izabal"
     ],
     "name:eng_x_variant":[
         "NA"
@@ -98,7 +107,7 @@
     "wof:concordances":{},
     "wof:country":"GT",
     "wof:created":1474493703,
-    "wof:geomhash":"825f83ea787cbe9719050bf20d73000b",
+    "wof:geomhash":"d056bea1e910032823fcb47059c3bda7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1108695387,
-    "wof:lastmodified":1566643204,
+    "wof:lastmodified":1694497842,
     "wof:name":"Lake Izabal",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

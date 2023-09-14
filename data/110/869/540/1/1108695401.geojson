@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01272,
-    "geom:area_square_m":152271778.561884,
+    "geom:area_square_m":152271717.627871,
     "geom:bbox":"-89.982276,14.433425,-89.830255,14.585976",
     "geom:latitude":14.512117,
     "geom:longitude":-89.899024,
@@ -261,11 +261,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.JA.MO",
         "wd:id":"Q2608718"
     },
     "wof:country":"GT",
     "wof:created":1474493720,
-    "wof:geomhash":"dbd5b4fc2e150a240c83a6aa299eba11",
+    "wof:geomhash":"f07432d0f3fd6a8e4501ed968c779728",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -275,7 +276,7 @@
         }
     ],
     "wof:id":1108695401,
-    "wof:lastmodified":1690927636,
+    "wof:lastmodified":1694492403,
     "wof:name":"Monjas",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

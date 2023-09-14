@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002087,
-    "geom:area_square_m":24958171.197147,
+    "geom:area_square_m":24958134.878397,
     "geom:bbox":"-90.734507,14.658067,-90.670697,14.705681",
     "geom:latitude":14.679846,
     "geom:longitude":-90.701416,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SA.DX",
         "wd:id":"Q2401045"
     },
     "wof:country":"GT",
     "wof:created":1474493968,
-    "wof:geomhash":"86c93fbcbee43161fc538ded4a500d04",
+    "wof:geomhash":"47fcafdfcd10336c949fed4b7ab459a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695641,
-    "wof:lastmodified":1690927616,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santo Domingo Xenacoj",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

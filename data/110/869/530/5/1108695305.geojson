@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":22381076.916087,
+    "geom:area_square_m":22380868.165128,
     "geom:bbox":"-91.653033,14.819771,-91.586597,14.868315",
     "geom:latitude":14.843836,
     "geom:longitude":-91.620209,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.CC",
         "wd:id":"Q2401883"
     },
     "wof:country":"GT",
     "wof:created":1474493617,
-    "wof:geomhash":"51b8233807bc7c097d1b1b8350dd0b10",
+    "wof:geomhash":"d4b3c964eea5b5035665551b3f64e762",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695305,
-    "wof:lastmodified":1690927609,
+    "wof:lastmodified":1694492401,
     "wof:name":"Concepcion Chiquirichapa",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

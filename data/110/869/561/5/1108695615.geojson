@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016797,
-    "geom:area_square_m":200383953.907032,
+    "geom:area_square_m":200384067.269012,
     "geom:bbox":"-89.94902,15.160607,-89.744419,15.343631",
     "geom:latitude":15.254347,
     "geom:longitude":-89.834111,
@@ -63,10 +63,12 @@
         85671665
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.AV.CT"
+    },
     "wof:country":"GT",
     "wof:created":1474493936,
-    "wof:geomhash":"a3de7294b889dc130fe4660f3482b0db",
+    "wof:geomhash":"12374e54d74e5ce19e0555fc52df634b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1108695615,
-    "wof:lastmodified":1627522161,
+    "wof:lastmodified":1694492674,
     "wof:name":"Santa Catalina La Tinta",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

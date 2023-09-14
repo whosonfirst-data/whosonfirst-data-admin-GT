@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007819,
-    "geom:area_square_m":93426480.010566,
+    "geom:area_square_m":93426740.974317,
     "geom:bbox":"-89.752723,14.851962,-89.64478,14.968713",
     "geom:latitude":14.916207,
     "geom:longitude":-89.695208,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ZA.HU",
         "wd:id":"Q1020827"
     },
     "wof:country":"GT",
     "wof:created":1474493672,
-    "wof:geomhash":"e45f37c01ef3ccded87e20ba7b1ec3b4",
+    "wof:geomhash":"b470a72c7d89604fc4bd0e56e766fafa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695363,
-    "wof:lastmodified":1690927624,
+    "wof:lastmodified":1694492402,
     "wof:name":"Huite",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

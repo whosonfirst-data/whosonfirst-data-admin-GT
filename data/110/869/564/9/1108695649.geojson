@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003565,
-    "geom:area_square_m":42583287.680482,
+    "geom:area_square_m":42583387.884341,
     "geom:bbox":"-91.67839,14.954744,-91.60015,15.027887",
     "geom:latitude":14.989255,
     "geom:longitude":-91.638636,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.SB",
         "wd:id":"Q2402599"
     },
     "wof:country":"GT",
     "wof:created":1474493975,
-    "wof:geomhash":"fca78f0a8a9d55bf24bddf35d044719a",
+    "wof:geomhash":"6b380f1d73f35475bcb8bddd3904784d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695649,
-    "wof:lastmodified":1690927615,
+    "wof:lastmodified":1694492402,
     "wof:name":"Sibilia",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

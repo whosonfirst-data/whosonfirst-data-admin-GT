@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020911,
-    "geom:area_square_m":249692040.038265,
+    "geom:area_square_m":249691845.535118,
     "geom:bbox":"-92.087198,14.975741,-91.868491,15.144451",
     "geom:latitude":15.06121,
     "geom:longitude":-91.970884,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.TM",
         "wd:id":"Q1748863"
     },
     "wof:country":"GT",
     "wof:created":1474493987,
-    "wof:geomhash":"a78fe8193e6cb32a8f86be4e9adee8a1",
+    "wof:geomhash":"d86dfeea3d3fddc1a05969906bd743f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695661,
-    "wof:lastmodified":1690927582,
+    "wof:lastmodified":1694492400,
     "wof:name":"Tajumulco",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

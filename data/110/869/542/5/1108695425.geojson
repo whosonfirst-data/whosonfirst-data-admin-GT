@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011193,
-    "geom:area_square_m":133855704.199627,
+    "geom:area_square_m":133855543.922562,
     "geom:bbox":"-92.132743,14.637447,-91.970539,14.812748",
     "geom:latitude":14.736876,
     "geom:longitude":-92.053141,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.PA",
         "wd:id":"Q2402391"
     },
     "wof:country":"GT",
     "wof:created":1474493741,
-    "wof:geomhash":"7c7095bcaffeaa5e0d79c910f6d0476c",
+    "wof:geomhash":"a3e82ca3903d3539eb6e8460a2c84eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695425,
-    "wof:lastmodified":1690927606,
+    "wof:lastmodified":1694492401,
     "wof:name":"Pajapita",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

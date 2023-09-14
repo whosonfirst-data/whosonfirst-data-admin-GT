@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005758,
-    "geom:area_square_m":68912803.562333,
+    "geom:area_square_m":68912959.846123,
     "geom:bbox":"-90.529504,14.519337,-90.409845,14.618088",
     "geom:latitude":14.565437,
     "geom:longitude":-90.464468,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.GU.CP",
         "wd:id":"Q1671882"
     },
     "wof:country":"GT",
     "wof:created":1474493943,
-    "wof:geomhash":"ec35f3e5f7ddb6a79ed1e4054854854d",
+    "wof:geomhash":"954ae226d60b14ac76edc202803983b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695621,
-    "wof:lastmodified":1690927625,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santa Catarina Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

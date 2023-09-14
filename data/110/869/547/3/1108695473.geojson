@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00929,
-    "geom:area_square_m":110606519.934815,
+    "geom:area_square_m":110606640.030559,
     "geom:bbox":"-91.8235,15.570987,-91.717465,15.746261",
     "geom:latitude":15.663534,
     "geom:longitude":-91.773007,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.AH",
         "wd:id":"Q2609240"
     },
     "wof:country":"GT",
     "wof:created":1474493799,
-    "wof:geomhash":"595ada807e11ab6d3c6d771d0cab8098",
+    "wof:geomhash":"dcb43023e421424a6df7cd1fb0f9f9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695473,
-    "wof:lastmodified":1690927634,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Antonio Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018849,
-    "geom:area_square_m":225997896.253522,
+    "geom:area_square_m":225997856.646816,
     "geom:bbox":"-90.762915,14.012566,-90.579548,14.298297",
     "geom:latitude":14.150967,
     "geom:longitude":-90.663774,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.ES.GU",
         "wd:id":"Q1748573"
     },
     "wof:country":"GT",
     "wof:created":1474493665,
-    "wof:geomhash":"d68fe2fc24e3205d97ba0db43a142036",
+    "wof:geomhash":"282ae1565ab26ffa978ac65673ff625a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695355,
-    "wof:lastmodified":1690927592,
+    "wof:lastmodified":1694492401,
     "wof:name":"Guanagazapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

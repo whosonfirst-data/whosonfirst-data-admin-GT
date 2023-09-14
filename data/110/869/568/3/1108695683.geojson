@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017483,
-    "geom:area_square_m":209332068.486115,
+    "geom:area_square_m":209331828.487625,
     "geom:bbox":"-91.104798,14.380381,-90.874537,14.527058",
     "geom:latitude":14.463317,
     "geom:longitude":-90.985976,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CM.YE",
         "wd:id":"Q1523937"
     },
     "wof:country":"GT",
     "wof:created":1474494006,
-    "wof:geomhash":"204329d22c15fe422cb5aae24fee219d",
+    "wof:geomhash":"80f3a9be79f265f396472f8c180c822b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695683,
-    "wof:lastmodified":1690927589,
+    "wof:lastmodified":1694492400,
     "wof:name":"Yepocapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

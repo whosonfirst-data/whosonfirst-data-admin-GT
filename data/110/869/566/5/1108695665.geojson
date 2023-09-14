@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006027,
-    "geom:area_square_m":71882297.37149,
+    "geom:area_square_m":71882343.475963,
     "geom:bbox":"-90.29618,15.260905,-90.196086,15.353257",
     "geom:latitude":15.303132,
     "geom:longitude":-90.242693,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.AV.TM",
         "wd:id":"Q348216"
     },
     "wof:country":"GT",
     "wof:created":1474493988,
-    "wof:geomhash":"17291ce19727a1582da906a51180ad99",
+    "wof:geomhash":"e413dda458b53e146ad3ba71fd69dc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695665,
-    "wof:lastmodified":1690927583,
+    "wof:lastmodified":1694492400,
     "wof:name":"Tamahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

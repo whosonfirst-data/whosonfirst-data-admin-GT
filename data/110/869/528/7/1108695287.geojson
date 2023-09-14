@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043946,
-    "geom:area_square_m":523410262.49041,
+    "geom:area_square_m":523410262.490264,
     "geom:bbox":"-91.1253101788,15.4419538825,-90.8611680269,15.7866285754",
     "geom:latitude":15.589984,
     "geom:longitude":-90.991821,
@@ -89,10 +89,12 @@
         85671733
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.RE.CH"
+    },
     "wof:country":"GT",
     "wof:created":1474493592,
-    "wof:geomhash":"e14973ef903bf807586568aca5c17dd5",
+    "wof:geomhash":"a375391bfccbc6b9dd95ef6a9605cfc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1108695287,
-    "wof:lastmodified":1566643194,
+    "wof:lastmodified":1694492401,
     "wof:name":"Chajul",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

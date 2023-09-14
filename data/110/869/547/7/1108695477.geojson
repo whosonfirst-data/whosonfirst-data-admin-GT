@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012481,
-    "geom:area_square_m":149250252.706828,
+    "geom:area_square_m":149250138.596081,
     "geom:bbox":"-90.349399,14.666907,-90.196884,14.813593",
     "geom:latitude":14.746763,
     "geom:longitude":-90.274123,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PR.AP",
         "wd:id":"Q962852"
     },
     "wof:country":"GT",
     "wof:created":1474493803,
-    "wof:geomhash":"61ed5015a35532978311276efee717b0",
+    "wof:geomhash":"93986f4fbccd3670b444f557e8199a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695477,
-    "wof:lastmodified":1690927633,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Antonio La Paz",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

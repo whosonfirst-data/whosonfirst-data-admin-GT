@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014687,
-    "geom:area_square_m":175670461.673079,
+    "geom:area_square_m":175670176.265722,
     "geom:bbox":"-91.681626,14.611247,-91.530739,14.78554",
     "geom:latitude":14.698111,
     "geom:longitude":-91.609372,
@@ -99,11 +99,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.EP",
         "wd:id":"Q2717583"
     },
     "wof:country":"GT",
     "wof:created":1474493641,
-    "wof:geomhash":"f655709f3d7c15154ab5f4c3a42f64dd",
+    "wof:geomhash":"cbc8acb86f0b509edac7ca583749b4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1108695327,
-    "wof:lastmodified":1690927593,
+    "wof:lastmodified":1694492401,
     "wof:name":"El Palmar",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

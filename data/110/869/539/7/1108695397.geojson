@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005232,
-    "geom:area_square_m":62631743.85708,
+    "geom:area_square_m":62631890.594585,
     "geom:bbox":"-91.560319,14.42116,-91.468614,14.572883",
     "geom:latitude":14.511068,
     "geom:longitude":-91.520509,
@@ -159,11 +159,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.MA",
         "wd:id":"Q1023983"
     },
     "wof:country":"GT",
     "wof:created":1474493715,
-    "wof:geomhash":"96da9b24d8bf118d242fc52e9f5c7066",
+    "wof:geomhash":"45274ef3aea58cc0f692c0e25b64a6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1108695397,
-    "wof:lastmodified":1690927610,
+    "wof:lastmodified":1694492942,
     "wof:name":"Mazatenango",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

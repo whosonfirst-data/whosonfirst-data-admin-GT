@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008761,
-    "geom:area_square_m":104572206.66851,
+    "geom:area_square_m":104572444.478804,
     "geom:bbox":"-92.136899,15.070981,-91.992785,15.183887",
     "geom:latitude":15.1348,
     "geom:longitude":-92.054997,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.SB",
         "wd:id":"Q1748820"
     },
     "wof:country":"GT",
     "wof:created":1474493977,
-    "wof:geomhash":"a2a92ed01c5f1c4626f5292647cb8652",
+    "wof:geomhash":"ea2027056b93a65f6475f114b2ef0681",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695651,
-    "wof:lastmodified":1690927627,
+    "wof:lastmodified":1694492402,
     "wof:name":"Sibinal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

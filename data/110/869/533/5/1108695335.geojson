@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003751,
-    "geom:area_square_m":44867351.711038,
+    "geom:area_square_m":44867439.48683,
     "geom:bbox":"-90.818876,14.627151,-90.757508,14.738664",
     "geom:latitude":14.676118,
     "geom:longitude":-90.788392,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CM.ET",
         "wd:id":"Q1573447"
     },
     "wof:country":"GT",
     "wof:created":1474493647,
-    "wof:geomhash":"290bf57b6a6611d6bb6614c7d2c65354",
+    "wof:geomhash":"473b051d282f0303648a3e73a1089982",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695335,
-    "wof:lastmodified":1690927579,
+    "wof:lastmodified":1694492400,
     "wof:name":"El Tejar",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00091,
-    "geom:area_square_m":10881545.484951,
+    "geom:area_square_m":10881530.827709,
     "geom:bbox":"-91.601804,14.819007,-91.571571,14.871014",
     "geom:latitude":14.845513,
     "geom:longitude":-91.58553,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.QZ.SM",
         "wd:id":"Q938168"
     },
     "wof:country":"GT",
     "wof:created":1474493887,
-    "wof:geomhash":"ba041d549e896cb05e9dbb0fc5a39df9",
+    "wof:geomhash":"35ace383c7e46803661bf8ccc32ecd3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695559,
-    "wof:lastmodified":1690927611,
+    "wof:lastmodified":1694492942,
     "wof:name":"San Mateo",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

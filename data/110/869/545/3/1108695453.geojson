@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020317,
-    "geom:area_square_m":243088116.00904,
+    "geom:area_square_m":243088029.870621,
     "geom:bbox":"-89.565377,14.522673,-89.36039,14.700458",
     "geom:latitude":14.61704,
     "geom:longitude":-89.45725,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.CQ.QU",
         "wd:id":"Q1981325"
     },
     "wof:country":"GT",
     "wof:created":1474493772,
-    "wof:geomhash":"2345b423c7117eb96e638df6b668eeec",
+    "wof:geomhash":"73116b82de691eabfa02822e96d249f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695453,
-    "wof:lastmodified":1690927604,
+    "wof:lastmodified":1694492401,
     "wof:name":"Quetzaltepeque",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

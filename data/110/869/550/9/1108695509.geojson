@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002317,
-    "geom:area_square_m":27630370.788325,
+    "geom:area_square_m":27630370.788317,
     "geom:bbox":"-91.7502003323,15.3320050373,-91.6906049531,15.4171993009",
     "geom:latitude":15.377213,
     "geom:longitude":-91.717212,
@@ -84,10 +84,12 @@
         85671641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.HU.GI"
+    },
     "wof:country":"GT",
     "wof:created":1474493836,
-    "wof:geomhash":"6ba5fff22199c81bf0b87fb05740acaa",
+    "wof:geomhash":"9e259093489833123bebd3a911faf6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1108695509,
-    "wof:lastmodified":1566643191,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Gaspar Ixchil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

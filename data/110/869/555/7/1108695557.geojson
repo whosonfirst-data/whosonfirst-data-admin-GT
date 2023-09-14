@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046129,
-    "geom:area_square_m":548478982.749314,
+    "geom:area_square_m":548478585.113208,
     "geom:bbox":"-91.554622,15.788567,-91.311104,16.076762",
     "geom:latitude":15.934109,
     "geom:longitude":-91.438654,
@@ -87,11 +87,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.HU.MI",
         "wd:id":"Q2609270"
     },
     "wof:country":"GT",
     "wof:created":1474493885,
-    "wof:geomhash":"469e595c35eb5599c5d432413f5af2b6",
+    "wof:geomhash":"45303dbc55d2d4ff97ca8fdbe2315d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695557,
-    "wof:lastmodified":1690927612,
+    "wof:lastmodified":1694492402,
     "wof:name":"San Mateo Ixtatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

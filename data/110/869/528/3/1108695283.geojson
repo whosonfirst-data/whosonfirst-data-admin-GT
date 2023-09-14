@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006861,
-    "geom:area_square_m":82007035.461864,
+    "geom:area_square_m":82007131.222333,
     "geom:bbox":"-92.131344,14.791121,-92.015421,14.915196",
     "geom:latitude":14.847405,
     "geom:longitude":-92.068359,
@@ -90,11 +90,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.AV.CH",
         "wd:id":"Q1748875"
     },
     "wof:country":"GT",
     "wof:created":1474493590,
-    "wof:geomhash":"eded76ad070a9e2d014a5a23cc6e3da1",
+    "wof:geomhash":"ed13980a7d497c78634dee01ea9e7723",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695283,
-    "wof:lastmodified":1690927594,
+    "wof:lastmodified":1694492674,
     "wof:name":"Catarina",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019978,
-    "geom:area_square_m":239381105.611131,
+    "geom:area_square_m":239381595.851345,
     "geom:bbox":"-91.569556,14.043006,-91.436574,14.520829",
     "geom:latitude":14.296106,
     "geom:longitude":-91.4932,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.DS",
         "wd:id":"Q2402403"
     },
     "wof:country":"GT",
     "wof:created":1474493966,
-    "wof:geomhash":"20ffd903a8af3d0fc24625e1f1ba476a",
+    "wof:geomhash":"0b37fb662024ddae3e64af64fb413525",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695639,
-    "wof:lastmodified":1690927617,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santo Domingo Suchitepequez",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

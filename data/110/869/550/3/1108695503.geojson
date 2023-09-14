@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002938,
-    "geom:area_square_m":35154119.548979,
+    "geom:area_square_m":35154032.551005,
     "geom:bbox":"-91.666437,14.588542,-91.543874,14.66619",
     "geom:latitude":14.626815,
     "geom:longitude":-91.607876,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.RE.SF",
         "wd:id":"Q1748865"
     },
     "wof:country":"GT",
     "wof:created":1474493828,
-    "wof:geomhash":"667f9733b5d70e2818b2acaf61af1d5c",
+    "wof:geomhash":"98937d845e12b31fc3e8433128c2b991",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695503,
-    "wof:lastmodified":1690927590,
+    "wof:lastmodified":1694492400,
     "wof:name":"San Felipe Retalhuleu",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

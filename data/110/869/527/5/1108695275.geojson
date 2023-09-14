@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007359,
-    "geom:area_square_m":87848978.672358,
+    "geom:area_square_m":87848894.156157,
     "geom:bbox":"-91.705204,15.05605,-91.590041,15.153167",
     "geom:latitude":15.103363,
     "geom:longitude":-91.649087,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.AV.CB",
         "wd:id":"Q2403031"
     },
     "wof:country":"GT",
     "wof:created":1474493579,
-    "wof:geomhash":"b6fe33191a222242046cfd219fec04ff",
+    "wof:geomhash":"87a7d2b09881a805be7326dedee5b159",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695275,
-    "wof:lastmodified":1690927601,
+    "wof:lastmodified":1694492401,
     "wof:name":"Cabrican",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

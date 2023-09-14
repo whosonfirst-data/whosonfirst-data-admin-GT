@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.682732,
-    "geom:area_square_m":8051873985.991087,
+    "geom:area_square_m":8051874402.535018,
     "geom:bbox":"-90.989538,16.940575,-89.895331,17.815687",
     "geom:latitude":17.487848,
     "geom:longitude":-90.404963,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.PE.SA",
         "wd:id":"Q1005008"
     },
     "wof:country":"GT",
     "wof:created":1474493794,
-    "wof:geomhash":"c78a8b253ebdd8aed504420f4f6cb023",
+    "wof:geomhash":"dd7d60b8b4120a60b3e5595a6edcc5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695467,
-    "wof:lastmodified":1690927641,
+    "wof:lastmodified":1694492403,
     "wof:name":"San Andres",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

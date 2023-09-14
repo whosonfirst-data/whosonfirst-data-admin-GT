@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028593,
-    "geom:area_square_m":342476662.920359,
+    "geom:area_square_m":342476566.568715,
     "geom:bbox":"-91.276155,14.198829,-91.089162,14.572395",
     "geom:latitude":14.379857,
     "geom:longitude":-91.175952,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.PA",
         "wd:id":"Q2608585"
     },
     "wof:country":"GT",
     "wof:created":1474493753,
-    "wof:geomhash":"bf0349395a91de5025a6bcdac4762056",
+    "wof:geomhash":"66855d6fa210c58876be0d11e8df7cd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695439,
-    "wof:lastmodified":1690927596,
+    "wof:lastmodified":1694492401,
     "wof:name":"Patulul",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012592,
-    "geom:area_square_m":150262555.937696,
+    "geom:area_square_m":150263060.181337,
     "geom:bbox":"-91.752857,15.141416,-91.565782,15.245994",
     "geom:latitude":15.192639,
     "geom:longitude":-91.656397,
@@ -93,11 +93,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SM.SC",
         "wd:id":"Q1748824"
     },
     "wof:country":"GT",
     "wof:created":1474493978,
-    "wof:geomhash":"f31d46e58fdd6d7db88e06f150e6d924",
+    "wof:geomhash":"9cc43b73ac12517b08a54358cdf309d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108695653,
-    "wof:lastmodified":1690927627,
+    "wof:lastmodified":1694492402,
     "wof:name":"Sipacapa",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

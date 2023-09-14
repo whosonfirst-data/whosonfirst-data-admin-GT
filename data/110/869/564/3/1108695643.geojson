@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001168,
-    "geom:area_square_m":13968855.186708,
+    "geom:area_square_m":13968782.624374,
     "geom:bbox":"-91.434509,14.59537,-91.39387,14.642859",
     "geom:latitude":14.622483,
     "geom:longitude":-91.411285,
@@ -96,11 +96,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"GT.SU.TU",
         "wd:id":"Q2402120"
     },
     "wof:country":"GT",
     "wof:created":1474493970,
-    "wof:geomhash":"29b972d072001782b2fd72c8f39f6c39",
+    "wof:geomhash":"325692b51f60d1017fc1fbbc2b92190b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108695643,
-    "wof:lastmodified":1690927616,
+    "wof:lastmodified":1694492402,
     "wof:name":"Santo Tomas La Union",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020876,
-    "geom:area_square_m":248592829.732368,
+    "geom:area_square_m":248592829.732338,
     "geom:bbox":"-91.9883778159,15.499592301,-91.7874658053,15.7406865156",
     "geom:latitude":15.62316,
     "geom:longitude":-91.876548,
@@ -86,10 +86,12 @@
         85671641
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"GT.HU.LD"
+    },
     "wof:country":"GT",
     "wof:created":1474493686,
-    "wof:geomhash":"5f70990759961d7fef1932171898a6dd",
+    "wof:geomhash":"a453b9f3b2d09d02beff5ff10b4d9201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":1108695373,
-    "wof:lastmodified":1566643200,
+    "wof:lastmodified":1694492401,
     "wof:name":"La Democracia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

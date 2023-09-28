@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.614835,
-    "geom:area_square_m":7327521378.727072,
+    "geom:area_square_m":7327520112.979621,
     "geom:bbox":"-91.326061,14.779427,-90.422144,16.077345",
     "geom:latitude":15.454914,
     "geom:longitude":-90.94815,
@@ -303,17 +303,19 @@
         "gn:id":3590964,
         "gp:id":2345565,
         "hasc:id":"GT.QC",
+        "iso:code":"GT-QC",
         "iso:id":"GT-QC",
         "qs_pg:id":1168657,
         "unlc:id":"GT-QC",
         "wd:id":"Q669802",
         "wk:page":"Quich\u00e9 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"500ae552dcc70aba89426c9853e068b0",
+    "wof:geomhash":"3e7b181e1c660b6a3cc7519e5e521d61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927556,
+    "wof:lastmodified":1695884374,
     "wof:name":"Quich\u00e9",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200912,
-    "geom:area_square_m":2403124973.80409,
+    "geom:area_square_m":2403124425.53243,
     "geom:bbox":"-89.716908,14.406041,-89.132271,14.952305",
     "geom:latitude":14.688243,
     "geom:longitude":-89.42482,
@@ -306,17 +306,19 @@
         "gn:id":3598464,
         "gp:id":2345555,
         "hasc:id":"GT.CQ",
+        "iso:code":"GT-CQ",
         "iso:id":"GT-CQ",
         "qs_pg:id":59607,
         "unlc:id":"GT-CQ",
         "wd:id":"Q753037",
         "wk:page":"Chiquimula Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8aa6a8f0e6ab01be3298efbc85788a80",
+    "wof:geomhash":"1b38af55dde89aa32f5e89e521417bed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +334,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927559,
+    "wof:lastmodified":1695884951,
     "wof:name":"Chiquimula",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

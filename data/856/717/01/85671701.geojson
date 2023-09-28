@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154383,
-    "geom:area_square_m":1844728207.319571,
+    "geom:area_square_m":1844728693.81895,
     "geom:bbox":"-90.406889,14.666253,-89.789664,15.154797",
     "geom:latitude":14.90694,
     "geom:longitude":-90.082828,
@@ -307,17 +307,19 @@
         "gn:id":3596416,
         "gp:id":2345556,
         "hasc:id":"GT.PR",
+        "iso:code":"GT-PR",
         "iso:id":"GT-PR",
         "qs_pg:id":1000432,
         "unlc:id":"GT-PR",
         "wd:id":"Q795591",
         "wk:page":"El Progreso Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2957cbcf02d12434291635fc6f6bee37",
+    "wof:geomhash":"2f9955e60d97176b6985cad92ae43962",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927558,
+    "wof:lastmodified":1695884951,
     "wof:name":"El Progreso",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

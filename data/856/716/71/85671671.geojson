@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156294,
-    "geom:area_square_m":1869375762.105119,
+    "geom:area_square_m":1869375605.582183,
     "geom:bbox":"-91.128217,14.380381,-90.619227,14.937722",
     "geom:latitude":14.695447,
     "geom:longitude":-90.922014,
@@ -306,17 +306,19 @@
         "gn:id":3598571,
         "gp:id":2345554,
         "hasc:id":"GT.CM",
+        "iso:code":"GT-CM",
         "iso:id":"GT-CM",
         "qs_pg:id":318487,
         "unlc:id":"GT-CM",
         "wd:id":"Q765975",
         "wk:page":"Chimaltenango Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8f67580460db86205813e3a9af24c4a7",
+    "wof:geomhash":"ab1fd8364c77ff27e8f9a90f0fa417da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +334,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927566,
+    "wof:lastmodified":1695884952,
     "wof:name":"Chimaltenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

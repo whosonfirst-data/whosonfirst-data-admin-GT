@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252305,
-    "geom:area_square_m":3011834065.811239,
+    "geom:area_square_m":3011834113.923815,
     "geom:bbox":"-90.815559,14.869779,-89.855595,15.350619",
     "geom:latitude":15.117017,
     "geom:longitude":-90.384978,
@@ -313,17 +313,19 @@
         "gn:id":3599602,
         "gp:id":2345553,
         "hasc:id":"GT.BV",
+        "iso:code":"GT-BV",
         "iso:id":"GT-BV",
         "qs_pg:id":442529,
         "unlc:id":"GT-BV",
         "wd:id":"Q504647",
         "wk:page":"Baja Verapaz Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b95eb471e2807a4dc4eb8e4fde4cb468",
+    "wof:geomhash":"b8d8ae9173379b323bdd491637527cb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -339,7 +341,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927561,
+    "wof:lastmodified":1695884951,
     "wof:name":"Baja Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

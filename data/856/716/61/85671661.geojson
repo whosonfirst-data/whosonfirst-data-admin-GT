@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298562,
-    "geom:area_square_m":3565641264.970304,
+    "geom:area_square_m":3565642310.7259,
     "geom:bbox":"-92.231153,14.489957,-91.565782,15.42196",
     "geom:latitude":15.018918,
     "geom:longitude":-91.93148,
@@ -316,17 +316,19 @@
         "gn:id":3589801,
         "gp:id":2345568,
         "hasc:id":"GT.SM",
+        "iso:code":"GT-SM",
         "iso:id":"GT-SM",
         "qs_pg:id":1117347,
         "unlc:id":"GT-SM",
         "wd:id":"Q883907",
         "wk:page":"San Marcos Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"659c3ddeb6d224d67be38cc12b7e202a",
+    "wof:geomhash":"fcf5cdce543580214962a98e456e0cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -342,7 +344,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927560,
+    "wof:lastmodified":1695884951,
     "wof:name":"San Marcos",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227325,
-    "geom:area_square_m":2714663387.517654,
+    "geom:area_square_m":2714663488.312667,
     "geom:bbox":"-89.899118,14.739007,-89.152499,15.29765",
     "geom:latitude":15.037279,
     "geom:longitude":-89.508388,
@@ -300,17 +300,19 @@
         "gn:id":3587586,
         "gp:id":2345573,
         "hasc:id":"GT.ZA",
+        "iso:code":"GT-ZA",
         "iso:id":"GT-ZA",
         "qs_pg:id":479602,
         "unlc:id":"GT-ZA",
         "wd:id":"Q780784",
         "wk:page":"Zacapa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1768f4d0f16cde813b222f6ff360e3e",
+    "wof:geomhash":"83e611437b9abf411da48f45b8df8144",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -326,7 +328,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927557,
+    "wof:lastmodified":1695884951,
     "wof:name":"Zacapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

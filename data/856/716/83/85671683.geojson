@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201675,
-    "geom:area_square_m":2415612112.518136,
+    "geom:area_square_m":2415612160.639472,
     "geom:bbox":"-91.783044,14.043006,-91.089162,14.698247",
     "geom:latitude":14.380435,
     "geom:longitude":-91.430874,
@@ -307,17 +307,19 @@
         "gn:id":3588668,
         "gp:id":2345571,
         "hasc:id":"GT.SU",
+        "iso:code":"GT-SU",
         "iso:id":"GT-SU",
         "qs_pg:id":59613,
         "unlc:id":"GT-SU",
         "wd:id":"Q883734",
         "wk:page":"Suchitep\u00e9quez Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0f87a8033c69f32a34bbb1b3a381180",
+    "wof:geomhash":"aa0950deb92e200b08192aab67c900cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927565,
+    "wof:lastmodified":1695884374,
     "wof:name":"Suchitep\u00e9quez",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

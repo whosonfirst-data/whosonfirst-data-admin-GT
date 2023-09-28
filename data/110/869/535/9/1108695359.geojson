@@ -90,6 +90,7 @@
         "hasc:id":"GT.SR.GU",
         "wd:id":"Q2401701"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493668,
     "wof:geomhash":"ead8fb2471422c57238122d82572a436",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695359,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886332,
     "wof:name":"Guazacapan",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

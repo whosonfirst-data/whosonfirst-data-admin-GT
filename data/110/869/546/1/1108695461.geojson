@@ -90,6 +90,7 @@
         "hasc:id":"GT.SU.SA",
         "wd:id":"Q371216"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493784,
     "wof:geomhash":"6220e8e9d23cab27a5354575b9e563e9",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695461,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Samayac",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

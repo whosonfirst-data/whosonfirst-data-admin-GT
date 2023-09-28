@@ -96,6 +96,7 @@
         "hasc:id":"GT.PR.MO",
         "wd:id":"Q1020416"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493722,
     "wof:geomhash":"86d977a428bcd83ba07e86450f7716e1",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695403,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"Morazan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

@@ -102,6 +102,7 @@
         "hasc:id":"GT.QZ.EP",
         "wd:id":"Q2717583"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493641,
     "wof:geomhash":"cbc8acb86f0b509edac7ca583749b4ec",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695327,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"El Palmar",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

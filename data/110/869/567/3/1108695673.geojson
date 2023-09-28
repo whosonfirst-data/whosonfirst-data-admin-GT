@@ -93,6 +93,7 @@
         "hasc:id":"GT.ES.TI",
         "wd:id":"Q532226"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493996,
     "wof:geomhash":"3321280928e6450b88ccf23bb2b8b552",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695673,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Tiquisate",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

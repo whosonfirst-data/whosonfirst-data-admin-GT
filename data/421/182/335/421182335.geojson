@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019764,
-    "geom:area_square_m":235423122.353891,
+    "geom:area_square_m":235423035.873694,
     "geom:bbox":"-90.072584,15.488876,-89.906449,15.668428",
     "geom:latitude":15.567683,
     "geom:longitude":-89.988798,
@@ -89,12 +89,13 @@
         "hasc:id":"GT.AV.LA",
         "qs_pg:id":900269
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009326,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46f95b3b95eadd65b6d3252442ab6ea8",
+    "wof:geomhash":"1ffba0fa7dcf951452d34627ead3a711",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421182335,
-    "wof:lastmodified":1627522160,
+    "wof:lastmodified":1695886628,
     "wof:name":"Lanquin",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

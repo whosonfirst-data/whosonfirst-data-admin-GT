@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020691,
-    "geom:area_square_m":247251615.328408,
+    "geom:area_square_m":247251430.460913,
     "geom:bbox":"-91.212199,14.779427,-91.008815,14.99428",
     "geom:latitude":14.896669,
     "geom:longitude":-91.092126,
@@ -157,12 +157,13 @@
         "qs_pg:id":1264009,
         "wd:id":"Q603423"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"343b911ad8bb97d78c4eb95604402ddd",
+    "wof:geomhash":"539a3524a203a5e0e4d093497aa80196",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421171687,
-    "wof:lastmodified":1690927824,
+    "wof:lastmodified":1695886031,
     "wof:name":"Chichicastenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

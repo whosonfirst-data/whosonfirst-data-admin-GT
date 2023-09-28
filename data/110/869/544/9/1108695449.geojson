@@ -222,6 +222,7 @@
         "hasc:id":"GT.IZ.PB",
         "wd:id":"Q991400"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493766,
     "wof:geomhash":"bd3848b249e75e38f25af62dc8e303f8",
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":1108695449,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Puerto Barrios",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031071,
-    "geom:area_square_m":370643175.729939,
+    "geom:area_square_m":370643156.26236,
     "geom:bbox":"-91.326061,15.196877,-90.946657,15.333928",
     "geom:latitude":15.263658,
     "geom:longitude":-91.11411,
@@ -121,12 +121,13 @@
         "qs_pg:id":772718,
         "wd:id":"Q2401849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008831,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0ec4fbee279aa5f362c85f675177971",
+    "wof:geomhash":"bbd2cce8e5ec90f5a067bd3e60579487",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421169961,
-    "wof:lastmodified":1690927669,
+    "wof:lastmodified":1695886025,
     "wof:name":"Sacapulas",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

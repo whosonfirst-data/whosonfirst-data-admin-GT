@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017798,
-    "geom:area_square_m":213310100.220751,
+    "geom:area_square_m":213310413.442199,
     "geom:bbox":"-90.403149,14.162749,-90.193628,14.333603",
     "geom:latitude":14.249581,
     "geom:longitude":-90.28395,
@@ -187,12 +187,13 @@
         "qs_pg:id":61138,
         "wd:id":"Q1015941"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2182b59d4cb21e4fd91607bfd228aa1",
+    "wof:geomhash":"23f7bb5074a12db3d751e82f24292992",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":421191201,
-    "wof:lastmodified":1690927737,
+    "wof:lastmodified":1695886114,
     "wof:name":"Cuilapa",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

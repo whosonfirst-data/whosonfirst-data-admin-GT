@@ -96,6 +96,7 @@
         "hasc:id":"GT.BV.CU",
         "wd:id":"Q2034094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493625,
     "wof:geomhash":"3501bc1fb3206316c4203ae76a8f9484",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695313,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Cubulco",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

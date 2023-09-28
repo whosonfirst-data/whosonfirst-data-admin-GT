@@ -162,6 +162,7 @@
         "hasc:id":"GT.SU.MA",
         "wd:id":"Q1023983"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493715,
     "wof:geomhash":"45274ef3aea58cc0f692c0e25b64a6ae",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108695397,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"Mazatenango",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

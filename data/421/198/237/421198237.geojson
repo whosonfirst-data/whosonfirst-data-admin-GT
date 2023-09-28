@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044297,
-    "geom:area_square_m":529809020.998717,
+    "geom:area_square_m":529809513.448153,
     "geom:bbox":"-89.948392,14.551888,-89.75,14.875513",
     "geom:latitude":14.702389,
     "geom:longitude":-89.85409,
@@ -118,12 +118,13 @@
         "qs_pg:id":401858,
         "wd:id":"Q739778"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009941,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c3df9ce9e0b9e2fac73bc9c9ee32527e",
+    "wof:geomhash":"cf1fa46f16bb2885781875be9134a5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421198237,
-    "wof:lastmodified":1690927730,
+    "wof:lastmodified":1695886028,
     "wof:name":"San Pedro Pinula",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

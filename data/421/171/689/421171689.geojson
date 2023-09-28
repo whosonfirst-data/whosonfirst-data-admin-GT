@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008115,
-    "geom:area_square_m":97120708.510385,
+    "geom:area_square_m":97120752.52539,
     "geom:bbox":"-91.804713,14.500989,-91.71292,14.671689",
     "geom:latitude":14.568348,
     "geom:longitude":-91.749764,
@@ -118,12 +118,13 @@
         "qs_pg:id":1264011,
         "wd:id":"Q2402509"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f71bb277cb8263a78435682484a65dad",
+    "wof:geomhash":"8c90e39ffe918b0d922b14c7f7371893",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421171689,
-    "wof:lastmodified":1690927824,
+    "wof:lastmodified":1695886031,
     "wof:name":"El Asintal",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

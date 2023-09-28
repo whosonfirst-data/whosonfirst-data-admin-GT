@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002968,
-    "geom:area_square_m":35528375.390796,
+    "geom:area_square_m":35528278.916202,
     "geom:bbox":"-90.818989,14.464179,-90.743479,14.547418",
     "geom:latitude":14.507918,
     "geom:longitude":-90.771626,
@@ -133,12 +133,13 @@
         "qs_pg:id":1264014,
         "wd:id":"Q2445843"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9ad0f8a8fd70824202c1851decf26a7",
+    "wof:geomhash":"ab58976ca517804cf796a4ad0cf82ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421171693,
-    "wof:lastmodified":1690927825,
+    "wof:lastmodified":1695886031,
     "wof:name":"Ciudad Vieja",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

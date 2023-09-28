@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.JU.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493842,
     "wof:geomhash":"1bfc8b24305a6d64fd96973be2bb354b",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695517,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"San Jose Acatempa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

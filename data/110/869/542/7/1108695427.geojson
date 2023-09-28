@@ -105,6 +105,7 @@
         "hasc:id":"GT.GU.PA",
         "wd:id":"Q246164"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493742,
     "wof:geomhash":"88bc7debe29514c52573c8757ad7df23",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108695427,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"Palencia",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

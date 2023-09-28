@@ -102,6 +102,7 @@
         "hasc:id":"GT.HU.AG",
         "wd:id":"Q2402581"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493563,
     "wof:geomhash":"9fcc745fb80f9e175770365a9b96aaf9",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695257,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Aguacatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.SM.CC",
         "wd:id":"Q1748857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493822,
     "wof:geomhash":"d72cdb7bc8efe37b537a4f843b6a4ddb",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695497,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Cristobal Cuchu",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

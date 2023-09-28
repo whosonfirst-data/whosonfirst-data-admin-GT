@@ -93,6 +93,7 @@
         "hasc:id":"GT.BV.MC",
         "wd:id":"Q1517461"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493890,
     "wof:geomhash":"97845380f195c9f57acfdce8059828a6",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695563,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Miguel Chicaj",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

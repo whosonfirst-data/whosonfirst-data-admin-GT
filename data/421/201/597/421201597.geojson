@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009365,
-    "geom:area_square_m":111836936.527194,
+    "geom:area_square_m":111836728.768066,
     "geom:bbox":"-91.172802,14.936311,-91.067331,15.111444",
     "geom:latitude":15.040649,
     "geom:longitude":-91.122072,
@@ -180,12 +180,13 @@
         "qs_pg:id":1264008,
         "wd:id":"Q693140"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010077,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d49ef68e438052307cb7072f6c398253",
+    "wof:geomhash":"0ce5923a0e14631dc22abc955f9be4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":421201597,
-    "wof:lastmodified":1690927761,
+    "wof:lastmodified":1695886115,
     "wof:name":"Santa Cruz Del Quiche",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

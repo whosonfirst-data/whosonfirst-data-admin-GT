@@ -99,6 +99,7 @@
         "hasc:id":"GT.SM.SB",
         "wd:id":"Q1748820"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493977,
     "wof:geomhash":"ea2027056b93a65f6475f114b2ef0681",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695651,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Sibinal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

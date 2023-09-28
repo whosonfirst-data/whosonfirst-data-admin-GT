@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13068,
-    "geom:area_square_m":1546759478.333086,
+    "geom:area_square_m":1546759554.660823,
     "geom:bbox":"-89.864536,16.630214,-89.326879,17.01306",
     "geom:latitude":16.819108,
     "geom:longitude":-89.578346,
@@ -156,12 +156,13 @@
         "wd:id":"Q1005733",
         "wk:page":"Santa Ana, El Pet\u00e9n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010111,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8152da1cb49d85a60d70644a3627c4c",
+    "wof:geomhash":"5ce7f2a78fbc4038ea3ecdb635eb5e22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421202273,
-    "wof:lastmodified":1690927683,
+    "wof:lastmodified":1695886114,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

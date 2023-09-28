@@ -99,6 +99,7 @@
         "hasc:id":"GT.SA.SS",
         "wd:id":"Q2295832"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493926,
     "wof:geomhash":"86d9f02f8d30da68dcdbb4c0f880fb55",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695603,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Tiago Sacatepequez",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

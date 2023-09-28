@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017888,
-    "geom:area_square_m":214129095.960157,
+    "geom:area_square_m":214129110.600927,
     "geom:bbox":"-91.4234,14.327209,-91.26453,14.646102",
     "geom:latitude":14.519059,
     "geom:longitude":-91.349622,
@@ -121,12 +121,13 @@
         "qs_pg:id":772715,
         "wd:id":"Q2402199"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009885,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcfb67c6675032c534229203138b2c01",
+    "wof:geomhash":"b45fd11275f5d9711aaf7134a4794fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421196547,
-    "wof:lastmodified":1690927734,
+    "wof:lastmodified":1695886029,
     "wof:name":"Chicacao",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

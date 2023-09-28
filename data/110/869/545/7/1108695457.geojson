@@ -90,6 +90,7 @@
         "hasc:id":"GT.SM.RB",
         "wd:id":"Q3943212"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493777,
     "wof:geomhash":"04e8427eed46b0ee73701cb6d12a0cdf",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695457,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

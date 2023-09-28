@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.PN",
         "wd:id":"Q734440"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493907,
     "wof:geomhash":"5161113fa327f2e99026a5ef29f4b2b0",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695581,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"San Pedro Necta",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

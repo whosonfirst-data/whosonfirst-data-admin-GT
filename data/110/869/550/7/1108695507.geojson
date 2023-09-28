@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"GT.SU.FZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493832,
     "wof:geomhash":"c4d84193593cd7d9c43bea4639112403",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695507,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"San Francisco Zapotitlan",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

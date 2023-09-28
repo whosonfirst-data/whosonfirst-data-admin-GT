@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010623,
-    "geom:area_square_m":126991316.590067,
+    "geom:area_square_m":126991713.952462,
     "geom:bbox":"-91.588326,14.736924,-91.458417,14.88609",
     "geom:latitude":14.815318,
     "geom:longitude":-91.533158,
@@ -276,12 +276,13 @@
         "qs_pg:id":1263990,
         "wd:id":"Q334577"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d8819a1070efb23787c11392c187088",
+    "wof:geomhash":"ec029432c3670ce2c1a8c9554188dc48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -291,7 +292,7 @@
         }
     ],
     "wof:id":421171685,
-    "wof:lastmodified":1690927827,
+    "wof:lastmodified":1695886031,
     "wof:name":"Quetzaltenango",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

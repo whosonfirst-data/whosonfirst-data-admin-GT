@@ -96,6 +96,7 @@
         "hasc:id":"GT.SA.DX",
         "wd:id":"Q2401045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493968,
     "wof:geomhash":"47fcafdfcd10336c949fed4b7ab459a2",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695641,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santo Domingo Xenacoj",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

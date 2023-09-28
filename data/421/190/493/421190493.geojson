@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023706,
-    "geom:area_square_m":282365838.8705,
+    "geom:area_square_m":282365938.983766,
     "geom:bbox":"-91.72755,15.48053,-91.485017,15.647843",
     "geom:latitude":15.573163,
     "geom:longitude":-91.584326,
@@ -118,12 +118,13 @@
         "qs_pg:id":1119668,
         "wd:id":"Q2608975"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"02e6bc429f96b15ad08e319dfdae79f2",
+    "wof:geomhash":"dad6aea93af8d270d4faa9c540aee90e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421190493,
-    "wof:lastmodified":1690927742,
+    "wof:lastmodified":1695886028,
     "wof:name":"Todos Santos Cuchumatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

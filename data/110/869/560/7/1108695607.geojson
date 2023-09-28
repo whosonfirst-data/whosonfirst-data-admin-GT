@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.SA",
         "wd:id":"Q2402405"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493930,
     "wof:geomhash":"1ddc07ab5bd33a0370a82fae682bc956",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695607,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886329,
     "wof:name":"Santa Ana Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

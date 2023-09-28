@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008428,
-    "geom:area_square_m":100575715.952131,
+    "geom:area_square_m":100575715.952102,
     "geom:bbox":"-90.9190368526,15.1433597168,-90.8061702576,15.256368827",
     "geom:latitude":15.195116,
     "geom:longitude":-90.862824,
@@ -128,12 +128,13 @@
         "qs_pg:id":995769,
         "wd:id":"Q450721"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9863d16fd9dd5bd64b96a21085d73dc7",
+    "wof:geomhash":"1b8ce14fb9538097fde72afd224636a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421184395,
-    "wof:lastmodified":1582360596,
+    "wof:lastmodified":1695886030,
     "wof:name":"Canilla",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

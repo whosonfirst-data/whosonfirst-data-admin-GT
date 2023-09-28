@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00565,
-    "geom:area_square_m":67339154.645678,
+    "geom:area_square_m":67338970.87872,
     "geom:bbox":"-91.754106,15.396655,-91.64744,15.492758",
     "geom:latitude":15.445231,
     "geom:longitude":-91.709801,
@@ -117,12 +117,13 @@
         "wd:id":"Q2402611",
         "wk:page":"Colotenango"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009920,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eaa4b4041d0cb03b6f4d11cdfaaec514",
+    "wof:geomhash":"ac74716931042d76132478fb79ddecbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421197631,
-    "wof:lastmodified":1690927749,
+    "wof:lastmodified":1695886029,
     "wof:name":"Colotenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

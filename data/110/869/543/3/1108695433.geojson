@@ -96,6 +96,7 @@
         "hasc:id":"GT.AV.PA",
         "wd:id":"Q2050264"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493747,
     "wof:geomhash":"ce9b55f29ce0706985403a2e996c5435",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695433,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Panzos",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

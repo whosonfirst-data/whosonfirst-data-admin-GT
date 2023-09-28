@@ -93,6 +93,7 @@
         "hasc:id":"GT.QC.PJ",
         "wd:id":"Q2621511"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493905,
     "wof:geomhash":"92f3c232f36965128f07ecb32cee7d8e",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695579,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Pedro Jocopitas",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

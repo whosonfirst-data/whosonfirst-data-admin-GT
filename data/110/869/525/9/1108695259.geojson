@@ -102,6 +102,7 @@
         "hasc:id":"GT.QZ.AL",
         "wd:id":"Q284830"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493565,
     "wof:geomhash":"f26bcfa2beb15703482c764b92e8171f",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695259,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Almolonga",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

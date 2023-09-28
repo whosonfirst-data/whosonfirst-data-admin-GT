@@ -90,6 +90,7 @@
         "hasc:id":"GT.QZ.HU",
         "wd:id":"Q1748611"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493671,
     "wof:geomhash":"a28065bb88855a0d5a9be51e006eae04",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695361,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Huitan",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

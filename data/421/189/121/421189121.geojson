@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005358,
-    "geom:area_square_m":64148423.665764,
+    "geom:area_square_m":64148625.12169,
     "geom:bbox":"-90.748065,14.427785,-90.653529,14.524802",
     "geom:latitude":14.475958,
     "geom:longitude":-90.698746,
@@ -127,12 +127,13 @@
         "qs_pg:id":1110195,
         "wd:id":"Q119252"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009605,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5988053c9d3740ebe61b0f4fd294d202",
+    "wof:geomhash":"4954a96546584b484564ca2281d68d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421189121,
-    "wof:lastmodified":1690927706,
+    "wof:lastmodified":1695886028,
     "wof:name":"Santa Maria De Jesus",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

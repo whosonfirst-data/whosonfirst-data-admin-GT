@@ -137,6 +137,7 @@
     "wof:concordances":{
         "hasc:id":"GT.PE.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493690,
     "wof:geomhash":"f8e7a68b6c4d465c79c1d62efa0eeefa",
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108695377,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"La Libertad",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

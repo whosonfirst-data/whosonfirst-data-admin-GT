@@ -96,6 +96,7 @@
         "hasc:id":"GT.CM.PR",
         "wd:id":"Q509612"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493748,
     "wof:geomhash":"4d800a592416bbf9b6f518053995e1c8",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695435,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Parramos",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

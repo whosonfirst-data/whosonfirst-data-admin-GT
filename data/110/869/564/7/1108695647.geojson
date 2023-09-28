@@ -99,6 +99,7 @@
         "hasc:id":"GT.AV.SE",
         "wd:id":"Q332072"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493974,
     "wof:geomhash":"bc262aae3b24cc70d3ba9f1deb21af6c",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695647,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Senahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

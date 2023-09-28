@@ -93,6 +93,7 @@
         "hasc:id":"GT.CQ.QU",
         "wd:id":"Q1981325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493772,
     "wof:geomhash":"73116b82de691eabfa02822e96d249f7",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695453,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Quetzaltepeque",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

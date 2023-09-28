@@ -99,6 +99,7 @@
         "hasc:id":"GT.PR.CA",
         "wd:id":"Q1020799"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493821,
     "wof:geomhash":"592ef11cbfc321fbbac3b4f320aa79f7",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695495,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Cristobal Acasaguastlan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

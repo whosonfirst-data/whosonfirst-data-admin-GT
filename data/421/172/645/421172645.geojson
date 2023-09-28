@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006261,
-    "geom:area_square_m":74791594.272889,
+    "geom:area_square_m":74791574.676476,
     "geom:bbox":"-91.545284,14.919982,-91.405468,15.020969",
     "geom:latitude":14.969846,
     "geom:longitude":-91.477217,
@@ -115,12 +115,13 @@
         "qs_pg:id":1315333,
         "wd:id":"Q2608408"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008950,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e28f56a81b1e05f8506594993e5e3af7",
+    "wof:geomhash":"a0eee82982f4242d27fd570f68510dfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421172645,
-    "wof:lastmodified":1690927713,
+    "wof:lastmodified":1695886027,
     "wof:name":"San Francisco El Alto",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

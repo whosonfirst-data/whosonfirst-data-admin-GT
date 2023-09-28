@@ -89,6 +89,7 @@
     "wof:concordances":{
         "hasc:id":"GT.HU.LD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493686,
     "wof:geomhash":"a453b9f3b2d09d02beff5ff10b4d9201",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108695373,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"La Democracia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

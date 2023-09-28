@@ -99,6 +99,7 @@
         "hasc:id":"GT.QZ.CS",
         "wd:id":"Q2609256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493819,
     "wof:geomhash":"f9d29da3cef4a9936a3e6147c7865f8d",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695493,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Carlos Sija",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

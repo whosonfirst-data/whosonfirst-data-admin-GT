@@ -96,6 +96,7 @@
         "hasc:id":"GT.JU.SC",
         "wd:id":"Q1748953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493941,
     "wof:geomhash":"388541064d6378e032aeda05ce0d8d89",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695619,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Santa Catarina Mita",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -91,6 +91,7 @@
         "hasc:id":"GT.QZ.PA",
         "wd:id":"Q2402624"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493744,
     "wof:geomhash":"14476b2b5a7ce22e9539e3219f5be6e8",
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108695431,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Palestina De Los Altos",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018641,
-    "geom:area_square_m":222325803.131968,
+    "geom:area_square_m":222326160.576947,
     "geom:bbox":"-90.207258,15.257473,-89.920079,15.356265",
     "geom:latitude":15.302076,
     "geom:longitude":-90.08131,
@@ -127,12 +127,13 @@
         "qs_pg:id":1263963,
         "wd:id":"Q391295"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008893,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d40956141592b81c1ed0a1fcfdc527a6",
+    "wof:geomhash":"71a489ee4de2f5beefb14d915c2c299f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421171421,
-    "wof:lastmodified":1690927826,
+    "wof:lastmodified":1695886031,
     "wof:name":"Tucuru",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

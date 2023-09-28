@@ -96,6 +96,7 @@
         "hasc:id":"GT.AV.TM",
         "wd:id":"Q348216"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493988,
     "wof:geomhash":"e413dda458b53e146ad3ba71fd69dc8b",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695665,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Tamahu",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

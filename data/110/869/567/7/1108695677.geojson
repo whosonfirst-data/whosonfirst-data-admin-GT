@@ -99,6 +99,7 @@
         "hasc:id":"GT.ZA.US",
         "wd:id":"Q203970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494003,
     "wof:geomhash":"578287c0cad7cf0187a7aacddb8f5790",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695677,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Usumatlan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -102,6 +102,7 @@
         "hasc:id":"GT.GU.JP",
         "wd:id":"Q317380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493852,
     "wof:geomhash":"782fa64f95e345b53e8b0d9db3387abe",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695529,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"San Jose Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

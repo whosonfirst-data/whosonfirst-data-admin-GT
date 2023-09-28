@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009765,
-    "geom:area_square_m":116472077.408332,
+    "geom:area_square_m":116472152.597041,
     "geom:bbox":"-90.397913,15.231823,-90.273674,15.356131",
     "geom:latitude":15.297654,
     "geom:longitude":-90.340044,
@@ -175,12 +175,13 @@
         "qs_pg:id":1263965,
         "wd:id":"Q348201"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008834,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92700ea334b0ef193416abcea514d843",
+    "wof:geomhash":"6fe9cee46f52a4b8d837599cee7cb3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":421170043,
-    "wof:lastmodified":1690927776,
+    "wof:lastmodified":1695886029,
     "wof:name":"Tactic",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

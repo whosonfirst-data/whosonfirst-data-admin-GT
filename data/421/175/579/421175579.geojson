@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007123,
-    "geom:area_square_m":85171369.605003,
+    "geom:area_square_m":85170999.208143,
     "geom:bbox":"-90.943546,14.693578,-90.847775,14.81289",
     "geom:latitude":14.74835,
     "geom:longitude":-90.897531,
@@ -123,12 +123,13 @@
         "wd:id":"Q1254234",
         "wk:page":"San Juan Comalapa"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009072,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47332c2fc68eef0f8ba1c5d3320cacc6",
+    "wof:geomhash":"13e185d3842764f566de6b5d2e683d16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421175579,
-    "wof:lastmodified":1690927725,
+    "wof:lastmodified":1695886027,
     "wof:name":"Comalapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

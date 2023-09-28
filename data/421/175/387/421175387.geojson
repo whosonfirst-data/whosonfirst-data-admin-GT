@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000556,
-    "geom:area_square_m":6648723.99589,
+    "geom:area_square_m":6648734.504761,
     "geom:bbox":"-91.166278,14.730673,-91.137142,14.759366",
     "geom:latitude":14.744632,
     "geom:longitude":-91.149599,
@@ -144,12 +144,13 @@
         "qs_pg:id":368919,
         "wd:id":"Q1634223"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009065,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bfb303ad4615661dd125afcb96340640",
+    "wof:geomhash":"a369e12d1fab3c653977d4b8671fd033",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":421175387,
-    "wof:lastmodified":1690927725,
+    "wof:lastmodified":1695886027,
     "wof:name":"Panajachel",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

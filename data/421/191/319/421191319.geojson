@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000629,
-    "geom:area_square_m":7529244.647499,
+    "geom:area_square_m":7529324.558647,
     "geom:bbox":"-91.527528,14.493014,-91.500698,14.52298",
     "geom:latitude":14.507866,
     "geom:longitude":-91.514324,
@@ -162,12 +162,13 @@
         "wd:id":"Q1748775",
         "wk:page":"San Gabriel, Suchitep\u00e9quez"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009688,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a03fe8b8ede988f67ad0db9bcae64dcb",
+    "wof:geomhash":"50f18fafe6d3f69278a15a36a1fea5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421191319,
-    "wof:lastmodified":1690927737,
+    "wof:lastmodified":1695886115,
     "wof:name":"San Gabriel",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

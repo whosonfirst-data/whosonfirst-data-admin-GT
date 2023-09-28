@@ -93,6 +93,7 @@
         "hasc:id":"GT.JA.CA",
         "wd:id":"Q2403579"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493817,
     "wof:geomhash":"b735316a202b42dd5e09840e480ac101",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695491,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Carlos Alzatate",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

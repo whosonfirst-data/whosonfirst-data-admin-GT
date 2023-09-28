@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001972,
-    "geom:area_square_m":23609731.283214,
+    "geom:area_square_m":23609793.682228,
     "geom:bbox":"-90.581726,14.472167,-90.531764,14.545521",
     "geom:latitude":14.509277,
     "geom:longitude":-90.554064,
@@ -89,12 +89,13 @@
         "hasc:id":"GT.GU.MP",
         "qs_pg:id":288296
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009197,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb6f10a98409634a18d8d7a68eb44334",
+    "wof:geomhash":"aac992fd817a91e39a246cb532535f2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421178905,
-    "wof:lastmodified":1627522160,
+    "wof:lastmodified":1695886628,
     "wof:name":"Petapa",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -88,6 +88,7 @@
         "hasc:id":"GT.SM.RP",
         "wd:id":"Q2402778"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493917,
     "wof:geomhash":"087fa9df0af53d909bb6a89379988637",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108695595,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Rafael Pie De La Cuesta",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

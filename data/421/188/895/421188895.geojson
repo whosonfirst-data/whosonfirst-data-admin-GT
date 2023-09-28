@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0383,
-    "geom:area_square_m":455845441.084781,
+    "geom:area_square_m":455845441.084826,
     "geom:bbox":"-89.7283712918,15.6126340658,-89.4122517757,15.8633922465",
     "geom:latitude":15.733188,
     "geom:longitude":-89.576082,
@@ -280,12 +280,13 @@
         "qs_pg:id":1104932,
         "wd:id":"Q5067516"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009587,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b0bd636f231228821dab634d6ab3bb9",
+    "wof:geomhash":"370589315306fe31db2950c9ec15976d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -295,7 +296,7 @@
         }
     ],
     "wof:id":421188895,
-    "wof:lastmodified":1582360594,
+    "wof:lastmodified":1695886028,
     "wof:name":"Chahal",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

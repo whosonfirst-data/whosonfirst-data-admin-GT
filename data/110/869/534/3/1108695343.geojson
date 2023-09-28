@@ -99,6 +99,7 @@
         "hasc:id":"GT.ZA.ES",
         "wd:id":"Q1020422"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493653,
     "wof:geomhash":"3df6abc090fd5273318d9b90bf0354a4",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695343,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Estanzuela",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

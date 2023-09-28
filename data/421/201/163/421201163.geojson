@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011053,
-    "geom:area_square_m":131747527.023573,
+    "geom:area_square_m":131747534.424951,
     "geom:bbox":"-91.627535,15.351318,-91.503633,15.50609",
     "geom:latitude":15.4293,
     "geom:longitude":-91.558363,
@@ -147,12 +147,13 @@
         "wd:id":"Q2402108",
         "wk:page":"San Sebasti\u00e1n Huehuetenango"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010058,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8634fbfed4da4ddc00f2f857792f0a6",
+    "wof:geomhash":"1b3b9e9240d36e488e0df02a74750bb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":421201163,
-    "wof:lastmodified":1690927761,
+    "wof:lastmodified":1695886029,
     "wof:name":"San Sebastian Huehuetenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

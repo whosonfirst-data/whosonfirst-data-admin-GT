@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008108,
-    "geom:area_square_m":96999322.516016,
+    "geom:area_square_m":96999039.863113,
     "geom:bbox":"-90.643343,14.569655,-90.516887,14.714834",
     "geom:latitude":14.641785,
     "geom:longitude":-90.584847,
@@ -226,12 +226,13 @@
         "qs_pg:id":1263978,
         "wd:id":"Q948953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008902,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa4488f9653ceac794b4a405404cc278",
+    "wof:geomhash":"c4572eaf074e4be3ccba062047d6df3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -241,7 +242,7 @@
         }
     ],
     "wof:id":421171679,
-    "wof:lastmodified":1690927827,
+    "wof:lastmodified":1695886031,
     "wof:name":"Mixco",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

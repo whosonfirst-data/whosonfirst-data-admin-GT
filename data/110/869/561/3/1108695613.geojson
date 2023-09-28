@@ -179,6 +179,7 @@
     "wof:concordances":{
         "hasc:id":"GT.SU.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493934,
     "wof:geomhash":"eaa962749a001b3275e406ae374608b2",
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":1108695613,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886112,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.ES.SI",
         "wd:id":"Q1748570"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493980,
     "wof:geomhash":"62c007f090cdf60e40b641cddd5cfe5f",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695655,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886336,
     "wof:name":"Siquinala",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

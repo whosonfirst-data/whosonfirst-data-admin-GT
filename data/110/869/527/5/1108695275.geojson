@@ -96,6 +96,7 @@
         "hasc:id":"GT.AV.CB",
         "wd:id":"Q2403031"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493579,
     "wof:geomhash":"87a7d2b09881a805be7326dedee5b159",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695275,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Cabrican",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -93,6 +93,7 @@
         "hasc:id":"GT.ES.GU",
         "wd:id":"Q1748573"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493665,
     "wof:geomhash":"282ae1565ab26ffa978ac65673ff625a",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695355,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Guanagazapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

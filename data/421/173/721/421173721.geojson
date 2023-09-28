@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006153,
-    "geom:area_square_m":73321021.201374,
+    "geom:area_square_m":73321301.175753,
     "geom:bbox":"-91.668684,15.410896,-91.576026,15.541585",
     "geom:latitude":15.474229,
     "geom:longitude":-91.625213,
@@ -120,12 +120,13 @@
         "wd:id":"Q531288",
         "wk:page":"San Juan Atit\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009000,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5743edea76ed208e2744a2f68d7c67aa",
+    "wof:geomhash":"a1c452b5b23af077a81c0ddcc683e8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421173721,
-    "wof:lastmodified":1690927705,
+    "wof:lastmodified":1695886026,
     "wof:name":"San Juan Atitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

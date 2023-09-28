@@ -64,6 +64,7 @@
     "wof:concordances":{
         "hasc:id":"GT.HU.UC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494000,
     "wof:geomhash":"df9142f38ebb810e6a21296e90f7d741",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108695675,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Union Cantinil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

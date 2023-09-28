@@ -92,6 +92,7 @@
     "wof:concordances":{
         "hasc:id":"GT.RE.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493592,
     "wof:geomhash":"a375391bfccbc6b9dd95ef6a9605cfc3",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108695287,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Chajul",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

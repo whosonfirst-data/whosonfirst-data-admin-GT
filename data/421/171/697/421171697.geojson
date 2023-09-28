@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003203,
-    "geom:area_square_m":38317748.542967,
+    "geom:area_square_m":38317705.970948,
     "geom:bbox":"-91.355988,14.629086,-91.278609,14.710311",
     "geom:latitude":14.666464,
     "geom:longitude":-91.314279,
@@ -124,12 +124,13 @@
         "qs_pg:id":1264024,
         "wd:id":"Q2403501"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"031a7c1fa3d16cfb1e513474f99b8227",
+    "wof:geomhash":"86acdb8140787d8db53c70296c5d2656",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421171697,
-    "wof:lastmodified":1690927828,
+    "wof:lastmodified":1695886031,
     "wof:name":"San Juan La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

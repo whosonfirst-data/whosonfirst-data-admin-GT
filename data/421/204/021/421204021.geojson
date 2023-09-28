@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029273,
-    "geom:area_square_m":349954843.723604,
+    "geom:area_square_m":349955085.292037,
     "geom:bbox":"-89.716908,14.702861,-89.441896,14.878498",
     "geom:latitude":14.80128,
     "geom:longitude":-89.578083,
@@ -216,12 +216,13 @@
         "qs_pg:id":237183,
         "wd:id":"Q261613"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010171,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27b25b55db3a2d21be47042a9b636606",
+    "wof:geomhash":"926eeb08c34aaa526e85dc452aca7201",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":421204021,
-    "wof:lastmodified":1690927678,
+    "wof:lastmodified":1695886114,
     "wof:name":"Chiquimula",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

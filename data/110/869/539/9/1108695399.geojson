@@ -99,6 +99,7 @@
         "hasc:id":"GT.TO.MO",
         "wd:id":"Q2718095"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493718,
     "wof:geomhash":"b9a75fcd4d039f4a15e94df66ae1aad4",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695399,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"Momostenango",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

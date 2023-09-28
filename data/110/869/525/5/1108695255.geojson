@@ -105,6 +105,7 @@
         "hasc:id":"GT.JU.AB",
         "wd:id":"Q2403493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493561,
     "wof:geomhash":"52527245363179dcb737923e6abaed00",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108695255,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Agua Blanca",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

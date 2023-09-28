@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.MI",
         "wd:id":"Q2402417"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493893,
     "wof:geomhash":"e0bc600e6425360d6baf352d944705bd",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695565,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Miguel Ixtahuacan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

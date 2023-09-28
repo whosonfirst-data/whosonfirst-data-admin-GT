@@ -93,6 +93,7 @@
         "hasc:id":"GT.SU.ZU",
         "wd:id":"Q2608644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494015,
     "wof:geomhash":"4671fa559c5b74bae40a54d86770209a",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695691,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Zunilito",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

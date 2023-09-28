@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.RI",
         "wd:id":"Q2401930"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493912,
     "wof:geomhash":"06841005b52a2ab793ba43fc7743802d",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695587,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"San Rafael Independencia",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020088,
-    "geom:area_square_m":239908344.956927,
+    "geom:area_square_m":239908542.409312,
     "geom:bbox":"-91.425368,14.93388,-91.232718,15.138051",
     "geom:latitude":15.012619,
     "geom:longitude":-91.316572,
@@ -120,12 +120,13 @@
         "wd:id":"Q2402472",
         "wk:page":"Santa Mar\u00eda Chiquimula"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009688,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8846c4008f11b70adf729cb24635ea9f",
+    "wof:geomhash":"5b295e1095d69757e6825adb2332943d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191321,
-    "wof:lastmodified":1690927738,
+    "wof:lastmodified":1695886029,
     "wof:name":"Santa Maria Chiquimula",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

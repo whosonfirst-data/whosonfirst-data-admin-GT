@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053908,
-    "geom:area_square_m":646685015.48685,
+    "geom:area_square_m":646685354.545935,
     "geom:bbox":"-90.673865,13.879253,-90.418084,14.200696",
     "geom:latitude":14.035003,
     "geom:longitude":-90.546097,
@@ -124,12 +124,13 @@
         "qs_pg:id":1119673,
         "wd:id":"Q2402116"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61b5bd391e10137f0f5f47e982f894c7",
+    "wof:geomhash":"da337712735a2851666db13ab6616743",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421190501,
-    "wof:lastmodified":1690927740,
+    "wof:lastmodified":1695886028,
     "wof:name":"Taxisco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

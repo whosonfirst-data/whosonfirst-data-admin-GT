@@ -93,6 +93,7 @@
         "hasc:id":"GT.JU.MO",
         "wd:id":"Q2403612"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493723,
     "wof:geomhash":"7177bf6ee91f6cab9966c9a1f6ecaf5c",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695405,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Moyuta",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

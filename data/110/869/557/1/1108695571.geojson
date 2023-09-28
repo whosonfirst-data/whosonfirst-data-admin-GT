@@ -93,6 +93,7 @@
         "hasc:id":"GT.SU.PJ",
         "wd:id":"Q2716950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493899,
     "wof:geomhash":"c25ceab4372aae1c209ba33c839c0857",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695571,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Pablo Jocopitas",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.LR",
         "wd:id":"Q1748856"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493691,
     "wof:geomhash":"f7bbc06f88b5f1f725cd2b6014c8c3ce",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695379,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"La Reforma",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

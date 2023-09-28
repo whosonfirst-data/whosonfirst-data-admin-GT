@@ -96,6 +96,7 @@
         "hasc:id":"GT.BV.GR",
         "wd:id":"Q611941"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493662,
     "wof:geomhash":"e565ae5da1c081803791c3cc7092768b",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695353,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Granados",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

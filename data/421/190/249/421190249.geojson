@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001062,
-    "geom:area_square_m":12694222.409125,
+    "geom:area_square_m":12694150.659746,
     "geom:bbox":"-91.250955,14.728774,-91.195271,14.765492",
     "geom:latitude":14.744065,
     "geom:longitude":-91.220687,
@@ -115,12 +115,13 @@
         "qs_pg:id":1119124,
         "wd:id":"Q2401852"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009652,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d6be297baea7cf0fda3745eddbd5f67c",
+    "wof:geomhash":"08eeaff51402e100add7d5538bc44e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421190249,
-    "wof:lastmodified":1690927741,
+    "wof:lastmodified":1695886028,
     "wof:name":"Santa Cruz La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

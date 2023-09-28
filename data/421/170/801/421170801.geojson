@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003605,
-    "geom:area_square_m":43054995.119434,
+    "geom:area_square_m":43055069.413359,
     "geom:bbox":"-91.793852,14.990296,-91.698285,15.056423",
     "geom:latitude":15.02505,
     "geom:longitude":-91.744629,
@@ -171,12 +171,13 @@
         "wd:id":"Q845976",
         "wk:page":"San Lorenzo, San Marcos"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008869,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de367a055bf628d1e4b9bde8558ce4e2",
+    "wof:geomhash":"54eb88d337c207bc37437cf6e47222cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421170801,
-    "wof:lastmodified":1690927777,
+    "wof:lastmodified":1695886115,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

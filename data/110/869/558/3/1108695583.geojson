@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.GU.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493909,
     "wof:geomhash":"83ab9ffd7eb767aac981189cddf17448",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695583,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"San Pedro Sacatepequez",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

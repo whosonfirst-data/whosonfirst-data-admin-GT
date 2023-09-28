@@ -93,6 +93,7 @@
         "hasc:id":"GT.HU.RP",
         "wd:id":"Q2402524"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493915,
     "wof:geomhash":"7a28c2be0202fc3dc107e472a604a6b6",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695593,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"San Rafael Petzal",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

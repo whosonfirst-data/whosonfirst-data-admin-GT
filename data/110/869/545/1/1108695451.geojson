@@ -105,6 +105,7 @@
         "hasc:id":"GT.JU.QU",
         "wd:id":"Q2403641"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493769,
     "wof:geomhash":"b4f847f1e46ae4ef40dfd6cbb10f511d",
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108695451,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"Quesada",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

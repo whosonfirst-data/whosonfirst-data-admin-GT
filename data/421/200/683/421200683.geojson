@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001431,
-    "geom:area_square_m":17104250.24284,
+    "geom:area_square_m":17104258.888991,
     "geom:bbox":"-91.489298,14.853271,-91.439205,14.895958",
     "geom:latitude":14.877269,
     "geom:longitude":-91.46249,
@@ -126,12 +126,13 @@
         "qs_pg:id":209389,
         "wd:id":"Q2717997"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010034,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6a3f1e2e3a498fb6a1deb4ce3324e9b4",
+    "wof:geomhash":"11a3aabc45c78640a4b9bf2596759bec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421200683,
-    "wof:lastmodified":1690927755,
+    "wof:lastmodified":1695886029,
     "wof:name":"Salcaja",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "hasc:id":"GT.CM.JP",
         "wd:id":"Q1254233"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493853,
     "wof:geomhash":"ff17898211e928b11e20f2804beaa2cd",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695531,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886336,
     "wof:name":"San Jose Poaquil",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

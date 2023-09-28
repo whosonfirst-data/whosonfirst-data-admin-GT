@@ -99,6 +99,7 @@
         "hasc:id":"GT.SR.OR",
         "wd:id":"Q3884406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493737,
     "wof:geomhash":"32a025f0f4ea6a4b7ee77fe2c4add682",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695421,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Oratorio",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.CQ.JA",
         "wd:id":"Q1749098"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493849,
     "wof:geomhash":"f781ed9234fd796f0cf5f03703148bdd",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695525,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"San Jose La Arada",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

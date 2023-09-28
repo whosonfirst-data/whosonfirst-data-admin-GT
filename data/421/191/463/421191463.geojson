@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034523,
-    "geom:area_square_m":411866868.800058,
+    "geom:area_square_m":411866769.324697,
     "geom:bbox":"-91.632481,15.134357,-91.365624,15.329908",
     "geom:latitude":15.245263,
     "geom:longitude":-91.48323,
@@ -118,12 +118,13 @@
         "qs_pg:id":1137322,
         "wd:id":"Q539311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009693,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b83ade87a6d4f9bd4a8c34dae0dce011",
+    "wof:geomhash":"2b2df28e4972af0d8940d2a67d87ef4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191463,
-    "wof:lastmodified":1690927735,
+    "wof:lastmodified":1695886029,
     "wof:name":"Malacatancito",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

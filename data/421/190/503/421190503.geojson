@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012473,
-    "geom:area_square_m":149093057.228621,
+    "geom:area_square_m":149093135.580978,
     "geom:bbox":"-91.263785,14.737215,-91.099139,14.896922",
     "geom:latitude":14.823345,
     "geom:longitude":-91.180381,
@@ -148,12 +148,13 @@
         "qs_pg:id":1119674,
         "wd:id":"Q602423"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"044029f0db452e6081b398e254496a91",
+    "wof:geomhash":"7c47eef86713f79e76d7acd558440b57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421190503,
-    "wof:lastmodified":1690927738,
+    "wof:lastmodified":1695886028,
     "wof:name":"Solola",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

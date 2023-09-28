@@ -93,6 +93,7 @@
         "hasc:id":"GT.QZ.CC",
         "wd:id":"Q2401883"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493617,
     "wof:geomhash":"d4b3c964eea5b5035665551b3f64e762",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695305,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"Concepcion Chiquirichapa",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

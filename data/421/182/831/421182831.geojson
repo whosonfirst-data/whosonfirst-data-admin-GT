@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064072,
-    "geom:area_square_m":763053472.693399,
+    "geom:area_square_m":763053472.693306,
     "geom:bbox":"-89.9503342287,15.4850053128,-89.5346526406,15.7293115842",
     "geom:latitude":15.605821,
     "geom:longitude":-89.77188,
@@ -111,12 +111,13 @@
         "hasc:id":"GT.QZ.CJ",
         "qs_pg:id":772654
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009348,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"885b2886dd66c5ed61b70403e092ebab",
+    "wof:geomhash":"05263769621b8b3490545d390429cbf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421182831,
-    "wof:lastmodified":1582360597,
+    "wof:lastmodified":1695886032,
     "wof:name":"Cahabon",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

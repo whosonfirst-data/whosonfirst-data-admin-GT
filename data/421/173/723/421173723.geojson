@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001068,
-    "geom:area_square_m":12763990.427272,
+    "geom:area_square_m":12763823.616678,
     "geom:bbox":"-91.598191,14.856388,-91.554465,14.90007",
     "geom:latitude":14.878278,
     "geom:longitude":-91.575929,
@@ -129,12 +129,13 @@
         "wd:id":"Q2608447",
         "wk:page":"La Esperanza, Quetzaltenango"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009004,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8901163efec304b46904294f24abe22",
+    "wof:geomhash":"f4523ff20f66c265ccd119f8f506348f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421173723,
-    "wof:lastmodified":1690927702,
+    "wof:lastmodified":1695886114,
     "wof:name":"La Esperanza",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

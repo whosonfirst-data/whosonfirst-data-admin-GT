@@ -96,6 +96,7 @@
         "hasc:id":"GT.QC.IX",
         "wd:id":"Q2609036"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493759,
     "wof:geomhash":"2eba8bcebd17bebfb4ce173234530c8d",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695441,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Playa Grande Ixcan",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007611,
-    "geom:area_square_m":91095886.3906,
+    "geom:area_square_m":91095829.431349,
     "geom:bbox":"-90.667854,14.473247,-90.548883,14.585847",
     "geom:latitude":14.538327,
     "geom:longitude":-90.607044,
@@ -229,12 +229,13 @@
         "qs_pg:id":900270,
         "wd:id":"Q1018584"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009326,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44dd34744b6b9de71c6b3246feeda42c",
+    "wof:geomhash":"112f466176b85369759b34a7e8e229a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -244,7 +245,7 @@
         }
     ],
     "wof:id":421182337,
-    "wof:lastmodified":1690927812,
+    "wof:lastmodified":1695886032,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "hasc:id":"GT.JU.ZA",
         "wd:id":"Q2610825"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494012,
     "wof:geomhash":"8767fa5285d3fd0e0c18a5011ff0390c",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695689,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Zapotitlan",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004671,
-    "geom:area_square_m":55841684.035691,
+    "geom:area_square_m":55841925.726146,
     "geom:bbox":"-91.326009,14.738722,-91.229915,14.821973",
     "geom:latitude":14.77954,
     "geom:longitude":-91.275243,
@@ -115,12 +115,13 @@
         "qs_pg:id":220310,
         "wd:id":"Q2401971"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008839,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"374d696e709c6d3a3de8c5f9cd4dedfa",
+    "wof:geomhash":"eb8d5c68dc1f7573ffd3d63fd88bf867",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421170143,
-    "wof:lastmodified":1690927774,
+    "wof:lastmodified":1695886029,
     "wof:name":"Santa Lucia Utatlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

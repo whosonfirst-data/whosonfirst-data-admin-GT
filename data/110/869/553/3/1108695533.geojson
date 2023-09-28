@@ -104,6 +104,7 @@
     "wof:concordances":{
         "hasc:id":"GT.PE.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493856,
     "wof:geomhash":"6289b2a62d94f55998631d435092c23f",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108695533,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886114,
     "wof:name":"San Jose",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

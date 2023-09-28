@@ -117,6 +117,7 @@
         "hasc:id":"GT.SM.AY",
         "wd:id":"Q2305570"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493572,
     "wof:geomhash":"49b328b4decd192d9a59de0b70586194",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108695269,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886112,
     "wof:name":"Ayutla",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.SM.CO",
         "wd:id":"Q2716941"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493615,
     "wof:geomhash":"e18147bc2a8984823832d230f3987d9c",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695301,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"Comitancillo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043104,
-    "geom:area_square_m":514304740.273664,
+    "geom:area_square_m":514304861.848129,
     "geom:bbox":"-90.32975,15.128684,-89.855595,15.305067",
     "geom:latitude":15.215476,
     "geom:longitude":-90.038653,
@@ -124,12 +124,13 @@
         "qs_pg:id":231702,
         "wd:id":"Q536249"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010153,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97684bfd283a81783961216c20eea9df",
+    "wof:geomhash":"491c76898773e4c83728f66e9ec208c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421203475,
-    "wof:lastmodified":1690927680,
+    "wof:lastmodified":1695886026,
     "wof:name":"Purula",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

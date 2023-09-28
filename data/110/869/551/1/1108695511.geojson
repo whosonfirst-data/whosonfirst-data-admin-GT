@@ -100,6 +100,7 @@
         "hasc:id":"GT.HU.IX",
         "wd:id":"Q2401814"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493837,
     "wof:geomhash":"dbeb48675d67a0dee647de3f24d6e119",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108695511,
-    "wof:lastmodified":1694492399,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Idelfonso Ixtahuacan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.MI",
         "wd:id":"Q2609270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493885,
     "wof:geomhash":"45303dbc55d2d4ff97ca8fdbe2315d7c",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695557,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"San Mateo Ixtatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

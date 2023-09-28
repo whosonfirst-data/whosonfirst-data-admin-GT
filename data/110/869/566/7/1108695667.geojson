@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.TE",
         "wd:id":"Q2402198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493991,
     "wof:geomhash":"5b2212cc8f3a392c64376e210deaddb6",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695667,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Tectitan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

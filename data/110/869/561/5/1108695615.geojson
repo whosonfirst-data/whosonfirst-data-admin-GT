@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"GT.AV.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493936,
     "wof:geomhash":"12374e54d74e5ce19e0555fc52df634b",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695615,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Santa Catalina La Tinta",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

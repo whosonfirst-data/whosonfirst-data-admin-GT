@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07608,
-    "geom:area_square_m":904604859.723068,
+    "geom:area_square_m":904605433.563435,
     "geom:bbox":"-91.412674,15.752258,-91.043787,16.076909",
     "geom:latitude":15.932582,
     "geom:longitude":-91.2215,
@@ -203,12 +203,13 @@
         "qs_pg:id":1029767,
         "wd:id":"Q1645760"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009447,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab63c43bdcc1952cda48c0dd569e39bc",
+    "wof:geomhash":"c12c507be6e8ea537d2751cb91d4112d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":421185569,
-    "wof:lastmodified":1690927829,
+    "wof:lastmodified":1695886032,
     "wof:name":"Barillas",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

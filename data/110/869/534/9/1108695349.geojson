@@ -84,6 +84,7 @@
         "hasc:id":"GT.AV.FB",
         "wd:id":"Q275951"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493659,
     "wof:geomhash":"4b304ad09136a2774590d7ea74fb328a",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108695349,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Fray Bartolome De Las Casas",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

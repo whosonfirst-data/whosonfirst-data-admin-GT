@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015827,
-    "geom:area_square_m":188760458.633375,
+    "geom:area_square_m":188760293.231073,
     "geom:bbox":"-91.539113,15.222538,-91.276499,15.382131",
     "geom:latitude":15.314562,
     "geom:longitude":-91.385827,
@@ -204,12 +204,13 @@
         "qs_pg:id":1063634,
         "wd:id":"Q984863"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009477,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"847f98f63f7f15726e0e4b38297ffb92",
+    "wof:geomhash":"62eab19f914866276d0c4aef30432e63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":421186319,
-    "wof:lastmodified":1690927720,
+    "wof:lastmodified":1695886114,
     "wof:name":"Huehuetenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

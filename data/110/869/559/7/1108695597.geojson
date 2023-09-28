@@ -99,6 +99,7 @@
         "hasc:id":"GT.HU.SS",
         "wd:id":"Q2402150"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493920,
     "wof:geomhash":"8ec40b665aba925245747e4b89ad4cf7",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695597,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"San Sebastian Coatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

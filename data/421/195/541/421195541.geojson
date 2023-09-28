@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003828,
-    "geom:area_square_m":45682299.015259,
+    "geom:area_square_m":45682679.511917,
     "geom:bbox":"-91.332117,15.099563,-91.207352,15.206353",
     "geom:latitude":15.151511,
     "geom:longitude":-91.278477,
@@ -124,12 +124,13 @@
         "qs_pg:id":115431,
         "wd:id":"Q3472669"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009851,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf07e113f8484fcc9f7faab79906e82d",
+    "wof:geomhash":"a9b8fbfcb8ad5530387d003ad5cf1532",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421195541,
-    "wof:lastmodified":1690927653,
+    "wof:lastmodified":1695886025,
     "wof:name":"Santa Lucia La Reforma",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

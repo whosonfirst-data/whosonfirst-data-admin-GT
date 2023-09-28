@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001483,
-    "geom:area_square_m":17732120.186888,
+    "geom:area_square_m":17732031.011879,
     "geom:bbox":"-91.247736,14.748416,-91.200341,14.804347",
     "geom:latitude":14.77242,
     "geom:longitude":-91.226107,
@@ -118,12 +118,13 @@
         "qs_pg:id":986271,
         "wd:id":"Q2401917"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009395,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ccdfe121676f7ba90e767e6e1cf522d",
+    "wof:geomhash":"03f6bc3d21fd37f48641f1d27525b9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421183939,
-    "wof:lastmodified":1690927785,
+    "wof:lastmodified":1695886030,
     "wof:name":"San Jose Chacaya",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087794,
-    "geom:area_square_m":1047270071.686424,
+    "geom:area_square_m":1047270176.5906,
     "geom:bbox":"-89.223291,15.068382,-88.86915,15.507304",
     "geom:latitude":15.268958,
     "geom:longitude":-89.060601,
@@ -121,12 +121,13 @@
         "qs_pg:id":354384,
         "wd:id":"Q1020130"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8f9ba90c26a601d9a63eb7da204be29",
+    "wof:geomhash":"1a99b7661acfa5919a105dfdbccaf008",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421196435,
-    "wof:lastmodified":1690927734,
+    "wof:lastmodified":1695886028,
     "wof:name":"Los Amates",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

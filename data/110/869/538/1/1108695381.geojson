@@ -102,6 +102,7 @@
         "hasc:id":"GT.ZA.LU",
         "wd:id":"Q1005750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493698,
     "wof:geomhash":"2c5fa852623fe66ed3424e64b8be8ca3",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695381,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"La Union",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

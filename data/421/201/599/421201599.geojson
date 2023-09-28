@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005568,
-    "geom:area_square_m":66640044.798857,
+    "geom:area_square_m":66639788.026613,
     "geom:bbox":"-90.77678,14.475824,-90.687328,14.61211",
     "geom:latitude":14.546206,
     "geom:longitude":-90.724219,
@@ -288,12 +288,13 @@
         "qs_pg:id":1264013,
         "wd:id":"Q212773"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010077,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"63cf06cff807d7ceb15069beeac902c7",
+    "wof:geomhash":"858046b92afc1c0cfd7e7e5ec71e5a78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +304,7 @@
         }
     ],
     "wof:id":421201599,
-    "wof:lastmodified":1690927760,
+    "wof:lastmodified":1695886029,
     "wof:name":"Antigua Guatemala",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

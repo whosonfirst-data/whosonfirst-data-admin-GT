@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004826,
-    "geom:area_square_m":57730660.762108,
+    "geom:area_square_m":57730385.703961,
     "geom:bbox":"-91.32826,14.599436,-91.232046,14.750311",
     "geom:latitude":14.653473,
     "geom:longitude":-91.276127,
@@ -132,12 +132,13 @@
         "qs_pg:id":1264025,
         "wd:id":"Q2548707"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008704,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7df098276b60b364236dd79f25a42fce",
+    "wof:geomhash":"d80e51648ac194fc1715f3e7f00983ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421166847,
-    "wof:lastmodified":1690927650,
+    "wof:lastmodified":1695886025,
     "wof:name":"San Pedro La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

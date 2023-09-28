@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017611,
-    "geom:area_square_m":210697508.522871,
+    "geom:area_square_m":210697508.522913,
     "geom:bbox":"-90.5797505519,14.537459206,-90.3794126278,14.7163742567",
     "geom:latitude":14.635034,
     "geom:longitude":-90.480256,
@@ -651,12 +651,13 @@
         "hasc:id":"GT.GU.CG",
         "qs_pg:id":1137320
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009693,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0aeb93f4fa40ea3030f55c77a2ea0c14",
+    "wof:geomhash":"4c3de33e0f1ff2236301576dae52cf2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -666,7 +667,7 @@
         }
     ],
     "wof:id":421191461,
-    "wof:lastmodified":1582360595,
+    "wof:lastmodified":1695886029,
     "wof:name":"Guatemala",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

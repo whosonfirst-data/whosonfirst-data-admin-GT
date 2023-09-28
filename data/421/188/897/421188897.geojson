@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005355,
-    "geom:area_square_m":64081060.326574,
+    "geom:area_square_m":64080937.203066,
     "geom:bbox":"-90.908238,14.54536,-90.81386,14.660216",
     "geom:latitude":14.608293,
     "geom:longitude":-90.863315,
@@ -114,12 +114,13 @@
         "qs_pg:id":1104946,
         "wd:id":"Q1573465"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009587,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8af23f05104ca8237513c8c9867b593e",
+    "wof:geomhash":"b4b5e44b2ea8561a9f81c9c55a353bce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421188897,
-    "wof:lastmodified":1690927709,
+    "wof:lastmodified":1695886028,
     "wof:name":"San Andres Iztapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

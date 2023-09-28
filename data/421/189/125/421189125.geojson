@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002327,
-    "geom:area_square_m":27832150.943456,
+    "geom:area_square_m":27832293.788938,
     "geom:bbox":"-91.139053,14.627076,-91.075024,14.700484",
     "geom:latitude":14.661867,
     "geom:longitude":-91.107458,
@@ -124,12 +124,13 @@
         "qs_pg:id":1110197,
         "wd:id":"Q2609248"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009605,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93b72793f6bd3e6ebd4a63d43909fa1f",
+    "wof:geomhash":"db50794ee4f393d9f513d42b525c3487",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421189125,
-    "wof:lastmodified":1690927708,
+    "wof:lastmodified":1695886028,
     "wof:name":"San Antonio Palopo",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

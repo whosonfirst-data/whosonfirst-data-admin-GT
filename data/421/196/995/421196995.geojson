@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004802,
-    "geom:area_square_m":57358740.044272,
+    "geom:area_square_m":57358822.12237,
     "geom:bbox":"-91.242071,14.934697,-91.141826,15.004506",
     "geom:latitude":14.971729,
     "geom:longitude":-91.194158,
@@ -118,12 +118,13 @@
         "qs_pg:id":1264010,
         "wd:id":"Q2402369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009899,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3093b169286a8994c71b374bb8b8fc85",
+    "wof:geomhash":"a1818bfbdb58d2364fbed3b04e91f64b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421196995,
-    "wof:lastmodified":1690927733,
+    "wof:lastmodified":1695886028,
     "wof:name":"Patzite",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

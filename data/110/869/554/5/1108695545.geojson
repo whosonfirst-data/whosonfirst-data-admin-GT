@@ -93,6 +93,7 @@
         "hasc:id":"GT.JA.LJ",
         "wd:id":"Q568999"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493873,
     "wof:geomhash":"291ec6e9c5ff6f02384f59f49b2792b0",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695545,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Luis Jilotepeque",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

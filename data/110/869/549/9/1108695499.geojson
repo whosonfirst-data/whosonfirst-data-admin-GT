@@ -99,6 +99,7 @@
         "hasc:id":"GT.ZA.SD",
         "wd:id":"Q984445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493826,
     "wof:geomhash":"1f56717171ba2908c840c45eb553c407",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695499,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Diego",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

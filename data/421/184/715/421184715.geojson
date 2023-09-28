@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037472,
-    "geom:area_square_m":449022063.851207,
+    "geom:area_square_m":449022300.689602,
     "geom:bbox":"-91.179381,14.146521,-90.979421,14.432341",
     "geom:latitude":14.286483,
     "geom:longitude":-91.070771,
@@ -130,12 +130,13 @@
         "qs_pg:id":1003286,
         "wd:id":"Q404550"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009420,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7258adacf8f0016537955cf038082a3d",
+    "wof:geomhash":"a56f1e7e22c2ec4ee18f0b827d345432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421184715,
-    "wof:lastmodified":1690927768,
+    "wof:lastmodified":1695886030,
     "wof:name":"Santa Lucia Cotzumalguapa",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

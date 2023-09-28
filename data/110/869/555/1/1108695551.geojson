@@ -90,6 +90,7 @@
         "hasc:id":"GT.QZ.SS",
         "wd:id":"Q2402153"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493882,
     "wof:geomhash":"277c54b8f66a7ef160ca20a5db4a9680",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695551,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"San Martin Sacatepequez",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

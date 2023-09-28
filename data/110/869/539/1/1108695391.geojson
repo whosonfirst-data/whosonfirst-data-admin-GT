@@ -96,6 +96,7 @@
         "hasc:id":"GT.SA.MM",
         "wd:id":"Q2401074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493709,
     "wof:geomhash":"73e20d7fcdbb5e172bde81051498ae8f",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695391,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"Magdalena Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

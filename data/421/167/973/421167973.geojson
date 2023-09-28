@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00077,
-    "geom:area_square_m":9215610.98443,
+    "geom:area_square_m":9215658.120782,
     "geom:bbox":"-90.753262,14.564915,-90.71211,14.606942",
     "geom:latitude":14.58892,
     "geom:longitude":-90.733597,
@@ -120,12 +120,13 @@
         "wd:id":"Q2402824",
         "wk:page":"Cuyotenango"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008750,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42aa823771480c39633028aea93b26c9",
+    "wof:geomhash":"3e07926d235ddca7b3fd3a5185cdab6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421167973,
-    "wof:lastmodified":1690927666,
+    "wof:lastmodified":1695886025,
     "wof:name":"Jocotenango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

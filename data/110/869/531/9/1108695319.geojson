@@ -90,6 +90,7 @@
         "hasc:id":"GT.JU.EA",
         "wd:id":"Q3049691"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493635,
     "wof:geomhash":"7c6bcc9bcb788cbbc6c0a150aea16feb",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695319,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"El Adelanto",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

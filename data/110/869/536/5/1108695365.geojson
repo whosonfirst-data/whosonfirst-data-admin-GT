@@ -108,6 +108,7 @@
         "hasc:id":"GT.SM.IX",
         "wd:id":"Q2609056"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493674,
     "wof:geomhash":"c68dc027f4d642486c46fd551e7421b8",
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108695365,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Ixchiguan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

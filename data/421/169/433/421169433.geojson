@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023469,
-    "geom:area_square_m":280612590.357158,
+    "geom:area_square_m":280612676.690908,
     "geom:bbox":"-90.767836,14.674183,-90.541608,14.880109",
     "geom:latitude":14.768874,
     "geom:longitude":-90.64823,
@@ -142,12 +142,13 @@
         "qs_pg:id":1263968,
         "wd:id":"Q127622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008810,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21702404a4fbda9da640f0dc400cc7cf",
+    "wof:geomhash":"37a1dad15b6c28d24527808fb1717afb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":421169433,
-    "wof:lastmodified":1690927672,
+    "wof:lastmodified":1695886025,
     "wof:name":"San Juan Sacatepequez",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

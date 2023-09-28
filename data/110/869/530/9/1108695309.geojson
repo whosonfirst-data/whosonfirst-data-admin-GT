@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.CT",
         "wd:id":"Q1748770"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493622,
     "wof:geomhash":"2834592492c1dff565e04226bfff0bc2",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695309,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"Concepcion Tutuapa",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

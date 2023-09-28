@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133986,
-    "geom:area_square_m":1596861093.242099,
+    "geom:area_square_m":1596861489.86601,
     "geom:bbox":"-89.623931,15.158169,-89.104666,15.710134",
     "geom:latitude":15.452768,
     "geom:longitude":-89.401407,
@@ -124,12 +124,13 @@
         "qs_pg:id":897114,
         "wd:id":"Q1020153"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009816,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92dfd12dbb2c2e5d65edd998844f4eb4",
+    "wof:geomhash":"f882e2345987a9e0c54e6e73c3855ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421194695,
-    "wof:lastmodified":1690927655,
+    "wof:lastmodified":1695886025,
     "wof:name":"El Estor",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

@@ -117,6 +117,7 @@
         "hasc:id":"GT.SO.SA",
         "wd:id":"Q168622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493924,
     "wof:geomhash":"9d1c70fdf4bb0ad7f3932e140d7025d0",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108695601,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Tiago Atitlan",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

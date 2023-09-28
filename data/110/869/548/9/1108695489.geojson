@@ -96,6 +96,7 @@
         "hasc:id":"GT.SU.SB",
         "wd:id":"Q1748616"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493816,
     "wof:geomhash":"9679dd473abef7416ce9cc30563d3ff4",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695489,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886339,
     "wof:name":"San Bernandino",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

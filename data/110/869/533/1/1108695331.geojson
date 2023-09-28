@@ -90,6 +90,7 @@
         "hasc:id":"GT.SM.EQ",
         "wd:id":"Q1748870"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493645,
     "wof:geomhash":"b936e34c094b6944ab17e6d4699dedcb",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695331,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"El Quetzal",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

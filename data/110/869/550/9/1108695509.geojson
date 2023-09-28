@@ -87,6 +87,7 @@
     "wof:concordances":{
         "hasc:id":"GT.HU.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493836,
     "wof:geomhash":"9e259093489833123bebd3a911faf6fd",
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108695509,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Gaspar Ixchil",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.ZA.TE",
         "wd:id":"Q1020568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493993,
     "wof:geomhash":"9b3e6a0993c015b118063ff9a60ef7e0",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695669,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Teculutan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

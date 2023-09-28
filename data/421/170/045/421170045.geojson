@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042194,
-    "geom:area_square_m":504049743.017913,
+    "geom:area_square_m":504049906.105584,
     "geom:bbox":"-89.654075,14.855606,-89.32107,15.083281",
     "geom:latitude":14.963449,
     "geom:longitude":-89.485421,
@@ -225,12 +225,13 @@
         "qs_pg:id":1264026,
         "wd:id":"Q139179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008834,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3258fa62c9e92cb1b154ac9fc69c464",
+    "wof:geomhash":"063d5af94bf5b67b61c357720d340c90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -240,7 +241,7 @@
         }
     ],
     "wof:id":421170045,
-    "wof:lastmodified":1690927775,
+    "wof:lastmodified":1695886115,
     "wof:name":"Zacapa",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

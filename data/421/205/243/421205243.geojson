@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006831,
-    "geom:area_square_m":81687992.38452,
+    "geom:area_square_m":81687926.344749,
     "geom:bbox":"-89.481875,14.691914,-89.362293,14.794297",
     "geom:latitude":14.734249,
     "geom:longitude":-89.426454,
@@ -126,12 +126,13 @@
         "wd:id":"Q2025266",
         "wk:page":"San Juan Ermita"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010216,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"26e4c7a5e636f374f054fd7d116089cb",
+    "wof:geomhash":"1a2ddd307bbe00d3e326bb8593bc2903",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421205243,
-    "wof:lastmodified":1690927688,
+    "wof:lastmodified":1695886027,
     "wof:name":"San Juan Ermita",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018024,
-    "geom:area_square_m":215784235.434453,
+    "geom:area_square_m":215784302.799501,
     "geom:bbox":"-89.548797,14.406041,-89.348016,14.581684",
     "geom:latitude":14.488412,
     "geom:longitude":-89.447762,
@@ -118,12 +118,13 @@
         "qs_pg:id":1025943,
         "wd:id":"Q1954363"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009446,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cafd25018c7ad7238a3aa3f6f7595cde",
+    "wof:geomhash":"d98ed2a0f785cb00e48f74582fb32217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421185527,
-    "wof:lastmodified":1690927831,
+    "wof:lastmodified":1695886032,
     "wof:name":"Concepcion La Minas",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

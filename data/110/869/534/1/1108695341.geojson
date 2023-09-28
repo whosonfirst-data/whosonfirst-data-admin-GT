@@ -90,6 +90,7 @@
         "hasc:id":"GT.SM.EP",
         "wd:id":"Q1748873"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493651,
     "wof:geomhash":"e7c186b47a50eb412da8156d285c465f",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695341,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Esquipulas Palo Gordo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

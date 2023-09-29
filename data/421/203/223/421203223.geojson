@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010865,
-    "geom:area_square_m":130045986.872586,
+    "geom:area_square_m":130045907.860978,
     "geom:bbox":"-91.128217,14.452489,-90.999745,14.611134",
     "geom:latitude":14.533476,
     "geom:longitude":-91.074423,
@@ -121,12 +121,13 @@
         "qs_pg:id":230282,
         "wd:id":"Q1254201"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d51fac2ddea7cfacffa2f2b123819a7e",
+    "wof:geomhash":"e14047812196b2cbe3425d189ef1f1c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421203223,
-    "wof:lastmodified":1690927680,
+    "wof:lastmodified":1695886026,
     "wof:name":"Pochuta",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

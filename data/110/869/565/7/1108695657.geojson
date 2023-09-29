@@ -94,6 +94,7 @@
         "hasc:id":"GT.HU.SO",
         "wd:id":"Q2402459"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493982,
     "wof:geomhash":"3d67b194d7ef6f26becd2ea1630879c5",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108695657,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Soloma",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

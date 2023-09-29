@@ -93,6 +93,7 @@
         "hasc:id":"GT.QZ.SM",
         "wd:id":"Q938168"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493887,
     "wof:geomhash":"35ace383c7e46803661bf8ccc32ecd3c",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695559,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886114,
     "wof:name":"San Mateo",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

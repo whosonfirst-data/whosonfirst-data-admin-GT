@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014103,
-    "geom:area_square_m":167841987.674276,
+    "geom:area_square_m":167842166.410582,
     "geom:bbox":"-91.875842,15.660385,-91.630394,15.840153",
     "geom:latitude":15.752442,
     "geom:longitude":-91.731563,
@@ -130,12 +130,13 @@
         "qs_pg:id":44031,
         "wd:id":"Q1124580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009171,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f43a2f761e633e5cd429bda1b9119afb",
+    "wof:geomhash":"c65e12110aa702d0190f6ea7c5112d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421178135,
-    "wof:lastmodified":1690927809,
+    "wof:lastmodified":1695886031,
     "wof:name":"Jacaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

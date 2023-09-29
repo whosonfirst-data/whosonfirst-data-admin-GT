@@ -93,6 +93,7 @@
         "hasc:id":"GT.AV.CH",
         "wd:id":"Q1748875"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493590,
     "wof:geomhash":"ed13980a7d497c78634dee01ea9e7723",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695283,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"Catarina",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

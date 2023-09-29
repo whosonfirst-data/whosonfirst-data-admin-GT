@@ -93,6 +93,7 @@
         "hasc:id":"GT.QZ.MS",
         "wd:id":"Q2401933"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493897,
     "wof:geomhash":"3864f60680f88a9d1486313ca6424e21",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695569,
-    "wof:lastmodified":1694492399,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Miguel Siguila",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

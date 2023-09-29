@@ -99,6 +99,7 @@
         "hasc:id":"GT.SM.TM",
         "wd:id":"Q1748863"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493987,
     "wof:geomhash":"d86dfeea3d3fddc1a05969906bd743f7",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695661,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Tajumulco",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

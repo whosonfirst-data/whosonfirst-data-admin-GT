@@ -90,6 +90,7 @@
         "hasc:id":"GT.QZ.SB",
         "wd:id":"Q2402599"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493975,
     "wof:geomhash":"6b380f1d73f35475bcb8bddd3904784d",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695649,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Sibilia",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

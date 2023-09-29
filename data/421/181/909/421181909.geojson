@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015907,
-    "geom:area_square_m":189646069.23554,
+    "geom:area_square_m":189645844.021701,
     "geom:bbox":"-90.350961,15.329348,-90.110953,15.45648",
     "geom:latitude":15.389016,
     "geom:longitude":-90.237306,
@@ -124,12 +124,13 @@
         "qs_pg:id":510772,
         "wd:id":"Q325793"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be421dc105679a2239fbe7a9a664f0d0",
+    "wof:geomhash":"f7937855d4c97d4b88473be40fcf4b1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421181909,
-    "wof:lastmodified":1690927721,
+    "wof:lastmodified":1695886027,
     "wof:name":"San Juan Chamelco",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

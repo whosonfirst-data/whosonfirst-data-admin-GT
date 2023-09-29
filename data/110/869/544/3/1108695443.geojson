@@ -93,6 +93,7 @@
         "hasc:id":"GT.SR.PN",
         "wd:id":"Q2402134"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493762,
     "wof:geomhash":"c28ae4c0d8e8861eea3d842acc64b1af",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695443,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Pueblo Nuevo Vinas",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

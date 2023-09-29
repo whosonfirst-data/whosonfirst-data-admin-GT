@@ -120,6 +120,7 @@
         "hasc:id":"GT.SU.JB",
         "wd:id":"Q1748787"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493859,
     "wof:geomhash":"88247da753e61d0b21ada319e01b6c72",
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108695535,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886114,
     "wof:name":"San Juan Bautista",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.SU.DS",
         "wd:id":"Q2402403"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493966,
     "wof:geomhash":"0b37fb662024ddae3e64af64fb413525",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695639,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santo Domingo Suchitepequez",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

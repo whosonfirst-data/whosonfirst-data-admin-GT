@@ -93,6 +93,7 @@
         "hasc:id":"GT.SA.BM",
         "wd:id":"Q2401093"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493811,
     "wof:geomhash":"08241063ecbe43f0d81743260fe78f40",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695485,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886339,
     "wof:name":"San Bartolome Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

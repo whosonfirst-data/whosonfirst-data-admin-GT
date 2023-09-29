@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"GT.HU.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493888,
     "wof:geomhash":"d7094b79253f99aa89207e7ad283d768",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695561,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"San Miguel Acatan",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

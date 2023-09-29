@@ -102,6 +102,7 @@
         "hasc:id":"GT.GU.SP",
         "wd:id":"Q275983"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493902,
     "wof:geomhash":"63e6a8ba27b8966e8c419991645a674f",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695577,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Pedro Ayampuc",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

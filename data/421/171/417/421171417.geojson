@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065512,
-    "geom:area_square_m":785879702.077057,
+    "geom:area_square_m":785879902.622482,
     "geom:bbox":"-91.315468,13.913028,-90.967471,14.194081",
     "geom:latitude":14.03828,
     "geom:longitude":-91.124216,
@@ -235,12 +235,13 @@
         "qs_pg:id":1263961,
         "wd:id":"Q2608473"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008893,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34a83cf65b97a81468e04375a64910b7",
+    "wof:geomhash":"8270a9eaf25b2a5dd8e0fada1fbda056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -250,7 +251,7 @@
         }
     ],
     "wof:id":421171417,
-    "wof:lastmodified":1690927826,
+    "wof:lastmodified":1695886031,
     "wof:name":"La Gomera",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

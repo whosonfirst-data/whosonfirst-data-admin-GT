@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001344,
-    "geom:area_square_m":16055436.925171,
+    "geom:area_square_m":16055393.633589,
     "geom:bbox":"-91.518784,14.882991,-91.475175,14.936365",
     "geom:latitude":14.909662,
     "geom:longitude":-91.496526,
@@ -121,12 +121,13 @@
         "qs_pg:id":1002234,
         "wd:id":"Q2609261"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b438112eb2346af92040ece844d5c4e",
+    "wof:geomhash":"907fb93280840f8eab8acffaa000340e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421184605,
-    "wof:lastmodified":1690927767,
+    "wof:lastmodified":1695886030,
     "wof:name":"San Andres Xecul",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

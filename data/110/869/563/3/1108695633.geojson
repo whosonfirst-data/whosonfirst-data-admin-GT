@@ -90,6 +90,7 @@
         "hasc:id":"GT.SR.MI",
         "wd:id":"Q1748654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493960,
     "wof:geomhash":"8b1b47f16921d7582bc90576a25a703e",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695633,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santa Maria Ixtahuatan",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

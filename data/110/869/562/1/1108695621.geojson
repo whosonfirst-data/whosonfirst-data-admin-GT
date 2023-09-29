@@ -99,6 +99,7 @@
         "hasc:id":"GT.GU.CP",
         "wd:id":"Q1671882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493943,
     "wof:geomhash":"954ae226d60b14ac76edc202803983b6",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695621,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Santa Catarina Pinula",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

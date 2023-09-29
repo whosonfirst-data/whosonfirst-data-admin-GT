@@ -96,6 +96,7 @@
         "hasc:id":"GT.QC.AI",
         "wd:id":"Q2401893"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493801,
     "wof:geomhash":"79fed5bddb8b261323e9c0db67bc38e9",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695475,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Antonio Ilotenango",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

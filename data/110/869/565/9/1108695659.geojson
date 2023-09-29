@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.TN",
         "wd:id":"Q2401748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493984,
     "wof:geomhash":"b102d1b93a1a933c15fa33240eb096b3",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695659,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886336,
     "wof:name":"Tacana",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

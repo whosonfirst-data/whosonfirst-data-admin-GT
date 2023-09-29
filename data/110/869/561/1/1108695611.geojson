@@ -93,6 +93,7 @@
         "hasc:id":"GT.CM.SA",
         "wd:id":"Q1254653"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493932,
     "wof:geomhash":"3fdf1852223439c9ff6529f96cb057fb",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695611,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

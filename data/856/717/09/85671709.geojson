@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.695021,
-    "geom:area_square_m":8279230203.084889,
+    "geom:area_square_m":8279230369.571094,
     "geom:bbox":"-89.623931,15.068382,-88.231057,15.967361",
     "geom:latitude":15.555485,
     "geom:longitude":-89.006892,
@@ -307,17 +307,19 @@
         "gn:id":3595259,
         "gp:id":2345560,
         "hasc:id":"GT.IZ",
+        "iso:code":"GT-IZ",
         "iso:id":"GT-IZ",
         "qs_pg:id":1168654,
         "unlc:id":"GT-IZ",
         "wd:id":"Q693658",
         "wk:page":"Izabal Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55ab01a09c712dc177601296b608d3e5",
+    "wof:geomhash":"9ebfc2049ec67be615eda6be14e752ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927558,
+    "wof:lastmodified":1695884951,
     "wof:name":"Izabal",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

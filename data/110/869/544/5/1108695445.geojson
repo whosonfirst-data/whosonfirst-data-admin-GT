@@ -90,6 +90,7 @@
         "hasc:id":"GT.SU.PN",
         "wd:id":"Q3925380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493765,
     "wof:geomhash":"049d51a2a7ea05f61fcbd508a92e738f",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695445,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

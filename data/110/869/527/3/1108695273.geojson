@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.QZ.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493577,
     "wof:geomhash":"12480f97b5c203941071095078c2c806",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695273,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"Cabanas",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009195,
-    "geom:area_square_m":110128117.209837,
+    "geom:area_square_m":110128052.427071,
     "geom:bbox":"-90.765261,14.32904,-90.642731,14.470981",
     "geom:latitude":14.395721,
     "geom:longitude":-90.703007,
@@ -151,12 +151,13 @@
         "qs_pg:id":1263960,
         "wd:id":"Q523244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010077,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d0b3c55b02414e580d8869f003414a6",
+    "wof:geomhash":"2d615dbe0212db80d133f92d5afca404",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421201585,
-    "wof:lastmodified":1690927762,
+    "wof:lastmodified":1695886031,
     "wof:name":"Palin",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.RE.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493949,
     "wof:geomhash":"a25a14365522d7d1b49e06c984bba98f",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695623,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Santa Cruz Mulua",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007591,
-    "geom:area_square_m":90891427.097676,
+    "geom:area_square_m":90891432.569617,
     "geom:bbox":"-90.881611,14.391057,-90.749494,14.510649",
     "geom:latitude":14.461068,
     "geom:longitude":-90.818252,
@@ -126,12 +126,13 @@
         "qs_pg:id":1119671,
         "wd:id":"Q2608214"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009659,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcd8ffdee1a9667ea969b181dc7cba80",
+    "wof:geomhash":"51911c7777d76344193018c2eaf5a557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421190497,
-    "wof:lastmodified":1690927738,
+    "wof:lastmodified":1695886028,
     "wof:name":"Alotenango",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

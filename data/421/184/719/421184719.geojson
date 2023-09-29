@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111252,
-    "geom:area_square_m":1325968352.495103,
+    "geom:area_square_m":1325968107.872271,
     "geom:bbox":"-89.037527,15.223261,-88.492502,15.621417",
     "geom:latitude":15.44601,
     "geom:longitude":-88.77175,
@@ -139,12 +139,13 @@
         "qs_pg:id":1003288,
         "wd:id":"Q41804"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009420,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8e568b7e529003a7e4f3e7d827e0a3bf",
+    "wof:geomhash":"2119ab82c1b4411c3b40fe43bd9bcaa9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421184719,
-    "wof:lastmodified":1690927769,
+    "wof:lastmodified":1695886031,
     "wof:name":"Morales",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

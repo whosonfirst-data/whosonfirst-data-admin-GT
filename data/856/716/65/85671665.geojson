@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.893184,
-    "geom:area_square_m":10635394702.364912,
+    "geom:area_square_m":10635394396.223068,
     "geom:bbox":"-90.817891,15.117025,-89.412252,16.073305",
     "geom:latitude":15.639937,
     "geom:longitude":-90.101157,
@@ -319,17 +319,19 @@
         "gn:id":3599773,
         "gp:id":2345552,
         "hasc:id":"GT.AV",
+        "iso:code":"GT-AV",
         "iso:id":"GT-AV",
         "qs_pg:id":890067,
         "unlc:id":"GT-AV",
         "wd:id":"Q504637",
         "wk:page":"Alta Verapaz Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b40c738ed13c9df1cd905c6bae9a1f7c",
+    "wof:geomhash":"dbcd3eae74ae6668a6a103422e9406cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -345,7 +347,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927563,
+    "wof:lastmodified":1695884952,
     "wof:name":"Alta Verapaz",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

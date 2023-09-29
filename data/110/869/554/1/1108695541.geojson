@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"GT.SR.JT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493868,
     "wof:geomhash":"8a64bb90cffd7f428c5ad1d2f0c19b3b",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108695541,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Juan Tecuaco",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001691,
-    "geom:area_square_m":20222132.511528,
+    "geom:area_square_m":20222065.460384,
     "geom:bbox":"-90.962222,14.667419,-90.904642,14.722942",
     "geom:latitude":14.695196,
     "geom:longitude":-90.933556,
@@ -120,12 +120,13 @@
         "wd:id":"Q1523955",
         "wk:page":"Santa Cruz Balany\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ddfb53043ace6f3f7efc07471ad33130",
+    "wof:geomhash":"f3648b87b7b3690287931c30d5b263eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182885,
-    "wof:lastmodified":1690927816,
+    "wof:lastmodified":1695886032,
     "wof:name":"Santa Cruz Balanya",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

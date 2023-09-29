@@ -93,6 +93,7 @@
         "hasc:id":"GT.SO.MV",
         "wd:id":"Q1748668"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493962,
     "wof:geomhash":"dbcaa0fb1d1a32283e08f87ece0dc125",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695635,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santa Maria Visitacion",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

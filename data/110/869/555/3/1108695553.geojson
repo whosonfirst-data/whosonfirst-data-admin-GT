@@ -96,6 +96,7 @@
         "hasc:id":"GT.RE.MZ",
         "wd:id":"Q1748755"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493883,
     "wof:geomhash":"707dd1728dae89a8b138cca1d43c4852",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695553,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"San Martin Zapotitlan",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

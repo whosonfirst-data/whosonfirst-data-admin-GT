@@ -96,6 +96,7 @@
         "hasc:id":"GT.SM.SC",
         "wd:id":"Q1748824"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493978,
     "wof:geomhash":"9cc43b73ac12517b08a54358cdf309d3",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695653,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Sipacapa",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

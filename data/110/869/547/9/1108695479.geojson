@@ -96,6 +96,7 @@
         "hasc:id":"GT.SU.AS",
         "wd:id":"Q1748818"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493807,
     "wof:geomhash":"db3ff05d692bebd9722353c32340ee4b",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695479,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Antonio Suchitepequez",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

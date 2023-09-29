@@ -264,6 +264,7 @@
         "hasc:id":"GT.JA.MO",
         "wd:id":"Q2608718"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493720,
     "wof:geomhash":"f07432d0f3fd6a8e4501ed968c779728",
@@ -276,7 +277,7 @@
         }
     ],
     "wof:id":1108695401,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"Monjas",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

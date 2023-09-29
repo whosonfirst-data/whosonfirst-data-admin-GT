@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052721,
-    "geom:area_square_m":631674088.522274,
+    "geom:area_square_m":631674102.43684,
     "geom:bbox":"-90.079051,14.162225,-89.771809,14.463902",
     "geom:latitude":14.311777,
     "geom:longitude":-89.930102,
@@ -213,12 +213,13 @@
         "qs_pg:id":1113825,
         "wd:id":"Q1023364"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009626,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f83fa11fc987202a74ea652f261f61b5",
+    "wof:geomhash":"73194fdf61237646406b56f796d7ba9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":421189491,
-    "wof:lastmodified":1690927706,
+    "wof:lastmodified":1695886114,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

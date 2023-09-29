@@ -90,6 +90,7 @@
         "hasc:id":"GT.JU.CG",
         "wd:id":"Q2403007"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493624,
     "wof:geomhash":"5eeccde44730e891f9d77e5e1c37c1b3",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695311,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Conguago",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

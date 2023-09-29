@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265321,
-    "geom:area_square_m":3181074961.739553,
+    "geom:area_square_m":3181075029.352757,
     "geom:bbox":"-90.673865,13.791675,-90.057633,14.506048",
     "geom:latitude":14.158342,
     "geom:longitude":-90.355943,
@@ -315,17 +315,19 @@
         "gn:id":3589172,
         "gp:id":2345569,
         "hasc:id":"GT.SR",
+        "iso:code":"GT-SR",
         "iso:id":"GT-SR",
         "qs_pg:id":890070,
         "unlc:id":"GT-SR",
         "wd:id":"Q885656",
         "wk:page":"Santa Rosa Department, Guatemala"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd7f190d7a8f2b07dcd798ee7bdbfb83",
+    "wof:geomhash":"1ee123ce688b4172285f8092fd6611fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -341,7 +343,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927556,
+    "wof:lastmodified":1695884951,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

@@ -90,6 +90,7 @@
         "hasc:id":"GT.JU.JE",
         "wd:id":"Q1749094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493680,
     "wof:geomhash":"04ef6c3a189320e8ed458a17ec9337d4",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695371,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"Jerez",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "hasc:id":"GT.RE.SF",
         "wd:id":"Q1748865"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493828,
     "wof:geomhash":"98937d845e12b31fc3e8433128c2b991",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695503,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Felipe Retalhuleu",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

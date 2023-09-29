@@ -111,6 +111,7 @@
         "hasc:id":"GT.QZ.CP",
         "wd:id":"Q2445821"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493609,
     "wof:geomhash":"f74823b6a7f488bacd9331b4d01db332",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108695297,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Coatepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

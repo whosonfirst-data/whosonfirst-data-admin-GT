@@ -93,6 +93,7 @@
         "hasc:id":"GT.ZA.HU",
         "wd:id":"Q1020827"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493672,
     "wof:geomhash":"b470a72c7d89604fc4bd0e56e766fafa",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695363,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Huite",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

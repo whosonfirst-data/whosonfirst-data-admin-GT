@@ -96,6 +96,7 @@
         "hasc:id":"GT.JU.JA",
         "wd:id":"Q676590"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493679,
     "wof:geomhash":"b392448e3d9abe156134e15b2930c97e",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695369,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Jalpatagua",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

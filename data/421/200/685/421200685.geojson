@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014279,
-    "geom:area_square_m":170207554.761614,
+    "geom:area_square_m":170207992.657658,
     "geom:bbox":"-91.169411,15.368535,-90.868373,15.482927",
     "geom:latitude":15.425525,
     "geom:longitude":-91.019913,
@@ -121,12 +121,13 @@
         "qs_pg:id":209390,
         "wd:id":"Q2121567"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010035,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d69fb88e62221e39e28b9b40625fa77a",
+    "wof:geomhash":"75a863ac25706b792715fe7d9a224f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421200685,
-    "wof:lastmodified":1690927754,
+    "wof:lastmodified":1695886029,
     "wof:name":"San Juan Cotzal",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

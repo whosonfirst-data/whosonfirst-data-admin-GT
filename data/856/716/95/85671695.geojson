@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098185,
-    "geom:area_square_m":1174244573.56716,
+    "geom:area_square_m":1174245001.695321,
     "geom:bbox":"-91.504305,14.518313,-91.072415,14.896922",
     "geom:latitude":14.717059,
     "geom:longitude":-91.262627,
@@ -303,17 +303,19 @@
         "gn:id":3588697,
         "gp:id":2345570,
         "hasc:id":"GT.SO",
+        "iso:code":"GT-SO",
         "iso:id":"GT-SO",
         "qs_pg:id":890071,
         "unlc:id":"GT-SO",
         "wd:id":"Q178136",
         "wk:page":"Solol\u00e1 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f569468143029a185cb039325e62f352",
+    "wof:geomhash":"d9c4640ecca3dfce0d56d57174f4c5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927560,
+    "wof:lastmodified":1695884374,
     "wof:name":"Solol\u00e1",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

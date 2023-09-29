@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"GT.QC.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493597,
     "wof:geomhash":"8a5c63d0d86c29e8cf2aff9c2960f8bd",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108695291,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"Chicaman",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

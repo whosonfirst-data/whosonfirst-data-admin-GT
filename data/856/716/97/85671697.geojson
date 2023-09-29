@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09066,
-    "geom:area_square_m":1082745120.073761,
+    "geom:area_square_m":1082744903.366563,
     "geom:bbox":"-91.550927,14.823754,-91.179002,15.24591",
     "geom:latitude":15.015797,
     "geom:longitude":-91.377428,
@@ -306,17 +306,19 @@
         "gn:id":3588257,
         "gp:id":2345572,
         "hasc:id":"GT.TO",
+        "iso:code":"GT-TO",
         "iso:id":"GT-TO",
         "qs_pg:id":890072,
         "unlc:id":"GT-TO",
         "wd:id":"Q885644",
         "wk:page":"Totonicap\u00e1n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba30400e5c54363e3ce8cbedd78f0e14",
+    "wof:geomhash":"cdb2de1a73ca6ba49b84583f6f7138a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +334,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927564,
+    "wof:lastmodified":1695884374,
     "wof:name":"Totonicap\u00e1n",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

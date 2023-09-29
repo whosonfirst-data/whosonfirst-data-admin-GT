@@ -93,6 +93,7 @@
         "hasc:id":"GT.SR.CN",
         "wd:id":"Q979193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493950,
     "wof:geomhash":"72dad5a6a2d128c66f9ff5bcc16f1ccb",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695625,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886336,
     "wof:name":"Santa Cruz Naranjo",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

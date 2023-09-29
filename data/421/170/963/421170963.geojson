@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004609,
-    "geom:area_square_m":55111955.875596,
+    "geom:area_square_m":55112188.443844,
     "geom:bbox":"-91.139643,14.690285,-91.072415,14.813876",
     "geom:latitude":14.746619,
     "geom:longitude":-91.10046,
@@ -121,12 +121,13 @@
         "qs_pg:id":1203849,
         "wd:id":"Q2402766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008876,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61fdbdc6ac0dad90e37115790eae3f2d",
+    "wof:geomhash":"2b17f4136609559521e9a7458f407a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421170963,
-    "wof:lastmodified":1690927771,
+    "wof:lastmodified":1695886029,
     "wof:name":"San Andres Semetabaj",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

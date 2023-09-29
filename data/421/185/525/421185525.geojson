@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019168,
-    "geom:area_square_m":229372082.109076,
+    "geom:area_square_m":229372086.486975,
     "geom:bbox":"-89.69554,14.47193,-89.535176,14.687317",
     "geom:latitude":14.587026,
     "geom:longitude":-89.60729,
@@ -115,12 +115,13 @@
         "qs_pg:id":1025942,
         "wd:id":"Q541819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009446,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"07997bbc47ee15a3c036e8d2f156c854",
+    "wof:geomhash":"856349c06ad934cba0f805448ff29426",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421185525,
-    "wof:lastmodified":1690927832,
+    "wof:lastmodified":1695886032,
     "wof:name":"Ipala",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

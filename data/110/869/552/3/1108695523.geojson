@@ -93,6 +93,7 @@
         "hasc:id":"GT.SU.JI",
         "wd:id":"Q2401870"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493848,
     "wof:geomhash":"395ee773d095166e0ac06c8f9a60ab69",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695523,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"San Jose El Idolo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

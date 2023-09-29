@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049842,
-    "geom:area_square_m":598064983.101914,
+    "geom:area_square_m":598064970.780412,
     "geom:bbox":"-90.450763,13.791675,-90.203115,14.190845",
     "geom:latitude":13.973624,
     "geom:longitude":-90.334701,
@@ -123,12 +123,13 @@
         "qs_pg:id":233704,
         "wd:id":"Q202128"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010157,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"498655cf66aa90abad85865ad5d19aaf",
+    "wof:geomhash":"543b9b13ba510a2f5ffcfba446e8cc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421203587,
-    "wof:lastmodified":1690927679,
+    "wof:lastmodified":1695886026,
     "wof:name":"Chiquimulilla",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

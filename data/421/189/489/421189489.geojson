@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015305,
-    "geom:area_square_m":182239691.044435,
+    "geom:area_square_m":182239540.09342,
     "geom:bbox":"-91.533637,15.590651,-91.216014,15.692271",
     "geom:latitude":15.648978,
     "geom:longitude":-91.387123,
@@ -118,12 +118,13 @@
         "qs_pg:id":1113821,
         "wd:id":"Q2401833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009626,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20bc4533dc7038861b7a634f3e53c3f0",
+    "wof:geomhash":"dbc2f0c49959b2422d3e0e489fae4414",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421189489,
-    "wof:lastmodified":1690927707,
+    "wof:lastmodified":1695886028,
     "wof:name":"San Juan Ixcoy",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

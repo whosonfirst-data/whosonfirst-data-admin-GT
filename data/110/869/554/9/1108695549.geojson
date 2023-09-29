@@ -93,6 +93,7 @@
         "hasc:id":"GT.SO.ML",
         "wd:id":"Q2402793"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493878,
     "wof:geomhash":"5786e2a5764e3c18757da54f72a23237",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695549,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886336,
     "wof:name":"San Marcos La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020836,
-    "geom:area_square_m":249088797.572509,
+    "geom:area_square_m":249089078.795022,
     "geom:bbox":"-91.085765,14.683876,-90.929397,14.937722",
     "geom:latitude":14.802653,
     "geom:longitude":-91.005182,
@@ -130,12 +130,13 @@
         "qs_pg:id":1314841,
         "wd:id":"Q2400650"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008949,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82c1043da377fc3b9465bae12381986e",
+    "wof:geomhash":"39db5fb2515062f67bccfa8abf3d6486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421172619,
-    "wof:lastmodified":1690927713,
+    "wof:lastmodified":1695886027,
     "wof:name":"Tecpan Guatemala",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

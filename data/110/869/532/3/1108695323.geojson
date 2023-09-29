@@ -93,6 +93,7 @@
         "hasc:id":"GT.BV.EC",
         "wd:id":"Q1727528"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493637,
     "wof:geomhash":"03334e477548100f6563385509744651",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695323,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"El Chol",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

@@ -99,6 +99,7 @@
         "hasc:id":"GT.SM.SP",
         "wd:id":"Q3306697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493900,
     "wof:geomhash":"e2a1d650197f68c45828a390d4beb5d5",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695575,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886112,
     "wof:name":"San Pablo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

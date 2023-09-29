@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0195,
-    "geom:area_square_m":233381840.528113,
+    "geom:area_square_m":233381755.455297,
     "geom:bbox":"-90.291248,14.466735,-90.115131,14.671291",
     "geom:latitude":14.554226,
     "geom:longitude":-90.20394,
@@ -118,12 +118,13 @@
         "qs_pg:id":1137324,
         "wd:id":"Q1749104"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009693,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7bc590beb6c069087acbd1bcd155820d",
+    "wof:geomhash":"2a33700caaf9c5fba107f222edccd505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191465,
-    "wof:lastmodified":1690927735,
+    "wof:lastmodified":1695886029,
     "wof:name":"Mataquescuintla",
     "wof:parent_id":85671719,
     "wof:placetype":"county",

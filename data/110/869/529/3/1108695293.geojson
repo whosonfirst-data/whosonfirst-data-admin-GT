@@ -93,6 +93,7 @@
         "hasc:id":"GT.QC.CQ",
         "wd:id":"Q1025536"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493602,
     "wof:geomhash":"59e596753cadc239b808166d6877ffde",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695293,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Chinique",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

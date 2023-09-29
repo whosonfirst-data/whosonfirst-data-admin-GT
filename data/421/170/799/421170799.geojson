@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012709,
-    "geom:area_square_m":151545710.158964,
+    "geom:area_square_m":151545790.260969,
     "geom:bbox":"-91.706753,15.253916,-91.531017,15.416356",
     "geom:latitude":15.339859,
     "geom:longitude":-91.626097,
@@ -153,12 +153,13 @@
         "wd:id":"Q2401903",
         "wk:page":"Santa B\u00e1rbara, Huehuetenango"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008869,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f485ed56e8e8254dbfc7978b875bcb00",
+    "wof:geomhash":"365bda59d6407f3ecaf2677a030864da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421170799,
-    "wof:lastmodified":1690927771,
+    "wof:lastmodified":1695886115,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

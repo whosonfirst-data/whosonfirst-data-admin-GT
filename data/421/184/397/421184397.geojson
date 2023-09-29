@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015238,
-    "geom:area_square_m":182202014.264482,
+    "geom:area_square_m":182202386.572452,
     "geom:bbox":"-91.504305,14.593427,-91.242551,14.877921",
     "geom:latitude":14.760578,
     "geom:longitude":-91.390807,
@@ -117,12 +117,13 @@
         "qs_pg:id":995770,
         "wd:id":"Q2717990"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9285ff42c3b8b5bef48441d3c57f3cef",
+    "wof:geomhash":"f6c776ef2c25c25836d16a440fd429aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421184397,
-    "wof:lastmodified":1690927766,
+    "wof:lastmodified":1695886030,
     "wof:name":"Nahuala",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -93,6 +93,7 @@
         "hasc:id":"GT.QZ.OL",
         "wd:id":"Q2608428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493734,
     "wof:geomhash":"0b5b0458aafa57394dff76e4dcc03b79",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695417,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"Olintepeque",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

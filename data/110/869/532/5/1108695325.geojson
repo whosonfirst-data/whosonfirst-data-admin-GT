@@ -102,6 +102,7 @@
         "hasc:id":"GT.PR.EJ",
         "wd:id":"Q984828"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493639,
     "wof:geomhash":"b297a3352e8db852d0abadd2b67acaee",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695325,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"El Jicaro",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

@@ -141,6 +141,7 @@
         "hasc:id":"GT.HU.CU",
         "wd:id":"Q2402387"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493628,
     "wof:geomhash":"050d2fae5864dfd23d5a4622bd3349f6",
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108695315,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"Cuilco",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

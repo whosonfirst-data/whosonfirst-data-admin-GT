@@ -93,6 +93,7 @@
         "hasc:id":"GT.RE.SS",
         "wd:id":"Q2402108"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493922,
     "wof:geomhash":"d3545c6b3224ae790120d4e63019a37c",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695599,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

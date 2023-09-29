@@ -99,6 +99,7 @@
         "hasc:id":"GT.ES.MA",
         "wd:id":"Q1748359"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493712,
     "wof:geomhash":"0fefb6747d85ce3d74f29b37881f514c",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695395,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886334,
     "wof:name":"Masagua",
     "wof:parent_id":85671677,
     "wof:placetype":"county",

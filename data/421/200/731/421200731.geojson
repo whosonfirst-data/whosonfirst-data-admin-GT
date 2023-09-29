@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046039,
-    "geom:area_square_m":544609617.45438,
+    "geom:area_square_m":544609792.180904,
     "geom:bbox":"-90.188496,16.828406,-89.892908,17.107824",
     "geom:latitude":16.930285,
     "geom:longitude":-90.072747,
@@ -134,12 +134,13 @@
         "wd:id":"Q1113394",
         "wk:page":"San Benito, El Pet\u00e9n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010036,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9fb269644bc91b0af3fa7de43168f462",
+    "wof:geomhash":"59df14ae0d8ae017b301a7bca07e2a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421200731,
-    "wof:lastmodified":1690927753,
+    "wof:lastmodified":1695886029,
     "wof:name":"San Benito",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

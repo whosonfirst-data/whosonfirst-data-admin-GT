@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091896,
-    "geom:area_square_m":1090451486.377804,
+    "geom:area_square_m":1090451359.518867,
     "geom:bbox":"-89.953657,16.236301,-89.191734,16.441509",
     "geom:latitude":16.333442,
     "geom:longitude":-89.546634,
@@ -129,12 +129,13 @@
         "qs_pg:id":230284,
         "wd:id":"Q385588"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ded0991b9c3006ae4976a0158ed63a9c",
+    "wof:geomhash":"51f680944e4e2eefa98c19c5bfb615d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421203225,
-    "wof:lastmodified":1690927681,
+    "wof:lastmodified":1695886026,
     "wof:name":"Poptun",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

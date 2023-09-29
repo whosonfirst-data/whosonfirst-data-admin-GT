@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.623718,
-    "geom:area_square_m":7426318524.784199,
+    "geom:area_square_m":7426318135.11048,
     "geom:bbox":"-92.115895,15.134357,-91.043787,16.076909",
     "geom:latitude":15.651786,
     "geom:longitude":-91.560921,
@@ -304,17 +304,19 @@
         "gn:id":3595415,
         "gp:id":2345559,
         "hasc:id":"GT.HU",
+        "iso:code":"GT-HU",
         "iso:id":"GT-HU",
         "qs_pg:id":1168653,
         "unlc:id":"GT-HU",
         "wd:id":"Q842266",
         "wk:page":"Huehuetenango Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5533322672eed1513504eef56fbcefd",
+    "wof:geomhash":"82693b8e13338404fba25abda15f1122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927564,
+    "wof:lastmodified":1695884952,
     "wof:name":"Huehuetenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

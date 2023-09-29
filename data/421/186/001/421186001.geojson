@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039058,
-    "geom:area_square_m":466526515.29929,
+    "geom:area_square_m":466526682.077129,
     "geom:bbox":"-91.026451,14.906496,-90.649765,15.11269",
     "geom:latitude":14.986756,
     "geom:longitude":-90.821739,
@@ -121,12 +121,13 @@
         "qs_pg:id":907426,
         "wd:id":"Q2401953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009461,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d93512a419e8354215ae1a82704cabdd",
+    "wof:geomhash":"85dc2f6dc3addd5056f254695247d049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421186001,
-    "wof:lastmodified":1690927718,
+    "wof:lastmodified":1695886028,
     "wof:name":"Joyabaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

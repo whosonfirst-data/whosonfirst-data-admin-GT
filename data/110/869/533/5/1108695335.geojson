@@ -96,6 +96,7 @@
         "hasc:id":"GT.CM.ET",
         "wd:id":"Q1573447"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493647,
     "wof:geomhash":"473b051d282f0303648a3e73a1089982",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695335,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"El Tejar",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

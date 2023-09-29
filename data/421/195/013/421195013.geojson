@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004101,
-    "geom:area_square_m":49024523.979856,
+    "geom:area_square_m":49024523.979836,
     "geom:bbox":"-91.4713054325,14.7668396176,-91.4038348615,14.8631636519",
     "geom:latitude":14.815605,
     "geom:longitude":-91.439086,
@@ -283,12 +283,13 @@
         "qs_pg:id":115419,
         "wd:id":"Q5033573"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009828,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c60fcc202e329072f8105c8b00cd92f1",
+    "wof:geomhash":"8266eb1a47b38e2ba91a6efccd5aa8be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -298,7 +299,7 @@
         }
     ],
     "wof:id":421195013,
-    "wof:lastmodified":1582360592,
+    "wof:lastmodified":1695886025,
     "wof:name":"Cantel",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

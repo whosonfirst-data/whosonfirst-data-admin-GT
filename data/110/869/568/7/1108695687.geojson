@@ -99,6 +99,7 @@
         "hasc:id":"GT.QC.ZA",
         "wd:id":"Q2723903"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494011,
     "wof:geomhash":"f9e6781bcabca8655ae336dd3660268a",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695687,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Zacualpa",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

@@ -126,6 +126,7 @@
         "hasc:id":"GT.GU.AM",
         "wd:id":"Q455760"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493567,
     "wof:geomhash":"a890eb611d24bc1ffc0aa5a52c084d44",
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108695261,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886332,
     "wof:name":"Amatitlan",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

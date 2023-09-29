@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376877,
-    "geom:area_square_m":4518480648.26969,
+    "geom:area_square_m":4518480308.374207,
     "geom:bbox":"-91.537831,13.913028,-90.579548,14.470981",
     "geom:latitude":14.163571,
     "geom:longitude":-91.009243,
@@ -322,17 +322,19 @@
         "gn:id":3595802,
         "gp:id":2345557,
         "hasc:id":"GT.ES",
+        "iso:code":"GT-ES",
         "iso:id":"GT-ES",
         "qs_pg:id":890068,
         "unlc:id":"GT-ES",
         "wd:id":"Q795587",
         "wk:page":"Escuintla Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a73b6879d47716602abdae6cfff295fa",
+    "wof:geomhash":"2edd84600446d41d54bc1a8c4cb8d2db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -348,7 +350,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927565,
+    "wof:lastmodified":1695884952,
     "wof:name":"Escuintla",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

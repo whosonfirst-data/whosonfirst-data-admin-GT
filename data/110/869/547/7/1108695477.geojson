@@ -99,6 +99,7 @@
         "hasc:id":"GT.PR.AP",
         "wd:id":"Q962852"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493803,
     "wof:geomhash":"93986f4fbccd3670b444f557e8199a5d",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695477,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Antonio La Paz",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.QC.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493584,
     "wof:geomhash":"c80957a46dd969ea586dc85e9f8c89d9",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695279,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"Camotan",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

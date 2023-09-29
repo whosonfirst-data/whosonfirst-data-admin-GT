@@ -117,6 +117,7 @@
         "hasc:id":"GT.GU.VC",
         "wd:id":"Q174266"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494004,
     "wof:geomhash":"994c59ae28a590fbf4bd8bed5bd99501",
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108695679,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Villa Canales",
     "wof:parent_id":85671681,
     "wof:placetype":"county",

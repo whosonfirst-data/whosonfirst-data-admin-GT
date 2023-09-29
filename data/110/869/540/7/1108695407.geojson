@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.NE",
         "wd:id":"Q2402097"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493726,
     "wof:geomhash":"57cb5283f12ea4bf6e669800fddb8a65",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695407,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"Nenton",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

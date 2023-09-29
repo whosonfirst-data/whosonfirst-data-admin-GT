@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035727,
-    "geom:area_square_m":426683191.180081,
+    "geom:area_square_m":426683194.409368,
     "geom:bbox":"-90.091532,14.880185,-89.861059,15.154797",
     "geom:latitude":15.020229,
     "geom:longitude":-89.9854,
@@ -121,12 +121,13 @@
         "qs_pg:id":1003285,
         "wd:id":"Q1020409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009419,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba85c5dbe0ddb6fcd34d6379bb5c60f2",
+    "wof:geomhash":"f93a99d68bc07f400fae9dd134a3d50a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421184713,
-    "wof:lastmodified":1690927767,
+    "wof:lastmodified":1695886030,
     "wof:name":"San Agustin Acasaguastlan",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

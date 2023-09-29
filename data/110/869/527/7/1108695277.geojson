@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"GT.CQ.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493583,
     "wof:geomhash":"bd463c4ff316f1b198fc28eb8ff5d489",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108695277,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"Cajola",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

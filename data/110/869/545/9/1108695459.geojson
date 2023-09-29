@@ -99,6 +99,7 @@
         "hasc:id":"GT.SU.RB",
         "wd:id":"Q1748849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493779,
     "wof:geomhash":"dd0676d07308383c01d1b8fe18360cf8",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695459,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Rio Bravo",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

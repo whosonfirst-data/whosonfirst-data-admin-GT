@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004192,
-    "geom:area_square_m":49942475.698402,
+    "geom:area_square_m":49942678.119652,
     "geom:bbox":"-91.717904,15.465115,-91.645295,15.549605",
     "geom:latitude":15.508857,
     "geom:longitude":-91.683587,
@@ -115,12 +115,13 @@
         "qs_pg:id":1029769,
         "wd:id":"Q2402809"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009447,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bf72aea079c57ca6a94dc0cf26d1cdb",
+    "wof:geomhash":"2ed97ae8f07d79f01ba090b1165bd922",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421185575,
-    "wof:lastmodified":1690927830,
+    "wof:lastmodified":1695886032,
     "wof:name":"Santiago Chimaltenango",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

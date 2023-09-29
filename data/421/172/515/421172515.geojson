@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001113,
-    "geom:area_square_m":13309078.333466,
+    "geom:area_square_m":13308997.775378,
     "geom:bbox":"-91.323624,14.691728,-91.284745,14.745204",
     "geom:latitude":14.72081,
     "geom:longitude":-91.303077,
@@ -118,12 +118,13 @@
         "qs_pg:id":1313048,
         "wd:id":"Q2401885"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008945,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6659a19e44d404af6626830e71df8f77",
+    "wof:geomhash":"d5d934e8d69331ed1713bacf00483048",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421172515,
-    "wof:lastmodified":1690927717,
+    "wof:lastmodified":1695886027,
     "wof:name":"Santa Clara La Laguna",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

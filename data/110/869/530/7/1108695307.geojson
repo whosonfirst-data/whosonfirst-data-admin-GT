@@ -90,6 +90,7 @@
         "hasc:id":"GT.HU.CH",
         "wd:id":"Q2402377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493619,
     "wof:geomhash":"e1caddddbd2b6333cfa2af3c9a5e4567",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695307,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886334,
     "wof:name":"Concepcion Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

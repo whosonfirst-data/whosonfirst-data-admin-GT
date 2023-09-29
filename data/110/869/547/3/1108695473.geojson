@@ -93,6 +93,7 @@
         "hasc:id":"GT.HU.AH",
         "wd:id":"Q2609240"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493799,
     "wof:geomhash":"dcb43023e421424a6df7cd1fb0f9f9b7",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695473,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Antonio Huista",
     "wof:parent_id":85671641,
     "wof:placetype":"county",

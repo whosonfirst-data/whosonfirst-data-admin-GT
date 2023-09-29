@@ -99,6 +99,7 @@
         "hasc:id":"GT.QZ.OS",
         "wd:id":"Q2718157"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493866,
     "wof:geomhash":"ec14f8d54d1a9c477c710db1019ff44d",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695539,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886336,
     "wof:name":"San Juan Ostuncalco",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

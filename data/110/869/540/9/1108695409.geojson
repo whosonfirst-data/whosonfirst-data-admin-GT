@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.NP",
         "wd:id":"Q3879296"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493729,
     "wof:geomhash":"f9a013202a29c8c6be9102da2e70d04a",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695409,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"Nuevo Progreso",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

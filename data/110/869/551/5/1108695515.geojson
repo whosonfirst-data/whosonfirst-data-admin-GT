@@ -93,6 +93,7 @@
         "hasc:id":"GT.BV.SJ",
         "wd:id":"Q962529"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493840,
     "wof:geomhash":"330eac3806bfe2282c3b7c5ee75c7296",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695515,
-    "wof:lastmodified":1694492399,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Jeronimo",
     "wof:parent_id":85671635,
     "wof:placetype":"county",

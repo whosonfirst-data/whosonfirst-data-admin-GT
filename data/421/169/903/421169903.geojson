@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07149,
-    "geom:area_square_m":851572545.939642,
+    "geom:area_square_m":851572545.939517,
     "geom:bbox":"-91.322799464,15.3773009935,-91.018549145,15.8313443618",
     "geom:latitude":15.563024,
     "geom:longitude":-91.171961,
@@ -106,12 +106,13 @@
         "qs_pg:id":1263992,
         "wd:id":"Q3132625"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008829,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"505d667b68d4981e836fc8230e1a4e63",
+    "wof:geomhash":"5abae736a623525a7dabfa944f6101a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421169903,
-    "wof:lastmodified":1582360592,
+    "wof:lastmodified":1695886025,
     "wof:name":"Nebaj",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

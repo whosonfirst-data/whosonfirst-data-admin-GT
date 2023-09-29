@@ -138,6 +138,7 @@
         "hasc:id":"GT.JU.EP",
         "wd:id":"Q686756"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493643,
     "wof:geomhash":"ab0dc1d3d86899eb93f7e76d648f3bcd",
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108695329,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"El Progreso",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

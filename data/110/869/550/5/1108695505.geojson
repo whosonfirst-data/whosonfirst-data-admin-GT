@@ -90,6 +90,7 @@
         "hasc:id":"GT.QZ.FU",
         "wd:id":"Q2402566"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493830,
     "wof:geomhash":"0f97d3c3df5e6a2d36f8b2b3466b4dff",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695505,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886332,
     "wof:name":"San Francisco La Union",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

@@ -96,6 +96,7 @@
         "hasc:id":"GT.SR.RF",
         "wd:id":"Q1748669"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493914,
     "wof:geomhash":"455b70be1a279f4a2b95b44da79b5412",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695589,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"San Rafael Las Flores",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

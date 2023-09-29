@@ -90,6 +90,7 @@
         "hasc:id":"GT.JU.PA",
         "wd:id":"Q371987"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493750,
     "wof:geomhash":"1cde30317d98a621b875df8d9cc3dd90",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695437,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Pasaco",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

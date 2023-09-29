@@ -168,6 +168,7 @@
         "hasc:id":"GT.PE.FL",
         "wd:id":"Q679383"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493657,
     "wof:geomhash":"07c704b58795ee5aabd7536b26f0bb54",
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108695347,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886112,
     "wof:name":"Flores",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

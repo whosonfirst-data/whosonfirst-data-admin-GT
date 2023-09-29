@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020955,
-    "geom:area_square_m":250499461.409321,
+    "geom:area_square_m":250499215.958323,
     "geom:bbox":"-89.50069,14.718378,-89.214754,14.90658",
     "geom:latitude":14.811539,
     "geom:longitude":-89.376796,
@@ -117,12 +117,13 @@
         "wd:id":"Q1954342",
         "wk:page":"Jocot\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009142,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7788bd73d06740c6363e20b731301d5b",
+    "wof:geomhash":"7b711c78ba4fb1b027f9b2406114c4b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421177381,
-    "wof:lastmodified":1690927784,
+    "wof:lastmodified":1695886030,
     "wof:name":"Jocotan",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

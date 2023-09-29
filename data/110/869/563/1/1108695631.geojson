@@ -93,6 +93,7 @@
         "hasc:id":"GT.SA.LM",
         "wd:id":"Q2400752"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493956,
     "wof:geomhash":"22adc8c3a1bf9fa75c1c6c6ca5ea930a",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695631,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santa Lucia Milpas Altas",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

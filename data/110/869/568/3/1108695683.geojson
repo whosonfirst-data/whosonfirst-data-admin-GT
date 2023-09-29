@@ -93,6 +93,7 @@
         "hasc:id":"GT.CM.YE",
         "wd:id":"Q1523937"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474494006,
     "wof:geomhash":"80f3a9be79f265f396472f8c180c822b",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695683,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886331,
     "wof:name":"Yepocapa",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

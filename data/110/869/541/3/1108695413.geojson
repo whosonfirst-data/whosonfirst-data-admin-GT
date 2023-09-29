@@ -102,6 +102,7 @@
         "hasc:id":"GT.RE.NS",
         "wd:id":"Q6046952"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493731,
     "wof:geomhash":"c5d1b4746bd3d3bff6517ea71ed536ae",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108695413,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886629,
     "wof:name":"Nuevo San Carlos",
     "wof:parent_id":85671659,
     "wof:placetype":"county",

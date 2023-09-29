@@ -93,6 +93,7 @@
         "hasc:id":"GT.SM.ET",
         "wd:id":"Q2422887"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493649,
     "wof:geomhash":"494ecd1f1526411ee87b38c56be81ef6",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695337,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"El Tumbador",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

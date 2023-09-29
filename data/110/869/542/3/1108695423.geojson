@@ -96,6 +96,7 @@
         "hasc:id":"GT.QC.PC",
         "wd:id":"Q2402484"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493739,
     "wof:geomhash":"f355fef33b189e9e693d0b77ac6c3f0d",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695423,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Pachalum",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

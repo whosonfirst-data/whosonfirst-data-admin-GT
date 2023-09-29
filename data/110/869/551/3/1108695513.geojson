@@ -96,6 +96,7 @@
         "hasc:id":"GT.CQ.SJ",
         "wd:id":"Q978109"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493838,
     "wof:geomhash":"2b122583c73882db9b4e8d94bc0d63d4",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695513,
-    "wof:lastmodified":1694492399,
+    "wof:lastmodified":1695886329,
     "wof:name":"San Jacinto",
     "wof:parent_id":85671715,
     "wof:placetype":"county",

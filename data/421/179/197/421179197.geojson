@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005497,
-    "geom:area_square_m":65760216.038313,
+    "geom:area_square_m":65759877.336528,
     "geom:bbox":"-90.997693,14.574905,-90.89623,14.693318",
     "geom:latitude":14.637048,
     "geom:longitude":-90.941385,
@@ -120,12 +120,13 @@
         "wd:id":"Q1523943",
         "wk:page":"Patzic\u00eda"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009207,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71ca1d7e9d9e934a3a2fed9dfbc16a65",
+    "wof:geomhash":"c44356f353d513cb03b9c262ad690950",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421179197,
-    "wof:lastmodified":1690927800,
+    "wof:lastmodified":1695886030,
     "wof:name":"Patzicia",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

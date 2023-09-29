@@ -162,6 +162,7 @@
         "hasc:id":"GT.IZ.LI",
         "wd:id":"Q1192713"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493706,
     "wof:geomhash":"5cd631c0f84eefbce2eaceef2a4394a9",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108695389,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886113,
     "wof:name":"Livingston",
     "wof:parent_id":85671709,
     "wof:placetype":"county",

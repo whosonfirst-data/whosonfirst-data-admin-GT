@@ -90,6 +90,7 @@
         "hasc:id":"GT.SM.ER",
         "wd:id":"Q579733"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493646,
     "wof:geomhash":"fe4eb6a4ea49c3fe05450588a26a9da6",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695333,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886628,
     "wof:name":"El Rodeo",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142407,
-    "geom:area_square_m":1705225980.602074,
+    "geom:area_square_m":1705225806.087824,
     "geom:bbox":"-92.171987,14.187542,-91.542813,14.713329",
     "geom:latitude":14.444489,
     "geom:longitude":-91.804377,
@@ -309,17 +309,19 @@
         "gn:id":3590857,
         "gp:id":2345566,
         "hasc:id":"GT.RE",
+        "iso:code":"GT-RE",
         "iso:id":"GT-RE",
         "qs_pg:id":672870,
         "unlc:id":"GT-RE",
         "wd:id":"Q888307",
         "wk:page":"Retalhuleu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebaa77a1b196b4348fb77e610cbfe514",
+    "wof:geomhash":"decb8577b2c2ef74df0371dce7b0d1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927561,
+    "wof:lastmodified":1695884951,
     "wof:name":"Retalhuleu",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

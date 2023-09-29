@@ -96,6 +96,7 @@
         "hasc:id":"GT.QZ.GE",
         "wd:id":"Q3123016"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493661,
     "wof:geomhash":"c183091b8343640916fca4fedc6fd6ab",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695351,
-    "wof:lastmodified":1694492942,
+    "wof:lastmodified":1695886112,
     "wof:name":"Genova",
     "wof:parent_id":85671651,
     "wof:placetype":"county",

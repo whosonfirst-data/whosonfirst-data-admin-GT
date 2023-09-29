@@ -96,6 +96,7 @@
         "hasc:id":"GT.JU.CM",
         "wd:id":"Q2716888"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493614,
     "wof:geomhash":"788263f1e409f554c5067eda5006a7f7",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695299,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Comapa",
     "wof:parent_id":85671723,
     "wof:placetype":"county",

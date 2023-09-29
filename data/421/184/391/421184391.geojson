@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031899,
-    "geom:area_square_m":380278859.541832,
+    "geom:area_square_m":380279169.423135,
     "geom:bbox":"-90.718535,15.283575,-90.428209,15.490547",
     "geom:latitude":15.39677,
     "geom:longitude":-90.565266,
@@ -135,12 +135,13 @@
         "qs_pg:id":995767,
         "wd:id":"Q284529"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0fbcf27a6c2177729db11d47a8a0c95",
+    "wof:geomhash":"45cbcb16a93cdd3b084cc289031b61de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421184391,
-    "wof:lastmodified":1690927765,
+    "wof:lastmodified":1695886030,
     "wof:name":"San Cristobal Verapaz",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

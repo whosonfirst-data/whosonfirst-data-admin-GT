@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.276764,
-    "geom:area_square_m":3317499333.349117,
+    "geom:area_square_m":3317500068.466253,
     "geom:bbox":"-90.296258,13.740028,-89.494836,14.559284",
     "geom:latitude":14.210575,
     "geom:longitude":-89.89873,
@@ -315,17 +315,19 @@
         "gn:id":3595067,
         "gp:id":2345562,
         "hasc:id":"GT.JU",
+        "iso:code":"GT-JU",
         "iso:id":"GT-JU",
         "qs_pg:id":672806,
         "unlc:id":"GT-JU",
         "wd:id":"Q765984",
         "wk:page":"Jutiapa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abd586499f2e673628077d83949a34e2",
+    "wof:geomhash":"956ae54e59a16d21e21696e4a6e6b1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -341,7 +343,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927559,
+    "wof:lastmodified":1695884951,
     "wof:name":"Jutiapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

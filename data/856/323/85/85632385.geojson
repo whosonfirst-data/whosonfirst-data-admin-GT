@@ -1190,6 +1190,7 @@
         "hasc:id":"GT",
         "icao:code":"TG",
         "ioc:id":"GUA",
+        "iso:code":"GT",
         "itu:id":"GTM",
         "loc:id":"n79054016",
         "m49:code":"320",
@@ -1204,6 +1205,7 @@
         "wk:page":"Guatemala",
         "wmo:id":"GU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:country_alpha3":"GTM",
     "wof:geom_alt":[
@@ -1227,7 +1229,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1694639644,
+    "wof:lastmodified":1695881306,
     "wof:name":"Guatemala",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

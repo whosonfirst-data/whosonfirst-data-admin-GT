@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006211,
-    "geom:area_square_m":74321019.914932,
+    "geom:area_square_m":74320963.667412,
     "geom:bbox":"-91.190495,14.518313,-91.10867,14.662499",
     "geom:latitude":14.594755,
     "geom:longitude":-91.145722,
@@ -115,12 +115,13 @@
         "qs_pg:id":1119676,
         "wd:id":"Q2608186"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff5bdda56ddbf157262c42d0bec5c1f4",
+    "wof:geomhash":"59267e349926e82d606596a62db70a44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421190509,
-    "wof:lastmodified":1690927740,
+    "wof:lastmodified":1695886028,
     "wof:name":"San Lucas Toliman",
     "wof:parent_id":85671695,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003358,
-    "geom:area_square_m":40176237.677583,
+    "geom:area_square_m":40176224.853827,
     "geom:bbox":"-90.807002,14.560361,-90.731887,14.643646",
     "geom:latitude":14.597722,
     "geom:longitude":-90.770989,
@@ -133,12 +133,13 @@
         "qs_pg:id":1119670,
         "wd:id":"Q2644237"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009137,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8c13bd35aeb60ebc67dc7fb1ed82f02",
+    "wof:geomhash":"6679f7d8fc9dccefc32643f8cc7738a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421177237,
-    "wof:lastmodified":1690927782,
+    "wof:lastmodified":1695886030,
     "wof:name":"Pastores",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

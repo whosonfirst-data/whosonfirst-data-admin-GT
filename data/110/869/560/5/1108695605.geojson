@@ -99,6 +99,7 @@
         "hasc:id":"GT.PR.SR",
         "wd:id":"Q1757603"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493929,
     "wof:geomhash":"39a0f4690aebe948fead21389033966a",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695605,
-    "wof:lastmodified":1694492400,
+    "wof:lastmodified":1695886330,
     "wof:name":"Sanarate",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

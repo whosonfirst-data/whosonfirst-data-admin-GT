@@ -90,6 +90,7 @@
         "hasc:id":"GT.QC.AS",
         "wd:id":"Q2226684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493789,
     "wof:geomhash":"974cb64f98c3136d7254639717c9d9e5",
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108695463,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"San Andres Sajcabaja",
     "wof:parent_id":85671733,
     "wof:placetype":"county",

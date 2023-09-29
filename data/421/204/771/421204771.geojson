@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020214,
-    "geom:area_square_m":241546234.964656,
+    "geom:area_square_m":241545819.642344,
     "geom:bbox":"-91.446226,14.823754,-91.179002,14.961519",
     "geom:latitude":14.897033,
     "geom:longitude":-91.321388,
@@ -165,12 +165,13 @@
         "qs_pg:id":247831,
         "wd:id":"Q837035"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010197,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"85939468d03c139e5b003c55768056d2",
+    "wof:geomhash":"c1fda286731a50c47d536946161e279c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421204771,
-    "wof:lastmodified":1690927676,
+    "wof:lastmodified":1695886027,
     "wof:name":"Totonicapan",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

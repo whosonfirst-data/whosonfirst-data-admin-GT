@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14008,
-    "geom:area_square_m":1665910410.088709,
+    "geom:area_square_m":1665910608.54733,
     "geom:bbox":"-90.51031,15.704943,-89.929452,16.073305",
     "geom:latitude":15.891763,
     "geom:longitude":-90.222194,
@@ -139,12 +139,13 @@
         "qs_pg:id":241713,
         "wd:id":"Q275980"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459010190,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9331386ccefc7f08379ac7cbb8b49d0d",
+    "wof:geomhash":"424b2cfa51ef81f1eee18a45f2664e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421204557,
-    "wof:lastmodified":1690927674,
+    "wof:lastmodified":1695886027,
     "wof:name":"Chisec",
     "wof:parent_id":85671665,
     "wof:placetype":"county",

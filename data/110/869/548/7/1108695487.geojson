@@ -96,6 +96,7 @@
         "hasc:id":"GT.TO.SB",
         "wd:id":"Q2401769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493813,
     "wof:geomhash":"cfb97dafa09c6a4c28f7a07312193b04",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108695487,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886339,
     "wof:name":"San Bartolo",
     "wof:parent_id":85671697,
     "wof:placetype":"county",

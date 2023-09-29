@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018091,
-    "geom:area_square_m":216223243.383795,
+    "geom:area_square_m":216223202.554504,
     "geom:bbox":"-90.178511,14.785948,-89.931314,14.921496",
     "geom:latitude":14.851285,
     "geom:longitude":-90.06255,
@@ -156,12 +156,13 @@
         "qs_pg:id":288297,
         "wd:id":"Q615633"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009197,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"507a59511a08704ce7725af8d016323a",
+    "wof:geomhash":"0e44197c7d1c75a33bce09682cc7d559",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421178907,
-    "wof:lastmodified":1690927810,
+    "wof:lastmodified":1695886032,
     "wof:name":"Guastatoya",
     "wof:parent_id":85671701,
     "wof:placetype":"county",

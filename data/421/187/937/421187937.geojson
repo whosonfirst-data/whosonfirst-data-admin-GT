@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010935,
-    "geom:area_square_m":130874667.668712,
+    "geom:area_square_m":130874686.312115,
     "geom:bbox":"-91.045274,14.500157,-90.859094,14.602175",
     "geom:latitude":14.547825,
     "geom:longitude":-90.954652,
@@ -149,12 +149,13 @@
         "qs_pg:id":1086791,
         "wd:id":"Q1523949"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d9fd41c887a2d72cd889ef52e29ebe2",
+    "wof:geomhash":"101ed5a1ec45f07bf77cda2e92c83312",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421187937,
-    "wof:lastmodified":1690927698,
+    "wof:lastmodified":1695886026,
     "wof:name":"Acatenango",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

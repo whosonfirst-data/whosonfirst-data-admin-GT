@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169597,
-    "geom:area_square_m":2029182071.403852,
+    "geom:area_square_m":2029181826.692876,
     "geom:bbox":"-90.291248,14.416857,-89.64543,14.875513",
     "geom:latitude":14.620901,
     "geom:longitude":-89.947057,
@@ -307,17 +307,19 @@
         "gn:id":3595236,
         "gp:id":2345561,
         "hasc:id":"GT.JA",
+        "iso:code":"GT-JA",
         "iso:id":"GT-JA",
         "qs_pg:id":229375,
         "unlc:id":"GT-JA",
         "wd:id":"Q795441",
         "wk:page":"Jalapa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72b44b94e2747aee7183e64e752ecadc",
+    "wof:geomhash":"f1009217e4563bf48c65ff6573be826b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927557,
+    "wof:lastmodified":1695884951,
     "wof:name":"Jalapa",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

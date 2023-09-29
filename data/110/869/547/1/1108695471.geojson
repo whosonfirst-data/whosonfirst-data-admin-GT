@@ -93,6 +93,7 @@
         "hasc:id":"GT.SA.AA",
         "wd:id":"Q630216"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493798,
     "wof:geomhash":"1ac285224d915ecceac85eec661b7032",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695471,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886337,
     "wof:name":"San Antonio Aguas Calientes",
     "wof:parent_id":85671687,
     "wof:placetype":"county",

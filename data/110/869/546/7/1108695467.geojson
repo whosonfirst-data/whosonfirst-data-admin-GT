@@ -99,6 +99,7 @@
         "hasc:id":"GT.PE.SA",
         "wd:id":"Q1005008"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493794,
     "wof:geomhash":"dd7d60b8b4120a60b3e5595a6edcc5bd",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695467,
-    "wof:lastmodified":1694492403,
+    "wof:lastmodified":1695886338,
     "wof:name":"San Andres",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

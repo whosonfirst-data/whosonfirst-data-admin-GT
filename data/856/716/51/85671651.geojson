@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179273,
-    "geom:area_square_m":2143316895.920167,
+    "geom:area_square_m":2143316709.985283,
     "geom:bbox":"-92.141446,14.491507,-91.403835,15.229041",
     "geom:latitude":14.788018,
     "geom:longitude":-91.713578,
@@ -310,17 +310,19 @@
         "gn:id":3590978,
         "gp:id":2345564,
         "hasc:id":"GT.QZ",
+        "iso:code":"GT-QZ",
         "iso:id":"GT-QZ",
         "qs_pg:id":1168656,
         "unlc:id":"GT-QZ",
         "wd:id":"Q844502",
         "wk:page":"Quetzaltenango Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a1f9872555ecb871ec2b4634ff983f4",
+    "wof:geomhash":"d7c3bcd73639c6e1cef2d9f64a2ac5d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,7 +338,7 @@
         "spa",
         "quc"
     ],
-    "wof:lastmodified":1690927562,
+    "wof:lastmodified":1695884951,
     "wof:name":"Quezaltenango",
     "wof:parent_id":85632385,
     "wof:placetype":"region",

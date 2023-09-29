@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004146,
-    "geom:area_square_m":49527047.423033,
+    "geom:area_square_m":49526880.257263,
     "geom:bbox":"-91.753379,14.921762,-91.668505,15.009802",
     "geom:latitude":14.962154,
     "geom:longitude":-91.709057,
@@ -115,12 +115,13 @@
         "qs_pg:id":115440,
         "wd:id":"Q2219943"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009851,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec3de8802f62f215e4895294f7aaace7",
+    "wof:geomhash":"524275680cf13ceb51efd6e29787efd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421195547,
-    "wof:lastmodified":1690927653,
+    "wof:lastmodified":1695886025,
     "wof:name":"San Antonio Sacatepequez",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

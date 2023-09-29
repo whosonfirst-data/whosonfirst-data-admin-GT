@@ -99,6 +99,7 @@
         "hasc:id":"GT.SU.TU",
         "wd:id":"Q2402120"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493970,
     "wof:geomhash":"325692b51f60d1017fc1fbbc2b92190b",
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108695643,
-    "wof:lastmodified":1694492402,
+    "wof:lastmodified":1695886335,
     "wof:name":"Santo Tomas La Union",
     "wof:parent_id":85671683,
     "wof:placetype":"county",

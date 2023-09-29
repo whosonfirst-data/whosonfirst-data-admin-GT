@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065832,
-    "geom:area_square_m":785742448.712128,
+    "geom:area_square_m":785742697.453237,
     "geom:bbox":"-89.473259,15.002185,-89.152499,15.29765",
     "geom:latitude":15.146919,
     "geom:longitude":-89.302081,
@@ -132,12 +132,13 @@
         "qs_pg:id":273569,
         "wd:id":"Q1552683"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459008702,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2de55cca1a587c28abd7dea2efee318",
+    "wof:geomhash":"ddd2a7bc8649d11de6c3e487d7f90682",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421166783,
-    "wof:lastmodified":1690927649,
+    "wof:lastmodified":1695886025,
     "wof:name":"Gualan",
     "wof:parent_id":85671727,
     "wof:placetype":"county",

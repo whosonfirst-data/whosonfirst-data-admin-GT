@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034656,
-    "geom:area_square_m":414236215.622191,
+    "geom:area_square_m":414236574.016308,
     "geom:bbox":"-90.904055,14.724145,-90.619227,14.935404",
     "geom:latitude":14.840711,
     "geom:longitude":-90.781595,
@@ -121,12 +121,13 @@
         "qs_pg:id":61118,
         "wd:id":"Q2607954"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009684,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ead7e132b3e28d2dfa1d867a5cd09130",
+    "wof:geomhash":"165735ac2aac83f487ce200da9687834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421191199,
-    "wof:lastmodified":1690927736,
+    "wof:lastmodified":1695886029,
     "wof:name":"San Martin Jilotepeque",
     "wof:parent_id":85671671,
     "wof:placetype":"county",

@@ -93,6 +93,7 @@
         "hasc:id":"GT.SR.BA",
         "wd:id":"Q2718316"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1474493575,
     "wof:geomhash":"f8bf978a19c9b44d60f5a1f64f3ebd64",
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108695271,
-    "wof:lastmodified":1694492401,
+    "wof:lastmodified":1695886333,
     "wof:name":"Barberena",
     "wof:parent_id":85671705,
     "wof:placetype":"county",

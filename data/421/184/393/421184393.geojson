@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018029,
-    "geom:area_square_m":215413209.754944,
+    "geom:area_square_m":215412941.321575,
     "geom:bbox":"-92.184161,14.798161,-92.029992,15.033978",
     "geom:latitude":14.918702,
     "geom:longitude":-92.106364,
@@ -127,12 +127,13 @@
         "qs_pg:id":995768,
         "wd:id":"Q2402136"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009409,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"606b0ed6bbcdb6f991ea1642f6f28b2f",
+    "wof:geomhash":"a8b1c349f0d7c411fc998870f8398f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421184393,
-    "wof:lastmodified":1690927769,
+    "wof:lastmodified":1695886030,
     "wof:name":"Malacatan",
     "wof:parent_id":85671661,
     "wof:placetype":"county",

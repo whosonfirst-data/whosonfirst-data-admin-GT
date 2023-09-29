@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204024,
-    "geom:area_square_m":2421318814.903828,
+    "geom:area_square_m":2421319250.384514,
     "geom:bbox":"-90.549014,15.991713,-90.027376,16.605996",
     "geom:latitude":16.305048,
     "geom:longitude":-90.247366,
@@ -130,12 +130,13 @@
         "qs_pg:id":1086793,
         "wd:id":"Q796634"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GT",
     "wof:created":1459009528,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21cc058bda7dd65bf02c9fd4f7eeac61",
+    "wof:geomhash":"e1c8bb051b8933c2ea5fdf53737d2a71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421187939,
-    "wof:lastmodified":1690927697,
+    "wof:lastmodified":1695886026,
     "wof:name":"Sayaxche",
     "wof:parent_id":85671647,
     "wof:placetype":"county",

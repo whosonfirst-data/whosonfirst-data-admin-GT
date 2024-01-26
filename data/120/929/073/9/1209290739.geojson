@@ -136,6 +136,11 @@
     "wof:concordances":{
         "gn:id":9638899
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3599109
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"161eee00c49f0c16e40b6e5efd942acf",
     "wof:hierarchy":[
@@ -145,13 +150,15 @@
         }
     ],
     "wof:id":1209290739,
-    "wof:lastmodified":1566643079,
+    "wof:lastmodified":1706239758,
     "wof:name":"La Ceiba",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226318933
+    ],
     "wof:tags":[]
 },
   "bbox": [

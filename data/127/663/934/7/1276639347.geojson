@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":9533851
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9533859
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"1435cb7dedb8abcf8417ed3ea965b8f4",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276639347,
-    "wof:lastmodified":1566642973,
+    "wof:lastmodified":1706239759,
     "wof:name":"El Nuevo Paraiso",
     "wof:parent_id":1108695441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360064239
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":9638575
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9637750
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"0f192a4df56b96b21d8b55cb22668a27",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209500457,
-    "wof:lastmodified":1566643049,
+    "wof:lastmodified":1706239759,
     "wof:name":"Nubila",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277162763
+    ],
     "wof:tags":[]
 },
   "bbox": [

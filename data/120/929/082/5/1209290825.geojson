@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":9638789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9639017
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"726b67122279b666e3f4f4e053a1929a",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209290825,
-    "wof:lastmodified":1566643078,
+    "wof:lastmodified":1706239758,
     "wof:name":"El Carmen Puntarenas",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310473399
+    ],
     "wof:tags":[]
 },
   "bbox": [

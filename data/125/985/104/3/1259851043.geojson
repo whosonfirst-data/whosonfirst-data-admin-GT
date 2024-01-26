@@ -151,6 +151,11 @@
     "wof:concordances":{
         "gn:id":3589442
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3764371
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"e08ef1d86cefcfed99cee0a5de3ff7fa",
     "wof:hierarchy":[
@@ -163,13 +168,15 @@
         }
     ],
     "wof:id":1259851043,
-    "wof:lastmodified":1566643624,
+    "wof:lastmodified":1706239759,
     "wof:name":"Santa Clara",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260056265
+    ],
     "wof:tags":[]
 },
   "bbox": [

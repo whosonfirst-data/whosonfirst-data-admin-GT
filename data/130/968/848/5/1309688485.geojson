@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":9637405
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9635102
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"f209d7873c0a8e49440831e61fcca233",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1309688485,
-    "wof:lastmodified":1566643366,
+    "wof:lastmodified":1706239760,
     "wof:name":"Tzipil",
     "wof:parent_id":1108695659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309782219
+    ],
     "wof:tags":[]
 },
   "bbox": [

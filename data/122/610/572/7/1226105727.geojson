@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":9635039
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9637381
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"b51bd67de1e5776b928fa38add59c707",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226105727,
-    "wof:lastmodified":1566643690,
+    "wof:lastmodified":1706239759,
     "wof:name":"Panchicaj",
     "wof:parent_id":1108695659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310176813
+    ],
     "wof:tags":[]
 },
   "bbox": [

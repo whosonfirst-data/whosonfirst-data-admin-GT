@@ -32,6 +32,11 @@
     "name:spa_x_preferred":[
         "Guayl\u00e1"
     ],
+    "name:und_x_variant":[
+        "Guail\u00e1",
+        "Guaita",
+        "Guil\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9637756
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3595497
+        ]
     },
     "wof:country":"GT",
     "wof:geomhash":"cd8154de8d5929a3620b401176c022d2",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1360170217,
-    "wof:lastmodified":1566643330,
+    "wof:lastmodified":1706239760,
     "wof:name":"Guayla",
     "wof:parent_id":1108695373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360182415
+    ],
     "wof:tags":[]
 },
   "bbox": [

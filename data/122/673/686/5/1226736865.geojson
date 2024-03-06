@@ -77,6 +77,11 @@
     "wof:concordances":{
         "gn:id":3597593
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3582742
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"87058ddd473ecd738c93b0c3e37bcb9f",
     "wof:hierarchy":[
@@ -89,13 +94,15 @@
         }
     ],
     "wof:id":1226736865,
-    "wof:lastmodified":1566643701,
+    "wof:lastmodified":1706239759,
     "wof:name":"El Arenal",
     "wof:parent_id":421171681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326739267
+    ],
     "wof:tags":[]
 },
   "bbox": [

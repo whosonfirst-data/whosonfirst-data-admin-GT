@@ -628,6 +628,11 @@
     "wof:concordances":{
         "gn:id":3593223
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3764478
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"de92fb68c61084bfaa080a9d87ceb95f",
     "wof:hierarchy":[
@@ -640,13 +645,15 @@
         }
     ],
     "wof:id":1242845943,
-    "wof:lastmodified":1566643545,
+    "wof:lastmodified":1706239759,
     "wof:name":"Los Angeles",
     "wof:parent_id":1108695269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259446569
+    ],
     "wof:tags":[]
 },
   "bbox": [

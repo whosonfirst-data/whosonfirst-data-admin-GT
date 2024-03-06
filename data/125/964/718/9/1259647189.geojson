@@ -32,6 +32,12 @@
     "name:spa_x_preferred":[
         "Villa Angela"
     ],
+    "name:spa_x_variant":[
+        "Villa \u00c1ngela"
+    ],
+    "name:und_x_variant":[
+        "Finca Villa \u00c1ngela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -42,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9638857
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3587925
+        ]
     },
     "wof:country":"GT",
     "wof:geomhash":"56c93bfb29b16c9da4619bb45d6ff9a7",
@@ -55,13 +66,15 @@
         }
     ],
     "wof:id":1259647189,
-    "wof:lastmodified":1566643604,
+    "wof:lastmodified":1706239759,
     "wof:name":"Villa Angela",
     "wof:parent_id":1108695415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344233279
+    ],
     "wof:tags":[]
 },
   "bbox": [

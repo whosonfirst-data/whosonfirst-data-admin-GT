@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":9637427
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9635122
+        ]
+    },
     "wof:country":"GT",
     "wof:geomhash":"8599a33154951d094d6ca1db683ede15",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209185711,
-    "wof:lastmodified":1566643085,
+    "wof:lastmodified":1706239758,
     "wof:name":"Las Cruces Buenos Aires",
     "wof:parent_id":85632385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343233585
+    ],
     "wof:tags":[]
 },
   "bbox": [
